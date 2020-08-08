@@ -11,44 +11,79 @@ include_once('includes/header.php');
                 <div class="off-canvas-inner-container native-scroll-box y-scroll">
                     <div class="header-row-wrapper">
                         <div class="uc-row-wrapper ">
-                            <div class="uc-row  mainslider last header-row" data-id="1" style="   background:rgba(169, 40, 114, 0); ">
+                            <div class="uc-row  mainslider  last                           header-row  
+                        
+                                                        " data-id="13532" style="   background:rgba(169, 40, 114, 0); ">
                                 <div class="row-container ">
                                     <div class="row headerRow " style="">
-                                        <div class="column col-xs-12 " datacolumn-id="1" style="  padding:0vh 0vh;      background: rgb(29, 24, 78); ">
+                                        <div class="column col-xs-1 " datacolumn-id="22547" style="  padding:0vh 0vh;      background: rgb(29, 24, 78); ">
+                                            <div class="column-container " style="">
+                                                <div class="module-container  align-center ModuleSpace
+                         first   last                         ">
+                                                    <div class="  module ModuleSpace " datamodule-id="62186">
+                                                        <div class="space-container">
+                                                            <div class="space-inner" style="height: 10px;">
+                                                            </div>
+                                                        </div>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="62186"] .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="62186"]:hover .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+                                                        </style>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="62186"] .uc-row .column:first-child {
+                                                                border-bottom-left-radius: 0;
+                                                                border-top-left-radius: 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="62186"] .uc-row .column:last-child {
+                                                                border-bottom-right-radius: 0;
+                                                                border-top-right-radius: 0;
+                                                            }
+                                                        </style>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="column col-xs-11 " datacolumn-id="22548" style="  padding:0vh 0vh;      background: rgb(29, 24, 78); ">
                                             <div class="column-container vertical-center" style="">
                                                 <div class="module-container   only-mobile   align-left ModuleLogo
                          first                          " style=" padding-right:80px;padding-left:80px;;   padding-bottom:0px; ">
-                                                    <div class="  module ModuleLogo " datamodule-id="23089" style="display:block;max-width:140px;">
-                                                        <a href="https://www.vbet.com">
+                                                    <div class="  module ModuleLogo " datamodule-id="62187" style="display:block;max-width:140px;">
+                                                        <a href="https://www.vbet.com/es">
                                                             <div class="" style="">
-                                                                <img data-logo-element="" class="lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" alt="VBET" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" data-was-processed="true">
+                                                                <img data-logo-element="" class="lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" alt="Alivecasino" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" data-was-processed="true">
                                                             </div>
                                                         </a>
                                                     </div>
                                                 </div>
                                                 <div class="module-container  align-center ModuleSpace
                                                  ">
-                                                    <div class="  module ModuleSpace " datamodule-id="24548">
+                                                    <div class="  module ModuleSpace " datamodule-id="62188">
                                                         <div class="space-container">
                                                             <div class="space-inner" style="height: 40px;">
                                                             </div>
                                                         </div>
                                                         <style>
-                                                            .ModuleSpace[datamodule-id="24548"] .space-container {
+                                                            .ModuleSpace[datamodule-id="62188"] .space-container {
                                                                 border-radius: 0 0 0 0;
                                                             }
 
-                                                            .ModuleSpace[datamodule-id="24548"]:hover .space-container {
+                                                            .ModuleSpace[datamodule-id="62188"]:hover .space-container {
                                                                 border-radius: 0 0 0 0;
                                                             }
                                                         </style>
                                                         <style>
-                                                            .ModuleSpace[datamodule-id="24548"] .uc-row .column:first-child {
+                                                            .ModuleSpace[datamodule-id="62188"] .uc-row .column:first-child {
                                                                 border-bottom-left-radius: 0;
                                                                 border-top-left-radius: 0;
                                                             }
 
-                                                            .ModuleSpace[datamodule-id="24548"] .uc-row .column:last-child {
+                                                            .ModuleSpace[datamodule-id="62188"] .uc-row .column:last-child {
                                                                 border-bottom-right-radius: 0;
                                                                 border-top-right-radius: 0;
                                                             }
@@ -57,37 +92,37 @@ include_once('includes/header.php');
                                                 </div>
                                                 <div class="module-container   only-mobile   align-left ModuleNavigation
                                                  " style=" padding-right:80px;padding-left:80px;;   padding-bottom:0.32894736842105px; ">
-                                                    <div class="  module ModuleNavigation " datamodule-id="1" style="width: auto;">
+                                                    <div class="  module ModuleNavigation " datamodule-id="62189" style="width: auto;">
                                                         <input type="hidden" class="standard-navigation">
                                                         <style>
-                                                            #navigation-1>.standard-view>.navigation>.page>.page-children {
+                                                            #navigation-62189>.standard-view>.navigation>.page>.page-children {
                                                                 background: rgba(241, 241, 241, 0);
                                                             }
 
-                                                            #navigation-1>.standard-view>.navigation>.page>.page-children>.page>ul {
+                                                            #navigation-62189>.standard-view>.navigation>.page>.page-children>.page>ul {
                                                                 background: rgba(241, 241, 241, 0);
                                                             }
 
 
-                                                            #navigation-1>.standard-view>.navigation>.page>.page-children {
+                                                            #navigation-62189>.standard-view>.navigation>.page>.page-children {
                                                                 border-radius: 0px;
                                                             }
 
-                                                            #navigation-1>.standard-view>.navigation>.page>.page-children>.page>ul {
+                                                            #navigation-62189>.standard-view>.navigation>.page>.page-children>.page>ul {
                                                                 border-radius: 0px;
                                                             }
 
 
-                                                            #navigation-1 .navigation>li.has-childes.page>ul a {
+                                                            #navigation-62189 .navigation>li.has-childes.page>ul a {
                                                                 padding: 0 15px;
                                                             }
 
-                                                            #navigation-1>div>ul li:hover>ul {
+                                                            #navigation-62189>div>ul li:hover>ul {
                                                                 display: block;
                                                             }
 
 
-                                                            #navigation-1 .page a {
+                                                            #navigation-62189 .page a {
                                                                 color: rgb(255, 255, 255);
                                                                 font-size: 26px;
                                                                 font-weight: 900;
@@ -95,51 +130,51 @@ include_once('includes/header.php');
                                                                 text-transform: uppercase;
                                                             }
 
-                                                            #navigation-1>div>ul>li.page:not(:last-child) {
+                                                            #navigation-62189>div>ul>li.page:not(:last-child) {
                                                                 margin-bottom: 20px;
                                                             }
 
-                                                            #navigation-1>div>ul>li:first-child:nth-last-child(1) {
+                                                            #navigation-62189>div>ul>li:first-child:nth-last-child(1) {
                                                                 margin-bottom: 40px;
                                                             }
 
-                                                            #navigation-1 li.page>a:hover {
+                                                            #navigation-62189 li.page>a:hover {
                                                                 color: rgb(255, 255, 255) !important;
                                                             }
 
-                                                            #navigation-1 li.page.active>a {
+                                                            #navigation-62189 li.page.active>a {
                                                                 color: rgb(255, 255, 255);
                                                             }
 
-                                                            #navigation-1 li.page.active>a:hover {
+                                                            #navigation-62189 li.page.active>a:hover {
                                                                 color: #f1f1f1 !important;
                                                             }
 
-                                                            #navigation-1 li.page>ul.page-children li.page a {
+                                                            #navigation-62189 li.page>ul.page-children li.page a {
                                                                 color: rgb(255, 255, 255);
                                                             }
 
-                                                            #navigation-1 li.page>ul.page-children>li.page a:hover,
-                                                            #navigation-1 li.page>ul.page-children>li.page>ul.page-children>li.page a:hover {
+                                                            #navigation-62189 li.page>ul.page-children>li.page a:hover,
+                                                            #navigation-62189 li.page>ul.page-children>li.page>ul.page-children>li.page a:hover {
                                                                 color: #959595 !important;
                                                             }
 
-                                                            #navigation-1 li.page>ul.page-children>li.page.active>a,
-                                                            #navigation-1 li.page>ul.page-children>li.page>ul.page-children>li.page.active>a {
+                                                            #navigation-62189 li.page>ul.page-children>li.page.active>a,
+                                                            #navigation-62189 li.page>ul.page-children>li.page>ul.page-children>li.page.active>a {
                                                                 color: #353535;
                                                             }
 
-                                                            #navigation-1 li.page>ul.page-children>li.page.active>a:hover,
-                                                            #navigation-1 li.page>ul.page-children>li.page>ul.page-children>li.page.active>a:hover {
+                                                            #navigation-62189 li.page>ul.page-children>li.page.active>a:hover,
+                                                            #navigation-62189 li.page>ul.page-children>li.page>ul.page-children>li.page.active>a:hover {
                                                                 color: #959595 !important;
                                                             }
 
-                                                            #navigation-1 li.page>ul.page-children:before,
-                                                            #navigation-1 li.page>ul.page-children>li.has-childes>.page-children.pagesArrows>li:first-child:before {
+                                                            #navigation-62189 li.page>ul.page-children:before,
+                                                            #navigation-62189 li.page>ul.page-children>li.has-childes>.page-children.pagesArrows>li:first-child:before {
                                                                 color: rgba(241, 241, 241, 0);
                                                             }
 
-                                                            #navigation-1 li.page>ul.page-children>li.page>a {
+                                                            #navigation-62189 li.page>ul.page-children>li.page>a {
                                                                 color: rgb(255, 255, 255);
                                                                 font-size: 16px;
 
@@ -149,77 +184,77 @@ include_once('includes/header.php');
                                                             }
 
 
-                                                            #navigation-1 li.page>ul.page-children>li.page>a {
+                                                            #navigation-62189 li.page>ul.page-children>li.page>a {
                                                                 font-weight: 400;
                                                             }
 
 
-                                                            #navigation-1 li.page ul.page-children .page {
+                                                            #navigation-62189 li.page ul.page-children .page {
                                                                 padding-top: 10px;
                                                                 padding-bottom: 10px;
                                                             }
 
-                                                            #navigation-1 li.page ul.page-children .page:last-child {
+                                                            #navigation-62189 li.page ul.page-children .page:last-child {
                                                                 padding-bottom: 10px;
                                                             }
 
-                                                            #navigation-1 li.has-childes.page>a>.uci-dropdown-arrow-down {
+                                                            #navigation-62189 li.has-childes.page>a>.uci-dropdown-arrow-down {
                                                                 font-size: 14px;
                                                             }
 
-                                                            #navigation-1 li.has-childes.page>.page-children.pagesArrows>.has-childes>a>.uci-dropdown-arrow-down {
+                                                            #navigation-62189 li.has-childes.page>.page-children.pagesArrows>.has-childes>a>.uci-dropdown-arrow-down {
                                                                 font-size: 9px;
                                                             }
 
-                                                            #navigation-1 li.has-childes.page>.page-children li>a,
-                                                            #navigation-1 li.has-childes.page>.page-children li {
+                                                            #navigation-62189 li.has-childes.page>.page-children li>a,
+                                                            #navigation-62189 li.has-childes.page>.page-children li {
                                                                 text-align: center;
                                                             }
                                                         </style>
-                                                        <div id="navigation-1" data-nav-sub-page-scollapsible="1" class="navigation-inner
+                                                        <div id="navigation-62189" data-nav-sub-page-scollapsible="1" class="navigation-inner
                 
         vertical standard">
                                                             <div class="standard-view ">
                                                                 <ul class="navigation" style="font-family: 'Roboto';">
                                                                     <li class=" page   show" data-anchor="">
-                                                                        <a class="nav-item" href="https://www.vbet.com/live" data-page-type="pageLive">
+                                                                        <a class="nav-item" href="https://www.vbet.com/es/en-vivo" data-page-type="pageLive">
                                                                             <span class="title">
-                                                                                Live
+                                                                                En vivo
                                                                             </span>
                                                                         </a>
                                                                     </li>
                                                                     <li class=" page   show" data-anchor="">
-                                                                        <a class="nav-item" href="https://www.vbet.com/pre-match" data-page-type="pagePrematch">
+                                                                        <a class="nav-item" href="https://www.vbet.com/es/deportes" data-page-type="pagePrematch">
                                                                             <span class="title">
-                                                                                Pre-Match
+                                                                                Deportes
                                                                             </span>
                                                                         </a>
                                                                     </li>
                                                                     <li class=" page   show" data-anchor="">
-                                                                        <a class="nav-item" href="https://www.vbet.com/casino" data-page-type="pageCasino">
+                                                                        <a class="nav-item" href="https://www.vbet.com/es/casino" data-page-type="pageCasino">
                                                                             <span class="title">
                                                                                 Casino
                                                                             </span>
                                                                         </a>
                                                                     </li>
                                                                     <li class=" page   show" data-anchor="">
-                                                                        <a class="nav-item" href="https://www.vbet.com/live-casino" data-page-type="pageCasino">
+                                                                        <a class="nav-item" href="https://www.vbet.com/es/casino-en-vivo" data-page-type="pageCasino">
                                                                             <span class="title">
-                                                                                Live casino
+                                                                                Casino en vivo
                                                                             </span>
                                                                         </a>
                                                                     </li>
                                                                     <li class=" has-childes  page   show" data-anchor="">
-                                                                        <a class="nav-item" href="https://www.vbet.com/poker" data-page-type="pageBlank">
+                                                                        <a class="nav-item" href="https://www.vbet.com/es/poker-2" data-page-type="pageBlank">
                                                                             <span class="title">
                                                                                 Poker
                                                                             </span>
                                                                         </a>
                                                                     </li>
                                                                     <li class=" has-childes  page   show" data-anchor="">
-                                                                        <a class="nav-item" href="https://www.vbet.com/games" data-page-type="pageCasino">
+                                                                        <a class="nav-item" href="https://www.vbet.com/es/juegos" data-page-type="pageCasino">
                                                                             <span class="title">
-                                                                                Games
+                                                                                JUEGOS
                                                                             </span>
                                                                         </a>
                                                                     </li>
@@ -229,28 +264,28 @@ include_once('includes/header.php');
                                                     </div>
                                                 </div>
                                                 <div class="module-container  align-center ModuleSpace
-                                                 " style="  padding-bottom:1.1560693641618px; ">
-                                                    <div class="  module ModuleSpace " datamodule-id="24549">
+                                                 ">
+                                                    <div class="  module ModuleSpace " datamodule-id="62190">
                                                         <div class="space-container">
-                                                            <div class="space-inner" style="height: 40px;">
+                                                            <div class="space-inner" style="height: 30px;">
                                                             </div>
                                                         </div>
                                                         <style>
-                                                            .ModuleSpace[datamodule-id="24549"] .space-container {
+                                                            .ModuleSpace[datamodule-id="62190"] .space-container {
                                                                 border-radius: 0 0 0 0;
                                                             }
 
-                                                            .ModuleSpace[datamodule-id="24549"]:hover .space-container {
+                                                            .ModuleSpace[datamodule-id="62190"]:hover .space-container {
                                                                 border-radius: 0 0 0 0;
                                                             }
                                                         </style>
                                                         <style>
-                                                            .ModuleSpace[datamodule-id="24549"] .uc-row .column:first-child {
+                                                            .ModuleSpace[datamodule-id="62190"] .uc-row .column:first-child {
                                                                 border-bottom-left-radius: 0;
                                                                 border-top-left-radius: 0;
                                                             }
 
-                                                            .ModuleSpace[datamodule-id="24549"] .uc-row .column:last-child {
+                                                            .ModuleSpace[datamodule-id="62190"] .uc-row .column:last-child {
                                                                 border-bottom-right-radius: 0;
                                                                 border-top-right-radius: 0;
                                                             }
@@ -258,82 +293,80 @@ include_once('includes/header.php');
                                                     </div>
                                                 </div>
                                                 <div class="module-container   only-mobile   align-left ModuleImage
-                          last                         " style=" padding-right:80px;padding-left:80px;;  ">
-                                                    <div class="  module ModuleImage " datamodule-id="29274" style="display:block;max-width:60px;">
+                          last                         " style=" padding-right:40px;padding-left:80px;;  ">
+                                                    <div class="  module ModuleImage " datamodule-id="62191" style="display:block;max-width:60px;">
                                                         <style>
-                                                            .animated-29274 .effect-block.effect-lilly .layer {
+                                                            .animated-62191 .effect-block.effect-lilly .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-default .layer {
+                                                            .animated-62191 .effect-block.effect-default .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-sadie .layer {
+                                                            .animated-62191 .effect-block.effect-sadie .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-honey .layer {
+                                                            .animated-62191 .effect-block.effect-honey .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-roxy .layer {
+                                                            .animated-62191 .effect-block.effect-roxy .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-sarah .layer {
+                                                            .animated-62191 .effect-block.effect-sarah .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-Soft-Fade .layer {
+                                                            .animated-62191 .effect-block.effect-Soft-Fade .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-apollo .layer {
+                                                            .animated-62191 .effect-block.effect-apollo .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-honey .figcaption:before {
+                                                            .animated-62191 .effect-block.effect-honey .figcaption:before {
                                                                 background: rgb(52, 52, 52) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-roxy .figcaption:before {
+                                                            .animated-62191 .effect-block.effect-roxy .figcaption:before {
                                                                 border-image: rgb(52, 52, 52) 3 stretch;
                                                                 -moz-border-image: -moz-rgb(52, 52, 52) 3 stretch;
                                                                 border-width: 3px;
                                                                 border: 3px solid rgb(52, 52, 52);
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-apollo .figcaption:before {
+                                                            .animated-62191 .effect-block.effect-apollo .figcaption:before {
                                                                 background: rgb(52, 52, 52) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-apollo .description:before {
+                                                            .animated-62191 .effect-block.effect-apollo .description:before {
                                                                 background: rgb(52, 52, 52) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-sarah .title:after {
+                                                            .animated-62191 .effect-block.effect-sarah .title:after {
                                                                 background: rgb(52, 52, 52) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-steve .title,
-                                                            .animated-29274 .effect-block.effect-steve .description {
+                                                            .animated-62191 .effect-block.effect-steve .title,
+                                                            .animated-62191 .effect-block.effect-steve .description {
                                                                 background: rgb(52, 52, 52) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-goliath {
+                                                            .animated-62191 .effect-block.effect-goliath {
                                                                 background: rgb(52, 52, 52) !important;
                                                             }
                                                         </style>
-                                                        <a class="image-module-link" href="https://www.vbet.com/promotions" target="_self" rel="">
-                                                            <div class="animated animated-29274 " data-loading-animation="" data-animated-id="29274">
+                                                        <a class="image-module-link" href="https://www.vbet.com/es/promociones" target="_self" rel="">
+                                                            <div class="animated animated-62191 " data-loading-animation="" data-animated-id="62191">
                                                                 <div class=" effect-block public-mode figure effect-selena  ">
                                                                     <div class="layer"></div>
                                                                     <div>
-                                                                        <div class="" style="">
-                                                                            <img class="image lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/29274-29-promosicon.png" data-webp="0" style="" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/29274-29-promosicon.png" data-was-processed="true">
-                                                                        </div>
-                                                                        <div style="" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/29274-29-promosicon.png" data-target="0" data-link="https://www.vbet.com/promotions" class="figcaption not-clickable">
+                                                                        <img class="image lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/62191-promosicon3x.png" style="" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/62191-promosicon3x.png" data-was-processed="true">
+                                                                        <div style="" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/62191-promosicon3x.png" data-target="0" data-link="https://www.vbet.com/es/promociones" class="figcaption not-clickable">
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -358,718 +391,43 @@ include_once('includes/header.php');
     </div>
 </div>
 
-<div class="header-and-main-rows  " style="background: rgb(246, 246, 246); margin-bottom: -368.297px;">
-    <div class="header-rows  " style="  margin-bottom:0vh;  background:rgb(29, 24, 78);">
-        <div class="header-row-wrapper sb-account-row">
-            <div class="uc-row-wrapper ">
-                <div class="uc-row  vbetheader                             header-row  
-                        
-                                                        " data-id="11672" style="   margin-bottom:0vh;   background:rgba(89, 72, 147, 0); ">
-                    <div class="row-container ">
-                        <div class="row headerRow " style="">
-                            <div class="column col-xs-1 " datacolumn-id="41029" style="  padding:5px 0px;     ">
-                                <div class="column-container " style="">
-                                    <div class="module-container  align-left ModuleLogo
-                         first   last                         " style=" padding-right:0px;padding-left:30px;;  ">
-                                        <div class="  module ModuleLogo " datamodule-id="114159" style="display:block;max-width: 100%;">
-                                            <a href="https://www.vbet.com">
-                                                <div class="" style="">
-                                                    <img data-logo-element="" class="lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" alt="VBET" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" data-was-processed="true">
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="column col-xs-2 " datacolumn-id="34419" style="  padding:5px 0px;     ">
-                                <div class="column-container " style="">
-                                    <div class="module-container   only-mobile   align-left ModuleImage
-                         first   last                         " style=" padding-right:30px;padding-left:40px;;  ">
-                                        <div class="  module ModuleImage " datamodule-id="50384" style="display:block;max-width: 100%;">
-                                            <a class="image-module-link" href="https://www.vbet.com" target="_self" rel="">
-                                                <div class="animated animated-50384 " data-loading-animation="" data-animated-id="50384">
-                                                    <div class=" ">
-                                                        <div>
-                                                            <div class="" style="">
-                                                                <img class="image lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/50384-50384-arsenal-5581-pt-1572873212371x-15902395922933-min.png" data-webp="0" style="" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/50384-50384-arsenal-5581-pt-1572873212371x-15902395922933-min.png" data-was-processed="true">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                )
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="column col-xs-5 " datacolumn-id="19004" style="  padding:5px 0px;     ">
-                                <div class="column-container " style="">
-                                    <div class="module-container   only-mobile   align-right ModuleNavigation
-                         first   last                         " style=" padding-right:60px;padding-left:40px;;  ">
-                                        <div class="  module ModuleNavigation " datamodule-id="50378" style="width: auto;">
-                                            <input type="hidden" class="standard-navigation">
-                                            <style>
-                                                #navigation-50378>.standard-view>.navigation>.page>.page-children {
-                                                    background: rgb(31, 23, 71);
-                                                }
-
-                                                #navigation-50378>.standard-view>.navigation>.page>.page-children>.page>ul {
-                                                    background: rgb(31, 23, 71);
-                                                }
-
-
-                                                #navigation-50378>.standard-view>.navigation>.page>.page-children {
-                                                    border-radius: 0px;
-                                                }
-
-                                                #navigation-50378>.standard-view>.navigation>.page>.page-children>.page>ul {
-                                                    border-radius: 0px;
-                                                }
-
-                                                #navigation-50378>.standard-view>.navigation>.page>.page-children {
-                                                    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.1);
-                                                    -moz-box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.1);
-                                                    -webkit-box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.1);
-                                                }
-
-
-                                                #navigation-50378 .navigation>li.has-childes.page>ul a {
-                                                    padding: 0 15px;
-                                                }
-
-                                                #navigation-50378>div>ul li:hover>ul {
-                                                    display: block;
-                                                }
-
-
-                                                #navigation-50378 .page a {
-                                                    color: rgb(255, 255, 255);
-                                                    font-size: 13px;
-                                                    font-weight: 500;
-                                                    letter-spacing: 0px;
-                                                    text-transform: uppercase;
-                                                }
-
-                                                #navigation-50378>div>ul>li.page:not(:last-child) {
-                                                    margin-right: 11px;
-                                                }
-
-                                                #navigation-50378>div>ul>li:first-child:nth-last-child(1) {}
-
-                                                #navigation-50378 li.page>a:hover {
-                                                    color: rgb(254, 203, 90) !important;
-                                                }
-
-                                                #navigation-50378 li.page.active>a {
-                                                    color: rgb(254, 203, 90);
-                                                }
-
-                                                #navigation-50378 li.page.active>a:hover {
-                                                    color: rgb(254, 203, 90) !important;
-                                                }
-
-                                                #navigation-50378 li.page>ul.page-children li.page a {
-                                                    color: rgb(255, 255, 255);
-                                                }
-
-                                                #navigation-50378 li.page>ul.page-children>li.page a:hover,
-                                                #navigation-50378 li.page>ul.page-children>li.page>ul.page-children>li.page a:hover {
-                                                    color: #959595 !important;
-                                                }
-
-                                                #navigation-50378 li.page>ul.page-children>li.page.active>a,
-                                                #navigation-50378 li.page>ul.page-children>li.page>ul.page-children>li.page.active>a {
-                                                    color: #353535;
-                                                }
-
-                                                #navigation-50378 li.page>ul.page-children>li.page.active>a:hover,
-                                                #navigation-50378 li.page>ul.page-children>li.page>ul.page-children>li.page.active>a:hover {
-                                                    color: #959595 !important;
-                                                }
-
-                                                #navigation-50378 li.page>ul.page-children:before,
-                                                #navigation-50378 li.page>ul.page-children>li.has-childes>.page-children.pagesArrows>li:first-child:before {
-                                                    color: rgb(31, 23, 71);
-                                                }
-
-                                                #navigation-50378 li.page>ul.page-children>li.page>a {
-                                                    color: rgb(255, 255, 255);
-                                                    font-size: 12px;
-
-
-
-
-                                                }
-
-
-                                                #navigation-50378 li.page>ul.page-children>li.page>a {
-                                                    font-weight: 500;
-                                                }
-
-
-                                                #navigation-50378 li.page ul.page-children .page {
-                                                    padding-top: 11px;
-                                                    padding-bottom: 11px;
-                                                }
-
-                                                #navigation-50378 li.page ul.page-children .page:last-child {
-                                                    padding-bottom: 11px;
-                                                }
-
-                                                #navigation-50378 li.has-childes.page>a>.uci-dropdown-arrow-down {
-                                                    font-size: 7.5px;
-                                                }
-
-                                                #navigation-50378 li.has-childes.page>.page-children.pagesArrows>.has-childes>a>.uci-dropdown-arrow-down {
-                                                    font-size: 7px;
-                                                }
-
-                                                #navigation-50378 li.has-childes.page>.page-children li>a,
-                                                #navigation-50378 li.has-childes.page>.page-children li {
-                                                    text-align: center;
-                                                }
-                                            </style>
-                                            <div id="navigation-50378" data-nav-sub-page-scollapsible="0" class="navigation-inner
-                
-        horizontal standard">
-                                                <div class="off-canvas-button icon" data-selector="off-canvas-50378" style="width:25px;height:25px;">
-                                                    <svg viewBox="0 0 100.00000762939453 75.000244140625" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                        <g transform="scale(1.2716659928598795)">
-                                                            <g>
-                                                                <g>
-                                                                    <path clip-rule="evenodd" d="M81.602,44.102h-66.84c-3.256,0-5.898,2.64-5.898,5.898    s2.642,5.898,5.898,5.898h66.84c3.256,0,5.898-2.64,5.898-5.898S84.858,44.102,81.602,44.102z M81.602,67.693h-66.84    c-3.256,0-5.898,2.64-5.898,5.898c0,3.258,2.642,5.898,5.898,5.898h66.84c3.256,0,5.898-2.64,5.898-5.898    C87.5,70.333,84.858,67.693,81.602,67.693z M14.763,32.307h66.84c3.256,0,5.898-2.64,5.898-5.898c0-3.258-2.642-5.898-5.898-5.898    h-66.84c-3.256,0-5.898,2.64-5.898,5.898C8.865,29.667,11.507,32.307,14.763,32.307z" transform="translate(-8.864001274108887,-20.511001586914062)"></path>
-                                                                </g>
-                                                            </g>
-                                                        </g>
-                                                    </svg>
-                                                </div>
-                                                <div class="standard-view ">
-                                                    <ul class="navigation" style="font-family: 'Roboto';">
-                                                        <li class=" page   show" data-anchor="">
-                                                            <a class="nav-item" href="https://www.vbet.com/live" data-page-type="pageLive">
-                                                                <span class="title">
-                                                                    Live
-                                                                </span>
-                                                            </a>
-                                                        </li>
-                                                        <li class=" page   show" data-anchor="">
-                                                            <a class="nav-item" href="https://www.vbet.com/pre-match" data-page-type="pagePrematch">
-                                                                <span class="title">
-                                                                    Pre-Match
-                                                                </span>
-                                                            </a>
-                                                        </li>
-                                                        <li class=" page   show" data-anchor="">
-                                                            <a class="nav-item" href="https://www.vbet.com/casino" data-page-type="pageCasino">
-                                                                <span class="title">
-                                                                    Casino
-                                                                </span>
-                                                            </a>
-                                                        </li>
-                                                        <li class=" page   show" data-anchor="">
-                                                            <a class="nav-item" href="https://www.vbet.com/live-casino" data-page-type="pageCasino">
-                                                                <span class="title">
-                                                                    Live casino
-                                                                </span>
-                                                            </a>
-                                                        </li>
-                                                        <li class=" has-childes  page   show" data-anchor="">
-                                                            <a class="nav-item" href="https://www.vbet.com/poker" data-page-type="pageBlank">
-                                                                <span class="title">
-                                                                    Poker
-                                                                </span>
-                                                            </a>
-                                                        </li>
-                                                        <li class=" has-childes  page   show" data-anchor="">
-                                                            <a class="nav-item" href="https://www.vbet.com/games" data-page-type="pageCasino">
-                                                                <span class="title">
-                                                                    Games
-                                                                </span>
-                                                            </a>
-                                                        </li>
-                                                        <li class=" page   show" data-anchor="">
-                                                            <a class="nav-item" href="https://www.vbet.com/promotions" data-page-type="pageBlank">
-                                                                <span class="title">
-                                                                    Promo
-                                                                </span>
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="column col-xs-1 " datacolumn-id="19005" style="  padding:5px 0px;     ">
-                                <div class="column-container " style="">
-                                </div>
-                            </div>
-                            <div class="column col-xs-2 " datacolumn-id="19006" style="  padding:5px 0px;     ">
-                                <div class="column-container " style="">
-                                    <div class="module-container   only-mobile   align-right ModuleSbAccount
-                         first   last                         " style=" padding-right:0px;padding-left:0px;;  ">
-                                        <div class="  module ModuleSbAccount " datamodule-id="50385" style="display:block;max-width: 100%;">
-                                            <link rel="stylesheet" type="text/css" href="https://static.betconstruct.me/assets/main.css?v=1596804054">
-                                            <link rel="stylesheet" type="text/css" href="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/css/sp.css?v=1596809311">
-                                            <div data-id="50385" data-component="sbaccount" data-layout-type="popup" data-attrs="{&quot;params&quot;: {&quot;id&quot;:50385,&quot;type&quot;:&quot;ModuleSbAccount&quot;,&quot;componentName&quot;:&quot;sbaccount&quot;,&quot;ordering&quot;:2,&quot;signinShow&quot;:&quot;1&quot;,&quot;rememberMeShow&quot;:&quot;0&quot;,&quot;signinButtonType&quot;:&quot;link&quot;,&quot;signinButtonText&quot;:&quot;SIGN IN&quot;,&quot;signinButtonStyle&quot;:&quot;btn1&quot;,&quot;signinButtonIcon&quot;:&quot;<svg viewBox='0 0 100.00000762939453 100' version='1.1' xmlns='http:\/\/www.w3.org\/2000\/svg' xmlns:xlink='http:\/\/www.w3.org\/1999\/xlink'><g transform='scale(1.1111111111111112)'><g><g><path d='M41.3,68.8l5.3,5.3c0.5,0.5,1.2,0.5,1.7,0l23.3-23.3c0.5-0.5,0.5-1.2,0-1.6L48.3,25.8c-0.5-0.5-1.2-0.5-1.7,0l-5.3,5.3    c-0.5,0.5-0.5,1.2,0,1.7L53.5,45H6.2C5.5,45,5,45.5,5,46.2v7.6C5,54.5,5.5,55,6.2,55h47.3L41.3,67.2    C40.9,67.6,40.9,68.4,41.3,68.8z M85,5H15C9.5,5,5,9.5,5,15v18.7C5,34.4,5.6,35,6.3,35h7.5c0.7,0,1.3-0.6,1.3-1.3V19.1    c0-2.3,1.8-4.1,4.1-4.1h61.8c2.3,0,4.1,1.8,4.1,4.1v61.8c0,2.3-1.8,4.1-4.1,4.1H19.1c-2.3,0-4.1-1.8-4.1-4.1V66.3    c0-0.7-0.6-1.3-1.3-1.3H6.3C5.6,65,5,65.6,5,66.3V85c0,5.5,4.5,10,10,10h70c5.5,0,10-4.5,10-10V15C95,9.5,90.5,5,85,5z' transform='translate(-5,-5)'><\/path><\/g><\/g><\/g><\/svg>&quot;,&quot;signinButtonIconSize&quot;:&quot;36&quot;,&quot;signinButtonIconColor&quot;:&quot;#303838&quot;,&quot;signinButtonIconColorHover&quot;:&quot;#303838&quot;,&quot;signinLinkButtonFontSize&quot;:&quot;14&quot;,&quot;signinLinkButtonFontFamily&quot;:&quot;Roboto&quot;,&quot;signinLinkButtonColor&quot;:&quot;rgb(255, 255, 255)&quot;,&quot;signinLinkButtonColorHover&quot;:&quot;rgb(246, 219, 124)&quot;,&quot;signinLinkButtonLetterSpacing&quot;:&quot;0&quot;,&quot;signupShow&quot;:&quot;1&quot;,&quot;signupButtonType&quot;:&quot;button&quot;,&quot;signupButtonText&quot;:&quot;REGISTER&quot;,&quot;signupButtonStyle&quot;:&quot;btn1&quot;,&quot;signupButtonIcon&quot;:&quot;<svg viewBox='0 0 100 99.056640625' version='1.1' xmlns='http:\/\/www.w3.org\/2000\/svg' xmlns:xlink='http:\/\/www.w3.org\/1999\/xlink'><g transform='scale(1.3477088117342138)'><path d='M74.4,59c-3.5-2.3-7.6-4-11.9-5.2c5.9-4,9.7-10.7,9.7-18.4c0-12.3-10-22.2-22.2-22.2s-22.2,10-22.2,22.2  c0,7.6,3.9,14.3,9.7,18.4c-13.3,3.7-24.6,13-24.6,25.4v7.5h7.5h59.2h7.5v-7.5C87.1,71.6,82.5,64.2,74.4,59z M50,20.8  c8.1,0,14.7,6.6,14.7,14.7c0,8.1-6.6,14.7-14.7,14.7c-8.1,0-14.7-6.6-14.7-14.7C35.3,27.4,41.9,20.8,50,20.8z M20.4,79.2  c0-10.8,14.7-19.6,29.6-19.6s29.6,8.8,29.6,19.6H20.4z' transform='translate(-12.899995803833008,-13.200000762939453)'><\/path><\/g><\/svg>&quot;,&quot;signupButtonIconSize&quot;:&quot;36&quot;,&quot;signupButtonIconColor&quot;:&quot;#303838&quot;,&quot;signupButtonIconColorHover&quot;:&quot;#303838&quot;,&quot;signupLinkButtonFontSize&quot;:&quot;14&quot;,&quot;signupLinkButtonFontFamily&quot;:&quot;Roboto&quot;,&quot;signupLinkButtonColor&quot;:&quot;rgb(255, 255, 255)&quot;,&quot;signupLinkButtonColorHover&quot;:&quot;rgb(255, 255, 255)&quot;,&quot;signupLinkButtonLetterSpacing&quot;:&quot;1&quot;,&quot;buttonsOrientation&quot;:&quot;0&quot;,&quot;buttonsDistance&quot;:&quot;9&quot;,&quot;showBalanceVisibilitySwitcher&quot;:&quot;1&quot;,&quot;showPasswordVisibilitySwitcher&quot;:&quot;1&quot;,&quot;showVipIcon&quot;:&quot;0&quot;,&quot;desktopCompactView&quot;:&quot;1&quot;,&quot;desktopShowLabels&quot;:&quot;1&quot;,&quot;desktopShowMyBetsCompact&quot;:&quot;1&quot;,&quot;desktopShowMyBetsDefault&quot;:&quot;0&quot;,&quot;desktopShowBonuses&quot;:&quot;1&quot;,&quot;desktopShowMessages&quot;:&quot;1&quot;,&quot;desktopShowWithdraw&quot;:&quot;0&quot;,&quot;desktopShowDepositDefault&quot;:&quot;0&quot;,&quot;desktopShowDepositCompact&quot;:&quot;1&quot;,&quot;mobileCompactView&quot;:&quot;1&quot;,&quot;mobileShowLabels&quot;:&quot;1&quot;,&quot;mobileShowMyBetsCompact&quot;:&quot;1&quot;,&quot;mobileShowMyBetsDefault&quot;:&quot;0&quot;,&quot;mobileShowBonuses&quot;:&quot;1&quot;,&quot;mobileShowMessages&quot;:&quot;1&quot;,&quot;mobileShowWithdraw&quot;:&quot;0&quot;,&quot;mobileShowDepositDefault&quot;:&quot;0&quot;,&quot;mobileShowDepositCompact&quot;:&quot;1&quot;,&quot;accInfoCompactMainBalanceColor&quot;:&quot;#353535&quot;,&quot;accInfoCompactBonusBalanceColor&quot;:&quot;#fe7260&quot;,&quot;accInfoCompactMenuBackgroundColor&quot;:&quot;#eee&quot;,&quot;accInfoCompactMenuBackgroundColorHover&quot;:&quot;#dfdfdf&quot;,&quot;accInfoCompactMenuTextColor&quot;:&quot;#353535&quot;,&quot;accInfoCompactMenuTextColorHover&quot;:&quot;#353535&quot;,&quot;accInfoNotCompactMainBalanceColor&quot;:&quot;#353535&quot;,&quot;accInfoNotCompactBonusBalanceColor&quot;:&quot;#fe7260&quot;,&quot;accInfoNotCompactProfileTextColorHover&quot;:&quot;#fff&quot;,&quot;accInfoNotCompactProfileBackgroundColorHover&quot;:&quot;#fe7260&quot;,&quot;accInfoNotCompactMenuTextColor&quot;:&quot;#353535&quot;,&quot;accInfoNotCompactMenuTextColorHover&quot;:&quot;#fe7260&quot;,&quot;logOutCompactMenuBackgroundColor&quot;:&quot;#fff&quot;,&quot;logOutCompactMenuBackgroundColorHover&quot;:&quot;#fb3e30&quot;,&quot;logOutCompactMenuTextColor&quot;:&quot;#fb3e30&quot;,&quot;logOutCompactMenuTextColorHover&quot;:&quot;#fff&quot;,&quot;logOutNotCompactMenuTextColor&quot;:&quot;#fb3e30&quot;,&quot;logOutNotCompactMenuTextColorHover&quot;:&quot;#fb3e30&quot;,&quot;gdprPopupForExistingPlayers&quot;:&quot;0&quot;,&quot;tabNetDeposit&quot;:&quot;0&quot;,&quot;ggPokertabTransfer&quot;:&quot;0&quot;,&quot;mainCasinoTransfer&quot;:&quot;0&quot;,&quot;myCards&quot;:&quot;0&quot;,&quot;walletPopup&quot;:&quot;1&quot;,&quot;tabSelfExclusion&quot;:&quot;1&quot;,&quot;tabTimeOut&quot;:&quot;1&quot;,&quot;tabDepositLimits&quot;:&quot;1&quot;,&quot;tabDocuments&quot;:&quot;0&quot;,&quot;tabVerifyAccount&quot;:&quot;0&quot;,&quot;tabAccumulatedLosses&quot;:&quot;0&quot;,&quot;sessionTime&quot;:&quot;1&quot;,&quot;tabBuddyTransfer&quot;:&quot;0&quot;,&quot;tabBetLimit&quot;:&quot;1&quot;,&quot;tabGdpr&quot;:&quot;1&quot;,&quot;typeSportsbook&quot;:&quot;1&quot;,&quot;typeCasino&quot;:&quot;1&quot;,&quot;collapsedViewByDefault&quot;:&quot;1&quot;,&quot;showFullSessionHistory&quot;:&quot;1&quot;,&quot;depositConfirmationPopup&quot;:&quot;1&quot;,&quot;wordCountAbout&quot;:&quot;0&quot;,&quot;accountButtonStyle&quot;:&quot;btn1&quot;,&quot;accountInactiveButtonStyle&quot;:&quot;buttons1558357729029&quot;,&quot;autologin&quot;:&quot;1&quot;,&quot;privacyPolicyLink&quot;:51,&quot;privacyPolicyTarget&quot;:&quot;1&quot;,&quot;privacyPolicyLinkType&quot;:1,&quot;TermsConditionsTarget&quot;:1,&quot;TermsConditionsLinkType&quot;:1,&quot;TermsConditionsLink&quot;:50,&quot;tcVersion&quot;:&quot;1.1&quot;,&quot;zimplerOnOff&quot;:&quot;&quot;,&quot;regFields&quot;:[{&quot;label&quot;:&quot;Username&quot;,&quot;type&quot;:&quot;username&quot;,&quot;formType&quot;:&quot;username&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Username&quot;,&quot;placeholder&quot;:&quot;Username&quot;,&quot;showOnRegFields&quot;:&quot;1&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;,&quot;required&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Username&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;username&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Email&quot;,&quot;type&quot;:&quot;email&quot;,&quot;formType&quot;:&quot;email&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Email&quot;,&quot;placeholder&quot;:&quot;Email&quot;,&quot;showOnRegFields&quot;:&quot;1&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;,&quot;showConfirmEmail&quot;:&quot;0&quot;,&quot;emailConfirmLabel&quot;:&quot;Confirm Email&quot;,&quot;emailConfirmPlaceholder&quot;:&quot;Confirm Email&quot;,&quot;emailConfirmRequired&quot;:&quot;1&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Email&quot;,&quot;validations&quot;:{&quot;required&quot;:true,&quot;email&quot;:true},&quot;vars&quot;:{&quot;email&quot;:{&quot;value&quot;:&quot;&quot;},&quot;email2&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Password&quot;,&quot;type&quot;:&quot;password&quot;,&quot;formType&quot;:&quot;password&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Password&quot;,&quot;placeholder&quot;:&quot;Password&quot;,&quot;showOnRegFields&quot;:&quot;1&quot;,&quot;passwordValidationOn&quot;:&quot;1&quot;,&quot;required&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Password&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;password&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Country&quot;,&quot;type&quot;:&quot;country&quot;,&quot;formType&quot;:&quot;country&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Country&quot;,&quot;showOnRegFields&quot;:&quot;1&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;excludeCountries&quot;:[&quot;Australia&quot;,&quot;Bulgaria&quot;,&quot;Cayman Islands&quot;,&quot;Cuba&quot;,&quot;Cyprus&quot;,&quot;Czech Republic&quot;,&quot;Denmark&quot;,&quot;France&quot;,&quot;French Guiana&quot;,&quot;French Southern Territories&quot;,&quot;French Polynesia&quot;,&quot;Germany&quot;,&quot;Greece&quot;,&quot;Guadeloupe&quot;,&quot;Hong Kong&quot;,&quot;Hungary&quot;,&quot;Iran&quot;,&quot;Iraq&quot;,&quot;Ireland&quot;,&quot;Israel&quot;,&quot;Italy&quot;,&quot;Japan&quot;,&quot;Kahnawake&quot;,&quot;Libya&quot;,&quot;Macao&quot;,&quot;Martinique&quot;,&quot;Mayotte&quot;,&quot;Myanmar&quot;,&quot;Netherlands&quot;,&quot;Korea, North&quot;,&quot;Philippines&quot;,&quot;Poland&quot;,&quot;Portugal&quot;,&quot;Reunion&quot;,&quot;Saudi Arabia&quot;,&quot;Serbia&quot;,&quot;Singapore&quot;,&quot;South Africa&quot;,&quot;Spain&quot;,&quot;Switzerland&quot;,&quot;Sudan&quot;,&quot;Syria&quot;,&quot;Turkey&quot;,&quot;Uganda&quot;,&quot;United Kingdom&quot;,&quot;United States&quot;,&quot;Yemen&quot;,&quot;Sweden&quot;,&quot;Malta&quot;,&quot;Afghanistan&quot;,&quot;Slovenia&quot;,&quot;Belgium&quot;,&quot;British Indian Ocean Territory&quot;,&quot;Croatia&quot;,&quot;Curacao&quot;,&quot;Greenland&quot;,&quot;Guernsey&quot;,&quot;Sint Maarten (Netherlands)&quot;,&quot;Argentina&quot;,&quot;Bolivia&quot;,&quot;Brazil&quot;,&quot;Chile&quot;,&quot;Paraguay&quot;,&quot;Peru&quot;,&quot;Venezuela&quot;,&quot;Guyana&quot;,&quot;Suriname&quot;,&quot;Ecuador&quot;,&quot;Andorra&quot;,&quot;Gibraltar&quot;,&quot;Latvia&quot;,&quot;Luxembourg&quot;,&quot;Slovakia&quot;,&quot;Iceland&quot;,&quot;China&quot;,&quot;Mexico&quot;,&quot;Colombia&quot;],&quot;includeCountries&quot;:[]},&quot;params&quot;:{&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;country_code&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Currency&quot;,&quot;type&quot;:&quot;currency&quot;,&quot;formType&quot;:&quot;currency&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;currencySelectType&quot;:&quot;0&quot;,&quot;label&quot;:&quot;Currency&quot;,&quot;showOnRegFields&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;},&quot;params&quot;:{&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;currency_name&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;First Name&quot;,&quot;type&quot;:&quot;first-name&quot;,&quot;formType&quot;:&quot;first_name&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;First Name&quot;,&quot;placeholder&quot;:&quot;First Name&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;,&quot;required&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;First Name&quot;,&quot;validations&quot;:{&quot;required&quot;:false,&quot;min:3&quot;:true},&quot;vars&quot;:{&quot;first_name&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Last Name&quot;,&quot;type&quot;:&quot;last-name&quot;,&quot;formType&quot;:&quot;last_name&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Last Name&quot;,&quot;placeholder&quot;:&quot;Last Name&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;,&quot;required&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Last Name&quot;,&quot;validations&quot;:{&quot;required&quot;:false,&quot;min:2&quot;:true},&quot;vars&quot;:{&quot;last_name&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Confirm Password&quot;,&quot;type&quot;:&quot;password-confirmation&quot;,&quot;formType&quot;:&quot;passwordConfirmation&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Confirm Password&quot;,&quot;placeholder&quot;:&quot;Confirm Password&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;required&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Confirm Password&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;password_confirmation&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Passport Number&quot;,&quot;type&quot;:&quot;passport-number&quot;,&quot;formType&quot;:&quot;passportNum&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Passport Number&quot;,&quot;placeholder&quot;:&quot;Passport Number&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Passport Number&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;doc_number&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Document issued by&quot;,&quot;type&quot;:&quot;document-issued-by&quot;,&quot;formType&quot;:&quot;documentIssuedBy&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;0&quot;,&quot;label&quot;:&quot;Document issued by&quot;,&quot;placeholder&quot;:&quot;Document issued by&quot;,&quot;required&quot;:&quot;0&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Document issued by&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;doc_issued_by&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Document issue date&quot;,&quot;type&quot;:&quot;document-issue-date&quot;,&quot;formType&quot;:&quot;documentIssueDate&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;0&quot;,&quot;label&quot;:&quot;Document issue date&quot;,&quot;placeholder&quot;:&quot;Document issue date&quot;,&quot;required&quot;:&quot;0&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Document issue date&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;doc_issue_date&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Document issue code&quot;,&quot;type&quot;:&quot;document-issue-code&quot;,&quot;formType&quot;:&quot;documentIssueCode&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;0&quot;,&quot;label&quot;:&quot;Document issue code&quot;,&quot;placeholder&quot;:&quot;Document issue code&quot;,&quot;required&quot;:&quot;0&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Document issue code&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;doc_issue_code&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Birth Country&quot;,&quot;type&quot;:&quot;birth-country&quot;,&quot;formType&quot;:&quot;birthCountry&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;showOnRegFields&quot;:0,&quot;showOnEditProfile&quot;:0,&quot;label&quot;:&quot;Birth Country&quot;,&quot;required&quot;:&quot;on&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;includeBirthCountries&quot;:[],&quot;excludeBirthCountries&quot;:[]},&quot;params&quot;:{&quot;vars&quot;:{&quot;birth_region&quot;:{&quot;value&quot;:&quot;&quot;}},&quot;validations&quot;:{&quot;required&quot;:false}}},{&quot;label&quot;:&quot;Birth City&quot;,&quot;type&quot;:&quot;birth-city&quot;,&quot;formType&quot;:&quot;birthCity&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;showOnRegFields&quot;:0,&quot;showOnEditProfile&quot;:0,&quot;label&quot;:&quot;Birth City&quot;,&quot;placeholder&quot;:&quot;Birth City&quot;,&quot;required&quot;:&quot;on&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;},&quot;params&quot;:{&quot;vars&quot;:{&quot;birth_city&quot;:{&quot;value&quot;:&quot;&quot;}},&quot;validations&quot;:{&quot;required&quot;:false}}},{&quot;label&quot;:&quot;Birth Department&quot;,&quot;type&quot;:&quot;birth-department&quot;,&quot;formType&quot;:&quot;birthDepartment&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;showOnRegFields&quot;:0,&quot;showOnEditProfile&quot;:0,&quot;label&quot;:&quot;Birth Department&quot;,&quot;required&quot;:&quot;on&quot;,&quot;disabled&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;vars&quot;:{&quot;birth_department&quot;:{&quot;value&quot;:&quot;&quot;}},&quot;validations&quot;:{&quot;required&quot;:false}}},{&quot;label&quot;:&quot;Personal Id&quot;,&quot;type&quot;:&quot;personal-id&quot;,&quot;formType&quot;:&quot;personalId&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Personal Id&quot;,&quot;placeholder&quot;:&quot;Personal Id&quot;,&quot;required&quot;:&quot;1&quot;,&quot;disabled&quot;:&quot;1&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Personal Id&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;personal_id&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Auto Withdraw&quot;,&quot;type&quot;:&quot;auto-withdraw&quot;,&quot;formType&quot;:&quot;autoWithdraw&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Auto Withdraw&quot;,&quot;placeholder&quot;:&quot;Auto Withdraw&quot;,&quot;balance_limit&quot;:&quot;0&quot;,&quot;showAutoWithdrawTooltip&quot;:&quot;on&quot;,&quot;showAutoWithdraw&quot;:&quot;0&quot;,&quot;required&quot;:0,&quot;showOnRegFields&quot;:0},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Auto Withdraw&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;balance_limit&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Bet Limits&quot;,&quot;type&quot;:&quot;bet-limits&quot;,&quot;formType&quot;:&quot;betLimits&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Bet Limits&quot;,&quot;maxSingleBet&quot;:&quot;100&quot;,&quot;maxSingleRequired&quot;:&quot;on&quot;,&quot;showMaxDailyBet&quot;:&quot;0&quot;,&quot;maxDailyBet&quot;:&quot;200&quot;,&quot;maxDailyRequired&quot;:&quot;on&quot;,&quot;showMaxWeeklyBet&quot;:&quot;0&quot;,&quot;maxWeeklyBet&quot;:&quot;1000&quot;,&quot;maxWeeklyRequired&quot;:&quot;on&quot;,&quot;showMaxSingleBet&quot;:&quot;0&quot;,&quot;showBetTooltip&quot;:&quot;on&quot;,&quot;dailyBetLabel&quot;:&quot;Max Daily Bet&quot;,&quot;weeklyBetLabel&quot;:&quot;Max Weekly Bet&quot;,&quot;singleLabel&quot;:&quot;Max Single Bet&quot;,&quot;showOnRegFields&quot;:0,&quot;monthlyBetLabel&quot;:&quot;Max Monthly Bet&quot;},&quot;params&quot;:{&quot;vars&quot;:{&quot;max_single_bet_amount&quot;:{&quot;value&quot;:&quot;&quot;},&quot;max_daily_bet_amount&quot;:{&quot;value&quot;:&quot;&quot;},&quot;max_weekly_bet_amount&quot;:{&quot;value&quot;:&quot;&quot;}},&quot;validations&quot;:{&quot;required&quot;:false}}},{&quot;label&quot;:&quot;Account Number&quot;,&quot;type&quot;:&quot;account-number&quot;,&quot;formType&quot;:&quot;accountNumber&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Account Number&quot;,&quot;placeholder&quot;:&quot;Account Number&quot;,&quot;required&quot;:0,&quot;showOnRegFields&quot;:0,&quot;showOnEditProfile&quot;:0},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Account Number&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;iban&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Bank Name&quot;,&quot;type&quot;:&quot;bank-name&quot;,&quot;formType&quot;:&quot;bankName&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Bank Name&quot;,&quot;placeholder&quot;:&quot;Bank Name&quot;,&quot;required&quot;:0,&quot;showOnRegFields&quot;:0,&quot;showOnEditProfile&quot;:0},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Bank Name&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;swift_code&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Security Question&quot;,&quot;type&quot;:&quot;security-question&quot;,&quot;formType&quot;:&quot;securityQuestion&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Security Question&quot;,&quot;placeholder&quot;:&quot;Security Question&quot;,&quot;required&quot;:0,&quot;labelAnswer&quot;:&quot;Answer&quot;,&quot;placeholderAnswer&quot;:&quot;Answer&quot;,&quot;showOnRegFields&quot;:0},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Security Question&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;security_question&quot;:{&quot;value&quot;:&quot;&quot;}},&quot;labelAnswer&quot;:&quot;Answer&quot;,&quot;placeholderAnswer&quot;:&quot;Answer&quot;}},{&quot;label&quot;:&quot;Bonus Code&quot;,&quot;type&quot;:&quot;bonus-code&quot;,&quot;formType&quot;:&quot;bonusCode&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Bonus Code&quot;,&quot;placeholder&quot;:&quot;Bonus Code&quot;,&quot;required&quot;:0,&quot;showOnRegFields&quot;:0},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Bonus Code&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;loyalty_code&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Agent Id&quot;,&quot;type&quot;:&quot;agent-id&quot;,&quot;formType&quot;:&quot;agentId&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Agent Id&quot;,&quot;placeholder&quot;:&quot;Agent Id&quot;,&quot;required&quot;:&quot;off&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Agent Id&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;affiliate_id&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Gender&quot;,&quot;type&quot;:&quot;gender&quot;,&quot;formType&quot;:&quot;gender&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Gender&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;},&quot;params&quot;:{&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;gender&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Birth Date&quot;,&quot;type&quot;:&quot;birth-date&quot;,&quot;formType&quot;:&quot;birthDate&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;birthDateType&quot;:&quot;1&quot;,&quot;label&quot;:&quot;Birth Date&quot;,&quot;ageLimit&quot;:&quot;18&quot;,&quot;showOnTheLoginPopup&quot;:&quot;0&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;},&quot;params&quot;:{&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;birth_date&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;City&quot;,&quot;type&quot;:&quot;city&quot;,&quot;formType&quot;:&quot;city&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;City&quot;,&quot;placeholder&quot;:&quot;City&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;,&quot;showCustomCities&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;City&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;city&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Address&quot;,&quot;type&quot;:&quot;address&quot;,&quot;formType&quot;:&quot;address&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Address&quot;,&quot;placeholder&quot;:&quot;Address&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;,&quot;disabled&quot;:&quot;1&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;,&quot;showAditionalAddress&quot;:&quot;0&quot;,&quot;aditionalAddressLabel&quot;:&quot;Aditional Address&quot;,&quot;aditionalAddressPlaceholder&quot;:&quot;Aditional Address&quot;,&quot;aditionalAddressRequired&quot;:&quot;1&quot;,&quot;aditionalAddressDisabled&quot;:&quot;0&quot;,&quot;aditionalAddressCustomValidation&quot;:&quot;0&quot;,&quot;aditionalAddressCustomValidationCode&quot;:&quot;&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Address&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;address&quot;:{&quot;value&quot;:&quot;&quot;},&quot;aditional_address&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Zip Code&quot;,&quot;type&quot;:&quot;zip-code&quot;,&quot;formType&quot;:&quot;zip&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Zip Code&quot;,&quot;placeholder&quot;:&quot;Zip Code&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;0&quot;,&quot;required&quot;:&quot;1&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Zip Code&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;zip_code&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Mobile Number&quot;,&quot;type&quot;:&quot;mobile-number&quot;,&quot;formType&quot;:&quot;mobileNumber&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Mobile Number&quot;,&quot;placeholder&quot;:&quot;Mobile Number&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;,&quot;showPhoneVerificationCode&quot;:&quot;0&quot;,&quot;phoneVerificationCodeLabel&quot;:&quot;&quot;,&quot;phoneVerificationGetCodeBtnText&quot;:&quot;&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Mobile Number&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;phone&quot;:{&quot;value&quot;:&quot;&quot;},&quot;confirmation_code&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Promo Code&quot;,&quot;type&quot;:&quot;promo-code&quot;,&quot;formType&quot;:&quot;promoCode&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Promo Code&quot;,&quot;placeholder&quot;:&quot;Promo Code&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;required&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Promo Code&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;promo_code&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Deposit Limits&quot;,&quot;type&quot;:&quot;deposit-limits&quot;,&quot;formType&quot;:&quot;depositLimits&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Deposit Limits&quot;,&quot;showMaxDailyDeposit&quot;:&quot;1&quot;,&quot;dailyLabel&quot;:&quot;Max Daily Deposit&quot;,&quot;maxDailyDeposit&quot;:&quot;200&quot;,&quot;maxDailyRequired&quot;:&quot;1&quot;,&quot;showMaxWeeklyDeposit&quot;:&quot;1&quot;,&quot;weeklyLabel&quot;:&quot;Max Weekly Deposit&quot;,&quot;maxWeeklyDeposit&quot;:&quot;1000&quot;,&quot;maxWeeklyRequired&quot;:&quot;1&quot;,&quot;showMaxMonthlyDeposit&quot;:&quot;1&quot;,&quot;monthlyLabel&quot;:&quot;Max Monthly Deposit&quot;,&quot;maxMonthlyDeposit&quot;:&quot;5000&quot;,&quot;maxMonthlyRequired&quot;:&quot;1&quot;,&quot;showDepositTooltip&quot;:&quot;1&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;vars&quot;:{&quot;max_day_deposit&quot;:{&quot;value&quot;:&quot;&quot;},&quot;max_week_deposit&quot;:{&quot;value&quot;:&quot;&quot;},&quot;max_month_deposit&quot;:{&quot;value&quot;:&quot;&quot;}},&quot;validations&quot;:{&quot;required&quot;:false}}},{&quot;label&quot;:&quot;Notification Options&quot;,&quot;type&quot;:&quot;gdpr&quot;,&quot;formType&quot;:&quot;gdpr&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Notification Options&quot;,&quot;showInternalMessage&quot;:&quot;1&quot;,&quot;internalMessageLabel&quot;:&quot;Internal Message&quot;,&quot;showGdprPushNotification&quot;:&quot;1&quot;,&quot;pushNotificationLabel&quot;:&quot;Push Notification&quot;,&quot;showGdprPhoneCall&quot;:&quot;1&quot;,&quot;phoneCallLabel&quot;:&quot;Phone Call&quot;,&quot;showGdprEmail&quot;:&quot;1&quot;,&quot;gdprEmailLabel&quot;:&quot;Email&quot;,&quot;showGdprSms&quot;:&quot;1&quot;,&quot;gdprSMSLabel&quot;:&quot;SMS&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;vars&quot;:{&quot;subscribe_to_internal_message&quot;:{&quot;value&quot;:&quot;&quot;},&quot;subscribe_to_push_notification&quot;:{&quot;value&quot;:&quot;&quot;},&quot;subscribe_to_phone_call&quot;:{&quot;value&quot;:&quot;&quot;},&quot;subscribe_to_email&quot;:{&quot;value&quot;:&quot;&quot;},&quot;subscribe_to_sms&quot;:{&quot;value&quot;:&quot;&quot;}},&quot;validations&quot;:{&quot;required&quot;:false}}},{&quot;label&quot;:&quot;Terms and Conditions&quot;,&quot;type&quot;:&quot;tc-checkbox&quot;,&quot;formType&quot;:&quot;T&amp;C_Checkbox&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Terms and Conditions&quot;,&quot;placeholder&quot;:&quot;Terms and Conditions&quot;,&quot;required&quot;:0,&quot;showOnRegFields&quot;:1},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Terms and Conditions&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;tccheckbox&quot;:{&quot;value&quot;:&quot;&quot;}}}}],&quot;socialReg&quot;:[{&quot;label&quot;:&quot;facebook&quot;,&quot;type&quot;:&quot;facebook&quot;,&quot;formType&quot;:&quot;facebook&quot;,&quot;hidden&quot;:true,&quot;hasSettings&quot;:true},{&quot;label&quot;:&quot;google&quot;,&quot;type&quot;:&quot;google&quot;,&quot;formType&quot;:&quot;google&quot;,&quot;hidden&quot;:true,&quot;hasSettings&quot;:true}],&quot;myProfile&quot;:[{&quot;label&quot;:&quot;Edit Profile&quot;,&quot;sectionType&quot;:&quot;tabEditProfile&quot;,&quot;formType&quot;:&quot;tabEditProfile&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Change Password&quot;,&quot;sectionType&quot;:&quot;tabChangePassword&quot;,&quot;formType&quot;:&quot;tabChangePassword&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Documents&quot;,&quot;sectionType&quot;:&quot;tabDocuments&quot;,&quot;formType&quot;:&quot;tabDocuments&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Verify Account&quot;,&quot;sectionType&quot;:&quot;tabVerifyAccount&quot;,&quot;formType&quot;:&quot;tabVerifyAccount&quot;,&quot;hidden&quot;:true,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Self-Exclusion&quot;,&quot;sectionType&quot;:&quot;tabSelfExclusion&quot;,&quot;formType&quot;:&quot;tabSelfExclusion&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:true,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Time-Out&quot;,&quot;sectionType&quot;:&quot;tabTimeOut&quot;,&quot;formType&quot;:&quot;tabTimeOut&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:true,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Reality Check&quot;,&quot;sectionType&quot;:&quot;sessionTime&quot;,&quot;formType&quot;:&quot;sessionTime&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:true,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Accumulated Losses&quot;,&quot;sectionType&quot;:&quot;tabAccumulatedLosses&quot;,&quot;formType&quot;:&quot;tabAccumulatedLosses&quot;,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true,&quot;hidden&quot;:true},{&quot;label&quot;:&quot;Limits&quot;,&quot;sectionType&quot;:&quot;tabBetLimit&quot;,&quot;formType&quot;:&quot;tabBetLimit&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:true,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Notification options&quot;,&quot;sectionType&quot;:&quot;tabNotifications&quot;,&quot;formType&quot;:&quot;tabNotifications&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:true,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Close Account&quot;,&quot;sectionType&quot;:&quot;closeAccount&quot;,&quot;formType&quot;:&quot;closeAccount&quot;,&quot;hidden&quot;:true,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Session History&quot;,&quot;sectionType&quot;:&quot;tabLoginHistory&quot;,&quot;formType&quot;:&quot;tabLoginHistory&quot;,&quot;hidden&quot;:true,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;GAMSTOP&quot;,&quot;sectionType&quot;:&quot;tabGamstop&quot;,&quot;formType&quot;:&quot;tabGamstop&quot;,&quot;hidden&quot;:true,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Login Limit&quot;,&quot;sectionType&quot;:&quot;loginLimit&quot;,&quot;formType&quot;:&quot;loginLimit&quot;,&quot;hidden&quot;:true,&quot;hasSettings&quot;:true,&quot;showHide&quot;:true}],&quot;sections&quot;:[{&quot;label&quot;:&quot;My Wallet&quot;,&quot;sectionType&quot;:&quot;myWallet&quot;,&quot;formType&quot;:&quot;myWallet&quot;,&quot;hasSettings&quot;:true,&quot;showHide&quot;:false,&quot;hidden&quot;:false,&quot;type&quot;:&quot;section&quot;},{&quot;label&quot;:&quot;My Profile&quot;,&quot;sectionType&quot;:&quot;myProfile&quot;,&quot;formType&quot;:&quot;myProfile&quot;,&quot;hasSettings&quot;:true,&quot;showHide&quot;:false,&quot;hidden&quot;:false,&quot;type&quot;:&quot;section&quot;},{&quot;label&quot;:&quot;My Bets&quot;,&quot;sectionType&quot;:&quot;myBets&quot;,&quot;formType&quot;:&quot;myBets&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:true,&quot;showHide&quot;:false,&quot;type&quot;:&quot;section&quot;},{&quot;label&quot;:&quot;My Predictions&quot;,&quot;sectionType&quot;:&quot;myPredictions&quot;,&quot;formType&quot;:&quot;myPredictions&quot;,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true,&quot;hidden&quot;:true,&quot;type&quot;:&quot;section&quot;},{&quot;label&quot;:&quot;My Account Info&quot;,&quot;sectionType&quot;:&quot;myAccountInfo&quot;,&quot;formType&quot;:&quot;myAccountInfo&quot;,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true,&quot;hidden&quot;:true,&quot;type&quot;:&quot;section&quot;},{&quot;label&quot;:&quot;Bonuses&quot;,&quot;sectionType&quot;:&quot;bonuses&quot;,&quot;formType&quot;:&quot;bonuses&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:true,&quot;showHide&quot;:false,&quot;type&quot;:&quot;section&quot;},{&quot;label&quot;:&quot;Messages&quot;,&quot;sectionType&quot;:&quot;messages&quot;,&quot;formType&quot;:&quot;messages&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:false,&quot;showHide&quot;:false,&quot;type&quot;:&quot;section&quot;}],&quot;buttons&quot;:[{&quot;label&quot;:&quot;Sign Up&quot;,&quot;formType&quot;:&quot;signup&quot;,&quot;class&quot;:&quot;signup-btn sbRegisterBtn&quot;,&quot;show&quot;:&quot;signupShow&quot;,&quot;type&quot;:&quot;signupButtonType&quot;,&quot;text&quot;:&quot;signupButtonText&quot;,&quot;buttonStyle&quot;:&quot;signupButtonStyle&quot;,&quot;linkButtonFontSize&quot;:&quot;signupLinkButtonFontSize&quot;,&quot;linkButtonFontFamily&quot;:&quot;signupLinkButtonFontFamily&quot;,&quot;linkButtonColor&quot;:&quot;signupLinkButtonColor&quot;,&quot;linkButtonLetterSpacing&quot;:&quot;signupLinkButtonLetterSpacing&quot;,&quot;icon&quot;:&quot;signupButtonIcon&quot;,&quot;iconColor&quot;:&quot;signupButtonIconColor&quot;,&quot;iconSize&quot;:&quot;signupButtonIconSize&quot;},{&quot;label&quot;:&quot;Sign In&quot;,&quot;formType&quot;:&quot;signin&quot;,&quot;class&quot;:&quot;signin-btn sbLoginBtn&quot;,&quot;show&quot;:&quot;signinShow&quot;,&quot;type&quot;:&quot;signinButtonType&quot;,&quot;text&quot;:&quot;signinButtonText&quot;,&quot;buttonStyle&quot;:&quot;signinButtonStyle&quot;,&quot;linkButtonFontSize&quot;:&quot;signinLinkButtonFontSize&quot;,&quot;linkButtonFontFamily&quot;:&quot;signinLinkButtonFontFamily&quot;,&quot;linkButtonColor&quot;:&quot;signinLinkButtonColor&quot;,&quot;linkButtonLetterSpacing&quot;:&quot;signinLinkButtonLetterSpacing&quot;,&quot;icon&quot;:&quot;signinButtonIcon&quot;,&quot;iconColor&quot;:&quot;signinButtonIconColor&quot;,&quot;iconSize&quot;:&quot;signinButtonIconSize&quot;}],&quot;cancelButton&quot;:&quot;1&quot;,&quot;bonusCodeButton&quot;:&quot;1&quot;,&quot;showBonusBalance&quot;:&quot;1&quot;,&quot;sportsBookBonusTab&quot;:&quot;1&quot;,&quot;casinoBonusTab&quot;:&quot;1&quot;,&quot;latinCharactersOn&quot;:&quot;0&quot;,&quot;regSteps&quot;:&quot;0&quot;,&quot;depositLimits&quot;:&quot;1&quot;,&quot;showDailyDeposit&quot;:&quot;1&quot;,&quot;showWeeklyDeposit&quot;:&quot;1&quot;,&quot;showMonthlyDeposit&quot;:&quot;1&quot;,&quot;betLimits&quot;:&quot;1&quot;,&quot;showSinglBetSport&quot;:&quot;1&quot;,&quot;showDailyBetSport&quot;:&quot;1&quot;,&quot;showWeeklyBetSport&quot;:&quot;0&quot;,&quot;showMonthlyBetSport&quot;:&quot;0&quot;,&quot;showSinglBetCasino&quot;:&quot;1&quot;,&quot;showDailyBetCasino&quot;:&quot;1&quot;,&quot;autoWithdraw&quot;:&quot;0&quot;,&quot;showDepositCancel&quot;:&quot;0&quot;,&quot;week-1&quot;:&quot;1&quot;,&quot;months-1&quot;:&quot;1&quot;,&quot;months-3&quot;:&quot;0&quot;,&quot;months-6&quot;:&quot;1&quot;,&quot;years-1&quot;:&quot;1&quot;,&quot;years-2&quot;:&quot;0&quot;,&quot;years-3&quot;:&quot;1&quot;,&quot;years-5&quot;:&quot;0&quot;,&quot;years-500&quot;:&quot;1&quot;,&quot;timeout-days-7&quot;:&quot;1&quot;,&quot;timeout-days-14&quot;:&quot;1&quot;,&quot;timeout-months-1&quot;:&quot;1&quot;,&quot;timeout-months-3&quot;:&quot;0&quot;,&quot;timeout-months-2&quot;:&quot;1&quot;,&quot;timeout-years-1&quot;:&quot;1&quot;,&quot;timeout-years-2&quot;:&quot;1&quot;,&quot;timeout-days-1&quot;:&quot;1&quot;,&quot;timeout-days-42&quot;:&quot;1&quot;,&quot;other&quot;:&quot;1&quot;,&quot;betSlip&quot;:&quot;1&quot;,&quot;document&quot;:&quot;1&quot;,&quot;passport&quot;:&quot;1&quot;,&quot;driveLicense&quot;:&quot;1&quot;,&quot;iBAN&quot;:&quot;1&quot;,&quot;socialCardId&quot;:&quot;1&quot;,&quot;bankNameType&quot;:&quot;0&quot;,&quot;selfExclusionType&quot;:&quot;2&quot;,&quot;timeOutType&quot;:&quot;1&quot;,&quot;facebookShareButton&quot;:&quot;0&quot;,&quot;showBonusSingleGame&quot;:&quot;0&quot;,&quot;showBetButton&quot;:&quot;0&quot;,&quot;bonusVerification&quot;:&quot;0&quot;,&quot;loginLimit30min&quot;:&quot;1&quot;,&quot;loginLimit1h&quot;:&quot;1&quot;,&quot;loginLimit2h&quot;:&quot;1&quot;,&quot;loginLimit4h&quot;:&quot;1&quot;,&quot;loginLimit6h&quot;:&quot;1&quot;,&quot;loginLimit8h&quot;:&quot;1&quot;,&quot;hideFreebetEndDate&quot;:&quot;1&quot;,&quot;showLoyalty&quot;:&quot;0&quot;,&quot;showBonusReminder&quot;:&quot;0&quot;,&quot;accountVerificationPopup&quot;:&quot;0&quot;,&quot;hidePaymentMethodName&quot;:&quot;0&quot;,&quot;hideCancelWithdrawal&quot;:&quot;0&quot;,&quot;hideZeroBonusBalance&quot;:&quot;1&quot;,&quot;hideBalanceCurrency&quot;:&quot;1&quot;,&quot;confirmByPasswordSE&quot;:&quot;0&quot;,&quot;confirmByPasswordTimeOut&quot;:&quot;0&quot;,&quot;borderRadius&quot;:&quot;4&quot;,&quot;shadowColor&quot;:&quot;rgba(0,0,0,0.1)&quot;,&quot;shadowSpread&quot;:&quot;0&quot;,&quot;shadowBlur&quot;:&quot;20&quot;,&quot;shadowY&quot;:&quot;4&quot;,&quot;shadowX&quot;:&quot;4&quot;,&quot;shadow&quot;:&quot;0&quot;,&quot;resetPassViaSMS&quot;:&quot;0&quot;,&quot;openIn&quot;:&quot;popup&quot;,&quot;inPageDefaultSlide&quot;:&quot;sign-in&quot;,&quot;accountFormFieldsButtonStyle&quot;:&quot;btn1&quot;,&quot;signinHorizontal&quot;:&quot;0&quot;,&quot;signinHorizontalInputHeight&quot;:30,&quot;signupPopupLink&quot;:&quot;&quot;,&quot;signinPopupLink&quot;:&quot;&quot;,&quot;includeSignUp&quot;:&quot;1&quot;,&quot;includeSignIn&quot;:&quot;1&quot;,&quot;realityValuesCheckbox&quot;:[&quot;0&quot;,&quot;10&quot;,&quot;20&quot;,&quot;30&quot;,&quot;45&quot;,&quot;60&quot;,&quot;120&quot;,&quot;240&quot;,&quot;360&quot;,&quot;480&quot;],&quot;realityDefaultValue&quot;:&quot;0&quot;,&quot;tabNotificationsShowInternalMessage&quot;:&quot;1&quot;,&quot;tabNotificationsShowPushNotification&quot;:&quot;1&quot;,&quot;tabNotificationsShowPhoneCall&quot;:&quot;1&quot;,&quot;tabNotificationsShowEmail&quot;:&quot;1&quot;,&quot;tabNotificationsShowSms&quot;:&quot;1&quot;,&quot;afterSendMessageText&quot;:&quot;&quot;,&quot;appendCustomCodeWithdraw&quot;:&quot;0&quot;,&quot;customCodeWithdraw&quot;:&quot;&quot;,&quot;appendCustomCodeDeposit&quot;:&quot;0&quot;,&quot;customCodeDeposit&quot;:&quot;&quot;,&quot;labelsOn&quot;:&quot;0&quot;,&quot;placeholdersOn&quot;:&quot;1&quot;,&quot;appendCustomCode&quot;:&quot;0&quot;,&quot;customCode&quot;:&quot;&quot;,&quot;appendCustomCodeLogin&quot;:&quot;0&quot;,&quot;customCodeLogin&quot;:&quot;&quot;,&quot;horizontalAlign&quot;:&quot;right&quot;,&quot;padding&quot;:&quot;0px 0px 0px 0px&quot;,&quot;visibility&quot;:[&quot;all&quot;,&quot;2&quot;,&quot;3&quot;,&quot;4&quot;],&quot;facebookId&quot;:&quot;1632489186842023&quot;,&quot;googleId&quot;:&quot;206018844875-smpdvcdtkqgvh0d5aq69ptkauabkclbq.apps.googleusercontent.com&quot;,&quot;closeAccount&quot;:&quot;0&quot;,&quot;onSportAvatars&quot;:&quot;1&quot;,&quot;onPoliticAvatars&quot;:&quot;0&quot;,&quot;appendCustomCodeProfileUpdate&quot;:&quot;0&quot;,&quot;customCodeProfileUpdate&quot;:&quot;&quot;,&quot;maxWidth&quot;:-1,&quot;ticketPrinting&quot;:&quot;0&quot;,&quot;showCustomCities&quot;:&quot;0&quot;,&quot;checkedByDefault&quot;:&quot;0&quot;,&quot;visibilityIncludeExclude&quot;:1,&quot;visibilityByCountryCity&quot;:1,&quot;visibilityCountryCity&quot;:[&quot;US&quot;,&quot;MX&quot;,&quot;CO&quot;,&quot;GB&quot;],&quot;visibilitySession&quot;:1,&quot;visibilityUserGroups&quot;:[&quot;1&quot;]},&quot;paymentParams&quot;:[]}">
-                                                <div id="ember36" class="ember-view">
-                                                    <div id="ember51" class="ember-view">
-                                                        <div id="ember52" class="loginRegisterButtons sb-login-register-buttons clearfix ember-view">
-                                                            <style>
-                                                                #ember51 .sb-login-register-buttons .signup-btn.link {
-                                                                    color: rgb(255, 255, 255);
-                                                                    font-size: 14px;
-                                                                    letter-spacing: 1px;
-                                                                    font-family: Roboto;
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons .signup-btn.link:hover {
-                                                                    color: rgb(255, 255, 255);
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons .signin-btn.link {
-                                                                    color: rgb(255, 255, 255);
-                                                                    font-size: 14px;
-                                                                    letter-spacing: 0px;
-                                                                    font-family: Roboto;
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons .signin-btn.link:hover {
-                                                                    color: rgb(246, 219, 124);
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons.vertical a {
-                                                                    margin: 0 0 9px 0;
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons:not(.vertical) a {
-                                                                    margin: 0 9px 0 0;
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons .icon-block.signup-btn {
-                                                                    width: 36px;
-                                                                    height: 36px;
-                                                                    color: #303838;
-                                                                    fill: #303838;
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons .icon-block.signup-btn:hover {
-                                                                    color: #303838;
-                                                                    fill: #303838;
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons .icon-block.signin-btn {
-                                                                    width: 36px;
-                                                                    height: 36px;
-                                                                    color: #303838;
-                                                                    fill: #303838;
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons .icon-block.signin-btn:hover {
-                                                                    color: #303838;
-                                                                    fill: #303838;
-                                                                }
-
-
-                                                                [dir="rtl"] #ember52.sb-login-register-buttons:not(.vertical) a {
-                                                                    margin: 0 0 0 9px;
-                                                                }
-                                                            </style>
-
-                                                            <div id="ember54" class="ember-view"> <a class="btn signup-btn sbRegisterBtn btn1" data-ember-action="" data-ember-action-55="55">
-                                                                    <span class="btn-text">REGISTER</span>
-                                                                </a>
-                                                            </div>
-                                                            <div id="ember57" class="ember-view"> <a class="link signin-btn sbLoginBtn" data-ember-action="" data-ember-action-58="58">
-                                                                    <span class="btn-text">SIGN IN</span>
-                                                                </a>
-                                                            </div>
-
-                                                            <!---->
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <script>
-                                                window['termsLink'] = "https://www.vbet.com/general-terms-and-conditions";
-                                                window['termsLinkTarget'] = "_blank";
-
-                                                window['privacyPolicyLink'] = "https://www.vbet.com/privacy-policy";
-                                                window['privacyPolicyTarget'] = "_blank";
-                                            </script>
-                                            <script type="text/javascript">
-                                                (function() {
-                                                    var po = document.createElement('script');
-                                                    po.type = 'text/javascript';
-                                                    po.async = true;
-                                                    po.src = 'https://apis.google.com/js/client.js';
-                                                    var s = document.getElementsByTagName('script')[0];
-                                                    s.parentNode.insertBefore(po, s);
-                                                })();
-                                            </script>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="column col-xs-1 " datacolumn-id="19007" style="  padding:5px 0px;     ">
-                                <div class="column-container vertical-center" style="">
-                                    <div class="module-container   only-mobile   align-center ModuleLanguageSwitcher
-                         first   last                         " style=" padding-right:0px;padding-left:0px;;  ">
-                                        <div class="  module ModuleLanguageSwitcher " datamodule-id="50382">
-                                            <style>
-                                                .ModuleLanguageSwitcher[datamodule-id="50382"] .uci-dropdown-arrow-down.lng-ic-down {
-                                                    font-size: 11px;
-                                                }
-
-                                                .ModuleLanguageSwitcher[datamodule-id="50382"] .flag {
-                                                    height: 16px;
-                                                    width: 24px;
-                                                }
-
-                                                .ModuleLanguageSwitcher[datamodule-id="50382"] .uci-dropdown-arrow-down,
-                                                .custom-arrow-dropdown {
-                                                    margin-left: 0px;
-                                                }
-
-                                                html[dir=rtl] .ModuleLanguageSwitcher[datamodule-id="50382"] .uci-dropdown-arrow-down,
-                                                html[dir=rtl] .ModuleLanguageSwitcher[datamodule-id="50382"] .custom-arrow-dropdown {
-                                                    margin-right: 0px;
-                                                    margin-left: 0;
-                                                }
-                                            </style>
-                                            <div class="languages open-on-hover top">
-                                                <div class="main-language">
-                                                    <span class="flag" style="background-image: url(https://static.betconstruct.me/fs/userFiles/vbetcom-updated/media/en-gb-15922103539725.svg);"></span>
-                                                    <span class="name ">
-                                                        EN
-                                                    </span>
-                                                </div>
-                                                <ul class="native-scroll-box">
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'tr');" data-href="https://www.vbet.com/tr/spor-bahis-kurallari" class="" href="https://www.vbet.com/tr/spor-bahis-kurallari">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/assets/images/flags64/tr-tr.svg?v=1596804054);"></span>
-                                                            <span class="name">
-                                                                TR
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'ka');" data-href="https://www.vbet.com/ka/სპორტული-ფსონები" class="" href="https://www.vbet.com/ka/სპორტული-ფსონები">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/assets/images/flags64/ka-ge.svg?v=1596804054);"></span>
-                                                            <span class="name">
-                                                                GE
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'ru');" data-href="https://www.vbet.com/ru/sportivnye-stavki" class="" href="https://www.vbet.com/ru/sportivnye-stavki">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/assets/images/flags64/ru-ru.svg?v=1596804054);"></span>
-                                                            <span class="name">
-                                                                RU
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'uk');" data-href="https://www.vbet.com/uk/sportivnі-stavki" class="" href="https://www.vbet.com/uk/sportivnі-stavki">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/assets/images/flags64/uk-ua.svg?v=1596804054);"></span>
-                                                            <span class="name">
-                                                                UA
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'es');" data-href="https://www.vbet.com/es/apuestas-deportivas" class="" href="https://www.vbet.com/es/apuestas-deportivas">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/assets/images/flags64/es-es.svg?v=1596804054);"></span>
-                                                            <span class="name">
-                                                                ES
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'pt-br');" data-href="https://www.vbet.com/pt-br/apostas-desportivas" class="" href="https://www.vbet.com/pt-br/apostas-desportivas">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/fs/userFiles/vbetcom-updated/media/pt-br-15922100925062.svg);"></span>
-                                                            <span class="name">
-                                                                PT
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'fra');" data-href="https://www.vbet.com/fra/paris-sportifs" class="" href="https://www.vbet.com/fra/paris-sportifs">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/fs/userFiles/vbetcom-updated/media/fr.svg);"></span>
-                                                            <span class="name">
-                                                                FR
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'fa');" data-href="https://www.vbet.com/fa/قوانین-شرطبندی-ورزشی-1" class="" href="https://www.vbet.com/fa/قوانین-شرطبندی-ورزشی-1">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/assets/images/flags64/fa.svg?v=1596804054);"></span>
-                                                            <span class="name">
-                                                                FA
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="margin-container" data-type="row" style="bottom:-0vh;">
-                        <div class="margin-controller"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="header-row-wrapper">
-            <div class="uc-row-wrapper ">
-                <div class="uc-row                             header-row  
-                        
-                                                        " data-id="23069" style="  ">
-                    <div class="row-container ">
-                        <div class="row headerRow " style="">
-                            <div class="column col-xs-12 " datacolumn-id="36329" style="  padding:0px 0px;     ">
-                                <div class="column-container " style="">
-                                    <div class="module-container  align-center ModuleCustomHtml
-                         first   last                         ">
-                                        <div class="  module ModuleCustomHtml " datamodule-id="101856">
-                                            <div class="custom-html-container">
-                                                <style>
-                                                    table>tbody>tr:nth-of-type(odd) {
-                                                        background: rgba(255, 255, 255, 0.02);
-                                                    }
-
-                                                    table>tbody>tr:nth-of-type(even) {
-                                                        background: rgba(255, 255, 255, 0.04);
-                                                    }
-
-                                                    table>tbody:first-child>tr:first-child {
-                                                        background: rgba(255, 255, 255, 0.1);
-                                                    }
-
-
-                                                    .loggedInStateButtons li {
-                                                        color: #3a335a !important;
-                                                    }
-
-                                                    .bottomnavigation>div>.row.headerRow>div:last-child>div>div:nth-child(2) {
-                                                        padding-right: 0px !important;
-                                                        padding-left: 30px !important;
-                                                        padding-bottom: 0 !important;
-                                                    }
-
-                                                    .bottomnavigation>div>.row.headerRow>div:last-child>div>div:nth-child(3) {
-                                                        display: none !important;
-                                                    }
-
-                                                    table>tbody>tr:nth-of-type(odd) {
-                                                        background: rgba(255, 255, 255, 0.02);
-                                                    }
-
-                                                    table>tbody>tr:nth-of-type(even) {
-                                                        background: rgba(255, 255, 255, 0.04);
-                                                    }
-
-                                                    table>tbody:first-child>tr:first-child {
-                                                        background: rgba(255, 255, 255, 0.1);
-                                                    }
-
-                                                    table>thead>tr:first-child {
-                                                        background: rgba(255, 255, 255, 0.1);
-                                                    }
-
-                                                    @media screen and (max-width: 1280px) and (min-width: 1024px) {
-
-                                                        .vbetheader .navigation-inner.horizontal .page a {
-                                                            font-size: 11px !important;
-                                                        }
-
-                                                    }
-
-                                                    .magenta_shadow a.btn:hover {
-                                                        box-shadow: 0 2px 11px 0 rgba(216, 40, 143, .64) !important;
-                                                    }
-
-                                                    .green_shadow a.btn:hover {
-                                                        box-shadow: 0 2px 11px 0 rgba(32, 205, 142, .6) !important;
-                                                    }
-
-                                                    .contactIcon img {
-                                                        width: 28px;
-                                                        cursor: pointer;
-                                                    }
-
-
-
-                                                    .mobileContactIcon img {
-                                                        width: 28px;
-                                                    }
-
-                                                    @media screen and (min-width: 980px) {
-                                                        .footer-rows>.uc-row-wrapper>.uc-row>.row-container {
-                                                            max-width: 1830px;
-                                                            width: 100%;
-                                                            margin: 0 auto;
-                                                            padding: 0 15px;
-                                                        }
-                                                    }
-
-                                                    .row-on-module .module-container .dark-button-hover .btn:hover {
-                                                        box-shadow: 0px 2px 11px 0 rgba(32, 205, 142, .6);
-                                                    }
-
-                                                    .row-on-module .module-container .btn:hover {
-                                                        box-shadow: 0px 2px 11px 0 rgba(32, 205, 142, .6);
-                                                    }
-
-                                                    .footer-rows>.uc-row-wrapper:first-child>.first>.row-container {
-                                                        max-width: 1830px;
-                                                        margin: 0 auto;
-                                                        padding: 0 15px;
-                                                    }
-
-                                                    .footer-rows .uc-row {
-                                                        background: rgb(23, 10, 52) !important;
-                                                        ;
-                                                    }
-
-                                                    #hoory-root {
-                                                        left: 20px;
-                                                        right: auto;
-                                                    }
-
-                                                    .footer-rows .uc-row-wrapper:last-child .footerRow {
-                                                        max-width: 1750px;
-                                                        margin: 0 auto;
-                                                    }
-
-                                                    .mobile #hoory-root {
-                                                        bottom: 90px;
-                                                        z-index: 9 !important;
-                                                    }
-
-
-                                                    .btn {
-                                                        border-radius: 3px !important;
-                                                        text-transform: uppercase !important;
-                                                    }
-
-                                                    @media screen and (max-width: 1400px) {
-                                                        .vbetheader .headerRow>.col-xs-5 .ModuleNavigation {
-                                                            padding: 0 20px !important;
-                                                        }
-
-                                                        .media-menu #navigation-10613>div>ul>li.page:not(:last-child) {
-                                                            margin-right: 10px;
-                                                        }
-                                                    }
-
-                                                    @media screen and (min-width: 980px) {
-                                                        html .popup-wrapper-inner .row-container {
-                                                            padding: 0 !important;
-                                                        }
-                                                    }
-
-                                                    @media screen and (max-width: 980px) {
-
-                                                        .layers-container .layer .off-canvas.open {
-                                                            background: #1d184e;
-                                                        }
-
-                                                    }
-
-                                                    @media screen and (max-width: 980px) {
-
-                                                        .header-rows .header-row-wrapper:nth-child(3) {
-                                                            position: fixed;
-                                                            bottom: 0;
-                                                        }
-
-                                                        .bottomnavigation {
-                                                            transform: translate3d(0, 0, 0);
-                                                        }
-
-                                                        .push {
-                                                            background: #170a34;
-                                                        }
-
-                                                        .gdpr-popup-container .gdpr-popup .gdpr-popup-body .gdpr-popup-fields .gdpr-popup-field .checkbox-group .checkbox:not(:first-child),
-                                                        .gdpr-popup-container .gdpr-popup1 .gdpr-popup-body .gdpr-popup-fields .gdpr-popup-field .checkbox-group .checkbox:not(:first-child) {
-                                                            padding-left: 20px;
-                                                        }
-
-                                                    }
-
-                                                    @media screen and (max-width: 414px) and (min-width: 376px) {
-                                                        .header-rows .ModuleNavigation>.navigation-inner:not(.in-canvas) {
-                                                            text-align: center;
-                                                        }
-
-                                                        .header-rows .ModuleNavigation>.navigation-inner:not(.in-canvas)>.off-canvas-button {
-                                                            height: 34px !important;
-                                                            text-align: center;
-                                                        }
-                                                    }
-
-                                                    @media screen and (max-width: 480px) {
-
-                                                        .bottomnavigation>div>.row.headerRow>div:last-child>div>div:nth-child(2) {
-                                                            padding: 0 !important;
-                                                        }
-
-                                                    }
-                                                </style>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="margin-container" data-type="row">
-                        <div class="margin-controller"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<div class="header-and-main-rows  " style="background: rgb(246, 246, 246); margin-bottom: -389.906px;">
+    <?php include_once('includes/nav.php'); ?>
+    
     <div class="main-rows">
         <div class="uc-row-wrapper ">
             <div class="uc-row    last                           
                         
-                                                        " data-id="391" style="   margin-bottom:4.9554013875124vh;  ">
+                                                        " data-id="13386" style="   margin-bottom:4.9554013875124vh;  ">
                 <div class="row-container  container ">
                     <div class="row mainRow" style="">
-                        <div class="column col-sm-6 uc-animation affix active" datacolumn-id="609" data-effect="affix" style="  padding:0vh 0vh;     ">
+                        <div class="column col-sm-6 uc-animation affix active" datacolumn-id="22318" data-effect="affix" style="  padding:0vh 0vh;     ">
                             <div class="column-container vertical-top" style=" margin-top:1.982160555005vh; ">
                                 <div class="affix-column" style="top:  20px">
                                     <div class="module-container   only-mobile   align-center ModuleSpace
                          first                          ">
-                                        <div class="  module ModuleSpace " datamodule-id="1532">
+                                        <div class="  module ModuleSpace " datamodule-id="61283">
                                             <div class="space-container">
                                                 <div class="space-inner" style="height: 10px;">
                                                 </div>
                                             </div>
                                             <style>
-                                                .ModuleSpace[datamodule-id="1532"] .space-container {
+                                                .ModuleSpace[datamodule-id="61283"] .space-container {
                                                     border-radius: 0 0 0 0;
                                                     background: transparent;
                                                 }
 
-                                                .ModuleSpace[datamodule-id="1532"]:hover .space-container {
+                                                .ModuleSpace[datamodule-id="61283"]:hover .space-container {
                                                     border-radius: 0 0 0 0;
                                                 }
                                             </style>
                                             <style>
-                                                .ModuleSpace[datamodule-id="1532"] .uc-row .column:first-child {
+                                                .ModuleSpace[datamodule-id="61283"] .uc-row .column:first-child {
                                                     border-bottom-left-radius: 0;
                                                     border-top-left-radius: 0;
                                                 }
 
-                                                .ModuleSpace[datamodule-id="1532"] .uc-row .column:last-child {
+                                                .ModuleSpace[datamodule-id="61283"] .uc-row .column:last-child {
                                                     border-bottom-right-radius: 0;
                                                     border-top-right-radius: 0;
                                                 }
@@ -1078,23 +436,23 @@ include_once('includes/header.php');
                                     </div>
                                     <div class="module-container  align-left ModuleTitle
                                                  " style=" padding-right:40px;padding-left:40px;;   padding-bottom:2.0833333333333vh; ">
-                                        <div class="  casinottl  module ModuleTitle " datamodule-id="1457">
+                                        <div class="  casinottl  module ModuleTitle " datamodule-id="61284">
                                             <div class="uc-content">
-                                                <h1 style="color:rgb(255, 255, 255);"><span style="font-family:'Arm Hmks Bebas Neue Regular Custom';"><span style="color:rgb(53, 53, 53);"><strong>Sport Betting Rules</strong></span></span></h1>
+                                                <h1 style="color:rgb(255, 255, 255);"><span style="font-family:'Arm Hmks Bebas Neue Regular Custom';"><span style="color:rgb(53, 53, 53);"><strong>Reglas de apuestas deportivas</strong></span></span></h1>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="module-container  align-left ModuleParagraph
                                                  " style=" padding-right:40px;padding-left:40px;;   padding-bottom:1.982160555005vh; ">
-                                        <div class="  module ModuleParagraph " datamodule-id="1458" style="display:block;max-width:952px;">
+                                        <div class="  module ModuleParagraph " datamodule-id="61285" style="display:block;max-width:952px;">
                                             <div class="uc-content ">
-                                                <p style="color:rgb(32, 37, 49);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Each sport type is unique and rules for one are exclusions for another! Be aware of our sport betting rules, applicable for our website! Know the rules, know the game! Play responsibly!</strong></span></span></p>
+                                                <p style="line-height:13.5pt;"><span style="color:black;"><strong>Cada tipo de deporte es único y las reglas para uno son diferentes para otro. Conozca nuestras reglas de apuestas deportivas, aplicables a nuestro sitio web ¡Conozca las reglas, conozca el juego! ¡Juegue responsablemente!</strong></span></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:40px;;   padding-bottom:1.982160555005vh; ">
-                                        <div class="  module ModuleDivider " datamodule-id="1459" style="display:block;max-width:60px;">
+                                        <div class="  module ModuleDivider " datamodule-id="61286" style="display:block;max-width:60px;">
                                             <div class="divider-container">
                                                 <div class="divider-inner" style="height: 2px; "></div>
                                             </div>
@@ -1102,10 +460,10 @@ include_once('includes/header.php');
                                     </div>
                                     <div class="module-container  align-left ModuleButton
                           last                         " style=" padding-right:40px;padding-left:40px;;  ">
-                                        <div class="  module ModuleButton " datamodule-id="1460">
+                                        <div class="  module ModuleButton " datamodule-id="61287">
                                             <div class="button">
-                                                <a class="btn buttons1558357729029" href="https://www.vbet.com/pre-match" target="_self" rel="">
-                                                    <span class="btn-text">BET NOW</span>
+                                                <a class="btn buttons1558357729029" href="https://www.vbet.com/es/deportes" target="_self" rel="">
+                                                    <span class="btn-text">Apostar ahora</span>
                                                 </a>
                                             </div>
                                             <style>
@@ -1115,32 +473,32 @@ include_once('includes/header.php');
                                 </div>
                             </div>
                         </div>
-                        <div class="column col-sm-6 " datacolumn-id="610" style="  padding:0vh 0vh;     ">
+                        <div class="column col-sm-6 " datacolumn-id="22319" style="  padding:0vh 0vh;     ">
                             <div class="column-container vertical-top" style=" margin-top:1.982160555005vh; ">
                                 <div class="module-container   only-mobile   align-center ModuleSpace
                          first                          ">
-                                    <div class="  module ModuleSpace " datamodule-id="19591">
+                                    <div class="  module ModuleSpace " datamodule-id="61289">
                                         <div class="space-container">
                                             <div class="space-inner" style="height: 10px;">
                                             </div>
                                         </div>
                                         <style>
-                                            .ModuleSpace[datamodule-id="19591"] .space-container {
+                                            .ModuleSpace[datamodule-id="61289"] .space-container {
                                                 border-radius: 0 0 0 0;
                                                 background: transparent;
                                             }
 
-                                            .ModuleSpace[datamodule-id="19591"]:hover .space-container {
+                                            .ModuleSpace[datamodule-id="61289"]:hover .space-container {
                                                 border-radius: 0 0 0 0;
                                             }
                                         </style>
                                         <style>
-                                            .ModuleSpace[datamodule-id="19591"] .uc-row .column:first-child {
+                                            .ModuleSpace[datamodule-id="61289"] .uc-row .column:first-child {
                                                 border-bottom-left-radius: 0;
                                                 border-top-left-radius: 0;
                                             }
 
-                                            .ModuleSpace[datamodule-id="19591"] .uc-row .column:last-child {
+                                            .ModuleSpace[datamodule-id="61289"] .uc-row .column:last-child {
                                                 border-bottom-right-radius: 0;
                                                 border-top-right-radius: 0;
                                             }
@@ -1149,47 +507,47 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1461" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61290" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>American Football</strong></span></span></h5>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The overtime is taken into account in the calculation of all markets, except for the market “the first half / match”, “The difference in points” and “The outcome of the fourth quarter”.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If a match is interrupted for more than 24 hours , all bets are refundable, except for the ones, the outcome of which was clearly defined by the time the match was stopped.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If a match was postponed for more than 24 hours, all bets are refundable.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following items are suggested for betting on American football:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. Winner.</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the match. The rates are accepted taking into account the overtime.</span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. Total.</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of goals scored is equal to the total of the rate, bets are returned. The same applies for the individual total of a team or a player.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rates are accepted taking into account the overtime.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. Handicap.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the handicap has only 2 options (only win 1 or win 2, without the option of a draw) in case of a tie taking into account the Handicap, a refund takes place (regardless of the period for which the match is invited to bet).</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. The first half / match.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">To win the bet, you have to guess the outcome of the first half and the match. The overtime is not taken into account.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. Rates on a quarter.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Rates are offered on the winner, the winner with a handicap or the total number of points corresponding to the quarter of the match. Which team is leading in the match after the corresponding quarter, is not taken into account. The overtime is not taken into account.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. The first / last scorer of the touchdown.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">To win the bet, you should guess, respectively, the scorer of the first or last touchdown in the match. The player must play more than the first second in the match in order for bets to be considered valid, otherwise bets will be void.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. Betting on the first half.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">To win a bet, you need to guess the winner of the first half of the match. Bets are void if the match is interrupted before the end of the second quarter.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>8. First / Next efficient Play.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">To win a bet, you need to guess what will be the first/next efficient action/Scoring Play/: touchdown, goal against the gates or safety. If a match was interrupted or ended up before the end of the touchdown, the goal against the gates or safety, bets will be void.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>9. In this given type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></h6>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Futbol americano</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">a. El tiempo extra se tiene en cuenta en el cálculo de todos los mercados, excepto para el mercado "primera mitad / partido", "la diferencia en puntos" y "el resultado del cuarto cuarto".</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">b. Si un partido es interrumpido por más de 24 horas, todas las apuestas son reembolsables, excepto las que se definieron claramente en el momento en que se detuvo el partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">c. Si un partido se pospuso por más de 24 horas, todas las apuestas son reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">d. Se sugiere lo siguiente para apostar en el fútbol americano:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. Ganador.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el resultado del partido. Las tasas son aceptadas teniendo en cuenta el tiempo extra.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. Total.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de goles marcados es igual al total de la tasa, las apuestas se devuelven. Lo mismo se aplica para el total individual de un equipo o un jugador.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las tasas son aceptadas teniendo en cuenta el tiempo extra.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. Hándicap.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el hándicap tiene sólo 2 opciones (sólo gana 1 o gana 2, sin la opción de un empate) en caso de empate teniendo en cuenta el Hándicap, se realiza el reembolso (independientemente del período para el que se va a apostar).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. La primera mitad / partido.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para ganar la apuesta, tiene que adivinar el resultado de la primera mitad y el partido. El tiempo extra no se tiene en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. Tasas en un cuarto</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las tasas se ofrecen en el ganador, el ganador con un hándicap o el número total de puntos correspondientes al cuarto del partido. ¿Qué equipo va ganando en el partido después del cuarto correspondiente?, no se tiene en cuenta. El tiempo extra no es tomando en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. El primer / último anotador de touchdown</strong>.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para ganar la apuesta, usted debe adivinar, respectivamente, el anotador del primer o último touchdown en el partido. El jugador debe jugar más del primer segundo en el partido para que las apuestas sean consideradas válidas, de lo contrario las apuestas serán anuladas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>7. Apuestas en la primera mitad.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para ganar una apuesta, usted necesita adivinar el ganador de la primera mitad del partido. Las apuestas son nulas si el partido se interrumpe antes del final del segundo cuarto.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>8. Primer / Próximo juego eficiente.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para ganar una apuesta, usted necesita adivinar cuál será la primera / siguiente acción eficiente / Juego de puntuación /: touchdown, gol contra las puertas o seguridad. Si un partido fue interrumpido o terminó antes del final del touchdown, gol contra las puertas o seguridad, las apuestas serán nulas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p><span style="color:rgba(0, 0, 0, 0.69);"><strong>9. En este tipo de deporte, se pueden ofrecer otros resultados aparte de los mencionados anteriormente.</strong></span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1462" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61291" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -1197,43 +555,41 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1463" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61292" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Australian football</strong></span></span></h5>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Overtime is taken into account in the calculation of all markets, except the markets “The first half / match”, “The difference in points” and “The outcome of the fourth quarter”.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If a match is interrupted for more than 24 hours, all bets are refundable, except the ones the outcome of which was clearly defined by the time of stoppage of the match.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In the event of the postponing of the start time of the match for more than 24 hours, all bets are refundable.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following items are suggested for betting on Australian football:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. Winner.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the match. The rates are accepted taking into account the overtime.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. Total.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of scored goals is equal to the Total of the rate, a refund takes place. The same applies for the individual Total of a team or a player.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rates are accepted taking into account the overtime.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. Handicap.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the handicap has only 2 options (only win 1 or win 2, without the option of a draw) in case of a tie taking into account the Handicap, a refund takes place (regardless of the period for which the match is suggested to bet).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. The first half / match.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">To win the bet, you have to guess the outcome of the first half and the match. Overtime is not taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. Rates on a quarter.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Rates are offered on the winner, the winner with a handicap or with the total number of points corresponding to the quarter of the match. Which team is leading in the match after the corresponding quarter is not taken into account. Overtime is not taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. Betting on the first half.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">To win a bet, you need to guess the winner of the first half of the match. Bets are void if the match was interrupted before the end of the second quarter.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. In this given type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></h6>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Fútbol australiano</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">a. El tiempo extra se tiene en cuenta en el cálculo de todos los mercados, excepto en los mercados "Primera mitad/partido", “Diferencia en puntos" y "Resultado del cuarto cuarto".</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">b. Si un partido es interrumpido por más de 24 horas, todas las apuestas son reembolsables, excepto aquellas cuyo resultado fue definido claramente en el momento de la interrupción del partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">c. En caso se posponga la hora de inicio del partido por más de 24 horas, todas las apuestas son reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">d. Los siguientes elementos son sugeridos para apostar en el fútbol australiano:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. Ganador.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el resultado del partido. Las tasas son aceptadas teniendo en cuenta el tiempo extra</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. Total.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de goles marcados es igual al Total de la tasa, se realiza un reembolso. Lo mismo es aplicado para el total individual de un equipo o un jugador.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las tasas son aceptadas teniendo en cuenta el tiempo extra.&nbsp;&nbsp;</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. Hándicap.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el hándicap tiene sólo 2 opciones (solo gana 1 o gana 2, sin la opción de empate) en caso de empate teniendo en cuenta el Hándicap, se realiza un reembolso (sin importar el período para el que se sugiere apostar).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. La primera mitad / partido.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para ganar la apuesta, tiene que adivinar el resultado de la primera mitad y del partido. El tiempo extra&nbsp;no es tomado en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. Tasas en el cuarto.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las tasas se ofrecen en el ganador, el ganador con un hándicap o con el número total de puntos correspondientes al cuarto del partido. ¿Qué equipo va ganando el partido después del cuarto correspondiente no es tomado en cuenta. El tiempo extra no es tomado en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. Apuestas en la primera mitad.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para ganar una apuesta, usted necesita adivinar al ganador de la primera mitad del partido. Las apuestas son nulas si el partido fue interrumpido antes del final del segundo cuarto.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>7. En este tipo de deporte, se pueden ofrecer otros resultados aparte de los mencionados anteriormente.</strong></span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1464" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61293" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -1241,102 +597,170 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1465" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61294" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Basketball</strong></span></span><br>&nbsp;</h5>
-                                            <ul>
-                                                <li style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The bets on the winner of the match, in which there is an option “draw”, are offered only in regular time, not taking into account the overtimes.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Except for cases mentioned in point 16.1.1 if the match is interrupted until the end of regulated time and not resumed within 24 hours, on all bets on this match, the outcome of which is not defined by the time of the stoppage, a return takes place.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If a match is interrupted less than 5 minutes before the end, all bets on this match remain valid. If a match is interrupted more than 5 minutes before the end of the regulated time and not resumed within 24 hours, for all bets on this match, the outcome of which is not defined by the time of the stoppage, a return takes place. All bets the outcome of which is known at the time of stoppage of the match remain in force. In the case of Live bets, if the match is interrupted, the calculation takes place only on the rates, the outcome of which is determined at the moment, all other bets are returned.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In the event of carrying over the start time of the match for more than 24 hours, all bets on this match shall be returned, otherwise bets remain in force.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The results on the rates for the second half and for the 4th quarter are added together, excluding overtime.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If as a result of the match the total number of points is equal to the total of the rate, the rate shall be returned. Similarly, for totals of quarter / half match, individual totals of teams and players (including bets on more/less rebounds, assists, fouls, block shots, steals, made by the team or a player), as well as for the betting odds of the match / halves / quarters, the comparison of statistics of players and other positions where the options of the exact value of handicaps / totals are not taken into account.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In case of betting on the statistics of players (more / less rebounds, assists, fouls, block shots, grasp changes) if the indicated player has not participated in the match, a refund takes place. In case of comparing of statistics of players (which player will score more rebounds / assists / fouls / block shots / grasp changes) if one of the participants indicated on this position has not participated in the match, at the rate for this position a return takes place.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Betting on the total of players / comparison of statistics of players are taken into account including the overtimes, unless otherwise is indicated.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">When playing “Home-Away” only the games listed in that day’s line are taken into account. In the event of carrying over or cancellation of one or more of the matches listed in the line, the rates on the game, “Home-Away” shall be returned.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If, according to the tournament rules, the tied game doesn’t extend to an overtime, the bets on the winner are counted with an odd of 1 (in the event of a drawn outcome not having been suggested), whereas all the other bets (odds, totals, etc.) are counted according to the factual score of the match.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the tournament rules allow an overtime for determining the winner of the pair in case of a non draw, e.g. in two-legged-ties, all bets are counted taking into consideration the main time.</span></span><br><br><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">For bets on Basketball the following positions are suggested:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. Winner.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the match. If there are options “Team 1′′, “Team 2′′ and “A draw” in the position, bets are accepted based on the regular match time, excluding overtime , in other cases – taking into account overtime.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. Total.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of scored points is equal to total of the rate, the rate is returned. Similarly, for the individual Total of the team or the player.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. Handicap.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In case of a tie taking into account the Handicap, a return takes place (regardless of the period for which the match is suggested to bet). Similarly, for the comparison of statistics of players (points / fouls / block shots / rebounds / assists and other parameters).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. Will there be overtime in the match?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the match was interrupted in the overtime, the rates for this position shall remain in force.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. An Individual total &lt;specified Team&gt;</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the number of points scored by this Team will be more or less than the specified parameter. If the total number of points scored is equal to total of the rate, a return takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. In which half more points will be scored?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The overtime is not taken into account for the scoring of the 2nd half of the match. According to the regulations, the whole regular time of the match must be played in full.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. In which quarter more points will be scored?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">To calculate the rates, all four quarters of the match should be fully played. When calculating the rate, overtime is not taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>8. What difference will a victory be scored in the match with?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the match is stopped and not completed within 24 hours, a return takes place on the rates for this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>9. Total even/ odd.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the total of the match / of relevant period (half of the match / a quarter of the match/ or the whole match) will be even or odd.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>10. More / less rebounds (assists / blocks) &lt;specified Team&gt;</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the number of rebounds (assists / blocks) made by the players of the respective teams are more or less than the specified parameter.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Refusal to participate in the match / disqualification / injury of the individual players does not affect the calculation of rates in the given position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Unless otherwise specified, the rates for this position are accepted taking into account the overtimes.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>11. More / less rebounds (assists / blocks / grasp changes / points / block shots) made by &lt;the given player&gt;.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the number of rebounds (assists / blocks / grasp changes / points / block shots) made by the appropriate player. The abbreviated name of the team is shown next to the player strictly for informational purposes. Any inaccuracies or errors in the abbreviated name of the player do not affect the calculation of rates, the rates remain in effect. If the specified player did not participate in the match, a return takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Unless otherwise specified, the rates for this position are accepted taking into account the overtimes.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>12. Which team will score more rebounds (grasp changes / blocks)?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the match of one of the teams is carried over / interrupted and not completed within 24 hours, a return takes place on these rates.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">A comparison is carried out only on matches specified in the line of the tournament. The rates for this position are accepted taking into account the overtimes.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If players have scored the same number of rebounds (assists / blocks / grasp changes / points / block shots), all bets on that position are returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Rate for this position are accepted taking into account the overtimes, unless otherwise is indicated.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>13. Who will score 10 points in the match (in the indicated quarter / in the indicated half of this match)?</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which of the teams will be the first to score 10 (20) points in this range of the match (in the match / in the quarter / in the half).</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">For the quarters of the match the overtime is not taken into account.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If in the indicated range of the match the specified number of points was not scored, a return takes place for all bets on that position.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>14. The winner of a group (conference / division).</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">To calculate the rates for this position all the matches of the group (conference / division) should be played. Otherwise, the rates for this position shall be returned. Exceptions are betting on a team which, for any possible outcome of unplayed matches (including the optimal outcome for the given team) does not even have a theoretical chance of winning in the group, such bets are considered lost by a customer.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>15. The winner of the Playoff series (Best-of-3 / Best-of-5/Best-of-7).</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the number of matches necessary to win is not played according to the regulations, a return takes place for all bets on this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>16. The winner of the tournament.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If more than one team is recognized as the winner of the tournament, the odds on this team are divided by the number of winners.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>17. The first removal of the match.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only removals as a result of 5 or 6 (depending on the regulations of the respective championship) fouls, scored by one player in the match are taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Removals as a result of technical and non-sporting fouls are not taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>18. Progressing to the next round.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rate is calculated by the result, determined directly after the last match of the given series of playoffs of the indicated round, regardless of the subsequent judicial / disciplinary decisions.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If any of these indicated teams were unable to participate in this round because of any reason (including disqualification, refusal to participate, etc.), the opponent of this team is accounted the victory in the series and pass. All rates remain valid.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>19. Which team will score the first points in the match (quarter / half)?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which team will score the first points in the indicated range of the match.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>20. Which team will score the last points of the match (quarter / half)?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which team will score last points in the range of the match.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the match (indicated quarter / half) is interrupted and not completed within 24 hours, a return takes place at such rates.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>21. Will the first points in the match be scored with the help of 3-point shots, 2-point shots and penalty shots?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only the shots officially counted by the referee are taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>22. In this given type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></h6>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Baloncesto</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong> Las apuestas en el ganador del partido, en las que hay una opción "empate", son ofrecidas sólo en el tiempo regular, no teniendo en cuenta el tiempo extra</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong> Salvo en los casos mencionados en el punto 16.1.1, si el partido se interrumpe hasta el final del tiempo reglamentario y no se reanuda dentro de 24 horas, en todas las apuestas de este partido cuyo resultado no esté definido en el momento de la interrupción, se realizará la devolución correspondiente.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c.</strong> Si un partido es interrumpido menos de 5 minutos antes del final, todas las apuestas en este partido siguen siendo válidas. Si un partido es interrumpido por más de 5 minutos antes del final del tiempo reglamentario y no se reanuda dentro de 24 horas, para todas las apuestas en este partido, cuyo resultado no es definido en el momento de la interrupción, se realizará la devolución correspondiente. Todas las apuestas cuyos resultados son conocidos en el momento de la interrupción del partido, permanecen en vigor. En el caso de las apuestas en vivo, si el partido es interrumpido, el cálculo se efectúa sólo en las tasas, cuyo resultado es determinado en el momento, todas las demás apuestas son devueltas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>d.</strong> En caso de retraso en la hora de inicio del partido de más 24 horas, se devolverán todas las apuestas de este partido, de lo contrario las apuestas seguirán vigentes.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>e.</strong> Se suman los resultados de las tasas para la segunda mitad y para el cuarto cuarto, excluyendo el tiempo extra.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>f.</strong> Si como resultado del partido el número total de puntos es igual al total de la tasa, la tasa deberá ser devuelta. Del mismo modo, para los totales del cuarto / mitad del partido, los totales individuales de los equipos y jugadores (incluyendo apuestas en más o menos rebotes, asistencias, faltas, tiros bloqueados, robos, hechos por el equipo o por un jugador), así como también para las cuotas de apuestas Del partido / mitades / cuartos, la comparación de estadísticas de jugadores y otras posiciones en donde no se tienen en cuenta las opciones del valor exacto de los hándicaps / totales.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>g.</strong> En caso de apuestas en las estadísticas de jugadores (más / menos rebotes, asistencias, faltas, tiros bloqueados, cambios de agarre) si el jugador indicado no ha participado en el partido, se realiza un reembolso. En caso de comparación de estadísticas de jugadores (qué jugador marcará más rebotes / asistencias / faltas / tiros bloqueados / cambios de agarre) si uno de los participantes indicados en esta posición no ha participado en el partido, a la tasa de esta posición, se realiza la devolución.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>h.&nbsp;</strong>Las apuestas en el total de jugadores / comparación de estadísticas de jugadores se tienen en cuenta, incluyendo el tiempo extra, a menos que se indique lo contrario.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>i</strong>. Cuando se juega "local-visitante" solo se tienen en cuenta los juegos que figuran en la línea de ese día. En caso de retraso o cancelación de uno o más de los partidos listados en la línea, se devolverán las tasas del juego, "local-visitante".</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>j</strong>. Si, de acuerdo con las reglas del torneo, el juego empatado no se extiende a una prórroga, las apuestas al ganador se cuentan con un impar de 1 (en caso de que no se haya sugerido un empate), mientras que todas las otras apuestas (cuotas, totales, etc.) son contabilizadas según el puntaje del partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>k.</strong> Si las reglas del torneo permiten una prórroga para determinar al ganador del par en caso de empate, por ejemplo, en caso de eliminatorias de ida y vuelta, todas las apuestas son contabilizadas teniendo en cuenta el tiempo principal.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para apuestas en Baloncesto se sugieren las siguientes posiciones:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. Ganador.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el resultado del partido. Si hay opciones "Equipo 1", "Equipo 2" y "Un empate" en la posición, las apuestas se aceptan en base al tiempo regular del partido, excluyendo las el tiempo extra, en otros casos - teniendo en cuenta el tiempo extra.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. Total.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de puntos marcados es igual al total de la tasa, se devuelve la tasa. Del mismo modo, para el total individual del equipo o el jugador.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. Hándicap.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En caso de empate teniendo en cuenta el Hándicap, se efectúa una devolución (independientemente del periodo para el que se sugiere apostar). Del mismo modo, para la comparación de estadísticas de jugadores (puntos / faltas / tiros bloqueados / rebotes / asistencias y otros parámetros).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. ¿Habrá tiempo extra en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el partido fue interrumpido en el tiempo extra, las tasas para esta posición permanecerán en vigor.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. Un total individual &lt;equipo especificado&gt;</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice si el número de puntos anotados por este equipo será más o menos que el parámetro especificado. Si el número total de puntos obtenidos es igual al total de la tasa, se produce una devolución.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. ¿En qué mitad se anotarán más puntos?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">El tiempo extra no se tiene en cuenta para la puntuación de la 2ª parte del partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">De acuerdo con el reglamento, todo el tiempo regular del partido debe ser jugado en su totalidad.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>7. ¿En qué cuarto se anotarán más puntos?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para calcular las tasas, los cuatro cuartos del partido deben ser jugados en su totalidad. Al calcular la tasa, el tiempo extra no es tomado en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>8. ¿Qué diferencia marcará una victoria en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el partido se detiene y no se completa en un plazo de 24 horas, se efectuará la devolución de las tasas para esta posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>9. Total pares / impares.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si el total del partido / del período relevante (la mitad del partido / un cuarto del partido / o el partido entero) será par o impar.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>10. Más / menos rebotes (asistencias / bloqueos) &lt;equipo especificado&gt;</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">&nbsp;Aquí se predice si el número de rebotes (asistencias / bloqueos) realizados por los jugadores de los respectivos equipos son más o menos que el parámetro especificado.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">La negativa a participar en el partido / descalificación / lesión de los jugadores individuales no afecta al cálculo de las tasas en la posición dada.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">A menos que se especifique lo contrario, las tasas para esta posición son aceptadas teniendo en cuenta el tiempo extra.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>11. Más / menos rebotes (asistencias / bloqueos / cambios de agarre / puntos / tiros bloqueados) realizados por &lt;el jugador dado&gt;.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el número de rebotes (asistencias / bloqueos / cambios de agarre / puntos / tiros bloqueados) realizados por el jugador apropiado. El nombre abreviado del equipo se muestra al lado del jugador estrictamente para fines informativos. Las inexactitudes o errores en el nombre abreviado del jugador no afectan al cálculo de las tasas, las tasas siguen en vigor. Si el jugador especificado no participó en el partido, se efectúa una devolución.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">A menos que se especifique lo contrario, las tasas para esta posición son aceptadas teniendo en cuenta el tiempo extra.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>12. ¿Qué equipo marcará más rebotes (cambios de agarre / bloqueos)?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el partido de uno de los equipos es llevado a cabo / interrumpido y no se completa en 24 horas, se realiza la devolución de estas tasas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Una comparación es realizada sólo en los partidos especificados en la línea del torneo. Las tasas para esta posición son aceptadas teniendo en cuenta el tiempo extra.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si los jugadores han anotado el mismo número de rebotes (asistencias / bloqueos / cambios de agarre / puntos / tiros bloqueados), todas las apuestas en esa posición son devueltas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">La tasa para esta posición es aceptada teniendo en cuenta el tiempo extra, a menos que se indique lo contrario.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>13. ¿Quién anotará 10 puntos en el partido (en el cuarto indicado / en la mitad indicada de este partido)?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice cuál de los equipos será el primero en anotar 10 (20) puntos en este intervalo del partido (en el partido / en el cuarto / en la mitad).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para los cuartos del partido, el tiempo extra no es tomado en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si en el intervalo indicado del partido el número de puntos especificado no se anotó, se realizará una devolución de todas las apuestas en esa posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>14. El ganador de un grupo (conferencia / división).</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para calcular las tasas de esta posición, deben jugarse todos los partidos del grupo (conferencia / división). De lo contrario, se devolverán las tasas para esta posición. Las excepciones son apostar a un equipo que, por cualquier posible resultado de los partidos no jugados (incluyendo el resultado óptimo para el equipo dado) ni siquiera tiene la oportunidad teórica de ganar en el grupo, tales apuestas se consideran pérdidas para el cliente.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>15. El ganador de la serie Playoff (Mejor-de-3 / Mejor-de-5 / Mejor-de-7).</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el número de partidos necesarios para ganar no es jugado según el reglamento, se efectuará la devolución para todas las apuestas en esta posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>16. El ganador del torneo.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si más de un equipo es reconocido como el ganador del torneo, las cuotas en este equipo son divididas por el número de ganadores.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>17. La primera expulsión del partido.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Solamente las expulsiones como resultado de 5 o 6 (dependiendo del reglamento del campeonato respectivo) faltas, cometidas por un jugador en el partido, son tomadas en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">No se toman en cuenta las expulsiones por faltas técnicas y no deportivas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>18. Pasando a la siguiente ronda.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">La tasa se calcula por el resultado, determinado directamente después del último partido de la serie dada de playoffs de la ronda indicada, independientemente de las decisiones judiciales / disciplinarias subsiguientes.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si alguno de estos equipos no pudo participar en esta ronda por alguna razón (incluyendo descalificación, negativa a participar, etc.), al oponente de este equipo se le contabilizará la victoria en la serie y clasificará. Todas las tasas siguen siendo válidas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>19. ¿Qué equipo marcará los primeros puntos en el partido (cuarto / mitad)?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice qué equipo marcará los primeros puntos en el intervalo indicado del partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>20. ¿Qué equipo marcará los últimos puntos del partido (cuarto / mitad)?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice qué equipo marcará los últimos puntos en el intervalo del partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el partido (cuarto / mitad indicada) es interrumpido y no se completa dentro de las 24 horas, se produce la devolución de tales tasas</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>21. ¿Se marcarán los primeros puntos en el partido con la ayuda de tiros de 3 puntos, tiros de 2 puntos y tiros de penalti?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se toman en cuenta los tiros contabilizados oficialmente por el árbitro.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>22. En este tipo de deporte, se pueden ofrecer otros resultados aparte de los mencionados anteriormente.</strong></span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1466" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61295" style="display:block;max-width:60px;">
+                                        <div class="divider-container">
+                                            <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="module-container   only-mobile   align-left ModuleParagraph
+                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:0vh; ">
+                                    <div class="  module ModuleParagraph " datamodule-id="61296" style="display:block;max-width:1702px;">
+                                        <div class="uc-content ">
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Vóley playa</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">a. Si el partido comenzó, pero no se completó en 24 horas, todas las apuestas son reembolsables, excepto aquellas para las cuales el resultado fue claramente definido en el momento de la interrupción del juego.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">b. Si la fecha de inicio del partido ha sido pospuesta por un período menor a 24 horas, todas las apuestas en este partido permanecerán válidas. De lo contrario, las tasas para este partido deben ser reembolsadas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">c. Si el lugar del partido (cancha deportiva) cambia, todas las apuestas se consideran válidas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">d. Si uno de los participantes anunciados en el par es sustituido antes del inicio del partido, todas las apuestas en este partido son reembolsadas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">e. Si de acuerdo a la decisión de los jueces se produce una deducción de puntos para uno de los equipos, las apuestas son contadas según la decisión de los jueces. Las excepciones son las tasas en modo en vivo, que equipo será el primero en anotar 5/10/15/20 puntos, así como las tasas en modo en vivo, que equipo ganará la próxima asistencia. Tales tasas se calculan sobre la base de qué equipo será el primero en anotar el número de puntos especificado y si se ha alcanzado el número de puntos requerido, una deducción adicional de puntos por parte de los jueces no afectará la determinación inicial del ganador Para la posición dada. Las apuestas en vivo para el equipo que ganará la próxima asistencia son calculadas de manera similar.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">f. Los siguientes elementos son sugeridos para apostar en vóley playa:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. Ganador.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el resultado del partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. Total.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de puntos marcados es igual al total de la tasa, se realizará una devolución.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. Un total individual &lt;equipo especificado&gt;.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de puntos anotados por este equipo es igual al total de la tasa, se realizará una devolución.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. Total de sets en el partido.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si los equipos jugarán el número de sets en el partido más o menos al número indicado. Si el partido fue interrumpido y no se reanudó, a las tasas para esta posición, se realizará un reembolso.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. ¿Quién será el primero en anotar 5 (10/15) puntos en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si por decisión de los jueces, a uno de los equipos se le restan puntos después de haber alcanzado por primera vez el número de puntos requerido, el cálculo inicial sigue vigente y la decisión de los jueces no se tomará en cuenta en el cálculo de la posición dada.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. ¿Cuántos sets habrá en el juego?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los sets jugados en el partido son tomados en cuenta. Si un partido fue interrumpido y no se reanudó, se realizará un reembolso de las tasas para esta posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>7. Un Hándicap en sets.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>8. Marcador exacto en sets.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>9. El ganador del torneo.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si más de un equipo es reconocido como ganador del torneo, el coeficiente de las tasas de este equipo es dividido por el número de ganadores.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>10. Total del partido par / impar.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>11. Total del set par / impar.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>12. En este tipo de deporte, se pueden ofrecer otros resultados aparte de los mencionados anteriormente.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="module-container  align-left ModuleDivider
+                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
+                                    <div class="  module ModuleDivider " datamodule-id="61297" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -1344,51 +768,108 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1467" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61298" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Beach Volleyball</strong></span></span></h5>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the match started but was not completed within 24 hours, all bets are refundable except those for which the outcome was clearly defined by the time of the stoppage of the game.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the date of the start of the match has been postponed by a period of less than 24 hours, then all bets on this match remain valid. Otherwise, the rates for this match must be refunded.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the venue of the match (of the sport ground) changes, all bets are considered valid.</span></span><br><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If one of the announced participants in the pair is replaced before the start of the match, all bets on this match are refunded.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If according to the decision of the judges a point deduction occurs for one of the teams, bets are counted according to the decision given by the judges. The exceptions are the rates in live mode on which team will be the first to score 5/10/15/20 points, as well as the rates in live mode on which team will win the next assist. Such rates are calculated on the basis of which team will be the first to score the specified number of points, and if the required number of points has been reached, a further deduction of points by the judges does not affect the initial determination of the winner for the given position. Bets live on which team will win the next assist are calculated in a similar way.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following items are suggested for betting on beach volleyball:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. Winner.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the match.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. Total.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of scored points is equal to total of the rate, a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. An Individual total &lt;specified team&gt;.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of points scored by this team is equal to the total of the rate, a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. The Total sets in the match.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the teams will play the number of sets in the match more or less than the indicated one. If the match was interrupted and not resumed, at the rates for this position, a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. Who will be the first to score 5 (10/15) points in the match?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If by the decision of the judges for one of the teams a point deduction occurred after it first reached the required number of points, the initial calculation remains in force and the decision of the judges is not taken into account in the calculation of the given position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. How many sets will there be in the game?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The sets actually played in the match are taken into account. If a match was interrupted and not resumed, a refund takes place at the rates for this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. A Handicap at sets.</strong></span></span><br>&nbsp;</h6>
-                                            <h6 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>8. Exact score at sets.</strong></span></span><br>&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>9. The winner of the tournament.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If more than one team is recognized as a winner of the tournament, the coefficient of the rates on this team is divided by the number of winners.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>10. Total of the match even/ odd.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>11. Total of the set even / odd.</strong></span></span><br>&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>12. In this type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></h6>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Béisbol</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">a. Si dos partidos son jugados en un día con los mismos equipos, y el corredor ha ofrecido para el juego sólo uno, el resultado se acreditará en el primero (hora de inicio) de ellos.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">b. En caso de retraso o cancelación del partido, las apuestas del evento se devolverán con el coeficiente si el partido no se reanuda en más de 24 horas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">c. Si el partido ha sido suspendido por más de 24 horas, el cálculo para todas las apuestas se hace con coeficiente; Se efectúa una devolución. En caso de que el partido termine dentro de 24 horas, todas las apuestas seguirán en vigor.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">d. A menos que se indique lo contrario, todas las apuestas aceptadas se calculan teniendo en cuenta los resultados de los sitios web oficiales e Innings adicionales. Si el partido finaliza en empate, todas las apuestas se reembolsarán si no hay precios ofrecidos para el mercado "Empate".</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">e. Si el partido es interrumpido antes del final del tiempo regular de juego, el resultado después de cinco (5) entradas (4 ½ innings si el equipo local está ganando) será considerado como oficial. El equipo que tenga más carreras después de las últimas entradas completadas será considerado el ganador (a menos que el juego sea interrumpido en la primera mitad de la entrada y el equipo local esté ganando, en tales casos, el ganador es el equipo local). Si un partido es interrumpido antes de lo especificado en este párrafo, para todas las apuestas, excepto aquellas cuyo resultado es determinado de manera exclusiva en el momento de la paralización del partido, se realizará un reembolso.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">A menos que se indique lo contrario, estas reglas son aplicadas a todas las apuestas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las excepciones son:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>"Apuestas en Vivo".</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Un partido debe ser jugado en su totalidad para la contabilidad de las tasas. Si un partido es interrumpido, todas las apuestas en este juego son nulas excepto por las tasas, cuyo resultado está determinado unicamente por el momento de la paralización del partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Más / Menos, Más / Menos Carreras + strikes + errores, hándicap.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas serán contadas basadas en la puntuación oficial después de 9 innings (8 ½ innings si el equipo local está adelante). Si se requieren innings adicionales para completar el juego, las tasas son calculadas en base al resultado final de la puntuación oficial. Si el juego se completa antes, todas las apuestas serán anuladas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Juego "Hosts - Guests." (Local-Visitante)</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los partidos de un día de juego y sólo los partidos especificados en la línea actual participan en el juego. Si en al menos uno de los partidos 8,5-9 innings no son jugados, se devolverán las tasas para una posición dada. El cálculo de la tasa se define como la suma de puntos anotados por los locales frente a la cantidad de puntos anotados por los visitantes (un reembolso es realizado en caso de empate en la tasa).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">F. Se puede apostar en los siguientes elementos:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. Ganador.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el resultado del partido. Las tasas son aceptadas teniendo en cuenta los innings adicionales.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. Más / menos</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de puntos marcados es igual al total de la tasa, la tasa será devuelta. Lo mismo se aplica para el total individual de un equipo o un jugador. Las tasas son aceptadas teniendo en cuenta los innings adicionales.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. Hándicap.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el hándicap tiene sólo 2 opciones (sólo hándicap 1 o hándicap 2, sin la opción de empate) en caso de empate teniendo en cuenta el Hándicap, se realiza un reembolso.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las tasas están basadas en la puntuación oficial después de 9 innings (8 ½ innings si el equipo local está adelante). Si se requieren entradas adicionales para completar el juego, las apuestas serán contadas en base a la puntuación oficial final. Si el juego es completado antes, todas las tasas serán nulas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Una excepción: Si el juego finaliza debido a una amplia separación de uno de los equipos, todas las apuestas en esa posición permanecerán en vigor.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En caso de empate, se realizará un reembolso teniendo en cuenta el Hándicap (independientemente del período durante el cual se ofrezca la apuesta).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. Más / menos puntos &lt;un equipo especificado&gt;</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice si el número de puntos anotados por este Equipo es más o menos que el parámetro especificado. Si como resultado del partido el número total de puntos es igual al total de la tasa, se devolverá la apuesta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas están basadas en la puntuación oficial después de 9 innings (8 ½ innings si el equipo local está adelante). Si se requieren innings adicionales para completar el juego, las apuestas serán contadas en base a la puntuación oficial final. Si el juego ha finalizado antes, todas las apuestas serán anuladas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. Más / menos Ejecuta + strikes / golpes / + errores.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si la cantidad de carreras, strikes del partido y errores cometidos por los miembros de ambos equipos, son más o menos que el parámetro especificado. Si como resultado de un partido, el número total de carreras + strikes + errores es igual al Total de la tasa, se produce una devolución.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">El cálculo se basa en los registros oficiales de los organismos reguladores y en las federaciones de los respectivos torneos.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas se basan en la puntuación oficial después de 9 innings (8 ½ innings si el equipo local está adelante). Si se requieren innings adicionales para completar el juego, las apuestas se contarán en base a la puntuación oficial final. Si el juego ha finalizado antes, todas las apuestas serán anuladas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. ¿La suma de las carreras + strikes / golpes / + errores será par o impar?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si la suma de carreras, strikes y errores cometidos por los miembros de ambos equipos en el partido será par o impar.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">El cálculo se basa en los registros oficiales de los organismos reguladores y en las federaciones de los respectivos torneos.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas son contadas en base al marcador oficial después de 9 innings (8 ½ innings si el equipo local está adelante). Si se requieren innings adicionales para completar el juego, las apuestas se contarán en base a la puntuación oficial final. Si el juego ha finalizado antes, todas las apuestas serán anuladas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el resultado es 0, las tasas se cuentan como "iguales".</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>7. Total pares / impares</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas se basan en la puntuación oficial después de 9 innings (8 ½ innings si el equipo local está adelante). Si se requieren innings adicionales para completar el juego, las apuestas se contarán en base a la puntuación oficial final. Si el juego se completa antes, todas las apuestas serán anuladas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el resultado es "0-0", todas las apuestas en esta posición serán contadas como "par"</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>8. ¿Qué equipo será el primero en hacer una carrera?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el resultado es "0-0", se devolverán todas las apuestas en dicha posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>9. ¿Qué equipo será el último en hacer una carrera?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el resultado es "0-0", se devolverán todas las apuestas en dicha posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>10. ¿Qué equipo será el siguiente en hacer una carrera?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si no se produjo ninguna carrera en el partido (incluyendo si se interrumpió un partido), se devolverán las tasas para esta posición. En caso de que el partido fuera interrumpido después de la siguiente carrera, todas las apuestas en esa posición permanecerán en vigor.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>11. Inning 1: Más / menos de 0.5.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para contabilizar la tasa, las primeras entradas del partido deben ser jugadas en su totalidad.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>12. El resultado de 1 entrada</strong>.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para calcular la tasa, las primeras entradas del partido deben ser jugadas en su totalidad.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>13. El tipo del primer jonrón en el partido.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice el tipo del primer jonrón en el partido y si será de un solo (1 punto), 2 puntos, 3 puntos o Grand Slam (4 puntos) o si no habrá ningún jonrón en el partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas serán contadas basadas en la puntuación oficial después de 9 innings (8 ½ innings si el equipo local está adelante). Si se requieren innings adicionales para completar el juego, las apuestas se contarán en base a la puntuación oficial final. Si el juego finaliza antes, todas las apuestas serán anuladas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>14. ¿Cuándo se realizan más carreras?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se puede predecir en qué período del partido se anotarán más carreras: en las primeras 4.5 entradas (incluyendo las 5 mejores entradas) o en las 5 segundas entradas (después de las 5 mejores entradas (desde las 5 entradas inferiores, incluyendo el final del juego)), o si será un empate. En caso de innings extra el resultado después de los 5 mejores innings incluye el resultado de los innings adicionales.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>15. ¿El equipo que haga la primera carrera gana el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los siguientes resultados son posibles:</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">"Sí" - una apuesta en este resultado gana si el equipo que anotó la primera carrera gana el partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">"No" - una apuesta en este resultado gana si el equipo que anotó la primera carrera pierde el partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el partido termina en empate, todas las apuestas en esa posición serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el partido termina antes del final del tiempo oficial, el resultado después de haber jugado cinco (5) (4 ½ innings si el equipo local está adelante) será considerado como oficial. El ganador es el equipo que tenga más carreras después de las últimas entradas completas (a menos que el juego se interrumpa en la primera mitad de la entrada y el equipo local este ganando, en estos casos, el ganador es el equipo local).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>16. El resultado del primer mejor pase de las siguientes entradas: ¿una pelota o cualquier otro resultado?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si el resultado del primer pase será una pelota o un strike, carrera, jonrón, un error, etc. (lo que significa en el resultado "cualquier otro resultado").</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>17. ¿Qué equipo será el primero en hacer 3 carreras?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas serán contadas basadas en el marcador oficial después de 9 innings (8 ½ innings si el equipo local está ganando). Si se requieren innings adicionales para completar el juego, las tasas serán contadas basadas en el marcador oficial final. Si el juego se completa antes, todas las apuestas serán anuladas. Una excepción: Si uno de los equipos ha hecho tres carreras en el preciso momento en que el partido fue interrumpido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>18. Juego "Local - Visitante".</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los partidos de un solo día participan en el juego. Si por lo menos en uno de los partidos 8.5-9 innings en las tasas no son jugados, entonces se realizará un reembolso. El cálculo de la tasa se define como la suma de puntos anotados por los locales frente a la cantidad de puntos marcados por los visitantes: en caso de empate, se produce una devolución de la tasa del ganador.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>19. Campeones de División.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si la temporada es reducida por cualquier motivo, todas las apuestas serán contadas en base a qué equipo será nombrado como el Campeón de división por el ente respectivo.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>20. En este tipo de deporte, se pueden ofrecer otros resultados aparte de los mencionados anteriormente</strong>.&nbsp;</span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1468" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61299" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -1396,105 +877,85 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1469" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61300" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,1);"><strong>Baseball</strong></span></span></h5>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If two matches are played in one day involving the same teams, and the bookmaker has offered for the game only one, the result shall be credited on the first (start time) of them.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In case of carrying over or cancellation of the match, bets on the event shall be returned with coefficient if the match does not resume for more than with 24 hours.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the match has been suspended for more than 24 hours, the calculation for all bets is done with coefficient ; a return takes place. In case the match ends within 24 hours all bets remain in force.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Unless otherwise mentioned, all accepted bets are calculated with taking into account the results of the official websites and extra Innings as well. If it is possible for the match to end in Draw, all bets are refunded if there are no prices offered for the “Draw” market.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the match is abandoned before the end of the regular time of play, the result after five (5) innings (4 1⁄2 innings if the home team is leading) will be considered as official. The team that has more runs after the last full innings is considered the winner (unless the game is abandoned in the first half of the inning and the home team is leading, in such cases, the winner is the home team). If a match is interrupted earlier than specified in this paragraph for all bets except those the outcome of which is uniquely determined by the time of stoppage of the match, a refund takes place.&nbsp;</span></span><br><br><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Unless otherwise stated, these rules apply to all bets. </span><span style="color:rgba(64,64,64,1);">The exceptions are:</span></span></li>
-                                            </ul>
-                                            <h6 style="color:rgb(0, 0, 0);"><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>“Betting Live”.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">A match must be played in full for accounting the rates. If a match is interrupted, all bets on this game are void except for the rates, the outcome of which is uniquely determined by the time of stoppage of the match.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>More / Less, More/ Less Runs + strikes + errors, handicap.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets will be counted based on the official score after 9 innings (8 1⁄2 innings if the home team is ahead). If extra innings are required for completing the game, the rates are calculated based on the final result of the official score. If the game is completed earlier, all bets will be void.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Game “Hosts – Guests.” (Home-Away)</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Matches of one playing day and only matches specified in the current line take part in the game. If in at least one of the matches 8.5-9 innings are not played, the rates for a given position shall be returned. The calculation of the rate is defined as the sum of points scored by the hosts against the amount of points scored by the visitors (a refund takes place in the case of a tie at the rate).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following items are available for betting on Baseball:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. Winner.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the match. Rates are accepted taking into account extra innings.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. More/less</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of scored points is equal to the total of the rate, the rate is returned. The same applies for the individual total of a team or a player. Rates are accepted taking into account extra innings.</span></span><br>&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. Handicap.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the handicap has only 2 options (only handicap 1 or handicap 2, without the option of a draw) in case of a tie taking into account the Handicap, a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Rates are counted based on the official score after 9 innings (8 1⁄2 innings if the home team is ahead). If game extra innings are required to complete the game, bets will be counted based on the final official score. If the game is completed earlier, all rates will be void.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">An exception: If the game ends due to the wide breakaway of one of the teams, all bets on that position shall remain in force.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In case of a tie, a refund takes place taking into account the Handicap (regardless of the period for which the match is offered to bet).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. More / less points &lt;a specified Team&gt;</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the number of points scored by this Team is more or less than the specified parameter. If as a result of the match the total number of points is equal to total of the rate, the bet is returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets are counted based on the official score after 9 innings (8 1⁄2 innings if the home team is ahead). If extra innings are required to complete the game, bets will be counted based on the final official score. If the game is over earlier, all bets will be void.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. More/less Runs + strikes /bumps/ + errors.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the amount of the match runs, strikes and mistakes made by members of both teams, are more or less than the specified parameter. If as a result of a match, the total number of runs + strikes + errors is equal to Total of the rate, a return takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The calculation is based on the official records of regulatory bodies and federations of respective tournaments.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets are counted based on the official score after 9 innings (8 1⁄2 innings if the home team is ahead). If extra innings are required to complete the game, bets will be counted based on the final official score. If the game is over earlier, all bets will be void.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. Will the sum of runs + strikes /bumps/ + errors be even or odd?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the sum of runs, strikes and mistakes made by members of both teams in the match will be even or odd.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The calculation is based on the official records of regulatory bodies and federations of respective</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">tournaments.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets are counted on the official score after 9 innings (8 1⁄2 innings if the home team is ahead). If extra innings are required to complete the game, bets will be counted based on the final official score. If the game is over earlier, all bets will be void.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the result is 0, the rates are counted as “even”.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. Total even / odd</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets are counted based on the official score after 9 innings (8 1⁄2 innings if the home team is ahead). If extra innings are required to complete the game, bets will be counted based on the final official score. If the game is completed earlier, all bets will be void.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the result is “0-0′′, all bets on this position are counted as “even”</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>8. Which team will be the first to make a run?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the result is “0-0′′, all bets on such a position shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>9. Which team will be the last to make a run?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the result is “0-0′′, all bets on such a position shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>10. Which team will be the next to make a run?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If no following run took place in the match (including if a match was interrupted), the rates for this position shall be returned. In case the match was interrupted after the next run took place, all bets on that position remain in force.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>11. Inning 1: More/less than 0.5.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">To count, the rate the first innings of the match must be played in full.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>12. The outcome of 1 inning.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">To calculate the rate, the first innings of the match must be played in full.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>13. The type of the first home run in the match.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the type of the first home run in the match whether it will be a solo (1 point), 2 points, 3 points or the Grand Slam (4 points) or there will not be any home run in the match at all.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets will be counted based on the official score after 9 innings (8 1⁄2 innings if the home team is ahead). If extra innings are required to complete the game, bets will be counted based on the final official score. If the game is over earlier, all bets will be void.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>14. When more runs are done?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict in which period of the match more runs will be scored: in the first 4.5 innings (including the top 5 innings) or in the second 5 innings (after the top 5 innings (from Bottom 5 innings including the end of the game)), or whether it will be a draw. In case of extra innings the result after the top 5 innings includes the result of extra innings.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>15. Will the team scoring the first run win the match?</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The following outcomes are possible:</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">“Yes” – a bet on this outcome wins if the team that scored the first run wins the match. “No” – a bet on this outcome wins if the team that scored the first run loses the match. If the match ends in a draw, all bets on that position are refunded.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the match ends before the end of the official time of the play, the result after five (5) having been played (4 1⁄2 innings if the home team is leading) will be considered as official. The winner is the team that has more runs after the last full innings (unless the game is interrupted in the first half of the inning and the home team is leading, in such cases, the winner is the home team).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>16. The outcome of the first top pass of the next innings: a ball or any other outcome?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the result of the first pass will be a ball or a strike, run, home run, an error, etc. (which means in the outcome “any other outcome”).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>17. Which team will be the first to make 3 runs?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets will be counted based on the official score after 9 innings (8 1⁄2 innings if the home team is ahead). If extra innings are required to complete the game, the rates will be counted based on the final official score. If the game is completed earlier, all bets will be void. An exception: If one of the teams has scored three runs by the time the match is stopped.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>18. Game “Home – Away.”</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Matches of a single playing day take part in the game. If at least in one of the matches 8.5-9 innings on the rates are not played, then a refund is drawn . The calculation of the rate is defined as the sum of points scored by the hosts against the amount of points scored by the visitors: in case of a tie, a return of the rate on the winner takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>19. Division Champions.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the playing season is shortened for any reason, all bets will be counted on the basis of which team will be called Division Champion by the respective governing body.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>20. In this given type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></h6>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Boxeo</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">a. Si por alguna razón la pelea no se llevó a cabo y se realiza en no más de 28 días después de la fecha inicial programada, todas las apuestas previamente realizadas son válidas para la pelea recién organizada. Si dentro de 28 días después de la fecha programada, la pelea aún no se ha realizado, todas las apuestas serán nulas y serán reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">b. Si la pelea es transferida a otro estadio, todas las apuestas en la pelea siguen siendo válidas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">c. Se considera que la pelea ha empezado después de la primera campana. En el caso de un juego por ganar de uno de los participantes, el concepto de "una victoria" significa una victoria sobre puntos, ganando por KO, TKO, o una descalificación del rival o su negativa para continuar con la pelea.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">d. El concepto de "una victoria preprogramada" significa un nocaut, nocaut técnico, descalificación de un rival o su rechazo a continuar con la pelea.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">e. El concepto de "ganar por puntos" significa una victoria ganada por decisión de los jueces después de finalizado todos los rounds de la pelea.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">f. Si un boxeador no salió al comienzo del siguiente round después de la campana, se considerará que la pelea ha terminado en el round anterior, con la victoria del rival del boxeador dado.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">g. Si el número programado de rounds ha cambiado, todas las apuestas en el resultado de la pelea siguen siendo válidas y las tasas en el número de rounds serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">h. Si uno de los participantes en la pelea fue reemplazado por otro, todas las apuestas en esta pelea serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">i. Se ofrecen tasas para las siguientes posiciones:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. El ganador de la pelea</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice el resultado de esta pelea: la victoria de uno de los participantes o un empate en una pelea (la forma en que se alcanzó la victoria no es esencial para el resultado de "una victoria": según los puntos, KO, TKO o una descalificación del rival o su negativa). Las apuestas se contarán de acuerdo con los resultados oficiales anunciados en el ring (incluyendo la posible conversión de puntos registrados en los informes de los jueces). Las decisiones judiciales y disciplinarias adoptadas por los órganos de gobierno posteriores al cálculo de tasas para esta posición no se verán afectadas. Si la pelea terminó en empate y no se ofrecieron las tasas para un resultado similar, todas las apuestas en esta posición serán nulas y serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. El total de rounds en una pelea</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el boxeador no salió al inicio del siguiente round después de la campana, la pelea se considerará finalizada en el round anterior, con victoria para el rival del boxeador. Si el número de rounds programados por el reglamento ha cambiado, se devolverán las tasas para esta posición. El número de rounds de la pelea realizados en su totalidad es tomado en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. Apostar en rounds</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Es necesario definir en qué round y quien ganara el mismo En este caso significa una victoria en la pelea, pero no una victoria en el round. Si la victoria es anunciada por decisión de los jueces después del último round de la pelea, todas las apuestas en la victoria de las partes en el último round de la pelea permanecerán en vigor y se considerarán perdidas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. ¿Habrá un knockdown en el round indicado?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se cuentan los knockdowns en los que el árbitro inicia la cuenta regresiva</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las caídas en piso resbaladizo y otros incidentes similares no son tomados en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. El resultado de la pelea.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice de qué manera es determinado el resultado de la pelea, así como el ganador de la misma. Las opciones disponibles son:</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">- La victoria de un boxeador 1 (boxeador 2) por nocaut (si un boxeador está tumbado en el suelo durante 10 segundos después de la cuenta regresiva del árbitro), un knock-out técnico (después de 3 knockdowns por decisión del árbitro, así como también la negativa del boxeador para continuar con la pelea) o descalificación;</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">- Victoria del boxeador 1 (Boxeador 2) por decisión del árbitro (después de completar todos los rounds reglamentarios de la pelea), o decisión técnica de los árbitros (una decisión temprana sobre los puntos).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. El ganador de la pelea / número de rounds.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice quién ganará la pelea y el número de rounds que habrá en la pelea. Si la pelea terminó en empate, todas las apuestas en esta posición se considerarán nulas y serán devueltas. Si el boxeador no salió al inicio del siguiente round después de la campana, se considerará que la pelea terminó en el round anterior con la victoria del rival del boxeador. Si el número de rounds programados por el reglamento ha cambiado, las tasas para esta posición serán devueltas. Se tiene en cuenta el número de rounds realizados en la pelea.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>7. ¿Cuándo se ganará la pelea y por quién?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice al ganador de la pelea, así como el rango en el que se obtuvo la victoria.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si la pelea terminó en un empate, todas las apuestas en esta posición serán consideradas nulas y serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el boxeador no salió al inicio del siguiente round después de la campana, se considerará que la pelea terminó en el round anterior con la victoria del rival del boxeador.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el número de rounds programados por los reglamentos ha cambiado, las tasas para esta posición serán devueltas. Se tiene en cuenta el número de rounds realizados en la pelea.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>8. ¿Continuará la pelea con el número reglamentario de rounds?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si todas los rounds reglamentarios serán llevados a cabo en una pelea o si la victoria de una de las partes será anunciada con antelación.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el número de rounds programados por las regulaciones ha cambiado antes del comienzo de la pelea, las tasas para esta posición serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si la pelea es interrumpida o cancelada por razones técnicas, se realizará el reembolso de todas las apuestas en esta posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>9. ¿En qué round será declarado el ganador?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si el ganador de la pelea era declarado en uno de los rounds propuestos, o si el ganador de la pelea será determinado por decisión de los jueces después de la finalización de todas las rounds reglamentados de la pelea. Si uno de los boxeadores no salió al comienzo del siguiente round después de haber sido golpeado el gong, se considerará que la pelea terminó en el round anterior.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>10. ¿Un &lt;boxeador especificado&gt; recibirá un knockdown en la pelea?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se contarán los knockdowns cuando el juez inicie la cuente regresiva, o si el árbitro inicia la cuenta regresiva</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las caídas en el suelo resbaladizo y otros incidentes similares no se tienen en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>11. ¿El &lt;boxeador especificado&gt; ganará la pelea en el primer minuto de la misma?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">El tiempo de inicio de la pelea es tomado en cuenta, incluyendo el 59 segundo de la pelea.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>12. ¿El &lt;Boxeador Especificado&gt; obtendrá un knockdown y ganará la pelea?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las opciones disponibles son:</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">"Sí" - durante la pelea el boxeador especificado recibirá por lo menos un knockdown y será declarado ganador según los resultados de la pelea.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">"No" - en cualquier otro caso.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se contarán los knockdowns en los que el juez inicie la cuenta regresiva, o si el árbitro inicia la cuenta regresiva.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las caídas en piso resbaladizo y otros incidentes similares no son tomados en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si un partido es interrumpido o cancelado por razones técnicas, para todas las apuestas en esta posición se realiza un reembolso.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>13. ¿Quién recibirá un knockdown / knockout / knockout técnico?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los siguientes resultados son posibles:</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">"Ninguno" - ninguno de los boxeadores en la pelea recibirá un knockdown / knockout o knockout técnico;</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">"Boxeador 1" - El boxeador 1 recibirá en la pelea un knockdown o un knockout o un knockout técnico (o un knockdown y un knock-down y un knockout técnico);</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">"Boxeador 2" - El boxeador 2 recibirá en la pelea un knockdown o knockout o un knockout técnico (o un knockdown y un nocaut / un knock-down y un knockout técnico);</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>14. En este tipo de deporte, se pueden ofrecer otros resultados aparte de los mencionados anteriormente.</strong></span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1470" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61301" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -1502,79 +963,63 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1471" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61302" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Boxing</strong></span></span></h5>
-                                            <p style="color:rgb(0, 0, 0);"><br>&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If for any reason the match did not take place and is held not later than 24 hours after the original scheduled date, all previously placed bets are valid for the newly organized match. If, within 24 hours after the scheduled date the match did not take place, all bets will be void and are refundable.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the match is transferred to another arena, all bets on the match are still valid.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The match is considered to have started after the first bell. In case of a play for winning of one of the participants the concept “a win” means a win on points, winning by KO, TKO, or a disqualification of the rival or his refusal.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The concept of “a prescheduled win” means a knockout, technical knockout, disqualification of a rival or a refusal.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The concept of “a win on points” means a victory won by decision of judges after all the rounds of the fight.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If a boxer did not come out at the beginning of the next round after the bell, the match is considered to have finished in the previous round with the victory of the rival of the given boxer.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the scheduled number of rounds has changed, then all bets on the result of the fight are still valid, and the rates on the number of rounds shall be returned.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If one of the participants in the fight was replaced by another party, all bets on this match shall be returned.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Rates are offered for the following positions:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. The winner of the match.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of this match: the win of one of the participants or a draw in a match (the way the victory was reached is not essential for the outcome of “a win”: according to the points, KO, TKO or a disqualification of the rival or his refusal). Bets will be counted according to the official results announced in the ring (including the possible conversion of points recorded in the reports by the judges). The judicial and disciplinary decisions taken by the governing bodies later in the calculation of rates for this position are not affected. If the match ended in a draw, and the rates for a similar result were not offered, then all bets on this position will be void and shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. The Total of rounds in a match.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the boxer did not come out at the beginning of the next round after the bell, the fight is considered finished in the previous round with victory for the rival of the boxer. If the number of rounds scheduled by the regulation have changed, the rates for this position shall be refunded. The number of fully conducted rounds in the match is taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. Betting on rounds.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">It is necessary to define in what round and by whom a victory will be won. In this case it means a victory in the match, but not a victory in the round. If the win is announced by the decisions of the judges after the last round of the match, all bets on the winning of the parties in the last round of the match remain in force and are considered lost.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. Will there be a knockdown in the indicated round?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only the knockdowns are counted, as a result of which the referee starts the countdown, or if the referee initiates a countdown himself.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Falls on a slippery floor and other similar incidents are not taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. The outcome of the match.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which way the outcome of the match is determined as well as the winner of the match. Available options are:</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">- The Victory of a Player 1 (Player 2) by knockout (if a boxer is lying down on the floor for 10 seconds of the countdown of the referee), a technical knock-out (after 3 knockdowns by the decision of the referee as well as the refusal of the player to continue the fight) or disqualification;</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">- Victory Player 1 (Player 2) by decision of the referee (after completion of all regulated rounds of the given match), or technical decision of the referees (an early decision on points) a Draw.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. The winner of the match / number of rounds.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict who will win the match and if during more or less rounds than indicated will take place in the match. If the match ended in a draw, all bets on this position are considered void and shall be returned. If the boxer did not come out at the beginning of the next round after the bell, it is considered that the match ended in the previous round with the victory of the rival of the given boxer. If the number of rounds scheduled by regulation has changed, the rates for this position shall be returned. The numbers of rounds fully conducted in the match are taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. When will the match be won and by whom?</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the winner of the match, as well as the range in which victory is won.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the match ended in a draw, all bets on this position will be considered void and shall be refunded. If the boxer did not come out at the beginning of the next round after the bell, it is considered that the fight ended in the previous round with the victory of the rival of the given boxer.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the number of rounds scheduled by regulations has changed, the rates for this position shall be returned. The number of rounds fully conducted in the match is taken into account.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>8. Will the match continue for the regulated number of rounds?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether all regulated rounds will be held in a match or the victory of one of the parties will be announced ahead of time.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the number of rounds scheduled by regulations has changed before the beginning of the match, the rates for this position shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If a match is interrupted or canceled due to technical reasons, a refund takes place for all bets on this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>9. What round the winner will be declared in?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the winner of the match is declared in one of the proposed rounds, or the winner of the match will be determined by the decision of the judges after the completion of all regulated rounds of the match. If one of the boxers did not come out at the beginning of the next round after hitting the gong, it is considered that the match ended in the previous round.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>10. Will a &lt;specified Boxer&gt; get a knockdown in the match?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only the knockdowns are counted as a result of which the judge opens the countdown, or if the referee initiates a countdown himself.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Falls on the slippery floor and other similar incidents are not taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>11. Will &lt;the specified Boxer&gt; win the match in the 1st minute of the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The time from the gong about the start of the match is taken into account including the 59th second of the match.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>12. Will &lt;the Specified Boxer&gt; get a knockdown and win the match?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Available options are:</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">“Yes” – during the match the specified player will get at least one knockdown and will be declared a winner according to the results of the match.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">“No” – in any other case.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only the knockdowns are counted as a result of which the judge opens the countdown, or if the referee initiates a countdown himself.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Falls on a slippery floor and other similar incidents are not taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If a match is interrupted or canceled due to technical reasons, for all bets on this position a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>13. Who will get a knockdown / knockout / technical knockout?</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The following outcomes are possible:</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">“None” – none of the players in the match will get a knockdown / knockout or technical knockout; “Player 1′′ – Player 1 in the match will get a knockdown or a knockout or a technical knockout (or a knockdown and a knockout / a knock-down and a technical knockout);</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">“Player 2′′ - Player 2 in the match will get a knockdown or knockout or a technical knockout (or a knockdown and a knockout / a knock-down and a technical knockout);</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>14. In this given type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></h6>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Bádminton</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">a. En el caso de que uno de los participantes planificados sea reemplazado por otro antes del inicio del partido, las tasas de dicho evento serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">b. En caso de retraso del partido o de interrupción del mismo, se devolverán todas las apuestas, excepto aquellas cuyo resultado se determine de forma única en el momento de la interrupción (en caso de partidos interrumpidos). Si el partido fue interrumpido debido a una lesión o descalificación, y como resultado de eso, se especifica que una parte avanzará a la siguiente ronda, las tasas de paso siguen en vigor.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">c. Se aceptan los siguientes métodos de apuestas en el bádminton:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. El ganador del partido.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice al ganador del partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. El ganador del set.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice al ganador del set.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. El ganador del torneo</strong>.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el jugador especificado no participó en el torneo dado, todas las apuestas en este jugador serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. ¿Quién ganará el siguiente lanzamiento?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el siguiente lanzamiento no se hizo en el partido, todas las apuestas en esa posición serán reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. Marcador exacto.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En caso de que el partido haya sido interrumpido o no se haya jugado el número regular de sets, todas las apuestas en esa posición serán reembolsadas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. En este tipo de deporte, se pueden brindar otros resultados aparte de los mencionados&nbsp;</strong></span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1472" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61303" style="display:block;max-width:60px;">
+                                        <div class="divider-container">
+                                            <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="module-container   only-mobile   align-left ModuleParagraph
+                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:0vh; ">
+                                    <div class="  module ModuleParagraph " datamodule-id="61304" style="display:block;max-width:1702px;">
+                                        <div class="uc-content ">
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Fútbol Combinado</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Fútbol Combinado: es un juego, donde las apuestas se hacen sobre dos equipos opuestos, que están jugando en partidos reales. Las apuestas se realizan en función de la suma de goles, anotados por los jugadores en partidos reales.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">El cálculo de las apuestas se hace después del final de todos los partidos reales, desde donde los jugadores han sido elegidos para los equipos virtuales. Si el inicio del partido ha sido retrasado por más de 24 horas, todas las apuestas aceptadas en ese partido se calcularán con un coeficiente de 1 (Retorno). Si el partido ha sido suspendido y no ha sido reanudado dentro de 24 horas, todas las apuestas aceptadas en ese partido dado se calcularán con un coeficiente de 1 (Retorno).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Por ejemplo, Manchester United – Real Madrid (Partido combinado) jugando para sus ligas nacionales.&nbsp;</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Manchester United – Real Madrid</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Premier League&nbsp;Manchester United&nbsp;&nbsp;&nbsp; 2:1&nbsp;&nbsp; Everton</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">La Liga Real Madrid 3:1 Valencia</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Partido combinado&nbsp;Manchester United&nbsp;&nbsp; 2:3&nbsp;&nbsp; Real Madrid</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="module-container  align-left ModuleDivider
+                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
+                                    <div class="  module ModuleDivider " datamodule-id="61305" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -1582,37 +1027,27 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1473" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61306" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Badminton</strong></span></span></h5>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In the event that one of the planned participants is replaced by another one before the start of the match, rates on such an event shall be returned.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In the event of the carrying over of the match or if the match is interrupted, all bets shall be returned except the ones the outcome of which is uniquely determined by the time of the stoppage (in case of interrupted matches). If the match was interrupted due to an injury or disqualification, and as a result of that a party is specified, who will progress into the next round, the rates on pass remain in force.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following methods of betting on badminton are accepted:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. The winner of the match.</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the winner of the match.</span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. The winner of the set.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the winner of the set.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. The winner of the tournament.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the specified player did not participate in the given tournament, all bets on this player shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. Who will win the next pitch?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the next pitch was not done in the match, all bets on that position are refundable.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. The exact score.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In the case if the match was interrupted or not played the regulated number of sets, all bets on that position shall be refunded.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. In this given type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></h6>
+                                            <p style="line-height:13.5pt;"><span class="font-13em"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Bandy</strong></span></span><br><br><span style="color:rgba(53, 53, 53, 0.7);"><strong>1.</strong>&nbsp;Todas las apuestas se calculan sobre la base de los resultados obtenidos al final del tiempo principal (90 minutos, 2 mitades de 45 minutos cada uno o 3 veces 24 minutos cada uno), si no se indica lo contrario.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>2.</strong>&nbsp;El tiempo extra y las sanciones se tienen en cuenta sólo para que las apuestas sobre la entrada en la siguiente ronda, el ganador del torneo, etc.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>3.</strong>&nbsp;Si el partido es cancelado o pospuesto por más de 24 horas todas las apuestas del partido tienen un coeficiente de 1.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>4.</strong>&nbsp;Se considera que el partido ha tenido lugar si se ha jugado por lo menos durante 80 minutos. Si el partido no se reanuda y se juega hasta el final dentro de 15 horas todas las apuestas se calculan en base a los resultados obtenidos hasta el momento en que el partido fue interrumpido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>5.</strong>&nbsp;Si en un grupo de apuestas de “¿Quién es más alto en base a los resultados del torneo?” un equipo no logra terminar, es más alto el equipo que ha sumado más puntos. Si los puntos son iguales, las apuestas se calculan en base a los datos del protocolo final.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>6.</strong>&nbsp;La empresa de apuestas no se hace responsable de las imprecisiones durante el partido. Los datos mostrados en vivo y en la línea son aproximados. Por favor, consulte las fuentes oficiales para las regulaciones del juego.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>7.</strong>&nbsp;Todas las apuestas del partido tienen un coeficiente de 1, si el partido es cancelado o pospuesto por más de 24 horas, excluyendo los casos, donde los resultados de la apuesta están determinados por el momento en que el partido es interrumpido. Los resultados, que están claramente definidos en el momento en que se interrumpe el partido, como, por ejemplo: el resultado del primer tiempo, primer gol, tiempo del primer gol, etc., se tienen en cuenta al calcular las apuestas.</span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1474" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61307" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -1620,27 +1055,27 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1475" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61308" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(53, 53, 53);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Mixed Football</strong></span></span></h5>
-                                            <p style="color:rgb(53, 53, 53);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Mixed Football– is a game, where bets are placed on the opposition of two teams, which are playing in real matches. Bets are settled based on the sum of goals, scored by the players in real matches. Calculation of bets is made after the end of all real matches, from where the players have been chosen for the virtual teams.&nbsp;</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the start of the match has been delayed for more than 24 hours, all bets accepted on that given match will be calculated with a coefficient of 1 (Return). If the match has been suspended and was not resumed within 24 hours, all bets accepted on that given match will be calculated with a coefficient of 1 (Return).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">For example, Manchester United – Real Madrid (Mixed match) playing for their national leagues.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgb(53, 53, 53);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Manchester United – Real Madrid</span></span></p>
-                                            <p style="color:rgb(53, 53, 53);"><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Premier League Manchester United 2:1 Everton</span></span></p>
-                                            <p style="color:rgb(53, 53, 53);"><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">La Liga Real Madrid 3:1 Valencia</span></span></p>
-                                            <p style="color:rgb(53, 53, 53);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Mixed match Manchester United 2:3 Real Madrid</span></span></p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:black;"><strong>Fútbol playa</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>1.</strong>&nbsp;Todas las apuestas son calculadas en base a los resultados obtenido al final del tiempo principal del partido (36 minutos de juego, 3 periodos, 12 minutos cada uno), si no se indica lo contrario.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>2.</strong>&nbsp;El tiempo extra y tiros de penales son considerados solo para apuestas al ganador del juego, los que entran a la siguiente ronda, ganador del torneo, etc.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>3.</strong>&nbsp;Todas las apuestas del partido tienen un coeficiente de 1, si el juego es cancelado o pospuesto por cualquier otro motivo durante más de 24 horas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>4.</strong>&nbsp;Se considera que el partido se ha realizado si se ha jugado al menos durante 24 minutos. Todas las apuestas se calculan sobre la base de los resultados obtenidos en el momento en que el partido fue interrumpido, si el partido no se reanuda y se juega hasta el final en 24 horas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>5.</strong>&nbsp;Todas las apuestas del partido se calculan con un coeficiente de 1, si el partido se interrumpe durante más de 24 horas, excluyendo los casos en los que los resultados son determinados para cuando el partido es interrumpido. Los resultados, que son claramente definidos para cuando el tiempo del partido ha sido interrumpido, por ejemplo, resultado del 1er tiempo, primer gol, tiempo del primer gol, etc. son tomados en cuenta mientras se calculan las apuestas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>6.</strong>&nbsp;La información proporcionada en la siguiente fuente - http://www.beachsoccer.com/ sirve como base, mientras que la determinación de indicadores estadísticos para los resultados de los partidos de fútbol de playa.&nbsp;</span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1476" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61309" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -1648,28 +1083,30 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1477" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61310" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(53, 53, 53);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Bandy</strong></span></span></h5>
-                                            <h6 style="color:rgb(53, 53, 53);"><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1.</strong> All bets are calculated on the basis of the results obtained by the end of the main time (90 minutes, 2 halves 45 minutes each or 3 times 30 minutes each), if not stated otherwise.</span></span></h6>
-                                            <p style="color:rgb(53, 53, 53);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2.</strong> The extra time and penalties are taken into account only for bets on entering the next round, tournament winner, etc.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3.</strong> All bets on the match have an odd of 1, if the match is cancelled or postponed for more than 24 hours.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4.</strong> The match is considered to have been held if it has been played at least for 80 minutes. All bets are calculated on the basis of the results obtained by the time the match was interrupted, if the match is not resumed and played till the end within 24 hours.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5.</strong> If a team fails to exit a group in bets “Who is higher on the basis of tournament results”, higher is the team, which have scored more points. If the points are equal, bets are calculated on the basis of the data of the final protocol.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. </strong>The bookmaking company carries no responsibility for inaccuracies during the match. The data shown live and in the line are approximate. Please, refer to official sources for the game regulations.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7.</strong> All bets on the match have an odd of 1, if the match is cancelled or postponed for more than 24 hours, excluding cases, where the bet results are determined by the time the match is interrupted. Outcomes, which are clearly defined by the time the match is interrupted, e.g. outcome of the 1st time, first goal, time of the 1st goal etc., are taken into account while calculating the bets.</span></span></p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Ajedrez</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong>&nbsp;En caso de aplazamiento del partido, todas las apuestas en el partido son reembolsables. Si un partido es interrumpido, todas las apuestas en el partido serán devueltas, excepto las apuestas cuyo resultado está determinado exclusivamente por el tiempo de aplazamiento del partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.&nbsp;</strong>Las apuestas se cuentan según los resultados oficiales del torneo. En caso de sustitución de un jugador por otro, todas las apuestas serán nulas y devueltas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c.&nbsp;</strong>Los siguientes eventos están disponibles para apostar en Ajedrez:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. El ganador del partido.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el resultado del partido. En caso de negarse a participar en un partido o descalificación de uno de los participantes en el momento de la primera jugada del partido, se devolverán todas las apuestas de este partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. El ganador del torneo.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si más de un participante es reconocido como ganador del torneo, el coeficiente de la apuesta para este equipo se divide por el número de ganadores.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si dos o más jugadores terminan el torneo con el mismo número de puntos, el cálculo de las apuestas se hace de acuerdo con el jugador anunciado como ganador del torneo por el respectivo órgano de gobierno del torneo.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. En este tipo de deporte, se pueden brindar otros resultados aparte de los mencionados anteriormente.</strong></span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1478" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61311" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -1677,26 +1114,111 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1479" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61312" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(53, 53, 53);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Beach soccer</strong></span></span></h5>
-                                            <h6 style="color:rgb(53, 53, 53);"><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1.</strong> All bets are calculated on the basis of results obtained by the end of the match’s main time (36 minutes play time, 3 periods, 12 minutes each), if not stated otherwise.</span></span></h6>
-                                            <p style="color:rgb(53, 53, 53);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2.</strong> The added time and penalty shootout are taken into account only for bets on match winner, entering the next round, tournament winner, etc.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. </strong>All bets on the match have an odd of 1, if the match is cancelled or postponed for any other reason for more than 24 hours.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4.</strong> The match is considered to have been held if it has been played at least for 24 minutes. All bets are calculated on the basis of the results obtained by the time the match was interrupted if the match is not resumed and played till the end within 24 hours.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. </strong>All bets on the match are calculated with an odd of 1, if the match is interrupted for more than 24 hours, excluding cases, where the bets results are determined by the time the match in interrupted. Outcomes, which are clearly defined by the time the match is interrupted, e.g. outcome of the 1st time, first goal, time of the 1st goal etc., are taken into account while calculating the bets.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6.</strong> The information provided on the following source – <strong>http://www.beachsoccer.com/</strong> serves as basis while determining statistical indicators for outcomes of beach soccer matches.</span></span></p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Carrera de Bicicletas</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong>&nbsp;Todas las tarifas son consideradas de acuerdo al informe oficial final en el momento de la presentación de la premiación a los ganadores en el podio. Los cambios realizados después de este tiempo no se tienen en cuenta para el cálculo de las apuestas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong>&nbsp;Si un participante no ha cruzado la línea de inicial, todas las apuestas son devueltas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c</strong></span><i><span style="color:rgba(0, 0, 0, 0.69);"><strong>.</strong></span></i><span style="color:rgba(0, 0, 0, 0.69);">&nbsp;En caso de que se interrumpa la etapa indicada, todas las tarifas son devueltas, excepto las que se han definido claramente.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>d</strong></span><i><span style="color:rgba(0, 0, 0, 0.69);"><strong>.</strong></span></i><span style="color:rgba(0, 0, 0, 0.69);">&nbsp;Si la carrera especificada es interrumpida (el número especificado de etapas de acuerdo con las reglas no se ha llevado a cabo), todas las apuestas serán devueltas, excepto las que cuyo resultado ha sido claramente definido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>e.</strong>&nbsp;En caso de que la etapa de la carrera no comience en el momento que fue programado o en un plazo de más de 24 horas, todas las apuestas de esta carrera o etapas son respectivamente reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>f.</strong>&nbsp;Las siguientes opciones están disponibles para apostar en ciclismo:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. El ganador de la carrera.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice qué ciclista ganará en la carrera.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En caso de descalificación, las tarifas se calcularán en función de los resultados que se hagan públicos en el momento de la premiación de los ciclistas.</span><br><span style="color:rgba(0, 0, 0, 0.69);">Cuando se apuesta al ganador en la carrera, el ciclista que está en primer lugar, en base a la competencia entera, será considerado el ganador</span><br><span style="color:rgba(0, 0, 0, 0.69);">Si ninguno de los ciclistas completa la carrera, el ciclista que haya completado la mayoría de las etapas se considerará el ganador.</span><br><span style="color:rgba(0, 0, 0, 0.69);">Si ambos ciclistas completan un número igual de etapas, el que es mejor según la clasificación de la última etapa completada es el ganador.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. El ganador de la etapa.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice qué ciclista va a ganar en una determinada etapa de la carrera.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Todas las apuestas en los ciclistas que no hayan participado en la carrera, serán consideradas no válidas y serán devueltas.</span><br><span style="color:rgba(0, 0, 0, 0.69);">En caso de descalificación de cualquier ciclista, las apuestas se calcularán en función de los resultados que se hagan públicos en el momento de la premiación de los ciclistas en el podio.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. ¿Quién es mejor (en base a los resultados de la carrera)?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí, usted predice qué ciclista será mejor en la clasificación general en base a resultados de la carrera</span><br><span style="color:rgba(0, 0, 0, 0.69);">Para que las apuestas en esta posición sean consideradas válidas, los ciclistas indicados en la posición determinada deben comenzar la carrera.</span><br><span style="color:rgba(0, 0, 0, 0.69);">Al menos, una de las partes listadas en esa posición debe alcanzar el final de la carrera. De lo contrario, todas las apuestas en esta posición serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si solo uno de los ciclistas indicados en esta posición alcanza el final de la carrera, cuando se calculan las apuestas, estas se consideran como que este ciclista tiene un mejor lugar.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. ¿Quién tiene mejor lugar (según los resultados de una etapa)?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice qué ciclista terminará en mejor lugar según los resultados de la etapa dada.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si una de las partes indicadas no participa en esta etapa, se devolverán las apuestas correspondientes a esa posición.</span><br><span style="color:rgba(0, 0, 0, 0.69);">Al menos una de las partes enumeradas en esta posición debe alcanzar la línea final de la etapa, para que la apuesta se considere válida. De lo contrario, se devolverán todas las apuestas en esta posición.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para que las apuestas en esta posición sean consideradas válidas, al menos uno de los ciclistas indicados debe comenzar la carrera. Si solo uno de los ciclistas mencionados en esta posición alcanza el final de la etapa, mientras se calculan las apuestas, es considerado que obtuvo un mejor lugar.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. ¿Qué equipo tiene mejor lugar (en base a los resultados de la carrera)?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí, usted predice cuál de los equipos indicados terminará con un mejor lugar en la clasificación general en base a los resultados de la carrera. Para que las apuestas en esta posición sean consideradas válidas, por lo menos uno de los equipos indicados en determinada posición debe comenzar la carrera.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Al menos uno de los equipos listados en esta posición debe llegar a la línea final de la carrera para que las apuestas sean consideradas válidas. De lo contrario, todas las apuestas en esta posición serán retornadas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si solo uno de los equipos indicados en esta posición llega a la línea final, cuando se hace los cálculos de las apuestas, se considera que este equipo tiene un mejor lugar.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. ¿Qué equipo tiene mejor lugar (en base a los resultados de la etapa)?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí, usted predice cuál de los equipos indicados tendrá un mejor lugar de acuerdo a los resultados de determinada etapa.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si uno de los equipos indicados no participa en esta etapa, las apuestas para esta posición serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Al menos uno de los equipos listados en esta posición debe llegar a la línea final de la etapa para que las apuestas sean consideradas válidas. De lo contrario, todas las apuestas en esta posición serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para que las apuestas en esta posición sean consideradas válidas, por lo menos uno de los equipos indicados en esa posición debe comenzar la carrera.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si solo uno de los equipos indicados en esta posición alcanza la línea final de la etapa, cuando se calculan las apuestas, se considera que este equipo tiene mejor lugar.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>7. Rey de la Montaña</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los cálculos de las apuestas se hacen de acuerdo al informe oficial del órgano regulador / federación de estas competencias. Cualquier cambio en el cálculo, así como también las descalificaciones que ocurran después de emitir el informe original de la carrea / etapa, no afecta ningún cálculo de las apuestas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>8. Clasificación en puntos.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí, usted predice qué ciclista anotará los puntos máximos en la clasificación.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los cálculos de las apuestas se hacen de acuerdo al informe oficial del órgano regulador / federación de estas competencias. El cálculo de las apuestas no será afectado por cualquier cambio en el cálculo y descalificación que ocurra después de emitir el informe original de la carrera.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>9. Finalizar en el podio.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí, usted predice qué ciclista terminará entre los 3 mejores de la carrera. El cálculo de las apuestas se hace de acuerdo al informe oficial del órgano regulador / federación de estas competencias. El cálculo de las apuestas no será afectado por cualquier cambio en el cálculo y descalificación que ocurra después de emitir el informe original de la carrera.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>10. En este tipo de deporte, se pueden brindar otros resultados aparte de los mencionados anteriormente.</strong></span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1480" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61313" style="display:block;max-width:60px;">
+                                        <div class="divider-container">
+                                            <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="module-container   only-mobile   align-left ModuleParagraph
+                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:0vh; ">
+                                    <div class="  module ModuleParagraph " datamodule-id="61314" style="display:block;max-width:1702px;">
+                                        <div class="uc-content ">
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Dardos</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong>&nbsp;Si el juego se retrasa durante más de 24 horas, todas las apuestas del partido serán reembolsadas. Si un partido se retrasa durante menos de 24 horas, las apuestas para este partido siguen siendo válidas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong>&nbsp;Si el partido es interrumpido o reducido, el ganador del partido es declarado miembro de pasar a la siguiente ronda o declarado ganador del partido según la decisión de los jueces del órgano regulador / federación del torneo. En ese caso las apuestas de las posiciones restantes serán declaradas inválidas si no se especifica lo contrario en esas reglas. Excepción: el resultado de las apuestas es únicamente determinado para cuando el partido se ha detenido, se declaran válidas y permanecen como están.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c.</strong>&nbsp;Las siguientes opciones están disponibles para apostar en dardos:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. Ganador.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el resultado del partido. Si el ítem tiene opciones: Equipo 1, Equipo 2 sin la opción "Empate", pero el partido termina en un empate, se devolverán todas las apuestas en esa posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. ¿Más / menos&nbsp;splitting-outs 180&nbsp;en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si el número de situaciones en las que los jugadores en el partido con un set de dardos (un intento) anotarán180 puntos, más o menos que el parámetro especificado.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de series a 180 puntos es igual al total de la apuesta, se devuelven las apuestas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si un partido es interrumpido o reducido, se realiza una revolución para todas las apuestas en esta posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3.¿Más / menos&nbsp;splitting-outs&nbsp;180 por el jugador 1 en el partido. Más / menos&nbsp;splitting-outs&nbsp;180 por el jugador 2 en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice si el número de situaciones en las cuales los jugadores relevantes en el juego con un set de dardos (un intento) anotarán 180 puntos, más o menos que el parámetro especificado.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado de los partidos el número total de series a 180 puntos del jugador indicado es igual al total de la apuesta, se devolverán las apuestas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el partido es interrumpido o reducido, para todas las apuestas en esta posición se devolverán las apuestas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4 . Hándicap del partido en rondas.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En caso de puntos iguales teniendo en cuenta el Hándicap se devuelve la apuesta. Si el partido es interrumpido o reducido, todas las apuestas en esta posición se devolverán.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. El color ganador de la ronda dada.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el color del sector donde caerá el último tiro exitoso realizado por el ganador de la ronda dada. Para la contabilidad en esta posición la ronda debe ser jugada en su totalidad.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. Victoria doble de la ronda mayor / menor que 40.5.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice si el último doble exitoso de la ronda dada es mayor o menor que 40.5. Para la contabilidad en esta posición la ronda debe ser jugada en su totalidad.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>7. El ganador del torneo.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si más de un equipo es reconocido como ganador del torneo, el monto apostado en este equipo se divide por el número de ganadores. Si la parte especificada no pudo participar en este torneo (no jugó un solo segundo en ningún partido del torneo), se devolverán las apuestas para este participante.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>8. En este tipo de deporte, se pueden brindar otros resultados aparte de los mencionados anteriormente.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="module-container  align-left ModuleDivider
+                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
+                                    <div class="  module ModuleDivider " datamodule-id="61315" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -1704,30 +1226,40 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1481" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61316" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Chess</strong></span></span></h5>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In case of postponement of the match, all bets on the match are refundable. If a match is interrupted, all bets on the match shall be refunded, except the rates the outcome of which is uniquely determined by the time of postponing of the match.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Bets are counted according to the official results of the tournament. In the case of replacement of one player by another one, all bets will be void and shall be returned.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following items are available for betting on Chess:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. The winner of the match.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the match. In case of refusal to participate in a match or disqualification of one of the participants by the time the first move of the match was made, all bets on this match shall be returned.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. The winner of the tournament.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If more than one participant is recognized as a winner of the tournament, the coefficient of the rate for this team is divided by the number of winners.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If two or more players finish the tournament with the same number of points, the calculation of rates is made according to the player announced as a winner of the tournament by the respective governing body of the tournament.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. In this given type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></h6>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Deportes Electrónicos</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1.</strong>&nbsp;Las apuestas se aceptan considerando las rondas adicionales, si no se indica lo contrario. Las apuestas se calculan con el coeficiente 1 en caso de empate.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2.</strong>&nbsp;Si por alguna razón un participante se abstenga de continuar el juego o es descalificado, todas las apuestas realizadas en él se consideran perdidos. Si el rechazo (la descalificación) tiene lugar antes del empiezo del partido o si se asigna una la derrota técnica en la primera mitad, el evento se calcula con el coeficiente 1.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3.</strong>&nbsp;Las apuestas se calculan con el coeficiente 1 si el partido se posponga más de 24 horas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4.</strong>&nbsp;En caso de que el partido está detenido por el árbitro para que se reproduzca después, los resultados del partido interrumpida no se tienen en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;"><br><span style="color:rgba(0, 0, 0, 0.69);">La determinación de las apuestas se basará en el resultado oficial declarado por la entidad reguladora responsable de la competición en cuestión, retransmisión o API del juego. Se anularán las apuestas realizadas a los 'No participantes'. Los mercados de 'Ganador final' y 'Grupo' pueden estar sujetos a la Regla 4 (deducción).</span></p>
+                                            <p style="line-height:13.5pt;"><br><span style="color:rgba(0, 0, 0, 0.69);">Un encuentro que no se juegue o se posponga se considerará 'No participante' para la determinación de las apuestas, a menos que el encuentro se juegue en un plazo de 48 horas tras la hora de inicio originalmente programada.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas se anularán si el encuentro se muestra de forma incorrecta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En caso de que el nombre de un equipo cambie debido a que un equipo abandona una organización, se une a otra organización o cambie de forma oficial, todas las apuestas prevalecerán.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si un encuentro se celebra antes de la fecha y hora programadas, todas las apuestas realizadas después de la hora real de comienzo serán anuladas.&nbsp;</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Todas las apuestas realizadas antes de la hora real de inicio se mantendrán.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Ganará el encuentro/Ganará el mapa (incluido actual y próximo)/Doble oportunidad: en caso de que un encuentro o mapa tenga que jugarse nuevamente debido a empate, el encuentro, juego o mapa a ser jugado nuevamente será considerado una entidad aparte. En caso de que un encuentro o mapa comience pero no se complete, se anularán todas las apuestas, a no ser que, después del inicio del encuentro, un participante sea descalificado, en cuyo caso el participante/equipo que progrese para la siguiente ronda o sea declarado ganador por la entidad reguladora responsable de la competición en cuestión, retransmisión o API del juego, será considerado ganador para la determinación de las apuestas.</span></p>
+                                            <p style="line-height:13.5pt;"><br><span style="color:rgba(0, 0, 0, 0.69);">Si un partido o mapa es reproducido debido a una desconexión, todas las apuestas en el mercado especificado serán nulas a menos que el resultado ya esté determinado. La coincidencia o mapa reproducido se tratará como una entidad independiente.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si un participante / equipo recibe una victoria indisputada en al menos un mapa antes de que el encuentro comience, todas las apuestas serán anuladas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si se reproduce un mapa debido a un problema técnico no relacionado con el jugador, las apuestas previas al juego permanecerán en el mapa repetido de acuerdo con el resultado oficial. Todas las apuestas en juego en el mapa afectado serán nulas a menos que el resultado ya esté determinado.</span></p>
+                                            <p style="line-height:13.5pt;"><br><span style="color:rgba(0, 0, 0, 0.69);">Apuestas a hándicap / Apuestas al total de mapas / Apuestas a la puntuación correcta / Apuestas a 'Carrera a - Mapas': las apuestas se anularán si el número de mapas establecidos cambia o si difieren de los que se ofrecían en el momento de realizar las apuestas. En caso de que un evento o encuentro comience pero no se complete, las apuestas se anularán a menos que el resultado ya se haya determinado.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Ganará al menos un mapa: en caso de que un encuentro comience pero no se complete, las apuestas se anularán a menos que el resultado ya se haya determinado.</span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1482" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61317" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -1735,168 +1267,16 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1483" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61318" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Cycle racing</strong></span></span></h5>
-                                            <h6 style="color:rgb(0, 0, 0);">&nbsp;</h6>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">All rates are counted according to the official finishing report at the time of the podium presentation of awarding the participants. Any changes made after this time are not taken into account for the calculation of rates.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If a participant has not crossed the start line, all bets on him are refundable.</span></span><br><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In the event that the indicated stage is interrupted, all rates are refundable, except the ones, the outcome of which has been clearly defined.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the specified race is interrupted (the specified number of stages according to the ordinance have not been carried out), all rates are refundable except ones, the outcome of which has been clearly defined.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In the event the carrying over of the start time or a stage of the race for more than 24 hours, all rates on this race or stage race are respectively refundable.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following items are suggested for betting on Cycling:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. The winner of the race.</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which driver will win in the race.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In case of disqualification, the rates will be calculated based on the results made public at the time of awarding the drivers.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">When betting on winning in the race the driver who is in first place on the basis of the entire competition is considered the winner.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If none of the drivers complete the race, the driver who has completed most of the stages is considered the winner.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If both drivers complete an equal number of stages, the one who is higher according to the classification of the last completed stage is the winner.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. The winner of the stage.</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which driver will win in a certain stage of the race.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">All rates on the drivers who did not take part in the race, shall be considered invalid and shall be returned.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In the case of disqualification of any of the drivers, the rates will be calculated based on the results made public at the time of awarding the drivers on the podium.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. Who is higher (on the basis of results of a race)?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which driver will finish higher in the general classification on the basis of results of</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">race.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In order for the rates on this position to be considered valid, both drivers indicated in the given position must start the race.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">At least one of the parties listed in the given position should reach the finish of the race. Otherwise, all rates on this position shall be returned.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If only one of the drivers indicated in this position reaches the finish of the race, when calculating these rates it is considered that this driver has taken a higher place.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. Who is higher (according to the results of a stage)?</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which driver will finish higher according to the results of the given stage.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If one of the indicated parties does not take part in this stage, the rates for that position shall be returned.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">At least one of the parties listed in this position must reach the finish line of the stage, in order the rate to be considered valid. Otherwise, all rates on this position shall be returned.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In order the rates on this position were considered valid, at least one of the drivers indicated in the given position must start the race.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If only one of the drivers mentioned in this position, reached the finish of the stage, while calculation of these rates it is considered that the driver has taken a higher place.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. Which team is higher (on the basis of the results of the race)?</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which of the indicated teams will finish higher place in the general classification on the basis of the race results.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In order for the rates on this position to be considered valid, at least one of the teams indicated in the given position must start the race.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">At least one of the teams listed in this position, must reach the finish line of the race, in order for the rate to be considered valid. Otherwise, all rates on this position shall be returned.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If only one of the teams indicated in this position reaches the finish of the race, when calculating these rates, it is considered that this team has a higher place.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. Which team is higher (on the basis of the results of the stage)?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which of the indicated teams will take a higher place according to the results of the given stage.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If one of the indicated teams does not take part in this stage, the rates for that position shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">At least one of the teams listed in this position, must reach the finish line of the stage, in order for the rate to be considered valid. Otherwise, all rates on this position shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In order for the rates on this position to be considered valid, at least one of the teams indicated in the given position must start the race.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If only one of the teams indicated in this position reaches the finish of the stage, when calculating these rates, it is considered that this team has a higher place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. King of the Mountain.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Calculation of rates is done according to the official report of the regulatory body / federation of these competitions. Any changes in the calculation, as well as disqualifications occurring after drawing up the original report of the race / stage, does not affect the calculation of rates.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>8. Classification on points.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which driver will score the maximum points in the classification.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The calculation of rates is according to the official report of the regulatory body / federation of these competitions. The calculation of rates is not affected by any changes in the calculation and disqualifications that occurred after drawing up the original report of the race.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>9. Finish on the podium.</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which driver will finish in the Top 3 of the race.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The calculation of rates is according to the official report of the regulatory body / federation of these competitions. The calculation of rates is not affected by any changes in the calculation and disqualifications that occurred after drawing up the original report of the race.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>10. In this given type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></h6>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>StarCraft II</strong></span></p>
+                                            <p style="line-height:13.5pt;"><br><span style="color:rgba(0, 0, 0, 0.69);">Apuestas al mapa: en caso de empate, las apuestas al mercado 'Ganará el mapa' se anularán.</span><br><span style="color:rgba(0, 0, 0, 0.69);">Ganará la carrera / Nacionalidad del ganador: en caso de que el evento comience pero no se complete, las apuestas se anularán a menos que el resultado ya se haya determinado.</span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1484" style="display:block;max-width:60px;">
-                                        <div class="divider-container">
-                                            <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="module-container   only-mobile   align-left ModuleParagraph
-                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1485" style="display:block;max-width:1702px;">
-                                        <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Darts</strong></span></span></h5>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the game is carried over for more than 24 hours, all bets on the match shall be refunded.&nbsp;If a match is carried over for less than 24 hours, the rates for this match remain valid.</span></span></li>
-                                                <li style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the match is interrupted or shortened, the winner of the match is declared the member of passing to the next round or declared the winner of the match according to the decision of the judges of the regulatory body / federation of the tournament. In this case the rates on the remaining positions will be declared invalid if otherwise is not specified in those rules. An exception: the rates, the outcome of which is uniquely determined by the time of stoppage of the match, are declared valid and remain in force.</span></span></li>
-                                                <li style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following items are available for betting on darts:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. Winner.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the match. If the item has options: Team 1, Team 2 without the option “Draw”, but the match ends in a draw, all rates on that position shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. More/less splitting-outs 180 in the match?</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the number of situations in which the players in the match with one set of darts (one try) will score 180 points, more or less than the specified parameter .</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of series to 180 points is equal to the total of the rate, a return takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If a match is interrupted or reduced, a return takes place for all bets on this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. More/less splitting-out 180 by a specific player in the match?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the number of situations in which the relevant players in the match with one set of darts (one try) will score 180 points is more or less than the specified parameter .</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the matches the total number of series to 180 points of the indicated player is equal to the total of the rate, a return takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the match is interrupted or shortened, for all bets on this position a return takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4 . Handicap of the match on legs.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In case of equal points taking into account the Handicap a return takes place. If the match is interrupted or reduced, on all rates on this position a return takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. The winning color of the given leg.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict in which color sector the last successful throw will be made by the winner of the given leg. For accounting on this position the leg must be played in full.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. Double victory of the leg more/less than 40.5.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the last successful double of the given leg is more or less than 40.5. For accounting on this position a leg must be played in full.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. The winner of the tournament.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If more than one team is recognized as a winner of the tournament, the odds bet on this team is divided by the number of the winners. If the specified party was unable to participate in this tournament (did not play a single second in any game of the tournament), the rates for this participant for this position shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>8. In this given type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="module-container  align-left ModuleDivider
-                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1486" style="display:block;max-width:60px;">
-                                        <div class="divider-container">
-                                            <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="module-container   only-mobile   align-left ModuleParagraph
-                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1487" style="display:block;max-width:1702px;">
-                                        <div class="uc-content ">
-                                            <h5 style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Cybersport&nbsp;</strong></span></span></h5>
-                                            <h6 style="line-height:1.5;"><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Calculation of bets on cybersport is carried out based on the General rules, considering the specific features inherent to the given cybersport discipline.&nbsp;</span></span></h6>
-                                            <p style="line-height:1.5;">&nbsp;</p>
-                                            <p style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Specific features of the bet calculation</strong></span></span></p>
-                                            <ol>
-                                                <li style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Bo1, Bo2, Bo3 formats of cybersport games and the total number of maps in a match, where it is necessary to collect prevailing number of victories. The winner of the match is determined by the sum of the won maps, e.g. Bo3 – minimum 2 cards, 3 victories are necessary for Bo5, etc.&nbsp;</span></span></li>
-                                                <li style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In case of any changes of the format (e.g. application on Bo5, but Bo3 will be played) all the bets placed on the markets related to the number of matches, will be calculated with the odds of “1”.&nbsp;</span></span></li>
-                                                <li style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In case of a technical loss (ddos-attack, connection problems etc.) the delay of the team or the participant or the rejection to continue for any reason, all the bets placed on the outcomes undefined at the moment of the announcement are calculated with the odds of “1”, even if the outcome is obvious, except for the cases of capitulation/surrendering (GG, Forfeit) of one of the teams according to the game rules.&nbsp;</span></span></li>
-                                                <li style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If according to the regulation, one of the teams is given the victory in 1 “distant” match, the given “distant” match is not considered. In that case the first the match is considered the first in Line is the first real played match. However, the distant match is taken into consideration in markets related to the number of matches.&nbsp;</span></span></li>
-                                                <li style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In case the match is stopped for further restart, the results of the interrupted match are not considered.&nbsp;</span></span></li>
-                                                <li style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In case of any changes of the team name that happen after the team leaves the organization, joins another organization or an official change of name takes place, the bets remain in force.</span></span></li>
-                                            </ol>
-                                            <p style="line-height:1.5;">&nbsp;</p>
-                                            <p style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>MOBA-Dota 2, League of Legends, King&nbsp;of Glory etc.</strong></span></span></p>
-                                            <ol>
-                                                <li style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The final calculation is carried out according to the data registered after the destruction of the main building (Castle/Nexus) of one of the opponents. Similarly, a calculation is done in case one of the teams surrenders (the castle/nexus in this case isn’t destroyed directly by the opponent), and the victory is given to the opponent team.&nbsp;</span></span></li>
-                                                <li style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The bet "First Blood" is interpreted as the murder of the first hero (champion) by the heroes (champions) of the opponent team. The first murder made by the opponent’s neutral units or crips/minions is not considered, and the bet maintains its force before the first murder of the hero by the heroes of the opponent team.&nbsp;</span></span></li>
-                                                <li style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In case of surrendering, the final number of destroyed Towers and Inhibitors will be determined with the minimal number of the Towers and Inhibitors, necessary to win at the moment of surrendering. These additional buildings will be considered as destroyed by the winning team.&nbsp;</span></span></li>
-                                            </ol>
-                                            <p style="margin-left:14.2pt;line-height:1.5;">&nbsp;</p>
-                                            <p style="margin-left:14.2pt;line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>CounterStrike:&nbsp;GlobalOffensive</strong></span></span></p>
-                                            <ol>
-                                                <li style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Victory in the round is reached with the murder of all the opponents on the map, with the undermining/neutralizing the bomb or the finish of time on the round timer.&nbsp;</span></span></li>
-                                                <li style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The match starts after the first kill in a “pistol” round.&nbsp;Матчсчитаетсяначавшимсяпослепервогоубийствав "пистолетном"&nbsp;раунде.</span></span></li>
-                                                <li style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Victory on the map is reached by winning in minimum 16 rounds (or in accordance with the tournament regulation).</span></span></li>
-                                                <li style="line-height:1.5;"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In case of a draw on the map (when the total score of the rounds comprises 15-15) the organizers may set 6 or 10 additional rounds, so said overtime (OT). The victory in overtime is given to the team that reaches a 2-round advantage or, if one of the teams isn’t able to equalize the score with the opponent (e.g., in case of the score 19-15, 21-17 etc.). In case of a draw (21-21) additional 6 (10) rounds are set. Overtime is included in the calculation of markets.&nbsp;</span></span></li>
-                                            </ol>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="module-container  align-left ModuleDivider
-                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1488" style="display:block;max-width:60px;">
-                                        <div class="divider-container">
-                                            <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="module-container   only-mobile   align-left ModuleParagraph
-                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1489" style="display:block;max-width:1702px;">
-                                        <div class="uc-content ">
-                                            <h5 style="color:rgb(53, 53, 53);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>StarCraft II</strong></span></span></h5>
-                                            <p style="color:rgb(53, 53, 53);">&nbsp;</p>
-                                            <p style="color:rgb(53, 53, 53);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Map Betting: In the event of a draw, To Win Map market will be voided.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Winning Race / Winning Player Nation: In the event of a fixture starting but not being completed, bets will be void unless the outcome is already determined.</span></span></p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="module-container  align-left ModuleDivider
-                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1490" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61319" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -1904,17 +1284,18 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;  ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1491" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61320" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>CS:GO&nbsp;</strong></span></span></h5>
-                                            <p><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Where Overtime can be played, this will be included in the settlement of markets; unless the Draw participant is quoted for a specific market, in which case settlement will be based on regulation time only.&nbsp;</span></span></p>
-                                            <p><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Round Betting - Bets are void if the statutory number of rounds are changed, or differ from those offered for betting purposes. In the event of a fixture, map or round starting but not being completed, bets will be void unless the outcome is already determined.</span></span></p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>CS:GO</strong></span></p>
+                                            <p style="line-height:13.5pt;"><br><span style="color:rgba(0, 0, 0, 0.69);">Cuando se pueda jugar prórroga, esta se tendrá en cuenta para la determinación de las apuestas, a menos que exista la opción a 'Empate' en un mercado específico, en cuyo caso, la determinación se hará en base al tiempo reglamentario.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Apuestas a la ronda - las apuestas se anularán si el número de mapas/rondas establecido cambia o si difieren de los que se ofrecían en el momento de realizar las apuestas. En caso que un encuentro, mapa o una ronda haya empezado pero no finalizado, todas las apuestas se anularán, a menos que el resultado ya ha sido determinado.</span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1492" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61321" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -1922,18 +1303,19 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1493" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61322" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>LOL&nbsp;</strong></span></span></h5>
-                                            <p><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Map Betting: In the event of a draw, To Win Map market will be voided.&nbsp;</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">First Blood markets: Only kills by the opposition team / player will count.&nbsp;</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Kill markets: Will be settled based on the official scoreboard, broadcast or game API.&nbsp;</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Monster markets: Will be settled based on the official scoreboard, broadcast or game API.&nbsp;</span></span></p>
-                                            <p><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Building markets: For settlement purposes all buildings destroyed count as being destroyed by the opposing team, regardless of whether the last hit was from a Champion or Minion or whether or not they are respawned buildings.&nbsp;</span></span></p>
-                                            <p><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In the event of a surrender, the final number of Towers and Inhibitors destroyed will be settled on the minimum number of Towers and Inhibitors necessary to win the game at the point of surrender. These additional buildings will be treated as though destroyed by the winning team and are restricted to five Towers and one Inhibitor.&nbsp;</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In the event of a surrender, bets on Next Building Destroyed markets will be void.&nbsp;</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">All time based bets are settled on the in-game clock, and do not include the period before minions spawn. In the event of a fixture starting but not being completed, bets will be void unless the outcome is already determined.</span></span></p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>LOL&nbsp;</strong></span></p>
+                                            <p style="line-height:13.5pt;"><br><span style="color:rgba(0, 0, 0, 0.69);">Apuestas al mapa: en caso de empate, las apuestas al mercado 'Ganará el mapa' serán anuladas.</span><br><span style="color:rgba(0, 0, 0, 0.69);">Mercados a 'Primera sangre': solo las muertes realizadas por el equipo/participante oponente contarán.</span><br><span style="color:rgba(0, 0, 0, 0.69);">Mercados a 'Muertes': se determinarán de acuerdo a los resultados oficiales, retransmisión o API del juego.</span><br><span style="color:rgba(0, 0, 0, 0.69);">Mercados a 'Monster': se determinarán de acuerdo a los resultados oficiales, retransmisión o API del juego.</span></p>
+                                            <p style="line-height:13.5pt;"><br><span style="color:rgba(0, 0, 0, 0.69);">Mercados a 'Edificios': para la determinación de las apuestas, todos los edificios destruidos contarán como si fueran destruidos por el equipo enemigo, sin importar si el último tiro fue de un campeón o un minion o si existen edificios que reaparecen o no.</span></p>
+                                            <p style="line-height:13.5pt;"><br><span style="color:rgba(0, 0, 0, 0.69);">En caso de rendirse, el último número de torres e inhibidores destruido se determinará según el número mínimo de torres e inhibidores necesarios para ganar el juego en el momento de rendirse. Estos edificios adicionales se considerarán como si hubieran sido destruidos por el equipo ganador y se limitarán a cinco torres y un inhibidor.</span><br><span style="color:rgba(0, 0, 0, 0.69);">En caso de rendirse, se anularán las apuestas a 'Próximo edificio destruido'.</span></p>
+                                            <p style="line-height:13.5pt;"><br><span style="color:rgba(0, 0, 0, 0.69);">Todas las apuestas basadas en tiempos se determinan de acuerdo al reloj del juego y no incluyen el periodo antes de que se engendren los minions. En caso de que un evento o encuentro comience pero no se complete, las apuestas se anularán a menos que el resultado ya se haya determinado.</span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
-                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1494" style="display:block;max-width:60px;">
+                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:0vh; ">
+                                    <div class="  module ModuleDivider " datamodule-id="61323" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -1941,19 +1323,19 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1495" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61324" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(53, 53, 53);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>DOTA 2</strong></span></span></h5>
-                                            <p style="color:rgb(53, 53, 53);">&nbsp;</p>
-                                            <p style="color:rgb(53, 53, 53);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Map Betting: In the event of a draw, To Win Map market will be voided.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">First Blood markets: Only kills by the opposition team / player will count.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Kill markets: Will be settled based on the official scoreboard, broadcast or game API.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Creep markets: Will be settled based on the official scoreboard, broadcast or game API. Settlement is determined by the team to slay Roshan, and not who picks up the Aegis of the Immortal.</span></span></p>
-                                            <p style="color:rgb(53, 53, 53);"><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Building markets: For settlement purposes all buildings destroyed count as being destroyed by the opposing team, regardless of whether the last hit was from a Hero or a Creep. The number of barracks will be determined by individual ranged and melee barracks destroyed.</span></span></p>
-                                            <p style="color:rgb(53, 53, 53);"><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In the event of a surrender, the final number of Towers and Inhibitors destroyed will be settled on the minimum number of Towers and Inhibitors necessary to win the game at the point of surrender. These additional buildings will be treated as though destroyed by the winning team and are restricted to five Towers and one Inhibitor.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In the event of a surrender, bets on Next Building Destroyed markets will be void.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">All time based bets are settled on the in-game clock, and do not include the period before creeps spawn. In the event of a fixture starting but not being completed, bets will be void unless the outcome is already determined.</span></span></p>
+                                            <p style="line-height:13.5pt;"><br><span class="font-13em"><span style="color:rgba(0, 0, 0, 0.69);"><strong>DOTA2</strong></span></span></p>
+                                            <p style="line-height:13.5pt;"><br><span style="color:rgba(0, 0, 0, 0.69);">Apuestas al mapa: en caso de empate, las apuestas al mercado 'Ganará el mapa' serán anuladas.</span><br><span style="color:rgba(0, 0, 0, 0.69);">Mercados a 'Primera sangre': solo las muertes realizadas por el equipo/participante oponente contarán.</span><br><span style="color:rgba(0, 0, 0, 0.69);">Mercados a 'Muertes': se determinarán de acuerdo a los resultados oficiales, retransmisión o API del juego.</span><br><span style="color:rgba(0, 0, 0, 0.69);">Mercados a 'Creep': se determinarán de acuerdo a los resultados oficiales, retransmisión o API del juego. Se determinarán según el equipo que mate a 'Roshan' y no al que obtenga el "Aegis of the Immortal".</span></p>
+                                            <p style="line-height:13.5pt;"><br><span style="color:rgba(0, 0, 0, 0.69);">Mercados a 'Edificios': para la determinación de las apuestas, todos los edificios destruidos contarán como si fueran destruidos por el equipo enemigo, sin importar si el último tiro fue de un héroe o un creep. El número de cuarteles se determinará dependiendo de si son destruidos desde lejos o cerca (melee).</span></p>
+                                            <p style="line-height:13.5pt;"><br><span style="color:rgba(0, 0, 0, 0.69);">En caso de rendirse, el último número de torres e inhibidores destruido se determinará según el número mínimo de torres e inhibidores necesarios para ganar el juego en el momento de rendirse. Estos edificios adicionales se considerarán como si hubieran sido destruidos por el equipo ganador y se limitarán a cinco torres y un inhibidor.</span><br><span style="color:rgba(0, 0, 0, 0.69);">En caso de rendirse, se anularán las apuestas a 'Próximo edificio destruido'.</span></p>
+                                            <p style="line-height:13.5pt;"><br><span style="color:rgba(0, 0, 0, 0.69);">Todas las apuestas basadas en tiempos se determinan de acuerdo al reloj del juego y no incluyen el periodo antes de que se engendren los creeps. En caso de que un evento o encuentro comience pero no se complete, las apuestas se anularán a menos que el resultado ya se haya determinado.</span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1496" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61325" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -1961,227 +1343,270 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1497" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61326" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(53, 53, 53);"><strong>Football</strong></span></span></h5>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Football Betting is accepted during regular time, excluding extra time and penalty shoot-outs, except special stipulated cases indicated on </span><i><span style="color:rgba(64,64,64,0.4);">Vbet.com</span></i><span style="color:rgba(64,64,64,0.4);">. In these rules the regular time should be counted taking into account the added time in the match, the rates on the events in each half take into account the added time of each half determined by the referee.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Any match interrupted before the end of officially regulated regular time and not resumed within 24 hours is considered to be called off, regardless of the judicial decisions on this game (except all mentioned in 16.1.1). The rates, the outcome of which was clearly defined by the time the match was stopped, remain in force and are calculated in accordance with these Rules, a return takes place on the other bets of this match. If a football match is postponed for more than 24 hours, rates on it are refundable, otherwise rates remain valid.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">No cards / dismissals and events after the final whistle are taken into account for betting purposes. All cards and dismissals occurring in the interval between the first and second half, are taken into account in the overall result of the match, but are not taken into account for betting on the first or second half.</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The following items are available for betting on Football:</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. Winner.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the match. The rates are accepted for the regular time.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. Total.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of scored goals is equal to the total of the rate and the option of an exactly &lt; specified number of&gt; goals is not stipulated, there is a return. The same applies for the individual total of a team or a player.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. Handicap.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the handicap has only 2 options (only Handicap 1 or Handicap 2, without the option – a draw) in case of a tie taking into account the Handicap, a return with a coefficient 1 takes place (regardless of the period for which the match is invited to bet). Similarly, for the handicap of cards / corners and other parameters.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. Double outcome</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The following outcomes are possible:</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1X – The rate is winning if Team 1 won or drew the match.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">X2 – The rate is winning if Team 2 won or a drew the match.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">12 – The rate is winning if Team 1 or Team 2 won the match.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. Whether a player will score at least one goal?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only goals which are scored in the goal of the opposing team and officially counted by the referee are taken into account.. If the player did not participate in the match, bets will be void.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. Who will progress to the next round?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">A rate is calculated only after the last match in the series of the given round of the tournament with the participation of the specified teams.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">A rate is only winning if the specified team progresses to the next round of the competition, regardless of the result the intermediate match/ time period of this round of the competition.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">A judicial or other decision to cancel / change the results of the tournament, made after the end of this round of the competition shall not be considered.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. Individual total &lt;indicated Team&gt;</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the number of goals scored by this Team is more or less than the specified parameter.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of a match the total number of goals scored is equal to the total of the rate, a return takes place with a coefficient of 1.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only goals which are scored in the goal of the opposing team and officially counted by the referee are taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">All own goals scored are considered as goals scored by the opposing team.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>8. The winner of the tournament.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rate is calculated only after the final match of the tournament according to the result at the end of the tournament.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Judicial or other decisions to cancel / change the results of the tournament, made after the end of this round of the competitions shall not be taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the team on which the bet was made does not qualify for this tournament, has been disqualified or refused to participate in the competition, all rates on this team are considered lost.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>9. The winner of the group stage.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rate is calculated only after the completion of all matches of this group as part of this round of the tournament.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">A judicial or other decision to cancel / change the results of the tournament, made after the end of this round of the competitions, shall not be taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the team on which the bet was made, has been disqualified or refused to participate in the competition, all rates on this team are considered lost.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>10. Which team will score the first goal of the match?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the first goal of the match is an own goal, the victory in the rate is calculated for the team in whose favor this goal was scored (i.e. the opponent team scoring the own goal).</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>11. Which team will score the next goal in the match?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the next goal scored in the match is an own goal, the victory in the rate is calculated for the team in whose favor this goal was scored (i.e. the opponent team scoring the own goal).</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>12. Which team will score the last goal of the match?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the last goal of the match is an own goal, the victory in the rate is calculated for the team in whose favor this goal was scored (i.e. the opponent team scoring the own goal).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If a match is interrupted and not resumed within 24 hours, rates on this position are refundable.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>13. Will both teams score?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether both teams will score at least one goal each in the given match. All goals scored by the teams in their gates count as goals scored by the team-rival.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>14. Total even / odd.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the result of the match is “0:0′′, the rates will be counted as “Even”</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>15. A victory without taking into account draws.</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the regular time of a match ended in a draw, the rates for the given position are returned with coefficient 1.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>16. How many goals will be scored in the match?</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the exact number of goals in the match.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only goals scored in regular time count (including the time added by the referee but excluding extra time and penalties). All own goals are counted as goals scored by the opposing team.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>17. How many goals will &lt;the specified team&gt; score?</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the exact number of goals scored by this team in the match.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only goals scored in regular time count (including the time added by the referee but excluding extra time and penalties). All own goals are counted as goals scored by the opposing team.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>17.1 All statistical bets (Offsides, Fouls, Shots etc) are calculated as per the tournament organisers official data.</strong></span></span></h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>18. 1 Half /Match.</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the first half and the whole football match.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In the line in first place the result of the 1st half is put, and in the second – the one of the whole match.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>19. Who will score the first goal of the match?</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rates are winning for the player, who scored the first legally counted goal in the match.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If a player did not enter the field during the match, all rates on him for this position are returned with coefficient 1.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the first goal is scored by the player who was not represented among the options of the given position, all rates on this position are considered lost. The exception: Bets on players who have not entered the field by the time of the first goal; such rates are refunded with coefficient 1.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the first goal is an own goal (even if it is scored by the player on which the rates were accepted), all bets on this position are considered lost. The exception: bets on players who have not entered the field by the time of the first goal; such rates are refunded with coefficient 1.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>20. Who will score the last goal of the match?</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Rates are winning for the player, who scored the last counted goal of the match.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If a player did not enter the field during the match, all rates on him for this position are returned with coefficient 1.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the last goal is scored by the player who was not represented among the options of the given position, all rates on this position are considered lost, the exception is – rates on the players who did not participate in this game; such rates are returned with coefficient 1.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the last goal is an own goal (even if it is scored by the player on whom bets were accepted), all rates on this position are considered lost. Exception: rates on the players who have not entered the field by the time of the last goal; such rates are returned with coefficient 1.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>21. The exact score of the match.</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the exact score of football match.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the exact score according to the results of the match is not one of the options offered in the line, only the rates on the “Any other” position win.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>22. By how much will the match be won?</strong></span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which team will win and by how much, or whether the match will end in a draw.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>23. More/less corners</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total amount of corners is equal to the total of the rate, a return with coefficient 1takes place.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only corners taken by the teams are counted (regardless of how many corners were awarded by the referee).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Corners awarded but not taken are not taken into account in the calculation of rates.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If a team was forced to repeat the corner (because of errors / dislocating in the previous assist of the corner kick), only one corner kick is taken into account.</span></span></p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);">&nbsp;</h6>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>24. The first corner kick of the match</strong></span></span></h6>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which team will get the first corner kick.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If there are no corner kicks in the match, these rates shall be returned with coefficient 1.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only corners taken by the teams are counted (regardless of how many corners were awarded by the referee).</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The corners awarded but not taken, are not taken into account in the calculation.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>25. The last corner kick of the match.</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which team will perform the last corner kick.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If there are no corner kicks in the match, the given rates are refundable with coefficient 1.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only corners taken by the teams are counted (regardless of how many corners were awarded by the referee).</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The corners awarded but not taken are not taken into account during the calculation.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>26. The time of the first corner kick.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict in what time interval of the proposed lines the first corner kick will be taken. If there is no corner kick in the match, according to the given rates a return with coefficient 1 is appointed.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">At the same time the actual time of the corner kick is taken into account, but not the time it was awarded by the referee.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>27. Which team will have more corners in the match?</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only corners taken by the teams are counted (regardless of how many corners were awarded by the referee).</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The corners awarded but not taken are not taken into account while calculation.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the team was forced to repeat the corner (because of errors / dislocating in the previous assist of the corner kick), only one corner kick is taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If no corner kick was taken in the match, “Draw” is the winning option.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>28. Total corner kicks even / odd.</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If no corner kick was taken in the match, the rates are counted as “Even”.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only corners taken by the teams are counted (regardless of how many corners were awarded by the referee).</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The corners awarded but not taken are not taken into account while calculation.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If a team was forced to repeat the corner (because of an error / dislocating in the previous assist of the corner kick), only one corner kick is taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>29. Will a specified team win in either half?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the given Team will win at least in one half.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The following outcomes are possible:</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">“Yes” – the rate that this given team will win (i.e. a draw or a defeat are unacceptable) according to</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">the results of the 1st half, or 2nd half (the result of the 2nd half is taken into account, and not the result of the whole match, determined after the 2nd half).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">“No” – a rate on the fact that this Team will not win in either half of the match.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>30. Will &lt;a specified team&gt; win in both halves of the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the given team will win both halves of the match (to clarify, the result of the second half of the match means the result of the second half alone, and not the result of the game after 2 halves (i. e. only goals scored in the second half are taken into account).</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The following outcomes are possible:</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">“Yes” is a rate that the given team will win in both the first and the second halves. If at least in one of the halves the team draws or loses, such rate is considered lost.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">“No” – a rate on the fact that this Team will draw or lose at least one of the halves.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>31. The time of the first goal.</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict in which time interval proposed in the line , the first goal will be scored in the match.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the match ends in a 0-0 draw, rates on the first goal are considered lost by a player.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>32. The Time of the last goal.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict at what time interval proposed in the line the last goal will be scored in the match. If the match ended with the score 0-0, the rates at the time of the last goal will be considered lost by a player.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>33. In what half will more goals be scored?</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether more goals will be scored in the first half than in the second, or whether more will be scored in the second than in the first or whether the same number of goals will be scored in the first and second halves.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only goals scored in the given halves are considered, taking into account the added time, but without taking into account possible extra time.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>34. In what half will more goals be scored by &lt;a specified team&gt;?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether more goals will be scored in the first half than in the second, or whether more will be scored in the second than in the first or whether the same number of goals will be scored in the first and second halves.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only goals scored in the given halves are considered, taking into account the added time, but without taking into account possible extra time.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">All own goals scored are counted as goals scored by the opponents.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>35. How will the first goal be scored?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict how the first goal of the match will be scored specifically. The following outcomes are possible:</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">by Header</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">by Other Method</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">by Free Kick</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">by Penalty Kick</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">own Goal</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">no Goal</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Regardless of with which part of the body a goal has been scored, if it happened directly from the penalty kick, the outcome of “With a penalty kick” is the only winning rate, rates on all other outcomes (including “with a blow ”) are considered lost by a player.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Regardless of with which part of the body a goal has been scored, if it happened directly from the penalty, the outcome of “With a penalty” is the only winning rate, rates on all other outcomes (including “with a blow ”) are considered lost by a player.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If a goal is scored as a header, the outcome of a “Header” is the only winning rate, rates on all other outcomes (including “blow ”) are considered lost by a player.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the first goal in the match is an own goal, the outcome of which is the only winning rate, rates on all other outcomes (including “blow”) are considered lost by a player.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>36. Which team will be shown the first yellow card in the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict from which team a player will be the first to be shown the yellow card.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If according to the match report the first yellow cards are shown to two or more players from different teams within one minute, the rates on this position are refundable. Only bets on the position “Both teams at the same time” win. If such an option is not mentioned in the line on all bets for this position a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If no yellow cards are shown in the match, only bets on the position “No warning will be ” win. If such an option is not mentioned in the line on all bets for this position a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>37. Which team will be shown more yellow cards in the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Two yellow card shown to the same player, leading to his dismissal, are not taken into account.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only yellow cards shown to the players present at the moment on the field are taken into account. Yellow cards shown to reserve players, coaches and support staff of teams, are not taken into account.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">No cards shown after the final whistle of the referee are taken into account when counting the rates. All cards shown during the break between the first and second halves, are taken into account in the overall result of the match, but are not taken into account for betting on the first or second halves.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>38. More / less yellow and red cards to &lt;the specified team&gt;?</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether more or less yellow and red cards than the indicated number will be shown to the players of the specified team in this match.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Two yellow and red cards shown to the same player, leading to his dismissal, are not taken into account. Only the yellow and red cards shown to the players present at the moment in the field are taken into account. Yellow and red cards shown to reserve players, coaches and support staff of teams, are not taken into account.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">All cards shown after the final whistle of the referee are not taken into account for counting the rates.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">No cards shown during the break between the first and second halves, are taken into account in the overall result of the match, but are not taken into account for betting on the first or second halves.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>39. The first yellow card in the match</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If no yellow cards are shown in the match, the given rates are refundable with coefficient 1. While counting the rates the actual time is taken into account when a yellow card is shown to a player.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>40. Total yellow cards even / odd.</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If no yellow cards are shown in the match, the rates are counted as “Even”.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">No cards shown after the final whistle of the referee are taken into account for counting the rates. All cards shown during the break between the first and second halves, are taken into account in the overall result of the match, but are not taken into account for betting on the first or second halves.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>41. An Own goal &lt;specified Team&gt;?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether in this match a specified team will score at least one own goal.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>42. Will the &lt;specified team&gt; score in each half?</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The following outcomes are possible:</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Yes – this team will score at least one goal in the first half and at least one goal in the second half. No – this team will not score any goals in one half at least.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>43. When is the winner determined?</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The following outcomes are possible:</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">During regular time – the rate will win if the regular time of the match (taking into account the time of the match added by the referee) ends with victory of one of the teams.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In extra time – the rate will win if the regular time of the match (taking into account the time of the match added by the referee) ends in a draw and extra time ends with victory of one of the teams.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rate will win in the event of a penalty shootout if both normal and extra time of the match end in a draw.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>44. The team scoring the first goal will win.</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the team scoring the first goal will win.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The following outcomes are possible:</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The Leader wins – The team scoring the first goal wins the match.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The Leader loses – The team scoring the first goal loses the match.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Leader – Draw – the match ends in an effective draw (excluding option 0-0) No goals will be scored – the match will end 0-0.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>45. In what half will the first goal be scored?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only the goals officially counted by the referee of the match are taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>46. The added time of the match</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Rates on the amount of added time are calculated based on the time shown by 4th official, and not actually played added time.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>47. Will a dismissal take place in the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether at least one player will be dismissed during the football match. Only the</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">removals of players who are currently on the field are taken into account.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Dismissals of players on the bench, coaches and support staff of teams, are not taken into account. No dismissals after the final whistle of the referee are taken into account for counting the rates.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>48. Which team will be the first to make a substitution?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which football team will make the first substitution of a player. If there are no substitutions during the match, rates on the position “There will be no substitutions” win.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If both teams make the first changes at the same time or during half time, the rates on the position “Both teams at the same time” win.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Substitutions made in the same game pause,regardless duration of pause are considered to be at the same time.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>49. Who will finish higher?</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which team will take a higher place in the classification.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In cases where both teams leave the tournament during a play-off stage, the rate of “who will finish higher” shall be returned.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If both teams leave the World Cup at the same stage in the group tournament, the team which occupied a higher place in its own group is considered higher.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If both teams have finished in the same places in their groups, the rate “who is higher” shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>50. The top scorer of the tournament</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only goals scored in the given tournament are taken into account, regardless of for which team the player has scored the goals.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Teams are listed next to the player strictly for informational purposes.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Own goals are not taken into account.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If two or more players have become the top scorers of the tournament, the coefficient of the rates on the given parties is divided by the number of winning players.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Betting on the outcome of the first half of the match is calculated strictly according to the result recorded after 45 minutes, plus added time. If the first half is not completed, bets will be void and the rate will be refundable.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>51. Outcome</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">W1 (both will score – Yes) – the bet wins only if both teams score in the match and the latter is won by team 1.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">W1 (both will score – No) – the bet wins only in the event of team 1 winning the match and conceding no goals (whitewashing).</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">X (both will score) – the bet wins in the event of the match ending in a non-goalless draw.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Х (both will score – No) – the bet wins in the event of the match ending in a goalless draw (0:0).</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">W2 (both will score – Yes) – the bet wins only in the event of both teams scoring and team 2 winning. W2 (both will score – No) – the bet wins only in the event of team 2 winning and conceding no goals (whitewashing).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>52. In this given type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Fútbol</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><i><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong></span></i><span style="color:rgba(0, 0, 0, 0.69);">&nbsp;Apuestas de fútbol se aceptan durante el tiempo reglamentario, excluyendo el tiempo extra y las tandas de penaltis, excepto en casos especiales previstos indicados en www.Alivecasino.com. En estas normas el tiempo regular debe contarse teniendo en cuenta el tiempo añadido en el partido, las cuotas de los eventos en cada parte tienen en cuenta el tiempo añadido de cada parte determinada por el árbitro.</span></p>
+                                            <p style="line-height:13.5pt;"><i><span style="color:rgba(0, 0, 0, 0.69);"><strong>b</strong></span></i><span style="color:rgba(0, 0, 0, 0.69);">. Cualquier partido interrumpido antes del final del tiempo reglamentario regulado oficialmente y no reanudado dentro de 30 horas se considera cancelado, independientemente de las decisiones judiciales en este juego (excepto todos mencionados en 16.1.1). Las cuotas, cuyo resultado fue claramente definidas por el momento cuando el partido se detuvo, siguen en vigor y se calculan de acuerdo con este Reglamento, la vuelta tiene lugar en las otras apuestas de este partido. Si un partido de fútbol se pospone por más de 30 horas, las cuotas en esos son reembolsables, de lo contrario las apuestas siguen siendo válidas.</span></p>
+                                            <p style="line-height:13.5pt;"><i><span style="color:rgba(0, 0, 0, 0.69);"><strong>c</strong></span></i><span style="color:rgba(0, 0, 0, 0.69);">. No hay tarjetas/rechazos y eventos ocurridos después del pitido final se tienen en cuenta a efectos de las apuestas. Todas las tarjetas y los despidos que se producen en el intervalo entre la primera y la segunda mitad, se tienen en cuenta en el resultado global del partido, pero no se tienen en cuenta para apostar en la primera o la segunda mitad. Los siguientes elementos están disponibles para apuestas en fútbol:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1.&nbsp;Ganador.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted puede adivinar el resultado del partido. Las apuestas son aceptadas en el tiempo reglamentario.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. Total.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el número total de goles marcados en el partido es igual al total de la apuesta y la opción de una exacta cantidad &lt; número específico de &gt; goles no está estipulado, las apuestas son devueltas. Lo mismo se aplica para el total individual de un equipo o un jugador.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong><u>3.&nbsp;&nbsp;Hándicap.</u></strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el hándicap tiene solo 2 opciones (solo Hándicap 1 o Hándicap 2, sin la opción de un empate) en caso de empate teniendo en cuenta el hándicap se realiza un reembolso con coeficiente 1 (sin importar el periodo para el cual se invita a apostar). Del mismo modo, para el hándicap de tarjetas / esquinas y otros parámetros.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. Doble chance</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los siguientes resultados son posibles:</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">1X – La apuesta gana si el Equipo 1 gana o empata el partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">X2 – La apuesta gana si el Equipo 2 gana o empata en el partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">12 – .La apuesta gana si el Equipo 1 o el Equipo 2 ganan el partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. El jugador marcará por lo menos un gol</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se tendrán en cuenta los goles marcados en la portería del equipo contrario y oficialmente contados por el árbitro. Si un jugador no participó en el partido se devolverá la apuesta.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. ¿Quién pasará a la siguiente ronda?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">La apuesta se calcula sólo después del último partido en la serie de la ronda dada del torneo con la participación de los equipos especificados.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Una apuesta es ganadora solo si el equipo especificado avanza a la siguiente ronda de la competencia, independientemente del resultado del periodo del partido / tiempo intermedio de esta ronda de la competición.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">No se tendrá en cuenta una decisión judicial para cancelar / modificar los resultados del torneo, realizada después del final de esta ronda de la competición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>7.&nbsp; Total individual &lt;Equipo indicado&gt;</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si el número de goles marcados por este equipo es más o menos que el parámetro especificado.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado de un partido el número total de goles marcados es igual al total de la apuesta, se produce una devolución con un coeficiente de 1.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se tienen en cuenta los goles marcados en la portería del equipo contrario y oficialmente contados por el árbitro.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Todos los autogoles son considerados como goles marcados por el equipo contrario.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>8. El ganador del torneo.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">La apuesta se calcula sólo después de la final del torneo según el resultado al final del torneo.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">No se tendrán en cuenta las decisiones judiciales o de otro tipo para cancelar / modificar los resultados del torneo, hechas después de la final de esta ronda de competiciones.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el equipo en el que se hizo la apuesta no califica para este torneo, ha sido descalificado o se ha negado a participar en el torneo, todas las apuestas de este equipo se consideran perdidas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>9. El ganador de la fase de grupos.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">La apuesta se calcula sólo después de la finalización de todos los partidos de este grupo como parte de esta ronda del torneo.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">No se tendrá en cuenta una decisión judicial o de otro tipo para cancelar / modificar los resultados del torneo, realizada después del final de esta ronda de competiciones.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el equipo por el que se hizo la apuesta ha sido descalificado o se ha negado a participar en el torneo, todas las apuestas de este equipo se consideran perdidas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>10. ¿Qué equipo marcará el primer gol del partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el primer gol del partido es un autogol, gana la apuesta el equipo en cuyo favor este gol fue anotado (es decir, el equipo oponente anotó el gol).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>11. ¿Qué equipo marcará el próximo gol en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el siguiente gol en el partido es autogol, gana la apuesta el equipo en cuyo favor este gol fue anotado (es decir, el equipo oponente anotó gol).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>12. ¿Qué equipo marcará el último gol del partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el último gol del partido es un autogol, gana la puesta el equipo en cuyo favor este gol fue anotado (es decir, el equipo oponente anotó el gol).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si un partido es interrumpido y no se reanuda dentro de las 24 horas, las apuestas en esta posición son reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>13. ¿Marcarán ambos equipos?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice si ambos equipos marcarán al menos un gol cada uno en el partido dado.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Todos los goles marcados por los equipos en sus puertas cuentan como goles marcados por el equipo rival.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>14. Total par/ impar.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el resultado del partido es "0: 0", las apuestas se cuentan como "Par".</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>15. Una victoria sin tener en cuenta los empates.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el tiempo regular de un partido terminó en un empate, las apuestas de la posición dada se devuelven con coeficiente 1.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>16. ¿Cuántos goles se marcarán en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el número exacto de goles en el partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo los goles marcados en el tiempo reglamentario cuentan (incluyendo el tiempo añadido por el árbitro, pero excluyendo el tiempo extra y penaltis). Todos los autogoles se cuentan como goles marcados por el equipo contrario.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>17. ¿Cuántos goles marcará &lt;el equipo especificado&gt;?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el número exacto de goles marcados por este equipo en el partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo los goles marcados en el reglamentario cuentan (incluyendo el tiempo añadido por el árbitro, pero excluyendo el tiempo extra y penaltis). Todos los autogoles se cuentan como goles marcados por el equipo contrario.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>17.1&nbsp;Todas las apuestas de estadística (Fuera de juego, faltas, tiros, etc) se calculan según los datos oficiales de los organizadores del torneo.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>18. 1ra Parte / Partido.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el resultado de la primera parte y de todo el partido de fútbol.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En la línea en primer lugar se pone el resultado de la 1ª parte, y en la segunda - la del partido entero.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>19. ¿Quién marcará el primer gol del partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas se ganan para el jugador, que marcó el primer gol legalmente contado en el partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si un jugador no entró en el campo durante el partido, todas las apuestas hechas en él para esta posición se devuelven con el coeficiente 1.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el primer gol es marcado por el jugador que no estuvo representado entre las opciones de la posición dada, todas las apuestas en esta posición se consideran perdidas. La excepción: las apuestas a los jugadores que no han entrado en el campo en el momento del primer gol, se reembolsan con el coeficiente 1.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el primer gol es un autogol (incluso si es marcado por el jugador en el que se aceptaron las apuestas), todas las apuestas en esta posición se consideran perdidas. La excepción: las apuestas a los jugadores que no han entrado en el campo en el momento del primer gol, se reembolsan con el coeficiente 1.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>20. ¿Quién marcará el último gol del partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas se ganan para el jugador, que marcó el último gol contado del partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si un jugador no entró en el campo durante el partido, todas las apuestas hechas en él para esta posición se devuelven con el coeficiente 1.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el último gol es marcado por el jugador que no estuvo representado entre las opciones de la posición dada, todas las apuestas en esta posición se consideran perdidas. La excepción: las apuestas de los jugadores que no participaron en este juego; dichas apuestas se devuelven con el coeficiente 1.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el último gol es un autogol (incluso si es marcado por el jugador en el que se aceptaron las apuestas), todas las apuestas en esta posición se consideran perdidas. La excepción: las apuestas a los jugadores que no han entrado en el campo en el momento del primer gol, se reembolsan con el coeficiente 1.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>21. El resultado exacto del partido.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el resultado exacto del partido de fútbol.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si la puntuación exacta de acuerdo con los resultados del partido no es una de las opciones que se ofrecen en la línea, sólo ganarán las apuestas en la posición "Cualquier otra".</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>22. ¿En cuánto se ganará el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice qué equipo ganará y por cuánto, o si el partido terminará en un empate.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>23. Más /menos esquinas</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si la cantidad total de esquinas en el partido es igual al total de la tasa, se devuelve la apuesta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se cuentan las esquinas realizadas por los equipos (independientemente de cuántas esquinas hayan sido otorgadas por el árbitro).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los tiros de esquina otorgados, pero no realizados no se tienen en cuenta en el cálculo de las apuestas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si un equipo se vio obligado a repetir la esquina (debido a errores fijados en la anterior asistencia del córner), sólo se toma en cuenta un tiro de esquina.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>24. El primer córner del partido</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice qué equipo realizará el primer tiro de esquina.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si no hay tiros de esquina en el partido, estas apuestas se devolverán con el coeficiente 1.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se cuentan las esquinas realizadas por los equipos (independientemente de cuántas esquinas hayan sido otorgadas por el árbitro).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los tiros de esquina otorgados, pero no tomados en cuenta, no se usan para el cálculo.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>25. El último córner del partido.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice qué equipo realizará el último tiro de esquina.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si no hay tiros de esquina en el partido, estas apuestas son reembolsables con el coeficiente 1.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se contarán las esquinas realizadas por los equipos (independientemente de cuantas esquinas hayan sido otorgadas por el árbitro).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los tiros de esquina otorgados, pero no tomados en cuenta, no se usan para el cálculo.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>26. El tiempo del primer córner.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice en qué intervalo de tiempo de las líneas propuestas tomará lugar el primer córner.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si no hay un tiro de esquina en el partido, de acuerdo con las apuestas dadas se devolverán con el coeficiente 1.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Al mismo tiempo se toma en cuenta el tiempo real del córner, pero no el tiempo que fue concedido por el árbitro.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>27. ¿Qué equipo tendrá más corners en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se contarán los tiros de esquina realizados por los equipos (independientemente de cuantos tiros de esquina hayan sido otorgados por el árbitro).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Lo tiros de esquina otorgados, pero no tomadas en cuenta, no se usan para el cálculo.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el equipo se vio obligado a repetir el córner (debido a errores fijados en la anterior asistencia del córner), sólo se toma en cuenta un tiro de esquina.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si no hay ningún córner en el partido, “Empate” es la opción ganadora.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>28. Total de tiros de la esquina par / impar.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si en el partido no hay ningún córner, las apuestas se cuentan como "Par".</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se contarán los córneres realizados por los equipos (independientemente de cuantas esquinas hayan sido otorgadas por el árbitro).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los tiros de esquina otorgados, pero no tomados en cuenta, no se usan para el cálculo.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el equipo se vio obligado a repetir el córner (debido a errores fijados en la anterior asistencia del córner), sólo se toma en cuenta un tiro de esquina.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>29. ¿Ganará un determinado equipo en ambos tiempos?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice si el equipo dado ganará por lo menos un tiempo.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los siguientes resultados son posibles:</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">"Sí" - la apuesta que este equipo ganará (es decir, un empate o una derrota son inaceptables) de acuerdo con los resultados de la primera mitad, o la segunda mitad (el resultado de la segunda mitad se tiene en cuenta, y no el resultado de todo el partido, determinado después de la segunda mitad).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">"No" – una apuestas sobre el hecho de que este equipo no ganará en ninguna de los dos tiempos del partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>30. ¿Ganará en ambas partes del partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice si el equipo dado ganará ambos tiempos del partido (para aclarar, el resultado de la segunda mitad del partido: el resultado de la segunda mitad solo, y no el resultado del juego después de 2 mitades (es decir, sólo goles marcados en el segundo tiempo se tienen en cuenta).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los siguientes resultados son posibles:</span><br><span style="color:rgba(0, 0, 0, 0.69);">“Sí” es una apuesta que el equipo ganará dado tanto en la primera y la segunda mitades. Si por lo menos en uno de los tiempos el equipo empata o pierde, dicha apuesta se considera perdida.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">“No” – una apuesta en el hecho de que este equipo se empata o pierde por lo menos uno de los tiempos.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>31. El tiempo del primer gol.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">&nbsp;Aquí usted predice en qué intervalo de tiempo propuesto en la línea, el primer gol del partido será marcado.</span><br><span style="color:rgba(0, 0, 0, 0.69);">Si el partido termina en empate 0-0, las apuestas en el primer gol se consideran perdidas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>32. El tiempo del último gol.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice en qué intervalo de tiempo propuesto en la línea de se marcará el último gol del partido. Si el partido terminó con el marcador de 0-0, las apuestas en el momento del último gol se considerarán perdidas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>33. ¿En qué mitad se marcarán más goles?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si se anotaron más goles en la primera mitad que en el segundo, o si más se anotaron más en el segundo que en el primero o si el mismo número de goles se marcarán en la primera y segunda mitad.</span><br><span style="color:rgba(0, 0, 0, 0.69);">Sólo los goles marcados en las mitades dadas son considerados, teniendo en cuenta el tiempo de descuento, pero sin tener en cuenta el posible tiempo extra.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>34. ¿En qué mitad anotará más goles?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si se anotarán más goles en la primera mitad que en la segunda, o si se anotarán más en la segunda que en la primera o si el mismo número de goles se marcarán en la primera y segunda mitades.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo los goles marcados en las mitades dadas son considerados, teniendo en cuenta el tiempo de descuento, pero sin tener en cuenta el posible tiempo extra.</span><br><span style="color:rgba(0, 0, 0, 0.69);">Todos los autogoles se cuentan como goles marcados por el equipo contrario.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><i><span style="color:rgba(0, 0, 0, 0.69);"><u>.</u><strong><u>35. ¿Cómo se marcará el primer gol?</u></strong></span></i></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice específicamente cómo se marcará el primer gol del partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los siguientes resultados son posibles:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Un golpe</span><br><span style="color:rgba(0, 0, 0, 0.69);">Con la cabeza</span><br><span style="color:rgba(0, 0, 0, 0.69);">Con un penalti</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Con un tiro penal</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Un Autogol</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">No se marcarán goles</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Independientemente de con qué parte del cuerpo se haya marcado un gol, si se produjo directamente desde el tiro penal, el resultado de "Con un tiro penal" es la única tasa ganadora, las tasas en todos los demás resultados (incluyendo "con un tiro penal”) Son considerados perdidos por un jugador.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si un gol es anotado como un cabezazo, el resultado de un "cabezazo" es la única tasa ganadora, las tasas en todos los demás resultados (incluido el "golpe") se consideran perdidas por un jugador.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el primer gol del partido es un autogol, cuyo resultado es el único que gana, las tasas de todos los demás resultados (incluido el "golpe") se consideran perdidas por un jugador.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>36. ¿Qué equipo recibirá la primera tarjeta amarilla en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice de qué equipo será el jugador que reciba la primera tarjeta amarilla.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si según el informe del partido las primeras tarjetas amarillas se muestran a dos o más jugadores de diferentes equipos en un minuto, las tasas de este puesto son reembolsables. Sólo apuestas en la posición "Ambos equipos al mismo tiempo" ganan. Si dicha opción no se menciona en la línea en todas las apuestas para esta posición se realiza un reembolso.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si no se muestran tarjetas amarillas en el partido, sólo las apuestas en la posición "Ninguna advertencia será" ganan. Si dicha opción no se menciona en la línea de todas las apuestas para esta posición se realiza un reembolso.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>37. ¿Qué equipo recibirá más tarjetas amarillas en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Dos tarjetas amarillas mostradas al mismo jugador, que conducen a su expulsión, no se tienen en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se tendrán en cuenta las tarjetas amarillas mostradas a los jugadores presentes en el campo. No se toman en cuenta las tarjetas amarillas mostradas para reservar a los jugadores, entrenadores y personal de apoyo de los equipos.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">No se toman en cuenta las tarjetas mostradas después del pitazo final del árbitro para el conteo de las tasas. Todas las tarjetas mostradas durante el descanso entre la primera y segunda mitad, se tienen en cuenta en el resultado general del partido, pero no se tienen en cuenta para apuestas en la primera o segunda mitad.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>38. ¿Más / menos tarjetas amarillas para &lt;el equipo especificado&gt;?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si más o menos tarjetas amarillas que el número indicado se mostrará a los jugadores del equipo especificado en este partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Dos tarjetas amarillas mostradas al mismo jugador, que conducen a su despido, no se tienen en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se toman en cuenta las tarjetas amarillas mostradas a los jugadores presentes en el campo. No se toman en cuenta las tarjetas amarillas mostradas a los jugadores de la reserva, entrenadores y personal de apoyo de los equipos.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Todas las tarjetas mostradas después del pitazo final del árbitro no se tienen en cuenta para contar las tasas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Ninguna tarjeta mostrada durante el descanso entre la primera y la segunda mitad es tomada en cuenta en el resultado global del partido, pero no se tienen en cuenta para apuestas en la primera o segunda mitad.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>39. La primera tarjeta amarilla en el partido</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si no se muestran tarjetas amarillas en el partido, las tasas dadas son reembolsables con coeficiente 1.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Mientras se cuentan las tasas, el tiempo real es tomado en cuenta cuando se le muestra una tarjeta amarilla a un jugador.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>40. Total de tarjetas amarillas pares / impares.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si no se muestran tarjetas amarillas en el partido, las tasas se cuentan como "Par".</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">No se toman en cuenta las tarjetas mostradas después del pitazo final del árbitro para el conteo de las tasas</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Todas las tarjetas mostradas durante el descanso entre la primera y segunda mitad, se tienen en cuenta en el resultado general del partido, pero no se tienen en cuenta para apuestas en la primera o segunda mitad.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>41. Un autogol&lt;equipo especificado&gt;?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si en este partido un equipo determinado anotará al menos un autogol.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>42. ¿El &lt;equipo especificado&gt; anotara en cada mitad?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los siguientes resultados son posibles:</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sí - este equipo anotará al menos un gol en la primera mitad y al menos un gol en la segunda mitad.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">No - este equipo no anotará goles en la mitad.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>43. ¿Cuándo se determina el ganador?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los siguientes resultados son posibles:</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Durante el tiempo regular - la tasa ganará si el tiempo regular del partido (teniendo en cuenta el tiempo añadido por el árbitro) termina con la victoria de uno de los equipos.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En el tiempo extra - la tasa ganará si el tiempo regular del partido (teniendo en cuenta el tiempo añadido por el árbitro) termina en un empate y el tiempo extra termina con la victoria de uno de los equipos.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">La tasa ganará en caso de una tanda de penales si el marcador durante el tiempo regular y extra del partido termina en empate.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>44. El equipo que marque el primer gol ganará.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si el equipo que anote el primer gol ganará.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los siguientes resultados son posibles:</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">El Líder gana - El equipo que anota el primer gol gana el partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">El Líder pierde - El equipo que marca el primer gol pierde el partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Líder - Empate - el partido termina en un empate efectivo (excluyendo la opción 0-0)</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">No se marcarán goles - el partido terminará 0-0.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>45. ¿En qué mitad se marcará el primer gol?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se tienen en cuenta los goles contados oficialmente por el árbitro del partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>46. ​​El tiempo adicional del partido</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las tasas en la cantidad de tiempo adicional son calculadas en base al tiempo mostrado por el 4º árbitro y no en el tiempo adicional jugado.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>47. ¿Habrá una expulsión en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si al menos un jugador será expulsado durante el partido. Sólo se toman en cuenta las expulsiones de jugadores que se encuentren actualmente en el campo.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las expulsiones de los jugadores en el banquillo, los entrenadores y el personal de apoyo de los equipos, no es tomado en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">No se tienen en cuenta las expulsiones realizadas después del pitazo final del árbitro para el conteo de las tasas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>48. ¿Qué equipo será el primero en hacer una sustitución?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice qué equipo hará la primera sustitución de un jugador. Si no hay sustituciones durante el partido, las tasas en la posición "No habrá sustituciones" ganan</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si ambos equipos hacen los primeros cambios al mismo tiempo o durante el medio tiempo, las tasas en la posición "Ambos equipos al mismo tiempo" ganan.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las sustituciones hechas en la misma pausa del juego, independientemente de la duración de la pausa son consideradas hechas al mismo tiempo.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>49. ¿Quién terminará mejor posicionado?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice qué equipo tendrá la posición más alta en la clasificación</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En los casos en que ambos equipos abandonen el torneo durante una fase de play-off, se devolverá la tasa de "quién va a estar mejor posicionado".</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si ambos equipos dejan la Copa del Mundo en la misma etapa y en el mismo grupo del torneo, el equipo que ocupó el lugar más alto en su propio grupo se considerara mejor posicionado</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si ambos equipos terminaron en las mismas posiciones en sus grupos, se devolverá la tasa "quién está mejor posicionado".</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>50. El máximo goleador del torneo</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo los goles marcados en el torneo dado se tienen en cuenta, independientemente de para qué equipo el jugador ha anotado los goles.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los equipos se enumeran al lado del jugador estrictamente para fines informativos.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los autogoles no se tienen en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si dos o más jugadores se han convertido en los máximos goleadores del torneo, el coeficiente de las tasas en los partidos dados se divide por el número de jugadores ganadores.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Apuestas en el resultado de la primera mitad del partido se calcula estrictamente de acuerdo con el resultado registrado después de 45 minutos, más el tiempo añadido. Si la primera mitad no se completa, las apuestas serán nulas y la tasa será reembolsable.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>51. Resultado</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">W1 (ambos marcarán - Sí) - la apuesta gana sólo si ambos equipos anotan en el partido y el último es ganado por el equipo 1.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">W1 (ambos marcarán - No) - la apuesta gana sólo en caso de que el equipo 1 gane el partido y no reciba goles (blanqueamiento).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">X (ambos marcarán) - la apuesta gana en caso de que el partido termine en un empate sin goles.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Х (ambos marcarán - No) - la apuesta gana en caso de que el partido termine en un empate sin goles (0: 0).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">W2 (ambos marcarán - Sí) - la apuesta gana sólo en caso de que ambos equipos anoten y el equipo 2 gane.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">W1 (ambos marcarán - No) - la apuesta gana sólo en caso de que el equipo 2 gane y no reciba goles (blanqueamiento).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>52. En este tipo de deporte, se pueden ofrecer otros resultados aparte de los mencionados anteriormente.</strong></span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1498" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61327" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -2189,26 +1614,27 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1499" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61328" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(53, 53, 53);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Floorball</strong></span></span></h5>
-                                            <p style="color:rgb(53, 53, 53);">&nbsp;</p>
-                                            <p style="color:rgb(53, 53, 53);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1.</strong> Floorball is a type of hockey, played indoors on hard covers with a hollow plastic ball.</span></span><br>&nbsp;</p>
-                                            <p style="color:rgb(53, 53, 53);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2.</strong> The extra time and penalties are taken into account only for bets on entering the next round, tournament winner, etc.</span></span></p>
-                                            <p style="color:rgb(53, 53, 53);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3.</strong> All bets on the match have an odd of 1, if the match is cancelled or postponed for more than 24 hours.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. </strong>The match is considered to have been held if it has been played at least for 50 minutes. All bets are calculated on the basis of the results obtained by the time the match was interrupted, if the match is not resumed and played till the end within 24 hours.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. </strong>All bets are calculated on the basis of the results obtained by the end of the main time (60 minutes play time, 3 times 20 minutes each), if not stated otherwise.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. </strong>All bets on the match have an odd of 1, if the match is cancelled or postponed for more than 24 hours, excluding cases, where the bet results are determined by the time the match is interrupted. Outcomes, which are clearly defined by the time the match is interrupted, e.g. outcome of the 1st time, first goal, time of the 1st goal etc., are taken into account while calculating the bets.</span></span></p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:black;"><strong>Floorball</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>1.</strong> Floorball es un tipo de hockey, jugado en estadios cerrados con superficies duras, con una bola de plástico hueca.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>2.</strong> El tiempo extra y los penales se tienen en cuenta sólo para apuestas sobre pasar a la siguiente ronda, ganador del torneo, etc.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>3.</strong> Todas las apuestas en el partido tienen una cuota de 1, si el partido es cancelado o pospuesto por más de 24 horas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>4.</strong> Se considera que el partido se ha realizado si se ha jugado al menos durante 50 minutos. Todas las apuestas se calculan en base a los resultados obtenidos en el momento en que se interrumpió el partido, si el partido no se reanuda y se juega hasta el final dentro de 24 horas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>5.</strong> Todas las apuestas se calculan en base a los resultados obtenidos al final del tiempo principal (60 minutos de tiempo de juego, 3 tiempos de 20 minutos cada uno), si no se indica lo contrario.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p><span style="color:rgba(53, 53, 53, 0.7);"><strong>6. </strong>Todas las apuestas del partido tienen una cuota de 1, si el partido es cancelado o pospuesto por más de 24 horas, excluyendo casos, donde los resultados de la apuesta son determinados en el momento en que el partido es interrumpido. Los resultados, que estén claramente definidos en el momento en que el partido es interrumpido, por ejemplo, el resultado del 1er tiempo, primer gol, tiempo del primer gol, etc., son tomados en cuenta al calcular las apuestas.</span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1500" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61329" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -2216,27 +1642,27 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1501" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61330" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(53, 53, 53);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Field hockey</strong></span></span></h5>
-                                            <p style="color:rgb(53, 53, 53);">&nbsp;</p>
-                                            <h6 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1</strong>. All bets are calculated on the basis of the results obtained by the end of the main time (70 minutes play time, 2 halves, 35 minutes each or 4 times,17 minutes 24 seconds each), if not stated otherwise.</span></span></h6>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2.</strong> The extra time and penalties are taken into account only for bets on entering the next round, tournament winner, etc.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. </strong>All bets on the match have an odd of 1, if the match is cancelled or postponed for more than 24 hours.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4.</strong> All bets on the match have an odd of 1, if the match is cancelled or postponed for more than 24 hours, excluding cases, where the bet results are determined by the time the match is interrupted. Outcomes, which are clearly defined by the time the match is interrupted, e.g. outcome of the 1st time, first goal, time of the 1st goal etc., are taken into account while calculating the bets.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5.</strong> The match is considered to have been held if it has been played at least for 60 minutes. All bets are calculated on the basis of the results obtained by the time the match was interrupted, if the match is not resumed and played till the end within 24 hours.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6</strong>. If a team fails to exit a group in bets “Who is higher on the basis of tournament results”, higher is the team, which have scored more points. If the points are equal, bets are calculated on the basis of the data of the final protocol.</span></span></p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Hockey sobre hierba</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>1.</strong> Todas las apuestas se calculan en base a los resultados obtenidos al final del tiempo principal (70 minutos de tiempo de juego, 2 mitades, 35 minutos cada uno o 4 tiempos, 17 minutos 24 segundos cada uno), si no se indica lo contrario.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>2.</strong> El tiempo extra y las penales se tienen en cuenta sólo para apuestas sobre quien pasara a la siguiente ronda, ganador del torneo, etc.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>3.</strong> Todas las apuestas en el partido tienen una cuota de 1, si el partido es cancelado o pospuesto por más de 24 horas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>4.</strong> Todas las apuestas del partido tienen una cuota de 1, si el partido es cancelado o pospuesto por más de 24 horas, excluyendo casos, donde los resultados de la apuesta fueron determinados en el momento en que el partido fue interrumpido. Los resultados, que estén claramente definidos en el momento en que fue interrumpido el partido, por ejemplo resultado del 1er tiempo, primer gol, Tiempo del primer gol, etc., son tomados en cuenta al calcular las apuestas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>5.</strong> Se considera que el partido se ha realizado si se ha jugado al menos durante 60 minutos. Todas las apuestas se calculan en base a los resultados obtenidos en el momento en que se interrumpió el partido, si el partido no se reanuda y se juega hasta el final dentro de 24 horas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>6.</strong> Si un equipo no sale de un grupo en las apuestas "Quién está mejor posicionado en base a los resultados del torneo", el mejor posicionado es el equipo, que ha anotado más puntos. Si los puntos son iguales, las apuestas se calculan en base a los datos del protocolo final.</span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1502" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61331" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -2244,29 +1670,115 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1503" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61332" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(53, 53, 53);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Futsal</strong></span></span></h5>
-                                            <p style="color:rgb(53, 53, 53);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1.</strong> All bets are calculated on the basis of the results of the main time of the match (40 minutes of overall play time: 2 rounds of 20 minutes), if not stipulated otherwise.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2.</strong> The overtime and the series of the 6-metre-shots are considered only for bets on entering the next round, the tournament winner, etc.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. </strong>In the event of the match being cancelled or postponed for more than 35 hours, all the bets made on the event acquire odds equal to 1.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. </strong>In the event of the match being interrupted or stopped for more than 24 hours, all the bets are calculated with an odd of 1, excluding cases, in which the bet outcomes are determined by the time the match is stopped. Outcomes, which are clearly determined by the time the match is stopped, e.g. outcome of the first time, first goal scored and the time thereof, etc., are considered while calculating the bets.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5.</strong> The match is considered to have taken place if at least 40 minutes of the match has been played. In the event of the match failing to be played within 24 hours, all bets are calculated on the basis of the results available at the time the match was stopped.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6.</strong> While determining statistic data for futsal, a source for determining the results is the information, placed on the following websites:Futsal. Brazilian championship:&nbsp;</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:black;"><strong>Futsal</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>1.</strong> Todas las apuestas se calculan en base a los resultados del tiempo principal del partido (40 minutos de tiempo de juego total: 2 rondas de 20 minutos), si no se estipula lo contrario.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>2.</strong> El tiempo extra y la serie de tiros de 6 metros se consideran sólo para apuestas sobre quien pasará a la siguiente ronda, el ganador del torneo, etc.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>3.</strong> En caso de que el partido sea cancelado o pospuesto por más de 35 horas, todas las apuestas hechas en el evento adquieren cuotas iguales a 1.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>4.</strong> En el caso de que el partido sea interrumpido o detenido durante más de 24 horas, todas las apuestas se calculan con una cuota de 1, excluyendo los casos, en los que los resultados de las apuestas sean determinados en el momento en que se detuvo el partido. Los resultados, que están claramente determinados en el momento en que se detuvo el partido, por ejemplo. Resultado del primer tiempo, el primer gol anotado y el tiempo del mismo, etc., son considerados al calcular las apuestas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>5.</strong> Se considera que el partido ha sido realizado si se han jugado al menos 60 minutos del mismo. En caso de que el partido no se juegue dentro de 24 horas, todas las apuestas se calculan en base a los resultados disponibles en el momento en que se detuvo el partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>6.</strong> Al determinar los datos estadísticos para el futsal, una fuente para determinar los resultados es la información, colocada en los siguientes sitios web:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);">Futsal. Campeonato Brasileño: http://www.futsaldobrasil.com</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);">Futsal. Campeonato de España: http://www.lnfs.es</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);">Futsal. Campeonato de Italia: http://www.divisionecalcioa5.it</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);">Futsal. Campeonato polaco: http://futsalekstraklasa.pl</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);">Futsal. Campeonato de Portugal: http://www.futsalportugal.com</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);">Futsal. Campeonato de Rusia: http://www.amfr.ru</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);">Futsal. Campeonato rumano: http://www.frf.ro</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);">Futsal. Campeonato checo: http://www.fotbal.cz</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);">Futsal. Campeonato Japonés: http://www.fleague.jp</span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1504" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61333" style="display:block;max-width:60px;">
+                                        <div class="divider-container">
+                                            <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="module-container   only-mobile   align-left ModuleParagraph
+                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:0vh; ">
+                                    <div class="  module ModuleParagraph " datamodule-id="61334" style="display:block;max-width:1702px;">
+                                        <div class="uc-content ">
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Balonmano</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong> Las tasas en el partido sólo serán aceptadas para el tiempo normal, sin incluir el tiempo extra, a menos que se indique lo contrario. El resultado de la prórroga no afecta al resultado de la 2ª parte y no se tiene en cuenta para contar las tasas de la 2ª parte.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong> Todos los resultados se calculan según las estadísticas oficiales, tomadas de los sitios web oficiales de cada liga o torneo y también se comprueban con los expedientes de partidos en vivo. Si las estadísticas de la empresa, basadas en la cobertura televisiva no coinciden con las estadísticas oficiales de la liga o torneo, las tasas se contarán según las estadísticas de la empresa.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c.</strong> Si el partido fue pospuesto / interrumpido o no completado dentro de 24 horas todas las tasas en el partido dado se devuelven excepto en las que el resultado haya sido determinado exclusivamente en el momento de la paralización del juego.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>d.</strong> Las siguientes posiciones son ofrecidas para las tasas en balonmano:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. Ganador.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el resultado del partido. Las tasas se aceptan sólo para el tiempo regular, excluyendo el tiempo extra.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. Total.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de goles marcados es igual al total de la tasa, las tasas se devuelven. Lo mismo se aplica para el total individual de un equipo o un jugador.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. Hándicap.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En caso de empate, teniendo en cuenta el Hándicap, se realiza una devolución (independientemente del periodo para el que se invita a apostar).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. ¿Se implementara el primer (siguiente / último) tiro penal de 7 metros?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para que el resultado de la tasa dada sea considerado positivo, el tiro penal de 7 metros deberá ser implementado en el primer intento.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si en el primer intento la bola golpea al portero o al marco de la meta, después de lo cual el jugador lanza la bola de regreso, el resultado ganador de esta tasa será "No".</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. ¿Qué equipo marcará el primer gol del partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. ¿Qué equipo marcará el próximo gol en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el próximo gol, en el que se han aceptado las tasas, no se anotó hasta el final del partido, todas las apuestas de esta opción son reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>7. ¿Qué equipo marcará el último gol del partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las tasas se aceptan sólo a la hora regular, excluyendo el tiempo extra</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>8. ¿Quién será el primero en anotar 5 (10/15/20) goles en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice qué equipo marcará el primer número especificado de goles en el partido. Si el número de goles no se anotó antes del final del juego, se devolverán todas las apuestas en esa posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>9. ¿Quién será el primero en anotar 5 goles (10/15/20) por la mitad?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice qué equipo marcará el primer número especificado de goles en esta mitad. Si el número de goles no se anotó antes del final de la mitad, todas las apuestas en esa posición se devolverán.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>10. Resultado doble</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los siguientes resultados son posibles:</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">1X - si el partido terminó a favor de los locales o en empate, las apuestas en esa posición ganan.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">X2 - si el partido terminó a favor de los visitantes, o un empate, las apuestas en esa posición ganan.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">12 - si el partido terminó a favor de los visitantes, o en favor de los locales, las tasas de esta posición ganan.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>11. 1 Mitad / Partido.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice el resultado de la primera mitad y todo el partido de balonmano. En la línea en el primer lugar [A5] es el resultado de la primera mitad, en la segunda línea - el resultado de todo el partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>12. ¿En qué mitad se marcaran más goles?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En caso de igualdad de goles en la 1ª y 2ª mitad, se devuelve la tasa.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>13. Total pares / impares. Total del equipo 1 (equipo 2) par / impar.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el resultado es 0: 0, las tasas se calculan como "Par"</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>14. Avanzar a la siguiente ronda</strong>.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">La tasa se calcula de acuerdo con los resultados, que se determinan inmediatamente después del último partido de la serie de playoffs (o de acuerdo con las regulaciones de un partido, que determina el paso del equipo) de la ronda indicada, Independientemente de las decisiones judiciales / disciplinarias subsiguientes.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si alguno de estos equipos fue incapaz de participar en esta ronda por cualquier motivo (incluyendo descalificación, negativa a participar, etc.), una victoria en la serie y el pase es calcado [A6] para el oponente de dicho equipo, todas las tasas siguen siendo en vigor.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>15. El ganador del torneo.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si más de un equipo es reconocido como el ganador del torneo, la apuesta de cuotas en este equipo se dividirá por el número de ganadores.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>16. El ganador de la fase de grupos.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">La tarifa se calcula sólo después de la finalización de todos los partidos de este grupo como parte de esta ronda del torneo.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">No se tomarán en cuenta las decisiones judiciales u otras decisiones de cancelar / modificar los resultados del torneo, hechas después del final de esta ronda de la competición.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el equipo en el que se hizo la apuesta, ha sido descalificado o se ha negado a participar en la competición, todas las apuestas en este equipo se consideran perdidas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>17. En este tipo de deporte, se pueden ofrecer otros resultados aparte de los mencionados anteriormente.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="module-container  align-left ModuleDivider
+                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
+                                    <div class="  module ModuleDivider " datamodule-id="61335" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -2274,266 +1786,372 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1505" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61336" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Handball</strong></span></span></h5>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Rates on the match will only be accepted for normal time, not including the overtime, unless otherwise indicated. The result of the overtime does not affect the result of the 2nd half and is not taken into account for counting the rates of the 2nd half.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">All results are calculated according to the official statistics, taken from the official websites of each league or tournament and also are checked with records of live games. If the company’s statistics, based on TV coverage does not coincide with the official statistics of league or tournament, the rates will be counted according to the statistics of the company.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the match was postponed/interrupted or not completed within 24 hours all rates on the given match are returned except the ones the outcome of which has been uniquely determined by the time of stoppage of the game.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following positions are offered for rates on Handball:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. Winner.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the match. Rates are accepted only for the regular time, excluding overtime.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. Total.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of scored goals is equal to the total of the rate, rates are returned. The same applies for the individual Total of a team or a player.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. Handicap.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In case of a tie taking into account the Handicap, a return takes place (regardless of the period for which the match is invited to bet ).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. Will the first (next / last) 7-meter penalty shot be implemented?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In order the outcome of the given rate to be considered positive, the 7-meter penalty shot shall be implemented on the first try.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If on the first try the ball hits the goalkeeper or the frame of the goal, after which the player throws the ball from returns , the winning outcome of this rate will be “No”.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. Which team will score the first goal of the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. Which team will score the next goal in the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the next goal, on which rates have been accepted, was not scored until the end of the match, all bets on this option are refundable.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. Which team will score the last goal of the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rates are accepted only at the regular time, excluding overtime.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>8. Who will be the first to score 5 (10/15/20) goals in the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which team will score the first specified number of goals in the match. If the number of goals was not scored before the end of the game, all bets on that position shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>9. Who will be the first to score 5 (10/15/20) goals in half?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which team will score the first specified number of goals in this half. If the number of goals was not scored before the end of the half all bets on that position shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>10. Double outcome</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The following outcomes are possible:</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1X – if the match ended in favor of the hosts or in a tie, bets on that position win.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">X2 – if the match ended in favor of the guests, or a tie, bets on that position win.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">12 – if the match ended in favor of the guests, or in favor of the hosts, the rates for this position win.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>11. 1 Half / Match.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the first half and the whole handball match. In the line in the first place [A5] is the result of the 1st half, in the second line – the result of the whole match.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>12. In which Half more goals will be scored?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In case of goals equality in the 1st and 2nd half, the rate is returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>13. Total even / odd. Total of Team 1 (Team 2) even / odd.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the result is 0:0, the rates are calculated as “Even”</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>14. Progressing to the next round.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rate is calculated according to the results, which is determined immediately after the last match of the playoff series (or in accordance with the regulations of a match, which determines the passage of the team) from the indicated round, regardless of the subsequent judicial / disciplinary decisions.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If any of these teams were unable to participate in this round for any reason (including disqualification, refusal to participate, etc.), a victory in the series and pass is reckoned [A6] for the opponent of such a team, all rates remain in force.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>15. The winner of the tournament.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If more than one team is recognized as a winner of the tournament, the odds bet on this team are divided by the number of winners.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>16. The winner of the group stage.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rate is calculated only after the completion of all matches of this group as part of this round of the tournament.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Judicial or other decisions to cancel / change the results of the tournament, made after the end of this round of the competition, shall not be taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the team on which the bet was made, has been disqualified or refused to participate in the competition, all bets on this team are considered lost.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>17. In this given type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:black;"><strong>Hurling</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>1.</strong> Todas las apuestas se calculan en base a los resultados del tiempo principal del partido (70 minutos de juego, 2 tiempos de 35 minutos cada uno). En caso de empate, se juegan 2 tiempos extra, cada 10 minutos, o se realiza una repetición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>2.</strong> Para que todas las apuestas sean válidas, la partida debe ser jugada completamente, excluyendo los casos, cuando los resultados de las apuestas se determinan en el momento en que el partido es interrumpido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>3.</strong> Todas las apuestas se calculan en base a la puntuación total del partido (gol = 3, punto individual = 1).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>4.</strong> Por ejemplo, si el equipo A tiene 0-18 (0 - número de goles, 18 - puntos individuales) y el equipo B tiene 2-10 como resultado del partido, el equipo A gana con 18-16, ya que el equipo A tiene 18 puntos (18 puntos individuales), mientras que el equipo B tiene 16 (2 goles cada 3 puntos y 10 puntos individuales).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>5.</strong> En caso de que el partido se interrumpa y no se juegue hasta el final en 24 horas, todas las apuestas, excepto aquellas cuyos resultados fueron claramente determinados en el momento en que el partido fue interrumpido, son reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(53, 53, 53, 0.7);"><strong>6.</strong> En caso de que la fecha del partido haya sido suspendida por menos de 24 horas, todas las apuestas del partido dado permanecerán en vigor. De lo contrario, todas las apuestas en el partido dado son reembolsables.</span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1506" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61337" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
-                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1507" style="display:block;max-width:1702px;">
-                                        <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Hurling</strong></span></span></h5>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1</strong>. All bets are calculated on the basis of the results of the main time of the match (70 minutes playtime, 2 times 35 minutes each). In case of a draw, 2 overtimes, each 10 minutes, are played or a replay is made.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2.</strong> For all bets to be valid, the match is to be played completely, excluding cases, when the outcomes of the bets are determined at the moment the match is interrupted.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. </strong>All bets are calculated on the basis of the total score of the match (goal = 3, individual point =1).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4.</strong> For example, if team A has 0-18 (0 – number of goals, 18 – individual points) and team B has 2-10 as a result of the match, team A wins with 18-16, since team A have 18 points (18 individual points), whereas team B have 16 (2 goals each 3 points and 10 individual points).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5.</strong> In the event of the match being interrupted and not played to the end within 24 hours, all bets, except those, the outcomes of which are clearly determined at the moment the match is interrupted, are refundable.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. </strong>In the event of the match date being adjourned for less than 24 hours, all bets on the given match remain in force. Otherwise, all bets on the given match are refundable.</span></span></p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="module-container  align-left ModuleDivider
-                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1508" style="display:block;max-width:60px;">
-                                        <div class="divider-container">
-                                            <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="module-container   only-mobile   align-left ModuleParagraph
-                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1509" style="display:block;max-width:1702px;">
+                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:0vh; ">
+                                    <div class="  module ModuleParagraph " datamodule-id="61338" style="display:block;max-width:1702px;">
                                         <div class="uc-content  'uc-scroll native-scroll-box x-scroll native-scroll' ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>UK AND IRISH HORSE RACING&nbsp;</strong></span></span></h5>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. Late withdrawals:</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Where a horse is withdrawn before coming under starter’s orders, or is officially deemed by the starter to have taken no part in the race, stakes will be returned on the withdrawn horse and winning bets will be subject to deductions in accordance with Tattersalls’ Rule 4. The rate of deduction will be based on the following scale:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Decimal odds</span></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>CARRERA DE CABALLOS DEL REINO UNIDO Y DE IRLANDA</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. RETIROS TARDIOS:</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong> Cuando un caballo es retirado antes de entrar bajo las órdenes del juez, o es oficialmente considerado por el juez de no haber participado en la carrera, las apuestas serán devueltas en el caballo retirado y las apuestas ganadoras serán sujetas a deducciones de acuerdo con la Regla 4 de Tattersalls.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">La tasa de deducción se basará en la siguiente escala:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">&nbsp;Cuotas decimales&nbsp;</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
                                             <figure class="table">
                                                 <table>
                                                     <tbody>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Decimal odds</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Fractional odds</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Net deductions</span></span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">Cuotas decimales</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">Cuotas fraccionales</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">Deducciones netas</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1,12 or lower</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1/9 or shorter</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">90 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">1,12 o menor</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">1/9 o más corto</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">90%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1.13-1.19</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1/8-2/11</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">85 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">1.13-1.19</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">1/8-2/11</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">85%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1.20-1.27</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1/5-1/4</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">80 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">1.20-1.27</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">1/5-1/4</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">80%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1.28-1.33</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">7/25-8/25</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">75 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">1.28-1.33</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">7/25-8/25</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">75%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1.34-1.44</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1/3-11/25</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">70 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">1.34-1.44</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">1/3-11/25</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">70%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1.45-1.57</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">4/9-14/25</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">65 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">1.45-1.57</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">4/9-14/25</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">65%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1.58-1.66</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">4/7-13/20</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">60 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">1.58-1.66</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">4/7-13/20</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">60%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1.67-1.83</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">4/6-4/5</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">55 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">1.67-1.83</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">4/6-4/5</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">55%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1.84-1.99</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">5/6-49-50</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">50 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">1.84-1.99</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">5/6-49-50</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">50%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">2.00-2.24</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Events-31/25</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">45 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">2.00-2.24</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">Eventos-31/25</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">45%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">2.25-2.59</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">5/4-39/25</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">40 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">2.25-2.59</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">5/4-39/25</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">40%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">2.60-2.79</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">8/5-7/4</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">35 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">2.60-2.79</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">8/5-7/4</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">35%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">2.80-3.39</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">9/5-23/10</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">30 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">2.80-3.39</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">9/5-23/10</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">30%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">3.40-4.19</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">12/5-3/1</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">25 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">3.40-4.19</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">12/5-3/1</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">25%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">4.20-5.40</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">16/5-22/5</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">20 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">4.20-5.40</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">16/5-22/5</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">20%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">5.50-6.99</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">9/2-23/4</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">15 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">5.50-6.99</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">9/2-23/4</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">15%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">7.00-10,99</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">6/1-9/1</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">10 %</span></span><br>&nbsp;</td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">7.00-10,99</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">6/1-9/1</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">10%</span></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">11.00 and higer</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">10/1 and higer</span></span></td>
-                                                            <td><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">No deduction</span></span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">11.00 y mayor</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">10/1 y mayor</span></td>
+                                                            <td><span style="color:rgba(0, 0, 0, 0.69);">Sin deducción</span></td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
                                             </figure>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In the event of two or more horses being withdrawn before coming under starter’s orders, the total deductions shall not exceed 90p in £. Should a horse be withdrawn and a new market formed, then any bets laid at show prices prior to the new show will be subject to the above deductions. In the event of a further withdrawal after the market has been re-formed, bets placed at show prices in the original market will be subject to a further deduction based on the price of the withdrawn horse in the original market. Bets placed in the new market will be subject to a deduction based on the current price.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The above scale will also apply in the case of non runners in early bird races.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Where the total deduction on the market in which you have placed your bet is 5p in the £, as a concession, the deduction will be waived.</span></span></li>
-                                            </ul>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. Bet acceptance and settlement:</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Bets are accepted for horse race meetings held under the rules of the Jockey Club and Irish Turf Club. Bets on horse racing are settled on the official result. However, a special double result concession is available on horse racing in the UK and Ireland where we pay out on the official result and first past the post. The concession applies to win single and multiple bets and winners in each way bets. There is no restriction on staking.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The exceptions where we do not pay out on both the official result and first past the post are as follows: – the Grand National; an ante post bet; a void race; a selection taking the wrong course; a selection given as the winner in error by the judge; a selection carrying the wrong weight or the jockey failing to weigh in; a bet placed on the Favourite; a bet placed on a two runner race.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Where a result is amended after the weigh-in, for example, as the result of a successful appeal, the amendment will be ignored for settlement purposes.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">All bets are deemed to be for races taking place on the day of acceptance unless you stipulate otherwise in your instructions. However, allowances will be made where racecards are printed in advance such as Sunday’s racecards printed on a Saturday.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">All bets on UK and Irish horse racing are settled at starting price returns. The starting price (SP) is the price available at the ‘off’ of the race. Where a Vbet SP or Industry SP is returned this will take precedence over any other declared SP and will be used to settle bets where no show, ante post is requested. Where no SP is returned and no show, ante post price is requested settlement of bets will be based on the final show of betting.</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. Favourite Betting:</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The favourite is the horse that is returned at the shortest odds. Bets nominating the favourite are accepted on horse and greyhound races at starting price only (i.e. not for other events or on bets at show prices). Where a Vbet SP or Industry SP is returned this will take precedence over any other declared SP and the favourite will be determined by the final show of betting. Where a bet is placed on an unnamed favourite in a race where no starting prices are returned please refer to Rule 2.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Where you nominate the favourite and two or more runners start at the shortest odds, then your stake is divided equally over the joint or co-favourites created. For example, where two are returned at the shortest odds, then these two are joint first and second favourites and the next shortest price runner is the third favourite.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Stakes will be returned on single favourite bets where the return, regardless of the result, is either the same or less than the original outlay. For example, Evs joint favourites, 3/1 co-favourites of four etc. Where this situation occurs with joint or co-favourites in an accumulative bet the selection will be treated as a non runner.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Win and each way bets for first and second favourites are accepted on horse racing.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Where a horse is withdrawn not under starters orders but is still returned favourite then bets on that favourite are void. Bets will not transfer to the second favourite.</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. Show prices:</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Show prices are the current prices on offer at the course during the period before a race.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Prices for all races and events are subject to fluctuation.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If you wish to bet at show prices you must stipulate this when placing your bet.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Should a HORSE BE WITHDRAWN, resulting in a deduction under Tattersalls’ Rule 4, then no show price can be laid after the time of withdrawal, unless the market has been re-formed.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Each way bets at show or early bird prices are governed by our SP place betting terms and determined by the number of actual starters, and not by the number of the declared runners when the price is laid.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">We accept bets in races of 2 or more runners for named and numbered selections at current show prices. Where you take a show price on a selection, it will apply to that selection in all win and each way bets throughout your bet.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Should a HORSE BE WITHDRAWN without coming under starters orders in an early bird race, stakes on that selection will be returned, with bets on other runners in the race subject to a deduction in accordance with Tattersalls’ Rule 4, based on the price of the non runner at the time it is withdrawn. However if the market has been re-formed because of an earlier non runner then the deduction for bets placed in the original market will be based on the last price quoted for the non runner in that market. Bets on horse race events placed after the final declaration stage are not ante post and will be settled in accordance with these rules.</span></span></li>
-                                            </ul>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong> En el caso de que dos o más caballos sean retirados antes de entrar bajo las ordenes pertinentes del juez, las deducciones totales no excederán 90p en £. Si un caballo se retira y se forma un nuevo mercado, entonces cualquier apuesta establecida a Price show antes del nuevo show estará sujeta a las deducciones anteriores. En caso de un retiro posterior después de que el mercado haya sido reformado, las apuestas realizadas a prices show en el mercado original estarán sujetas a una deducción adicional basada en el precio del caballo retirado en el mercado original. Las apuestas realizadas en el nuevo mercado estarán sujetas a una deducción basada en el precio actual</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c.</strong> La escala anterior también se aplicará en caso de los no corredores early bird races.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>d.</strong> Cuando la deducción total en el mercado en el que usted ha realizado su apuesta es de 5p en el £, como una concesión, la deducción será retirada.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);text-transform:uppercase;"><strong>2. Aceptación y determinación de la apuesta:</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong> Las apuestas son aceptadas para las reuniones de carreras de caballos que se realizan bajo las reglas del Jockey Club y del Irish Turf Club. Las apuestas en carreras de caballos se determinan en el resultado oficial. Sin embargo, una concesión especial de doble resultado está disponible en las carreras de caballos en el Reino Unido e Irlanda, donde pagamos el resultado oficial y el primero que pase la línea final. La concesión se aplica para ganar apuestas individuales y múltiples y ganadores en apuestas de each way. No hay restricción en el capital.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong> Las excepciones en las que no pagamos tanto el resultado oficial como el primer puesto son las siguientes: - el Gran Nacional; una apuesta previa; una carrera invalida; una selección que toma el rumbo equivocado; Una selección dada como la ganadora por error del juez; una selección que lleva el peso equivocado o el jinete no pudo ser pesado; una apuesta en el Favorito; Una apuesta en una carrera de dos corredores.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c.</strong> Cuando un resultado sea modificado después de la pesada, por ejemplo, como resultado de una apelación exitosa, la modificación será ignorada para fines de liquidación.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>d.</strong> Todas las apuestas se consideran que son para carreras que se realizan en el día de aceptación, a menos que estipule lo contrario en sus instrucciones. Sin embargo, los permisos se harán cuando las cartas de carreras se impriman por adelantado, como las carreras del domingo impresas en un sábado.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>e.</strong> Todas las apuestas en las carreras de caballos del Reino Unido e Irlanda se liquidan a partir de las devoluciones del precio inicial. El precio inicial (SP) es el precio disponible al 'off' de la carrera. Cuando se devuelve un Alivecasino SP o un SP industrial, éste tendrá prioridad sobre cualquier otro SP declarado y se utilizará para resolver las apuestas en las que no se haya solicitado ninguna apuesta anticipada. Cuando no se devuelve ningún SP, se solicita el precio de la apuesta anticipada, la liquidación de las apuestas se basará en el show final de apuestas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. APUESTAS FAVORITAS:</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong> El favorito es el caballo que es devuelto en las cuotas más cortas. Las apuestas que nominen al favorito son aceptadas en carreras de caballos y galgos a precio inicial solamente (es decir, no para otros eventos o en apuestas a Price show). Cuando se devuelve un Alivecasino SP o Industry SP, éste tendrá prioridad sobre cualquier otro SP declarado y el favorito será determinado por el show final de apuestas. Cuando una apuesta se coloca en un favorito sin nombre en una carrera en la que no se devuelven los precios iniciales, consulte la Regla 2.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong> Donde usted nomina al favorito y dos o más corredores comienzan en las cuotas más cortas, entonces su apuesta se divide por igual sobre el conjunto o co-favoritos creados. Por ejemplo, donde dos se devuelven en las cuotas más cortas, entonces estos dos son juntados primeros y los segundos favoritos y el siguiente corredor de precio más corto es el tercer favorito.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c.</strong> Las apuestas se devolverán en las apuestas favoritas únicas en las que la devolución, independientemente del resultado, sea igual o menor que el desembolso original. Por ejemplo, los favoritos de evs joint, 3/1 co-favoritos de cuatro etc. Cuando esta situación ocurre con joint o los co-favoritos en una apuesta acumulativa la selección será tratada como un no corredor.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>d.</strong> apuestas para ganar y apuestas de each way para los primeros y segundos favoritos son aceptados en las carreras de caballos.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>e.</strong> Cuando un caballo se retira sin las órdenes de los jueces, pero todavía es devuelto a favorito entonces las apuestas en ese favorito son nulas. Las apuestas no se transferirán al segundo favorito.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. PRICE SHOWS:</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong> Los precios de exhibición son los precios actuales en oferta en el curso durante el período antes de una carrera.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong> Los precios para todas las carreras y eventos están sujetos a fluctuaciones.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c.</strong> Si desea apostar a precios de exhibición debe estipularlo al realizar su apuesta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>d.</strong> Si un CABALLO SE RETIRA, resultando en una deducción según la Regla 4 de Tattersalls, entonces no se puede establecer un precio de exhibición después del tiempo de retiro, a menos que el mercado haya sido reformado.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>e.</strong> Cada forma de apuestas each way en exhibición o los precios de early bird se rigen de acuerdo con nuestros términos de apuesta del lugar SP y determinados por el número de jueces reales, y no por el número de corredores declarados cuando el precio es establecido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>f.</strong> Aceptamos apuestas en carreras de 2 o más corredores para selecciones nombradas y numeradas a precios actuales de exhibición. En donde toma un precio de exhibición en una selección, se aplicará a esa selección en todas las apuestas de triunfo y de each way durante su apuesta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>g.</strong> En caso de que un caballo se retire sin entrar bajo las órdenes de los jueces en un early bird race, las apuestas en esa selección será devuelta, con las apuestas en otros corredores en la carrera sujetas a una deducción de acuerdo con la Regla 4 de Tattersalls, en base al precio del no corredor al momento en que se retiró. Sin embargo, si el mercado se ha reformado debido a un no corredor anterior entonces la deducción para las apuestas hechas en el mercado original se basará en el último precio cotizado para el no corredor en ese mercado. Las apuestas en los eventos de carreras de caballos que se realicen después de la fase de declaración final no serán ante post y se resolverán de acuerdo con estas reglas.</span><br>&nbsp;</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1510" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61339" style="display:block;max-width:60px;">
+                                        <div class="divider-container">
+                                            <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="module-container   only-mobile   align-left ModuleParagraph
+                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:0vh; ">
+                                    <div class="  module ModuleParagraph " datamodule-id="61340" style="display:block;max-width:1702px;">
+                                        <div class="uc-content ">
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Hockey sobre hielo</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong> Las apuestas en los campeonatos nacionales e internacionales de hockey sobre hielo se calculan según el tiempo normal de los partidos, a menos que se mencione lo contrario.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong> Si el comienzo del partido ha sido retrasado por más de 24 horas, todas las apuestas aceptadas en ese partido dado se calcularán con un coeficiente de 1 (Devolución).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c.</strong> Si el partido ha sido suspendido y no se ha reanudado dentro de 24 horas, todas las apuestas aceptadas en ese partido dado, excepto aquellos resultados en el momento en que se suspendió el partido, se calcularán con un coeficiente de 1 (Devolución).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>d.</strong> Las apuestas aceptadas en el resultado de la victoria de 2 opciones (victoria del equipo del partido 1 / victoria del equipo del partido 2), se calcularán teniendo en cuenta el tiempo extra y la tanda de penales.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>e.</strong> Las apuestas aceptadas en los resultados de "Total de goles más / menos" en línea, se calcularán únicamente teniendo en cuenta el número de pucks anotados en partidos que han sido realizados durante el mismo día, a menos que se indique lo contrario. Si por lo menos un partido fue transferido o cancelado, se realizará la devolución de esta tasa.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>f</strong>. Para las apuestas en el ganador, hándicap, total de un período determinado, expulsiones, así como otros indicadores del período, sólo se tienen en cuenta los goles, las expulsiones y otros indicadores anotados durante el período especificado.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>g.</strong> Las siguientes posiciones están disponibles para apostar en Hockey sobre hielo:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. Ganador.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el resultado del partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si los resultados de la posición 2 están disponibles (Victoria del partido Equipo 1 / Victoria del partido Equipo 2) las apuestas son aceptadas incluyendo el tiempo extra y la tanda de penales, si hay tres resultados (Equipo 1 / empate / Equipo 2) Las apuestas son aceptadas sólo para el tiempo regular, excluyendo el tiempo extra y el resultado de la tanda de penales.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. Total.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas para las ligas de hockey americano y otras ligas se aceptan teniendo en cuenta el tiempo regular</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Apuestas en más / menos, incluyendo 3 opciones (más / menos / igual... goles), se sugieren sólo para el tiempo regular y para todos los partidos de hockey, independientemente del campeonato.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de goles marcados es igual al total de la tasa y sólo hay dos opciones proporcionadas (más o menos, sin la opción de "iguales ... goles"), se realiza el reembolso correspondiente.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. Total Individual (el equipo especificado).</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas para las ligas de hockey americano y otras ligas se aceptan teniendo en cuenta el tiempo regular</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Apuestas en más / menos, incluyendo 3 opciones (más / menos / igual... goles), se sugieren sólo para el tiempo regular y para todos los partidos de hockey, independientemente del campeonato.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de goles marcados es igual al total de la tasa y sólo hay dos opciones proporcionadas (más o menos, sin la opción de "iguales ... goles"), se realiza el reembolso correspondiente.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para apuestas "más / menos goles &lt;el equipo especificado&gt;, sólo se toman en cuenta los goles que se anotan en las puertas del equipo contrario y son anunciados oficialmente por el árbitro.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. Más / menos goles &lt;jugador especificado&gt;.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si un jugador no ha participado en el partido, las apuestas sobre más / menos goles del jugador dado son reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Independientemente del país y el torneo, todas las apuestas en tal posición se calculan en base a los resultados en el tiempo regular, excluyendo el resultado de la prórroga y la tanda de penaltis.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. Hándicap.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas para las ligas de hockey americano y otras ligas se aceptan teniendo en cuenta el tiempo regular.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el hándicap tiene sólo 2 opciones (solo gana 1 o gana 2, sin la opción - empate) en caso de empate teniendo en cuenta el Hándicap, se realiza una devolución (coeficiente 1), (independientemente del período de la tasa a apostar).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. El ganador del primer &lt; número especificado de&gt; minutos</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice el resultado del partido para el tiempo de juego especificado del partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si un partido fue interrumpido y no completado en 24 horas, en todas las apuestas para esta posición se realiza un reembolso.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">A modo de aclaración: en el cálculo de las tasas para el resultado del período del partido dado se usa una puntuación a cero segundos, el cual es especificado como un parámetro de minuto.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Ejemplo: El ganador de los primeros 5 minutos del juego. La tasa se calcula en base al marcador, fijado a 5 min 00 segundos del juego.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><i><span style="color:rgba(0, 0, 0, 0.69);"><strong>7. Un ganador del grupo (conferencia / división)</strong></span></i></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si la temporada se reduce, el cálculo de las tasas se hace basado en el veredicto oficial de la federación de la Liga de Hockey dada.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>8. El ganador del torneo.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">La Tasa es calculada sólo después del partido final del torneo según el resultado fijo al final del torneo.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">No se tendrán en cuenta las decisiones judiciales u otras decisiones para cancelar / modificar los resultados del torneo, hechas después del final de esta ronda de competiciones.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el equipo en el que se realizó la apuesta, no califica para este torneo, ha sido descalificado o se ha negado a participar en la competición, todas las apuestas serán consideradas perdidas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como ganador del torneo se reconoce a más de un equipo, el coeficiente de la apuesta en este equipo se divide por el número de ganadores (con un coeficiente no inferior a 1).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>9. Avanzar a la siguiente ronda.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Una tasa es calculada por el resultado, determinado directamente después del último partido de la serie de playoffs de la ronda especificada, independientemente de las decisiones judiciales / disciplinarias subsiguientes.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si alguno de estos equipos fue incapaz de participar en esta ronda por cualquier motivo (incluyendo suspensión, negativa a participar, etc.), la victoria y el pase le será otorgado al oponente de dicho equipo, todas las tasas permanecen en vigor.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>10. El ganador de la serie de playoffs (Mejor de 3 / Mejor de 5 / Mejor de 7).</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">A menos que el número de partidos sea jugado, los cuales son necesarios para ganar la serie de acuerdo con las regulaciones, se realizará el reembolso de todas las apuestas en esta posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>11. ¿Quién marcará el primer gol del partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las tasas del jugador que anotó el primer gol marcado legalmente en el partido están ganando.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el primer gol es anotado por un jugador que no estaba representado entre las opciones de la posición dada, todas las apuestas se consideran perdidas en esta posición.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el jugador seleccionado no participa en el juego, entonces todas las apuestas aceptadas en este jugador en particular serán calculadas con el coeficiente 1; Se realizará la devolución correspondiente.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el primer gol es un autogol (incluso si es anotado por un jugador en el que se aceptan apuestas), todas las apuestas se consideran perdidas en esta posición.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Independientemente del país y el torneo, todas las apuestas en tal posición se calculan en base a los resultados del tiempo regular, excluyendo el efecto del tiempo extra y la tanda de penales.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>12. ¿Quién tendrá más tiros en la alineación de la puerta / pista extendida?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice qué equipo hará más tiros en la alineación de la puerta del oponente.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas para las ligas de hockey americano y otras ligas se aceptan teniendo en cuenta el tiempo regular.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">El cálculo se basa en las estadísticas publicadas en los sitios web oficiales de las federaciones de los respectivos campeonatos. Todas las demás fuentes no se tienen en cuenta al calcular las tasas para la posición dada.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>13. Más / menos disparos en la alineación de la puerta / pista extendida.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">El cálculo se basa en las estadísticas publicadas en los sitios web oficiales de las federaciones de los respectivos campeonatos. Al calcular las tasas para esta posición no se requieren otras fuentes.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas para las ligas de hockey americano y otras ligas se aceptan teniendo en cuenta el tiempo regular.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de goles marcados es igual al total de la tasa, las apuestas son reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>14. Hándicap en tiros en la alineación de la puerta.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">El cálculo se basa en las estadísticas publicadas en los sitios web oficiales de las federaciones de los respectivos campeonatos. Al calcular tarifas para esta posición no se requieren otras fuentes.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En caso de empate en los tiros en la alineación de las puertas teniendo en cuenta la desventaja, se realiza un reembolso.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas para las ligas de hockey americano y otras ligas se aceptan teniendo en cuenta el tiempo regular.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>15. Doble resultado (en el partido / en el período)</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los siguientes resultados son posibles:</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">1X - es una tasa ganadora si como resultado del partido / período el Equipo 1 ganó o empató.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">X2 - la tasa es ganadora si como resultado del partido / período el Equipo 2 ganó o empató</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">12 – es ganadora, si como resultado del partido / período el Equipo 1 o el Equipo 2 ganaron.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las tasas de esta posición se calculan en base al resultado del tiempo regular del partido, sin incluir el tiempo extra y la tanda de penales.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>16. Doble resultado del primer &lt;número especificado de&gt; minutos.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice el doble resultado del partido (ver párrafo 15) al momento especificado del tiempo de juego del partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si un partido se interrumpe y no se completa en 24 horas, se realiza un reembolso en todas las apuestas para esta posición.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Como aclaración: en el cálculo de las tasas para el resultado del período de juego dado se usa una puntuación a cero segundos el cual es especificado como un parámetro de minuto.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Ejemplo: El ganador de los primeros 5 minutos del partido. La tasa se calcula en base a la puntuación, fijada a 5 min 00 seg. Del juego.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>17. ¿Ambos equipos marcarán?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Todos los goles marcados por los equipos en sus goles son calculados como goles marcados por un equipo rival.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>18. ¿Cuál será la diferencia para ganar una victoria en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Independientemente del país y el torneo, todas las apuestas en dicha posición se calculan en a base los resultados del tiempo regular, excluyendo el resultado del tiempo extra y la tanda de penales.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>19. ¿Cuándo se anotará el primer gol?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice en qué intervalo de tiempo se marcará el primer gol.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>20. “Marcador exacto” del partido</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas se aceptan sólo por tiempo regular, excluyendo el tiempo extra y la tanda de penaltis. Si el resultado final no coincide con los ofrecidos en las predicciones, todas las apuestas se consideran ganadas por un cliente si las apuestas se hacen en el resultado denominado "Cualquier otro".</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>21. ¿Cuántas suspensiones de 2 minutos habrá en el período o partido determinado?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Para el cálculo de esta tasa, cada suspensión de 2 minutos cuenta como 2.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Doble Penal Menor (doble menor) (2 +2 minutos) cuenta como 2 suspensiones de 2 minutos cada una.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Todos los penales que se producen antes del inicio del período se refieren al período anterior. Los penales asignados al final del juego, también pertenecen al período anterior (el tercer periodo o la prórroga).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Las suspensiones tardías que no han entrado en vigor debido al hecho de que el gol fue anotado no se cuentan, independientemente de si fueron o no incluidas en el registro oficial del partido.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>22. El período en el que se anotará el mayor número de pucks.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas son aceptadas sólo por tiempo regular, excluyendo el tiempo extra y la tanda de penales.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si dos o más períodos terminaron con la misma efectividad, el coeficiente de la tasa se considera "Pérdida"</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>23. ¿Quién anotará 3 pucks?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo los pucks marcados en el gol del oponente se tienen en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas se aceptan sólo en el tiempo regular, excluyendo el tiempo extra y la tanda de penales.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>24. El total del partido par / impar.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el resultado es 0, las tasas se calculan como "Par"</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas para las ligas de hockey americano y otras ligas son aceptadas teniendo en cuenta el tiempo regular.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>25. El total [puntaje?] Del equipo: par / impar.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el resultado es 0, las tasas se calculan como "Par"</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>26. ¿Qué equipo marcará el primer gol del partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el primer gol del partido es un autogol, la victoria en la tasa se agrega al equipo a favor del cual se anotó este gol (es decir - al equipo oponente anotando el propio gol).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Independientemente del país y el torneo, todas las apuestas en dicha posición se calculan en base a los resultados en tiempo regular, excluyendo el resultado del tiempo extra y la tanda de penales.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>27. ¿Qué equipo marcará el próximo gol del partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el siguiente gol del partido es un autogol, la victoria en la tasa se agrega al equipo favorecido por el gol anotado (es decir, al equipo oponente que anoto el autogol).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Independientemente del país y el torneo, todas las apuestas en tal posición se calculan en base a los resultados del tiempo regular, excluyendo el resultado del tiempo extra y la tanda de penales.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>28. ¿Qué equipo marcará el último gol del partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el último gol del partido es un autogol, la victoria en la tasa se agrega al equipo favorecido por el gol anotado (es decir, al equipo oponente que anoto el autogol).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Independientemente del país y el torneo, todas las apuestas en dicha posición se calculan en base a los resultados de la temporada regular, excluyendo el resultado del tiempo extra y la tanda de penales.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>29. El equipo que marque el primer gol ganará el partido.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los siguientes resultados son posibles:</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">"Sí" - el equipo que marca el primer gol del partido gana el juego.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">"No": el equipo que marca el primer gol del partido pierde el juego.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las tasas se aceptan teniendo en cuenta el tiempo extra y la tanda de penales.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si durante el tiempo regular y el tiempo extra ninguno de los equipos anotó un solo puck, las tasas en esta posición son reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>30. El período en el que se anotará el mayor número de goles.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas se aceptan sólo en el tiempo regular, excluyendo el tiempo extra y la tanda de penales.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si dos o más periodos terminaron con la misma efectividad, la tasa del período más efectivo se considera perdida.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>31. ¿Habrá tiempo extra en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si se ha asignado tiempo extra, pero no se jugó por razones técnicas, todas las apuestas en esta posición se calculan con la opción ganadora "Sí" (habrá tiempo extra).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>32. La comparación de la eficacia de los períodos.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se tienen en cuenta los goles marcados en estos períodos. El resultado del tiempo extra no afecta la efectividad del tercer periodo y no se tiene en cuenta en el cálculo.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Independientemente del país y el torneo, todas las apuestas en esta posición se calculan en base a los resultados del tiempo regular, excluyendo el resultado del tiempo extra y la tanda de penales.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>33. Avanzar a la próxima ronda.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Una tasa se calcula sólo después de la finalización de todos los partidos de los equipos especificados dentro del marco de esta ronda de torneos.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">No se toman en cuenta las decisiones judiciales u otras decisiones de cancelar / modificar los resultados del torneo, hechas después del final de esta ronda de la competición.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el equipo en el que se hizo la apuesta ha sido descalificado o se ha negado a participar en la competición, todas las apuestas en este comando se consideran perdidas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>34. Total del tiempo del penal</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si se asignará un tiempo de penal que sea más o menos aproximado a la opción propuesta en el partido (es decir, la suma total de tiempo de expulsiones de todos los jugadores en el partido). Las apuestas para las ligas de hockey americano y otras ligas se aceptan teniendo en cuenta el tiempo regular.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado de los partidos el número total de goles anotados es igual a los Totales de apuestas, se realiza un reembolso.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>35. Hándicap del tiempo de penal</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las apuestas para las ligas de hockey americano y otras ligas se aceptan teniendo en cuenta el tiempo regular.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En caso de empate teniendo, y teniendo en cuenta el Hándicap, se realiza un reembolso.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>36. Total "gol + pase" de &lt; jugador especificado&gt;.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si el número de goles + asistencias, hechas por ese jugador en el partido, es más o menos aproximado al parámetro especificado.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de goles marcados + asistencias del jugador es igual a Total de apuestas, se realiza un reembolso.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>37. Más / Menos goles en partidos en el día de juego.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se tienen en cuenta los partidos mostrados en línea para ese día. En caso de transferencia o cancelación de uno o más partidos del torneo, se realizará la devolución de la tasa para esta posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>38. En este tipo de deporte, se pueden ofrecer otros resultados aparte de los mencionados anteriormente.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="module-container  align-left ModuleDivider
+                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
+                                    <div class="  module ModuleDivider " datamodule-id="61341" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -2541,176 +2159,84 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1511" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61342" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(53, 53, 53);"><strong>Ice Hockey</strong></span></span></h5>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The bets on National and International Ice Hockey championships are calculated according to normal time of the matches, unless otherwise is mentioned.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the start of the match has been delayed for more than 24 hours, all bets accepted on that given match will be calculated with a coefficient of 1 (Return).</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the match has been suspended and was not resumed within 24 hours, all bets accepted on that given match except those outcomes of which at the point when the match was suspended had occurred, will be calculated with a coefficient of 1 (Return).</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Bets accepted on 2 way winner outcome (victory of the match team 1/ victory of the match team 2), will be calculated taking into account the overtime and penalty shootout series.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Bets accepted on “Total goals over/under” outcomes in line, will be calculated only taking into account the number of pucks scored in matches that have taken place during the same day, unless otherwise mentioned. If at least one match was transferred or cancelled a return at this rate takes place.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">For bets on the winner, handicap, total of a certain period, removals as well as other indicators of the period, only goals, removals and other indicators scored during the specified period are taken into account.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following positions are available for betting on Ice Hockey:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. Winner.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the match.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If in the position 2 outcomes are available (Victory of the match Team 1 / Victory of the match Team 2) bets are accepted including the overtime and penalty shootout series, if there are three outcomes (Team 1 / Draw / Team 2) – then bets are accepted only for normal time, excluding the overtime and the result of penalty shootout series.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. Total.</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets for American hockey leagues and other leagues are accepted taking into account normal time. Betting on more / less, including 3 options (more / less / equal... goals), are suggested only for normal time for all hockey matches, regardless of the championship.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of scored goals is equal to the rate total and there are only two options provided (more or less, without the option of “equal ... goals”) a refund takes place.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. Individual Total (the specified team).</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets for American hockey leagues and other leagues are accepted taking into account normal time. Betting on more/ less, including 3 options (more / less / equal... goals), are suggested only for normal time for all hockey matches, regardless of the championship.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of scored goals is equal to the total of the rate and there are only two options provided (more or less, without the option of “equal ... goals”) a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">For bets “more / less goals &lt;the specified Team &gt;, only goals are taken into account which are scored in the gates of the opposing team and are announced officially by the referee.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. More/ fewer goals &lt;a specified Player&gt;.</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If a player has not participated in the match, bets on more / fewer goals of the given player are refundable.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Regardless of the country and the tournament all bets on such a position are calculated based on the results in regular time, excluding the result of the overtime and penalty shootout.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. Handicap.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets for American hockey leagues and other leagues are accepted taking into account normal time.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the handicap has only 2 options (only win 1 or win 2, without the option –a tie ) in case of a tie taking into account the Handicap a return takes place (coefficient 1),(regardless of the period for which the rate is proposed to bet).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. The winner of the first &lt;a specified number of&gt; minutes</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the match for the specified playing time of the match.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If a match was interrupted and not completed within 24 hours, on all bets for this position a refund takes place.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">As a clarification: in the calculation of rates for the outcome of the given match period a score is used to zero second which is specified as a minute parameter.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Example: The winner of the first 5 minutes of the game. Rate is calculated on the basis of score, fixed to 5 min 00 seconds of the game.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. A group (conference/division) winner</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the season is shortened, the calculation of rates is done based on the official verdict of the federation leadership of the given Hockey League.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>8. The winner of the tournament.</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">A Rate is calculated only after the final match of the tournament according to the actually fixed result at the end of the tournament.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Judicial or other decisions to cancel / change the results of the tournament, made after the end of this round of the competitions, shall not be considered.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the team on which the bet was made, do not qualify for this tournament, has been disqualified or refused to participate in the competition, all bets on it will be considered lost.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as winner of the tournament is recognized more than one team, the coefficient of the bet on this team is divided by the number of winners (with a coefficient not less than 1).</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>9. Progressing to the next round.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">A rate is calculated by the result, determined directly after the last match of the playoff series of the specified round, regardless of the subsequent judicial / disciplinary decisions.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If any of these teams were unable to participate in this round for any reason (including suspension, refusal to participate etc.), a win and a pass is scored to the opponent of such a team, all the rates remain in force.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>10. The winner of the playoff series (Best-of-3 / Best-of-5 / Best-of-7).</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Unless the number of matches is played, which is necessary to win the series according to the regulations, a refund takes place on all bets on this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>11. Who will score the first goal of the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rates on the player who scored the first legally scored goal in the match are winning.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the first goal is scored by a player who was not represented among the options of the given position, all bets are considered lost in this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the selected player does not participate in the game, then all bets accepted on this particular player will be calculated with coefficient 1; a return will take place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the first goal is an own goal (even if it is scored by a player on which bets were accepted), all bets are considered lost in this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Regardless of the country and the tournament all bets on such a position are calculated based on the results of regular time, excluding the effect of the overtime and penalty shootout series.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>12. Who will have more shots on the gate alignment /runway extended?</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which team will do more shots on the gate alignment of the opponent.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets for American hockey leagues and other leagues are accepted taking into account normal time.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The calculation is based on the statistics published on the official websites of federations of respective championships. All other sources are not taken into account upon calculation of rates for the given position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>13. More / less shots on the gate alignment/runway extended.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The calculation is based on the statistics published on the official websites of the federations of the respective championships. When calculating rates for this position no other sources are required.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets for American hockey leagues and other leagues are accepted taking into account normal time.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of scored goals is equal to the total of the rate, bets are refundable.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>14. Handicap on shots on the gate alignment.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The calculation is based on the statistics published on the official websites of the federations of the respective championships. When calculating rates for this position no other sources are not required.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In the event of a tie on the shots on the alignment of the gates taking into account the handicap, a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets for American hockey leagues and other leagues are accepted taking into account normal time.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>15. Double outcomes (on the match/on the period).</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The following outcomes are possible:</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1X – is a winning rate if as a result of the match/ period Team 1 won or drew. X2 – the rate is winning if as a result of the match/ period Team 2 won or drew. 12 – is winning, if as a result of the match/ period Team 1 or Team 2 won.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rates on this position are calculated based on the result of the regular time of the match, not including the overtime and penalty shootout series.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>16. Double outcomes of the first &lt;specified number of&gt; minutes.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the double outcome of the (see paragraph 15) match to the specified moment of the playing time of the match.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If a match is interrupted and not completed within 24 hours, a refund takes place on all bets for this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">As a clarification: in the calculation of rates for the outcome of the given match period a score is used to zero second which is specified as a minute parameter.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Example: The winner of the first 5 minutes of the match. The rate is calculated on the basis of score, fixed at 5 min 00 sec of the game.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>17. Will both teams score?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">All goals scored by teams in their goals are calculated as goals scored by a team-rival.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>18. What will be the difference to win a victory in the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Regardless of the country and the tournament all bets on such a position are calculated based on the results of normal time, excluding the result of the overtime and penalty shootout series.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>19. When will the first goal be scored?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict in which time interval the first goal will be scored or there will be no goal.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>20. An “exact score” of a match</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets are accepted only for regular time, excluding the overtime and penalty shootout. If the final result does not match the offered ones in predictions, all bets are considered won by a customer if the bets are placed on the outcome named “Any other”.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>21. How many 2-minute suspensions will there be in the given period or match?</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">For the calculation of this rate, each 2 minute suspension counts as 2.</span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Double Minor Penalty (double minor) (2 +2 minutes) counts as 2 suspensions each lasting 2 minutes.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">All penalties occurring before the start of the period refer to the previous period. Penalties assigned at the end of the game, also belong to the previous period (the 3rd period or the overtime).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Delayed suspensions which have not come into force due to the fact that the goal was scored are not counted, regardless of whether or not they were included in the official record of the match.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>22. The period in which the most number of pucks will be scored.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets are accepted only for regular time, excluding the overtime and penalty shootouts series.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If 2 or more periods ended with the same effectiveness, the coefficient of the rate is considered “Loss”</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>23. Who will score 3 pucks ?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only the pucks scored in the opponent’s goal are taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets are accepted only at the regular time, excluding the overtime and penalty shootout series.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>24. The total of the match even / odd.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the result is 0, the rates are calculated as “Even”</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets for American hockey leagues and other leagues are accepted taking into account normal time.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>25. The total [score?] of the Team: even / odd.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the result is 0, the rates are calculated as “Even”</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>26. Which team will score the first goal of the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the first goal of the match is an own goal, the victory in the rate is added to the team in favor of which this goal was scored (meaning – to the opponent team scoring the own goal).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Regardless of the country and the tournament all bets on such a position are calculated based on the results in regular time, excluding the result of the overtime and penalty shootout series.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>27. Which team will score the next goal of the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the following goal of the match is an own goal, the victory in the rate is added to the team in favor of which this goal was scored (i. e. – to the opponent team scoring the own goal).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Regardless of the country and the tournament all bets on such a position are calculated based on the results of regular time, excluding the result of the overtime and penalty shootout series.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>28. Which team will score the last goal of the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the last goal of the match is an own goal, the victory in the rate is added to the team in favor of which this goal was scored (i.e. the opponent team scoring the own goal).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Regardless of the country and the tournament all bets on such a position are calculated based on the results of the regular time, excluding the result of the overtime and penalty shootout series.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>29. The team scoring the first goal will win the match.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The following outcomes are possible:</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">“Yes” – the team scoring the first goal of the match wins the game. “No” – the team scoring the first goal of the match loses the game.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Rates are accepted taking into account the overtime and penalty shootout series.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If during regular time and overtime neither team scored a single puck, rates on this position are refundable.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>30. The period in which the most number of goals will be scored.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets are accepted only at the regular time, excluding the overtime and penalty shootouts series.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If 2 or more periods ended with the same effectiveness, the rate on the most effective period is considered lost.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>31. Will there be overtime in the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If overtime was assigned, but was not played because of technical reasons, all bets on this position are calculated with the winning option “Yes” (there will be overtime).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>32. The comparison of effectiveness of the periods.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only the goals scored in these periods are taken into account. The result of the overtime does not affect the effectiveness of the 3rd period and is not taken into account in the calculation.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Regardless of the country and the tournament all bets on such a position are calculated based on the results of regular time, excluding the result of overtime and the penalty shootout.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>33. Progressing to the next round.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">A rate is calculated only after the completion of all matches of the specified teams within the framework of this tournament round.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Judicial or other decisions to cancel / change the results of the tournament, made after the end of this round of the competition, are not taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the team on which the bet was made has been disqualified or refused to participate in the competition, all bets on this command are considered lost.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>34. Total of time penalty.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether a penalty time which is more or less than the proposed option will be assigned in the match (i.e. the total sum of time of removals of all players in the match). Bets for American hockey leagues and other leagues are accepted taking into account normal time.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of matches the total number of scored goals is equal to Totals of bets, a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>35. Handicap of time penalty.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Bets for American hockey leagues and other leagues are accepted taking into account normal time.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In case of a tie taking into account the Handicap, a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>36. Total “goal + pass” of &lt;a specified player&gt;.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the number of goals + assists, made by that player in the match, is more or less than the specified parameter.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of scored goals + assists of the player is equal to Total of bets, a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>37. More / Less goals in matches on the playing day.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only the matches shown in line for that day are taken into account. In case of transferring or cancellation of one or more matches of the tournament, a rate refund takes place for this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>38. In this given type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Fútbol gaélico&nbsp;</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1.</strong> Todas las apuestas se calculan en base a los resultados del tiempo principal del partido (60 minutos de juego, 2 tiempos de 30 minutos cada uno). En caso de empate, se juegan 2 tiempos extras de 10 minutos cada uno, o se realiza una repetición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2.</strong> Para que todas las apuestas sean válidas, la partida debe ser jugada completamente, excluyendo los casos, cuando los resultados de las apuestas son determinados en el momento en que el partido fue interrumpido</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3.</strong> Todas las apuestas se calculan en base a la puntuación total del partido (gol = 3, punto individual = 1).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4.</strong> Por ejemplo, si el equipo A tiene 0-18 (0 - número de goles, 18 - puntos individuales) y el equipo B tiene 2-10 como resultado del partido, el equipo A gana con 18-16, ya que el equipo A tiene 18 puntos (18 puntos individuales), mientras que el equipo B tiene 16 (2 goles cada 3 puntos y 10 puntos individuales).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5.</strong> En caso de que el partido se interrumpa y no se juegue hasta el final en 24 horas, todas las apuestas, excepto aquellas cuyos resultados fueron claramente determinados en el momento en que el partido fue interrumpido, son reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><i><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. En el caso de que la fecha del partido haya sido suspendida por menos de 24 horas, todas las apuestas del partido dado permanecerán en vigor. De lo contrario, todas las apuestas en el partido dado son reembolsables</strong></span></i></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1512" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61343" style="display:block;max-width:60px;">
+                                        <div class="divider-container">
+                                            <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="module-container   only-mobile   align-left ModuleParagraph
+                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:0vh; ">
+                                    <div class="  module ModuleParagraph " datamodule-id="61344" style="display:block;max-width:1702px;">
+                                        <div class="uc-content ">
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Automovilismo</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong> Estas reglas se refieren a la Fórmula 1, Moto GP, DTM alemán, WTTC, Superbike, Súper deporte, Trial y otros.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong> Los lugares de los pilotos, así como la distribución de puntos de un equipo, están determinados por el informe final oficial, publicado inmediatamente después de la carrera. Las descalificaciones posteriores a la carrera de pilotos y los cambios en los reportes por parte de la empresa de apuestas no se tienen en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c.</strong> El ganador de todas las apuestas en la calificación está determinado por el tiempo de clasificación oficial, que es anunciado por la federación relevante del torneo indicado.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>d.</strong> Los pilotos que han abandonado la vuelta de muestra, se clasifican automáticamente como habiendo comenzado en la carrera.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>e.</strong> Se aceptan los siguientes tipos de tasas para el automovilismo:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. El ganador de la carrera.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">El piloto que ha ganado el primer lugar en el informe de conclusión de la carrera se considera como ganador. Si el piloto especificado no participó en la carrera, se realizará un reembolso de las apuestas hechas en el piloto dado de esta posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. Terminar en el podio.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice qué piloto terminará en el top 3 en base a los resultados de la carrera. Si el piloto especificado no participó en la carrera, se realizará el reembolso de las apuestas hechas a este piloto</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. El ganador del campeonato.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si un piloto especificado no participó en ninguna carrera del campeonato, se devolverán las apuestas hechas en este piloto.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. Top 3 del campeonato.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice qué piloto entrará en el Top 3 de acuerdo a los resultados de este campeonato. Si el piloto especificado no participó en ninguna carrera del campeonato, las apuestas hechas en este piloto para serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. El ganador del Trofeo / Copa de Constructores.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice qué equipo ganará en la temporada indicada del Trofeo / Campeonato de Constructores. En caso de que alguno de estos equipos sea descalificado o abandone el campeonato por cualquier motivo, todas las apuestas del equipo siguen siendo válidas; sin embargo, si la negativa a participar / descalificación ocurrió antes del inicio de la temporada, todas las apuestas en este equipo para esta posición serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. ¿Quién terminará mejor posicionado?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted selecciona al piloto en los pares ofrecidos que tendrá un mejor desempeño En este caso, el mejor piloto es considerado el que ocupa un lugar más alto en el informe final. Si ambos pilotos salieron de la carrera, el piloto que haga más vueltas será considerado el mejor. Si ambos pilotos salieron en una vuelta, las tasas se devuelven. Si uno de los pilotos salió de la carrera, el piloto de carretera que complete la carrera es considerado el mejor. Si un piloto condujo más vueltas, pero fue descalificado durante la carrera, el mejor será cualquier otro piloto de carretera, que no fue descalificado durante la carrera (incluso si completó al menos una vuelta en la carrera.) Si ambos pilotos fueron descalificados durante la carrera, la tasa será devuelta.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>7. ¿Qué equipo marcará más puntos?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice qué equipo anotará más puntos válidos. Si ambos equipos no han obtenido puntos válidos, se considerará como el mejor equipo al que tenga menos espacios ocupados por los pilotos. Si al menos uno de los pilotos del equipo dado participó en la carrera, todas las apuestas para esa posición permanecen en vigor. De lo contrario, las tasas para esta posición serán reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>8. El conductor no dejará de participar en una carrera.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice si un conductor determinado dejará una carrera o no. Al mismo tiempo, el piloto que abandonó la carrera a pocas vueltas antes del final, pero se clasificó en base a la carrera con un gap de "n" vueltas del líder según el informe oficial, se considera como si hubiese finalizado la carrera.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el piloto especificado no participó en la carrera, se realizará un reembolso de las apuestas hechas al piloto en esta posición.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los lugares de los pilotos se determinan según el informe final oficial, inmediatamente después de la carrera. Las descalificaciones de los pilotos y los cambios en los reportes después de la carrera no son tenidos en cuenta por el corredor de apuestas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>9. Una tasa en el piloto que condujo la vuelta más rápida de la carrera.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el piloto especificado no participó en la carrera, se realizará un reembolso de las apuestas hechas en este piloto para esta posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>10. ¿Qué piloto marcará más puntos en las carreras restantes de la temporada?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si al menos uno de los pilotos no participó en ninguna de las carreras restantes de la temporada, se realizará un reembolso en las tasas de este puesto.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>11. En este tipo de deporte, se pueden ofrecer otros resultados aparte de los mencionados anteriormente.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="module-container  align-left ModuleDivider
+                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
+                                    <div class="  module ModuleDivider " datamodule-id="61345" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -2718,27 +2244,83 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1513" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61346" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Gaelic football</strong></span></span></h5>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. </strong>All bets are calculated on the basis of the results of the main time of the match (60 minutes playtime, 2 times 30 minutes each). In case of a draw, 2 overtimes, each 10 minutes, are played or a replay is made.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2.</strong> For all bets to be valid, the match is to be played completely, excluding cases, when the outcomes of the bets are determined at the moment the match is interrupted.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3.</strong> All bets are calculated on the basis of the total score of the match (goal = 3, individual point =1).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4.</strong> For example, if team A has 0-18 (0 – number of goals, 18 – individual points) and team B has 2-10 as a result of the match, team A wins with 18-16, since team A have 18 points (18 individual points), whereas team B have 16 (2 goals each 3 points and 10 individual points).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. </strong>In the event of the match being interrupted and not played to the end within 24 hours, all bets, except those, the outcomes of which are clearly determined at the moment the match is interrupted, are refundable.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6</strong></span><i><span style="color:rgb(64, 64, 64);"><strong>. </strong></span></i><span style="color:rgb(64, 64, 64);"><strong>In the event of the match date being adjourned for less than 24 hours, all bets on the given match remain in force. Otherwise, all bets on the given match are refundable.</strong></span></span></p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Liga de rugby, Rugby Union</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a</strong>. Las tasas se aceptan excluyendo el tiempo extra, si nada está estipulado en las reglas o en la línea de tiempo regular (80 minutos + tiempo adicional).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong> Si el partido es interrumpido por más de 24 horas, todas las apuestas son reembolsables, excepto el resultado de los cuales este claramente definido en el momento de la interrupción del partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c</strong>. En caso de posponer el inicio del partido por más de 24 horas, todas las apuestas son reembolsables. Excepción: En caso de aplazamiento del partido, se designa de inmediato una nueva fecha y hora del partido, según la cual el partido se realizará durante la misma semana de la semana de juego, que estaba programada previamente (de lunes a domingo, hora GMT ), todas las apuestas en este partido siguen siendo válidas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>d.</strong> Los siguientes elementos son sugeridos para apostar en Rugby League:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. Un ganador.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el resultado del partido. Las tasas son aceptadas para la hora regular.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. Total.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de goles marcados es igual a los totales de la tasa, se realiza una devolución. Lo mismo se aplica para el total individual de un equipo o jugador.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. Hándicap.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si un hándicap tiene sólo 2 opciones (sólo Hándicap 1 o Hándicap 2, sin la opción de empate) en caso de empate teniendo en cuenta el Hándicap, se realiza un reembolso (independientemente del periodo para el que se invita a apostar).</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. Doble resultado</strong>.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los siguientes resultados son posibles:</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">1X - la tasa gana si como resultado del partido el equipo 1 ganó o empató;</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">X2 - la tasa gana si como resultado del partido el equipo 2 ganó o empató;</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">12 - la tasa gana si como resultado del partido el equipo 1 o el equipo 2 ganaron.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. ¿Quién pasará a la siguiente ronda?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Una tasa se calcula sólo después del último partido de la serie en la ronda dada del torneo con la participación de los equipos especificados.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">La tasa sólo gana si el equipo especificado avanza a la siguiente ronda de la competición, independientemente de cuál haya sido el resultado del partido intermedio/ periodo de tiempo de esta ronda de la competición.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">No se tendrán en cuenta las decisiones judiciales u otras decisiones para cancelar / modificar los resultados del torneo, hechas después del final de esta ronda de la competición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. Total individual &lt;equipo especificado&gt;.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si el número de goles marcados por este equipo es más o menos aproximado al parámetro especificado.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de goles marcados es igual al total de la tasa, se realiza un reembolso.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Sólo se tienen en cuenta los goles marcados en la portería del equipo contrario y anunciados oficialmente por el árbitro.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Todos los autogoles son considerados goles marcados por los oponentes.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>7. El ganador del torneo.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Una tasa se calcula sólo después del partido final del torneo por el resultado establecido en el momento del final del torneo.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">No se tomarán en cuenta las decisiones judiciales u otras decisiones de cancelar / modificar los resultados del torneo, hechas después del final de esta ronda de la competición.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el equipo en el que se hizo la tasa no califica para este torneo, fue descalificado o se negó a participar en la competición, todas las apuestas en este equipo se consideran perdidas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>8. ¿Se mostrará una tarjeta roja en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>9. ¿Se mostrará una tarjeta amarilla en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>10. Total pares / impares.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el resultado del partido es "0: 0", las apuestas se contarán como "pares".</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>11. 1ra Mitad / Partido</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice el resultado de la primera mitad y de todo el partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">El resultado de la primera mitad se pone en la línea en el primer lugar, el resultado de todo el partido - en el segundo.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>12. ¿Quién marcará el primer gol en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las tasas en el jugador que anotó el primer gol legal en el partido están ganando.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si durante el partido, el jugador no salió del campo, se realizará el reembolso de todas las apuestas hechas en él para esta posición.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">&nbsp;Si el primer gol fue anotado por un jugador que no estaba representado entre las opciones de la posición dada, todas las apuestas en esta posición se consideran perdidas. Las excepciones son las apuestas de los jugadores que no estaban en el campo en el momento del primer gol. Para tales tasas se realiza un reembolso.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el primer gol es un autogol (incluso si es anotado por un jugador en el que se aceptan apuestas), todas las apuestas en esta posición se consideran perdidas. Las excepciones son las apuestas en los jugadores que no estaban en el campo en el momento del primer gol. Para tales tasas se realiza un reembolso.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>13. ¿Quién marcará el último gol del partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las tasas en el jugador que anotó el último gol anunciado en el partido están ganando.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si durante el partido el jugador no entró en el campo, se realiza un reembolso para todas las apuestas hechas en él para esta posición.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el último gol fue anotado por el jugador que no estaba representado entre las opciones de la posición dada, todas las apuestas en esta posición se consideran perdidas. Las excepciones son las apuestas de los jugadores que no participaron en el partido dado. Para tales tasas se realiza un reembolso.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el último gol es un autogol (incluso si fue anotado por un jugador en el que se aceptaron apuestas), todas las apuestas en esta posición se consideran perdidas. Las excepciones son las apuestas en los jugadores que no estaban en el campo en el momento del último gol. Un reembolso se realiza a tales tasas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>14. La puntuación exacta del partido</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice la puntuación exacta del partido de fútbol.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si la puntuación exacta del partido no es una de las opciones ofrecidas en la línea, todas las apuestas en esta posición se consideran perdidas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>15. ¿Por cuánto se ganará el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice qué equipo ganará este partido y por cuánto o si el partido terminará con un empate.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>16. En este tipo de deporte, se pueden ofrecer otros resultados aparte de los mencionados anteriormente.</strong></span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1514" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61347" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -2746,57 +2328,25 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1515" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61348" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Motor racing</strong></span></span></h5>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">These rules relate to Formula 1, Moto GP, German DTM, WTTC, Superbike, Super sport, Trial and others.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The places of the drivers, as well as the distribution of points of a team, are determined by the official final report, published immediately after the race. The subsequent post-race disqualifications of drivers and report changes by the bookmaker company are not taken into account.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The winner for all bets on the qualification is determined by official qualifying time, which is announced by the relevant governing federation of the indicated tournament.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Drivers who have dropped out the pace lap, are automatically classified as having started in the race.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following types of rates are accepted for motor racing:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. The winner of the race.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The driver who has won first place in the race concluding report is considered the winner. If the specified driver did not participate in the race, a refund takes place for bets made on the given driver for this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. Finish on the podium.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which driver will finish in the top 3 on the basis of results of the race. If the specified racer did not participate in the race, for bets made on the part of the driver for this position, a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. The winner of the championship.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If a specified driver did not participate in any race of the championship, the bets made on the part of the driver for this position, shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. Top 3 of the championship.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which driver will enter Top 3 according to the results of this championship. If the specified driver did not participate in any race of the championship, bets made on the part of the driver for this position shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. The winner of the Trophy /Cup of Constructors.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which team will win in the indicated season of The Trophy /Cup of Constructors Championship. In the event that any of these teams is disqualified or leaves the championship for any reason, all bets on the team remain valid; however, if the refusal to participate / disqualification occurred before the start of the season, all bets on this team for this position are refunded.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. Who will finish higher?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you name the driver in the offered pairs who will perform better. In this case, the best racer is considered the one who wins a higher place in the final report. If both riders went out of the race, the racer driving more laps is considered the best. If both riders went out on one lap, rates are returned. If one of the riders went out of the race, the road racer completing the race is considered the best. If a driver drove more laps, but was disqualified during the race, the best is any other road racer, who was not disqualified during the race (even if he completed at least one lap in the race.) If both drivers were disqualified during the race, the rate shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. Which team will score more points?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which team will score more valid points. If both teams have picked up no valid points, the best team is considered the one which has fewer spaces occupied by racers. If at least one of the drivers of the given team took part in the race, all bets for that position remain in force. Otherwise, the rates for this position are refundable.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>8. The driver will/will not drop out of a race.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict if a certain driver will drop out of a race or will not. At the same time the driver who dropped out of the race a few laps before the finish, but was classified on the basis of the race with a gap of “n” laps from the leader according to the official report, is considered as finishing the race completely.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the specified driver did not participate in the race, a refund takes place for bets made on the part of the driver for this position,.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The places of the drivers are determined according to the official final report, following immediately after the race. Disqualifications of drivers and report changes after the race are not taken into account by the bookmaker.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>9. A rate on the driver who drove the fastest lap of the race.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the specified driver did not participate in the race, a refund takes place for bets made on this driver for this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>10. Which driver will score more points in the remaining races of the season?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If at least one of the drivers did not participate in any of the remaining races of the season, a refund takes place on the rates for this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>11. In this given type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Snooker</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1.</strong> las apuestas en el resultado del partido. Si al menos un frame está terminado, el jugador, que ha pasado a la siguiente ronda se considera ganador en caso de que el partido sea detenido</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2.</strong> Apuestas en los totales del frame, las cuotas de los frames y apuestas especiales. Para calcular estas apuestas, se debe jugar el número entero de frames necesarios para determinar al ganador del partido. Si por cualquier motivo un ganador ha sido nombrado en el partido antes del final del mismo, todas las apuestas en los totales del frame, cuotas del frame y apuestas especiales se calcularán con un impar, excepto casos, donde ya se haya determinado el resultado de la apuesta.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3.</strong> Todos los mejores del partido tendrán una cuota de victoria igual a 1 si el partido es interrumpido por más de 24 horas, excluyendo los casos, en donde los resultados fueron determinados en el momento en que se interrumpió el partido. Todas las apuestas en el partido permanecen válidas si el partido se reanuda dentro de 24 horas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4.</strong> Si a un jugador se le asigna una derrota técnica en un frame, las cuotas y totales del frame dado se calcularán con un impar de 1, excluyendo los casos, en donde los resultados de la apuesta hayan sido determinados en el momento en que se haya interrumpido el partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5.</strong> Apuestas al ganador del torneo. Las cuotas de victoria son aceptadas como 1 si un jugador se abstiene de participar en el torneo antes de su inicio.</span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1516" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61349" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -2804,85 +2354,38 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1517" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61350" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Rugby League, Rugby Union</strong></span></span></h5>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Rates are accepted excluding overtime, if nothing is stipulated in the rules or in the line for regular time (80 minutes + added time).</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the match is interrupted for more than 24 hours, all bets are refundable, except the ones’ outcome of which was clearly defined by the time of interruption of the match.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In the event of postponing of the match start for more than 24 hours, all bets are refundable. Exception: In the event of postponing of the match a new date and time of the match are immediately appointed, according to which the match will be held during the same week of the playing week, which was previously scheduled (Monday to Sunday, time GMT), all bets on this match remain valid.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following items are suggested for betting on Rugby League:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. A winner.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the match. Rates are accepted for the regular time.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. Total.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of scored goals is equal to totals of the rate, a refund takes place. The same applies for the individual total of a team or player.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. Handicap.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If a handicap has only 2 options (only Handicap 1or Handicap 2 , without the option of a draw) in the case of a tie taking into account the Handicap, a refund takes place (regardless of the period for which the match is invited to bet).</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. Double outcomes.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The following outcomes are possible:</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">1X – the rate wins if as a result of the match Team 1 won or drew;</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">X2 – the rate wins if as a result of the match Team 2 won or drew;</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">12 – the rate wins if as a result of the match Team 1 or Team 2 won.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. Who will pass to the next round?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">A rate is calculated only after the last match in the series in the given round of the tournament with the participation of the specified teams.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rate wins only if the specified team progresses to the next round of the competition, regardless of what the result of the intermediate match / time period of this round of the competition was.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Judicial or other decisions to cancel / change the results of the tournament, made after the end of this round of the competition, shall not be considered.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. Individual total &lt;specified team&gt;.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the number of goals scored by this Team is more or less than the specified parameter.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of scored goals is equal to total of the rate, a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Only the goals scored in the goal of the opposing team and officially announced by the referee are taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">All own goals are considered goals scored by opponents.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. The winner of the tournament.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">A rate is calculated only after the final match of the tournament by the actually established result at the time of the end of the tournament.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Judicial or other decisions to cancel / change the results of the tournament, made after the end of this round of the competition, shall not be taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the team on which the rate was made does not qualify for this tournament, was disqualified or refused to participate in the competition, all bets on this team are considered lost.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>8. Will a red card be shown in the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>9. Will a yellow card be shown in the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>10. Total even/odd.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the result of the match is “0:0′′, bets will be counted as “even”.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>11. 1 Half / Match</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the first half and the whole football match.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The result of the 1st half is put in the line in first place, the result of the whole match – in the second one.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>12. Who will score the first goal in the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rates on the player who scored the first legal goal in the match are winning.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If during the match, a player did not come out the field, a refund takes place for all the bets on him for this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the first goal was scored by a player who was not represented among the options of the given position, all bets on this position are considered lost. The exceptions are the bets on the players who were not on the field by the time of the first goal. For such rates a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the first goal is an own goal (even if it is scored by a player on which bets were accepted), all bets on this position are considered lost. Exceptions are bets on players who were not on the field by the time of the first goal. For such rates a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>13. Who will score the last goal of the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rates on the player who scored the last announced goal in the match are winning.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If during the match the player did not enter the field, a refund takes place for all the bets on him for this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the last goal was scored by the player who was not represented among the options of the given position, all bets on this position are considered lost. The exceptions are bets on players who did not take part in the given match. For such rates a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the last goal is an own goal (even if it was scored by a player on which bets were accepted), all bets on this position are considered lost. Exceptions are bets on players who did were not on the field by the time of the last goal. A refund takes place at such rates.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>14. The exact score of the match</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the exact score of the football match.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the exact score of the match is not one of the options offered in the line, all bets on this position are considered lost.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>15. By how much will the match be won?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which team will win this match and by how much or whether the match will end with a draw.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>16. In this type of sport, other outcomes can be offered apart from what is mentioned above.</strong></span></span></p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Tenis</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los hándicaps y el total en un partido de tenis se mencionan en los juegos.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Se ofrece una apuesta "Puntuación por sets". Las columnas correspondientes en la línea se titulan: 2: 0, 2: 1, etc.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En caso de un cambio en el formato del partido (la cantidad de sets y la puntuación de los sets), las cuotas de ganancia en las apuestas para todos los resultados del evento mencionado se aceptan con "1".</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Los datos sobre cobertura de canchas de tenis tienen solo carácter informativo. En caso de cambio de cobertura, todas las apuestas siguen siendo válidas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong> Si uno de los participantes anunciados es reemplazado por otro antes del comienzo del juego, entonces la apuesta en el evento debe ser devuelta (excluyendo competiciones por equipos). Todas las apuestas siguen siendo válidas cuando hay una sustitución de uno o más participantes en competiciones por equipos. En los partidos de parejas, si se menciona la composición de los pares, en caso de sustitución de uno de los participantes, las ganancias se calculan con la cuota “1”. Si la composición no se menciona, las apuestas siguen siendo válidas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong> Cuando el jugador es retirado o descalificado por cualquier motivo, entonces las apuestas ya sorteadas y realizadas siguen siendo válidas. Todas las otras apuestas deben ser devueltas, incluso si los resultados son evidentes.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">1. Resultados de partidos, sets y juegos de tenis</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">2. Hándicaps de partidos, sets y juegos de tenis</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">3. Totales de partidos, sets y juegos de tenis</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">4. marcadores correctos de partidos, sets y juegos de tenis</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">5. Y otros eventos.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c</strong>. Las apuestas siguen siendo válidas en los siguientes casos:</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Cambio de césped de tenis</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Cambio de lugar</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Reemplazo de una pista de tenis al aire libre por una pista techada.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>d.</strong> Las apuestas recomendadas son aceptadas para el ganador del torneo, teniendo en cuenta la participación obligatoria en el torneo. Si el jugador se niega a participar en el torneo antes del inicio del juego, se deben devolver todas las apuestas recomendadas para la ganancia.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>e.</strong> Si el partido de tenis se suspende o no se termina el mismo día, las apuestas siguen siendo válidas hasta el final del torneo en el que se realice el partido, hasta que el partido haya terminado o hasta que alguno de los participantes se haya retirado.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>f.</strong> Si se usa un super tie-break para decidir el set final, esto es contado como un set de un juego.</span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1518" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61351" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -2890,24 +2393,40 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1519" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61352" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Snooker</strong></span></span></h5>
-                                            <p style="color:rgb(53, 53, 53);"><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1.</strong> Bets on the match outcome. If at least a frame is finished, the player, who has passed to the next round is considered winner in case the match is stopped.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2.</strong> Bets on the frame totals, frame odds and special bets. For these bets to be calculated, the whole number of frames, necessary for determining the match winner, must be played. If for any reason a winner has been named in the match prior to the match’s end, all bets on frame totals, frame odds and special bets will be calculated with an odd, except cases, where the bet outcome has already been determined.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3.</strong> All the best on the match will have victory odds equal to 1 if the match is interrupted for more than 24 hours, excluding cases, where the results are determined by the time the match is interrupted. All bets on the match remain valid if the match is resumed within 24 hours.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4.</strong> If a player is assigned a technical defeat in a frame, the given frame’s odds and totals will be calculated with an odd of 1, excluding cases, where the bet results are determined by the time the match is interrupted.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5.</strong> Bets on tournament winner. The victory odds are accepted as 1 if a player refrains from participating in the tournament prior to its start.</span></span></p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Tenis de mesa</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong> Cuando el jugador es retirado o descalificado por cualquier motivo, entonces las apuestas ya sorteadas y realizadas siguen siendo válidas. Todas las demás apuestas deben ser devueltas, incluso si los resultados son evidentes.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong> En el caso de que uno de los participantes declarados haya sido reemplazado por otro antes del inicio del partido, las apuestas sobre dicho evento son reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c</strong>. En caso de transferencia del partido o si el partido es interrumpido, todas las apuestas son reembolsables, excepto aquellas en las que el resultado fue determinado exclusivamente en el momento de la paralización (en el caso de partidos interrumpidos y en caso de que alguno de los participantes se retire). Si el partido es interrumpido debido a una lesión o descalificación, y el participante que debe pasar a la siguiente ronda es determinado debido a esto; las tasas de pase siguen siendo válidas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>d.</strong> Se aceptan los siguientes métodos de apuestas en tenis de mesa:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. El ganador del partido.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice al ganador del partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. El ganador del set.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice al ganador de este set. Si este set es paralizado, se devuelven todas las apuestas en esta posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. ¿Quién ganará el siguiente lanzamiento?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el siguiente lanzamiento no fue pasado en el partido, todas las apuestas en esa posición son reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. Total de puntos.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si el número de puntos jugados en el partido es más o menos aproximado al parámetro especificado. Si como resultado del partido el número de puntos jugados es igual al total de las tasas, la apuesta es reembolsable con el coeficiente 1.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. Hándicap (puntos).</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En caso de empate, teniendo en cuenta el Hándicap, se realiza la devolución con el coeficiente 1. En este caso se toma en cuenta la puntuación en puntos, excluyendo las puntuaciones en los puntos tomados por separado.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. ¿Quién será el primero en alcanzar el número de puntos especificado en este juego?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el juego dado es interrumpido, todas las tasas para la posición dada son devueltas con el coeficiente de 1.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>7. En este tipo de deporte dado, se pueden ofrecer otros resultados aparte de los mencionados anteriormente.</strong></span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1520" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61353" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -2915,27 +2434,100 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1521" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61354" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,1);"><strong>Tennis</strong></span></span></h5>
-                                            <p style="color:rgb(53, 53, 53);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgb(53, 53, 53);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The handicaps and the total on a tennis match are mentioned in games.</span></span><br><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">A “Score by sets” bet is offered. The corresponding columns in the line are entitled: 2:0, 2:1, etc.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In case of a change in format of the match (the quantity of sets and the score of sets), the odds of winnings on bets for all outcomes of mentioned event is accepted by “1′′.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The data about covering of tennis courts has informative character. In case of changing the cover, all the bets remain valid.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If one of the announced participants is replaced by another one before the start of the game, then the bet on the event must be returned (excluding team competitions). All bets remain valid when there is a substitution of one or more participants in team competitions for any reason. In pair matches, if the composition of the pairs is mentioned, in case of substitution of one of the participants, the winnings are calculated with the odd “1′′. If the composition is not mentioned, the bets remain valid.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">When the player is retired or disqualified for any reason, then already raffled and accomplished bets remain valid. All the other bets should be returned, even if the outcomes are evident.</span></span><br><br><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">1. Outcomes of games, sets and tennis games</span></span><br><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">2. Handicaps of games, sets and tennis games</span></span><br><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">3. Totals of games, sets and tennis games</span></span><br><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">4. Correct scores of games, sets and tennis games&nbsp;</span></span><br><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">5. And other events.</span></span><br>&nbsp;</li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Bets remain valid in the following cases:</span></span><br><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Change of tennis lawn</span></span><br><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Change of venue</span></span><br><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Replacement of outdoor tennis court with indoor one.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Recommended bets are accepted for the tournament winner, taking into consideration the mandatory participation in the tournament. If the player refuses to take part in the tournament before the start of the game, all recommended bets for the win should be returned.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the tennis match is suspended, or not finished on the same day, the bets remain valid until the end of the tournament in which the game is held, until the game is over or any of the participants have retired.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If a super tie-break is used to decide the final set, this is counted as a set consisting of one game.</span></span></li>
-                                            </ul>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Voleibol</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong> Si el partido ha comenzado, pero no ha sido completado o ha sido interrumpido por más de 24 horas, todas las tasas serán reembolsadas excepto en las que el resultado haya sido claramente definido en el momento de la paralización.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong> Si la fecha del inicio del partido ha sido postergada por un período de tiempo inferior a las 24 horas, todas las apuestas en este partido permanecerán válidas. De lo contrario, se devuelven las tasas de este partido.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c.</strong> Si de acuerdo a la decisión de los jueces de los equipos se ha producido una deducción de puntos, las tasas se contarán según la decisión de los jueces.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>d.</strong> Si en el partido se juega un Golden Set (de acuerdo al reglamento de los torneos individuales), el Golden Set no se tomará en cuenta para contar las tasas de este partido. El Golden Set sólo afecta al cálculo de las tasas de quien pasara a la siguiente ronda y a la determinación del ganador de un determinado torneo.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>e</strong>. Los siguientes elementos están disponibles para ser apostados en Voleibol:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1 Ganador.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el resultado del partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. Total.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de puntos marcados es igual al total de la tasa, se realiza la devolución correspondiente.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. Total individual &lt;equipo especificado&gt;.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido los puntos sumados anotados por el Equipo 1 (Equipo 2) son iguales al total de la tasa, se realiza la devolución correspondiente.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. Total de sets en el partido.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice si los equipos jugarán más o menos el número aproximado y especificado de sets en el partido. Si un partido fue interrumpido y no se reanudó, se realiza la devolución de las tasas para esta posición &nbsp;</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. ¿Se jugará el quinto set en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si durante el conteo por sets 2: 2 el partido fue interrumpido, las tasas para esta posición permanecerán en vigor y se calcularán basándose en el hecho de que se jugará el quinto set.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. ¿Quién será el primero en anotar 5 (10/15/20) puntos en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si de acuerdo con la decisión de los jueces se produce una deducción de puntos para cada uno de los equipos después de haber alcanzado el número de puntos requerido, el cálculo inicial sigue vigente y no se tomara en cuenta la decisión de los jueces en el cálculo de los puestos.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>7. ¿Cuántos sets habrá en el partido?</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En realidad, los sets jugados se tienen en cuenta en el partido. Si un partido es interrumpido y no se reanuda, se realiza la devolución respectiva de las tasas para esta posición.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>8. Hándicap en los sets</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">El cálculo de la tasa es realizado independientemente de la puntuación en la que haya terminado un set. Sólo se tiene en cuenta la puntuación final en los sets.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>9. La puntuación exacta en los sets</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Se realiza la devolución si el partido es interrumpido para todas las apuestas en la posición dada.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>10. El ganador del torneo</strong>.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si más de un equipo es reconocido como el ganador del torneo, la apuesta de cuotas en este equipo se dividirá por el número de ganadores.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>11. El ganador de la fase de grupos.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">La tarifa se calcula sólo después de completar todos los partidos del grupo indicado como parte de esta ronda del torneo. No se tendrán en cuenta las decisiones judiciales u otras decisiones para cancelar / modificar los resultados del torneo, hechas después del final de esta ronda de competiciones. Si el equipo en el que se hizo la apuesta fue descalificado o se negó a participar en la competición, todas las apuestas en este equipo se considerarán perdidas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>12. El resultado después de los tres primeros sets.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice el resultado del partido después de los primeros tres sets.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>12. El resultado después de los tres primeros sets.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí se predice el resultado del partido después de los primeros tres sets.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>13. Total del partido par / impar.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>14. Total del set impar / impar</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>15. En este tipo de deporte, se pueden ofrecer otros resultados aparte de los mencionados anteriormente.</strong></span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                                                  " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1522" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61355" style="display:block;max-width:60px;">
+                                        <div class="divider-container">
+                                            <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="module-container   only-mobile   align-left ModuleParagraph
+                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:0vh; ">
+                                    <div class="  module ModuleParagraph " datamodule-id="61356" style="display:block;max-width:1702px;">
+                                        <div class="uc-content ">
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Snowboarding</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong> En caso de cambio de distancia, número de rondas de competiciones, así como en caso de cambio del lugar de la competición, se devolverán todas las apuestas en el evento dado.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong> En caso de que la hora de inicio del evento se prolongue por más de 24 horas, todas las tarifas del evento son reembolsables.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c.</strong> Si el evento fue interrumpido y no se reanudó dentro de las 24 horas posteriores a la interrupción del evento, se devolverán todas las tarifas en el evento dado, excepto aquellas cuyo resultado haya sido determinado de manera exclusiva al momento de la interrupción de la carrera.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>d.</strong> Si después de la paralización el evento fue renovado por otra pista (rastro), se devolverán todas las asignadas al evento dado, excepto aquellos cuyo resultado haya sido determinado exclusivamente en el momento de la paralización de la carrera.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>e.</strong> Los lugares de los atletas se determinan de acuerdo con el informe final oficial, publicado inmediatamente después de la carrera. Los cambios en el reporte de los eventos relacionados con la descalificación de los atletas después de la carrera no serán considerados por la compañía de apuestas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>f.</strong> Los siguientes elementos están disponibles para apostar en los deportes de invierno:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. Una tasa en el ganador de la competición.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En este caso, el ganador es considerado el participante que haya ganado el primer lugar en el informe de conclusión final. Si un participante no salió al comienzo de la competición, las tasas serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. Termina en el top 3</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice cuál de los participantes terminará en el Top 3. Si el participante no salió al inicio de la competencia, las tasas serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. El juego "Quién es mejor".</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">En los pares propuestos es necesario nombrar al participante que tendrá un mejor desempeño. En este caso, un participante que ocupó una mejor posición en el informe de conclusión será considerado el mejor. El cálculo de las tasas se basa en el informe oficial, publicado por el órgano rector / federación del respectivo evento inmediatamente después de la competición. Los cambios en el informe del evento relacionados con la descalificación de los atletas después de la competición, no serán considerados por la compañía de apuestas. Si ambos participantes salieron de la competencia, todas las tasas serán reembolsadas. Si uno de los participantes no termina la competencia, al calcular las tasas para esta posición se considerará que su oponente tomó la posición más alta.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. En estos tipos de deportes, otros resultados pueden ser ofrecidos aparte de los mencionados anteriormente.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="module-container  align-left ModuleDivider
+                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
+                                    <div class="  module ModuleDivider " datamodule-id="61357" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -2943,184 +2535,54 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1523" style="display:block;max-width:1702px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61358" style="display:block;max-width:1702px;">
                                         <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Table tennis</strong></span></span></h5>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">When the player is retired or disqualified for any reason, then already raffled and accomplished bets remain valid. All other bets should be returned, even if the outcomes are evident.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In the event that one of declared participants has been replaced with another one before the start of the match, bets on such an event are refundable.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In the event of transferring the match or if the match is interrupted, all bets are refundable except those where the outcome is uniquely determined by the time of the stoppage (in the case of interrupted matches and in case that any of the participants retire). If the match is interrupted due to an injury or disqualification, and the participant who should pass to the next round is determined due to this; the rates of pass remain valid.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following methods of betting on table tennis are accepted:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. The winner of the match.</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the winner of the match.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. The winner of the set.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the winner of this set. If this set is interrupted, all bets on this position are returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. Who will win the next pitch?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the next pitch was not passed in the match, all bets on that position are refundable.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. Total points.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict if the number of points played in the match will be more or less than the specified parameter. If as a result of the match the number of the played points is equal to the total of the rates, the bet is refundable with coefficient 1.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. Handicap (points).</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In case of a tie, taking into account the Handicap, a return takes place with coefficient 1. In this case the score in terms of points is taken into account, excluding the scores in the points taken separately.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. Who will be the first to reach the specified number of points in this game?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the given game is interrupted, all rates for the given position are returned with the coefficient of 1.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. In this given type of sport, other outcomes can be offered apart from what is mentioned above.</strong></span></span></p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="module-container  align-left ModuleDivider
-                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1524" style="display:block;max-width:60px;">
-                                        <div class="divider-container">
-                                            <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="module-container   only-mobile   align-left ModuleParagraph
-                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1525" style="display:block;max-width:1702px;">
-                                        <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Volleyball</strong></span></span></h5>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the match has started, but has not been completed or has been interrupted for more than 24 hours, all rates shall be refunded except the ones, the outcome of which was clearly defined by the time of the stoppage.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the date of the start of the match has been carried over for a period of time less than 24 hours, then all bets on this match remain valid. Otherwise, the rates on this match are returned.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If according to the decision of the judges of the teams a deduction of points has occurred, rates will be counted according to the given decision of the judges.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If in the match a Golden Set is played (according to the regulations of individual tournaments), the Golden Set is not taken into account for counting the rates on this match. Golden Set only affects the calculation of rates of passing to the next round and determining the winner of a certain round / a tournament.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following items are available for betting on Volleyball:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1 Winner.</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the match.</span></span><br>&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. Total.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of scored points is equal to the total of the rate, a return takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. Individual total &lt;specified Team&gt;.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the summed points scored by Team 1 (Team 2) equals to total of the rate, a return takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. Total of sets in the match.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict whether the teams will play more or less than the specified number of sets in the match. If a match was interrupted and not resumed, a return takes place at the rate for this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. Will the 5th set be played in the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If while counting by sets 2:2 the match was interrupted, rates for this position shall remain in force and are calculated based on the fact that 5th set will be played.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. Who will be the first to score 5 (10/15/20) points in the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If according to the decision of the judges a deduction of points occurs for either team after it first reaches the required number of points, the initial calculation remains in force and the decision of the judges in the calculation of the positions is not taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. How many sets will there be in the match?</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Actually played sets are taken into account in the match. If a match is interrupted and not resumed, a return takes place at the rate for this position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>8. Handicap on the sets</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rate calculation takes place regardless of what score a set ended with; only the final score in sets is taken into account.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>9. The Exact score in sets.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">A return takes place if the match is interrupted for all bets on the given position.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>10. The winner of the tournament.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If more than one team is recognized as a winner of the tournament, the odds bet on this team are divided by the number of winners.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>11. The winner of the group stage.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rate is calculated only after the completion of all matches of the indicated group as a part of this round of the tournament. Judicial or other decisions to cancel / change the results of the tournament, made after the end of this round of the competitions, shall not be considered. If the team on which the bet was made was disqualified or refused to participate in the competition, all bets on this team are considered lost.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>12. The result after the first three sets.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the match after the first three sets.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>13. Total of the match even / odd.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>14. Total of the set even /odd</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>15. In this given type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="module-container  align-left ModuleDivider
-                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1526" style="display:block;max-width:60px;">
-                                        <div class="divider-container">
-                                            <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="module-container   only-mobile   align-left ModuleParagraph
-                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1527" style="display:block;max-width:1702px;">
-                                        <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Water polo</strong></span></span></h5>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">All bets on Water polo are accepted at the regular time of the match, unless otherwise is specified in the header of the event. The exception is betting on the passage.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In the event of transferring the match or if the match is interrupted for more than 24 hours, all bets shall be returned except those the outcome of which is uniquely determined by the time of the stoppage (in the case of interrupted matches).</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In the event of transferring the start time of the match for a period less than 24 hours, all bets will remain valid, otherwise all bets shall be returned.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">For counting the rates on the winner of the quarter, more/ less and handicapping quarter, only goals scored in the indicated period are taken into account. Unless otherwise stated, to determine the result of the 4th period goals in extra time are not taken into account.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">For counting the rates on the winner of the half, more/ less and handicapping half, only goals scored in the indicated period are taken into account. Unless otherwise stated, to determine the result of the 2nd period goals in extra time are not taken into account.</span></span></li>
-                                                <li style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following items are available for betting on Water Polo:</span></span><br>&nbsp;</li>
-                                            </ul>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. Winner.</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict the outcome of the match. Bets are accepted at the regular time of the match.</span></span></p>
-                                            <p style="color:rgb(0, 0, 0);">&nbsp;</p>
-                                            <p style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. Handicap.</strong></span></span></p>
-                                            <p style="color:rgb(0, 0, 0);"><br>&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. Total.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the total number of scored goals is equal to the total of the rate, the rates shall be returned. Similarly, for the individual total of the team or the player.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. Individual total &lt;The specified team&gt;.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If as a result of the match the number of goals scored by a specified team is equal to the Total of the rate, a refund takes place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>5. Passing to the next round.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">The rates are accepted taking into account the extra time and series of penalty shoot-outs after the match.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>6. Total even/ odd.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">If the total is zero, the result of this position is considered “Even”The rates are accepted taking into account the extra time and series of penalty shoot-outs after the match.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>7. In this given type of sport, other outcomes can be offered apart from that mentioned above.</strong></span></span></p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="module-container  align-left ModuleDivider
-                                                 " style=" padding-right:40px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleDivider " datamodule-id="1528" style="display:block;max-width:60px;">
-                                        <div class="divider-container">
-                                            <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="module-container   only-mobile   align-left ModuleParagraph
-                                                 " style=" padding-right:30px;padding-left:30px;;   padding-bottom:1.982160555005vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1529" style="display:block;max-width:1702px;">
-                                        <div class="uc-content ">
-                                            <h5 style="color:rgb(0, 0, 0);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Winter sports</strong></span></span></h5>
-                                            <p style="color:rgb(53, 53, 53);">&nbsp;</p>
-                                            <ul>
-                                                <li style="color:rgb(53, 53, 53);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">Sports</span><span style="color:rgb(64, 64, 64);">:</span></span><br><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Skiing</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Biathlon</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Bobsleigh&nbsp;</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Cross-Country Skiing</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Freestyle / Aerials&nbsp;</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Sledge</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Nordic Combined&nbsp;</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Speed skating</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Skeleton&nbsp;</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Jumping&nbsp;</strong></span></span><br><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>Snowboarding</strong></span></span><br>&nbsp;</li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In case of a change of distance, number of rounds of competitions, as well as in case of a change of the place of the competition, all bets on the given event shall be returned.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">In the event that the start time of the event is carried over by more than 24 hours, all rates on the event are refundable.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If the event was interrupted and not resumed within 24 hours of stoppage of the event, all rates on the given event shall be refunded, except the ones, the outcome of which has been uniquely determined by the time of stoppage of the race.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">If after stoppage the event was renewed for another track (trace), all rates placed on the given event shall be refunded, except the ones, the outcome of which has been uniquely determined by the time of stoppage of the race.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The places of athletes are determined according to the official final report, published immediately after the race. Changes to the report of the events related to the disqualification of athletes after the race shall not be considered by the bookmaker company.</span></span></li>
-                                                <li style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgba(64,64,64,0.4);">The following items are available for betting on winter sports:</span></span></li>
-                                            </ul>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>1. A rate on the winner of the competition.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In this case, a winner is considered the participant who has won the first place in the final concluding report. If a participant did not come out at the start of the competition, the rates shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>2. Finish on Top 3.</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">Here you predict which one of the participants finishes in Top 3. If the participant did not come out to the start of the competition, rates shall be returned.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>3. The game “Who is better.”</strong></span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);">In the proposed pairs it is necessary to name the participant who will perform better. In this case, a participant who occupied a higher place in the concluding report is considered the best. The calculation of the rates is based on the official report, published by the governing body / federation of respective event immediately after the competition. Changes to the event report related to the disqualification of athletes after the competition, shall not be considered by the bookmaker company. If both participants came out of the competition, all rates will be refunded. If one of the participants does not finish the competition, while calculating rates for this position it is considered that his opponent took the higher place.</span></span></p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);">&nbsp;</p>
-                                            <p style="color:rgba(49, 49, 49, 0.7);"><span style="font-family:Roboto;"><span style="color:rgb(64, 64, 64);"><strong>4. In these given types of sports, other outcomes can be offered apart from what is mentioned above.</strong></span></span></p>
+                                            <p class="font-13em" style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Waterpolo</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>a.</strong> Todas las apuestas en Waterpolo se aceptan en la hora regular del partido, a menos que se especifique lo contrario en el encabezado del evento. La excepción es apostar en el pasaje.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>b.</strong> En el caso de la transferencia del partido o si el partido se interrumpe durante más de 24 horas, se devolverán todas las apuestas, excepto aquellas cuyo resultado sea determinado exclusivamente en el momento de la interrupción (en el caso de partidos interrumpidos).</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>c.</strong> En caso de transferir la hora de inicio del partido por un período inferior a las 24 horas, todas las apuestas seguirán siendo válidas, de lo contrario todas las apuestas serán devueltas.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>d.</strong> Para contar las tasas en el ganador del cuarto, cuarto más / menos y hándicap, sólo los goles marcados en el período indicado se tienen en cuenta. A menos que se indique lo contrario, para determinar el resultado del cuarto período, los goles en tiempo extra no son tomados en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>e.</strong> Para contar las tasas en el ganador de la mitad, más / menos y la mitad de hándicap, sólo los goles marcados en el período indicado se tienen en cuenta. A menos que se indique lo contrario, para determinar el resultado del 2do periodo, los goles en el tiempo extra no son tomados en cuenta.</span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>f.</strong> Los siguientes elementos están disponibles para apostar en Water Polo:</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>1. Ganador.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Aquí usted predice el resultado del partido. Las apuestas se aceptan en la hora regular del partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>2. Hándicap.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>3. Total.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número total de goles marcados es igual al total de la tasa, las tasas serán devueltas. Del mismo modo, para el total individual del equipo o el jugador.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>4. Total individual &lt;equipo especificado&gt;.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si como resultado del partido el número de goles marcados por un equipo especificado es igual al Total de la tasa, se realiza el reembolso.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>5. Pasar a la siguiente ronda.</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Las tasas se aceptan teniendo en cuenta el tiempo extra y la tanda de penales después del partido.</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>6. Total pares / impares</strong></span><i><span style="color:rgba(0, 0, 0, 0.69);"><strong><u>.</u></strong></span></i></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);">Si el total es cero, el resultado de esta posición se considerará "Par"</span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>7. En este tipo de deporte, se pueden ofrecer otros resultados aparte de los mencionados anteriormente.</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Deportes de invierno</strong></span></p>
+                                            <p style="line-height:13.5pt;">&nbsp;</p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Esquí</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Biatlón</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Bobsleigh</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Esquí de fondo</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Freestyle / Aerials</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Trineo</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Combinada nórdica</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Patinaje de velocidad sobre hielo</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Skeleton</strong></span></p>
+                                            <p style="line-height:13.5pt;"><span style="color:rgba(0, 0, 0, 0.69);"><strong>Jumping</strong></span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleDivider
                           last                         " style=" padding-right:40px;padding-left:30px;;  ">
-                                    <div class="  module ModuleDivider " datamodule-id="1530" style="display:block;max-width:60px;">
+                                    <div class="  module ModuleDivider " datamodule-id="61359" style="display:block;max-width:60px;">
                                         <div class="divider-container">
                                             <div class="divider-inner" style="height: 2px; background: rgba(49, 49, 49, 0.27);"></div>
                                         </div>
@@ -3136,8 +2598,10 @@ include_once('includes/header.php');
             </div>
         </div>
     </div>
-    <div class="push" style="height: 368.297px;"></div>
+    <div class="push" style="height: 389.906px;"></div>
 </div>
+
+
 
 <?php
 include_once('includes/footer.php');

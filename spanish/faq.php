@@ -12,44 +12,77 @@ include_once('includes/header.php');
                         <div class="uc-row-wrapper ">
                             <div class="uc-row  mainslider  last                           header-row  
                         
-                                                        " data-id="1" style="   background:rgba(169, 40, 114, 0); ">
+                                                        " data-id="13532" style="   background:rgba(169, 40, 114, 0); ">
                                 <div class="row-container ">
                                     <div class="row headerRow " style="">
-                                        <div class="column col-xs-12 " datacolumn-id="1" style="  padding:0vh 0vh;      background: rgb(29, 24, 78); ">
+                                        <div class="column col-xs-1 " datacolumn-id="22547" style="  padding:0vh 0vh;      background: rgb(29, 24, 78); ">
+                                            <div class="column-container " style="">
+                                                <div class="module-container  align-center ModuleSpace
+                         first   last                         ">
+                                                    <div class="  module ModuleSpace " datamodule-id="62186">
+                                                        <div class="space-container">
+                                                            <div class="space-inner" style="height: 10px;">
+                                                            </div>
+                                                        </div>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="62186"] .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="62186"]:hover .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+                                                        </style>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="62186"] .uc-row .column:first-child {
+                                                                border-bottom-left-radius: 0;
+                                                                border-top-left-radius: 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="62186"] .uc-row .column:last-child {
+                                                                border-bottom-right-radius: 0;
+                                                                border-top-right-radius: 0;
+                                                            }
+                                                        </style>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="column col-xs-11 " datacolumn-id="22548" style="  padding:0vh 0vh;      background: rgb(29, 24, 78); ">
                                             <div class="column-container vertical-center" style="">
                                                 <div class="module-container   only-mobile   align-left ModuleLogo
                          first                          " style=" padding-right:80px;padding-left:80px;;   padding-bottom:0px; ">
-                                                    <div class="  module ModuleLogo " datamodule-id="23089" style="display:block;max-width:140px;">
-                                                        <a href="https://www.vbet.com">
+                                                    <div class="  module ModuleLogo " datamodule-id="62187" style="display:block;max-width:140px;">
+                                                        <a href="https://www.vbet.com/es">
                                                             <div class="" style="">
-                                                                <img data-logo-element="" class="lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" alt="VBET" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" data-was-processed="true">
+                                                                <img data-logo-element="" class="lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" alt="Alivecasino" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" data-was-processed="true">
                                                             </div>
                                                         </a>
                                                     </div>
                                                 </div>
                                                 <div class="module-container  align-center ModuleSpace
                                                  ">
-                                                    <div class="  module ModuleSpace " datamodule-id="24548">
+                                                    <div class="  module ModuleSpace " datamodule-id="62188">
                                                         <div class="space-container">
                                                             <div class="space-inner" style="height: 40px;">
                                                             </div>
                                                         </div>
                                                         <style>
-                                                            .ModuleSpace[datamodule-id="24548"] .space-container {
+                                                            .ModuleSpace[datamodule-id="62188"] .space-container {
                                                                 border-radius: 0 0 0 0;
                                                             }
 
-                                                            .ModuleSpace[datamodule-id="24548"]:hover .space-container {
+                                                            .ModuleSpace[datamodule-id="62188"]:hover .space-container {
                                                                 border-radius: 0 0 0 0;
                                                             }
                                                         </style>
                                                         <style>
-                                                            .ModuleSpace[datamodule-id="24548"] .uc-row .column:first-child {
+                                                            .ModuleSpace[datamodule-id="62188"] .uc-row .column:first-child {
                                                                 border-bottom-left-radius: 0;
                                                                 border-top-left-radius: 0;
                                                             }
 
-                                                            .ModuleSpace[datamodule-id="24548"] .uc-row .column:last-child {
+                                                            .ModuleSpace[datamodule-id="62188"] .uc-row .column:last-child {
                                                                 border-bottom-right-radius: 0;
                                                                 border-top-right-radius: 0;
                                                             }
@@ -58,37 +91,37 @@ include_once('includes/header.php');
                                                 </div>
                                                 <div class="module-container   only-mobile   align-left ModuleNavigation
                                                  " style=" padding-right:80px;padding-left:80px;;   padding-bottom:0.32894736842105px; ">
-                                                    <div class="  module ModuleNavigation " datamodule-id="1" style="width: auto;">
+                                                    <div class="  module ModuleNavigation " datamodule-id="62189" style="width: auto;">
                                                         <input type="hidden" class="standard-navigation">
                                                         <style>
-                                                            #navigation-1>.standard-view>.navigation>.page>.page-children {
+                                                            #navigation-62189>.standard-view>.navigation>.page>.page-children {
                                                                 background: rgba(241, 241, 241, 0);
                                                             }
 
-                                                            #navigation-1>.standard-view>.navigation>.page>.page-children>.page>ul {
+                                                            #navigation-62189>.standard-view>.navigation>.page>.page-children>.page>ul {
                                                                 background: rgba(241, 241, 241, 0);
                                                             }
 
 
-                                                            #navigation-1>.standard-view>.navigation>.page>.page-children {
+                                                            #navigation-62189>.standard-view>.navigation>.page>.page-children {
                                                                 border-radius: 0px;
                                                             }
 
-                                                            #navigation-1>.standard-view>.navigation>.page>.page-children>.page>ul {
+                                                            #navigation-62189>.standard-view>.navigation>.page>.page-children>.page>ul {
                                                                 border-radius: 0px;
                                                             }
 
 
-                                                            #navigation-1 .navigation>li.has-childes.page>ul a {
+                                                            #navigation-62189 .navigation>li.has-childes.page>ul a {
                                                                 padding: 0 15px;
                                                             }
 
-                                                            #navigation-1>div>ul li:hover>ul {
+                                                            #navigation-62189>div>ul li:hover>ul {
                                                                 display: block;
                                                             }
 
 
-                                                            #navigation-1 .page a {
+                                                            #navigation-62189 .page a {
                                                                 color: rgb(255, 255, 255);
                                                                 font-size: 26px;
                                                                 font-weight: 900;
@@ -96,51 +129,51 @@ include_once('includes/header.php');
                                                                 text-transform: uppercase;
                                                             }
 
-                                                            #navigation-1>div>ul>li.page:not(:last-child) {
+                                                            #navigation-62189>div>ul>li.page:not(:last-child) {
                                                                 margin-bottom: 20px;
                                                             }
 
-                                                            #navigation-1>div>ul>li:first-child:nth-last-child(1) {
+                                                            #navigation-62189>div>ul>li:first-child:nth-last-child(1) {
                                                                 margin-bottom: 40px;
                                                             }
 
-                                                            #navigation-1 li.page>a:hover {
+                                                            #navigation-62189 li.page>a:hover {
                                                                 color: rgb(255, 255, 255) !important;
                                                             }
 
-                                                            #navigation-1 li.page.active>a {
+                                                            #navigation-62189 li.page.active>a {
                                                                 color: rgb(255, 255, 255);
                                                             }
 
-                                                            #navigation-1 li.page.active>a:hover {
+                                                            #navigation-62189 li.page.active>a:hover {
                                                                 color: #f1f1f1 !important;
                                                             }
 
-                                                            #navigation-1 li.page>ul.page-children li.page a {
+                                                            #navigation-62189 li.page>ul.page-children li.page a {
                                                                 color: rgb(255, 255, 255);
                                                             }
 
-                                                            #navigation-1 li.page>ul.page-children>li.page a:hover,
-                                                            #navigation-1 li.page>ul.page-children>li.page>ul.page-children>li.page a:hover {
+                                                            #navigation-62189 li.page>ul.page-children>li.page a:hover,
+                                                            #navigation-62189 li.page>ul.page-children>li.page>ul.page-children>li.page a:hover {
                                                                 color: #959595 !important;
                                                             }
 
-                                                            #navigation-1 li.page>ul.page-children>li.page.active>a,
-                                                            #navigation-1 li.page>ul.page-children>li.page>ul.page-children>li.page.active>a {
+                                                            #navigation-62189 li.page>ul.page-children>li.page.active>a,
+                                                            #navigation-62189 li.page>ul.page-children>li.page>ul.page-children>li.page.active>a {
                                                                 color: #353535;
                                                             }
 
-                                                            #navigation-1 li.page>ul.page-children>li.page.active>a:hover,
-                                                            #navigation-1 li.page>ul.page-children>li.page>ul.page-children>li.page.active>a:hover {
+                                                            #navigation-62189 li.page>ul.page-children>li.page.active>a:hover,
+                                                            #navigation-62189 li.page>ul.page-children>li.page>ul.page-children>li.page.active>a:hover {
                                                                 color: #959595 !important;
                                                             }
 
-                                                            #navigation-1 li.page>ul.page-children:before,
-                                                            #navigation-1 li.page>ul.page-children>li.has-childes>.page-children.pagesArrows>li:first-child:before {
+                                                            #navigation-62189 li.page>ul.page-children:before,
+                                                            #navigation-62189 li.page>ul.page-children>li.has-childes>.page-children.pagesArrows>li:first-child:before {
                                                                 color: rgba(241, 241, 241, 0);
                                                             }
 
-                                                            #navigation-1 li.page>ul.page-children>li.page>a {
+                                                            #navigation-62189 li.page>ul.page-children>li.page>a {
                                                                 color: rgb(255, 255, 255);
                                                                 font-size: 16px;
 
@@ -150,77 +183,77 @@ include_once('includes/header.php');
                                                             }
 
 
-                                                            #navigation-1 li.page>ul.page-children>li.page>a {
+                                                            #navigation-62189 li.page>ul.page-children>li.page>a {
                                                                 font-weight: 400;
                                                             }
 
 
-                                                            #navigation-1 li.page ul.page-children .page {
+                                                            #navigation-62189 li.page ul.page-children .page {
                                                                 padding-top: 10px;
                                                                 padding-bottom: 10px;
                                                             }
 
-                                                            #navigation-1 li.page ul.page-children .page:last-child {
+                                                            #navigation-62189 li.page ul.page-children .page:last-child {
                                                                 padding-bottom: 10px;
                                                             }
 
-                                                            #navigation-1 li.has-childes.page>a>.uci-dropdown-arrow-down {
+                                                            #navigation-62189 li.has-childes.page>a>.uci-dropdown-arrow-down {
                                                                 font-size: 14px;
                                                             }
 
-                                                            #navigation-1 li.has-childes.page>.page-children.pagesArrows>.has-childes>a>.uci-dropdown-arrow-down {
+                                                            #navigation-62189 li.has-childes.page>.page-children.pagesArrows>.has-childes>a>.uci-dropdown-arrow-down {
                                                                 font-size: 9px;
                                                             }
 
-                                                            #navigation-1 li.has-childes.page>.page-children li>a,
-                                                            #navigation-1 li.has-childes.page>.page-children li {
+                                                            #navigation-62189 li.has-childes.page>.page-children li>a,
+                                                            #navigation-62189 li.has-childes.page>.page-children li {
                                                                 text-align: center;
                                                             }
                                                         </style>
-                                                        <div id="navigation-1" data-nav-sub-page-scollapsible="1" class="navigation-inner
+                                                        <div id="navigation-62189" data-nav-sub-page-scollapsible="1" class="navigation-inner
                 
         vertical standard">
                                                             <div class="standard-view ">
                                                                 <ul class="navigation" style="font-family: 'Roboto';">
                                                                     <li class=" page   show" data-anchor="">
-                                                                        <a class="nav-item" href="https://www.vbet.com/live" data-page-type="pageLive">
+                                                                        <a class="nav-item" href="https://www.vbet.com/es/en-vivo" data-page-type="pageLive">
                                                                             <span class="title">
-                                                                                Live
+                                                                                En vivo
                                                                             </span>
                                                                         </a>
                                                                     </li>
                                                                     <li class=" page   show" data-anchor="">
-                                                                        <a class="nav-item" href="https://www.vbet.com/pre-match" data-page-type="pagePrematch">
+                                                                        <a class="nav-item" href="https://www.vbet.com/es/deportes" data-page-type="pagePrematch">
                                                                             <span class="title">
-                                                                                Pre-Match
+                                                                                Deportes
                                                                             </span>
                                                                         </a>
                                                                     </li>
                                                                     <li class=" page   show" data-anchor="">
-                                                                        <a class="nav-item" href="https://www.vbet.com/casino" data-page-type="pageCasino">
+                                                                        <a class="nav-item" href="https://www.vbet.com/es/casino" data-page-type="pageCasino">
                                                                             <span class="title">
                                                                                 Casino
                                                                             </span>
                                                                         </a>
                                                                     </li>
                                                                     <li class=" page   show" data-anchor="">
-                                                                        <a class="nav-item" href="https://www.vbet.com/live-casino" data-page-type="pageCasino">
+                                                                        <a class="nav-item" href="https://www.vbet.com/es/casino-en-vivo" data-page-type="pageCasino">
                                                                             <span class="title">
-                                                                                Live casino
+                                                                                Casino en vivo
                                                                             </span>
                                                                         </a>
                                                                     </li>
                                                                     <li class=" has-childes  page   show" data-anchor="">
-                                                                        <a class="nav-item" href="https://www.vbet.com/poker" data-page-type="pageBlank">
+                                                                        <a class="nav-item" href="https://www.vbet.com/es/poker-2" data-page-type="pageBlank">
                                                                             <span class="title">
                                                                                 Poker
                                                                             </span>
                                                                         </a>
                                                                     </li>
                                                                     <li class=" has-childes  page   show" data-anchor="">
-                                                                        <a class="nav-item" href="https://www.vbet.com/games" data-page-type="pageCasino">
+                                                                        <a class="nav-item" href="https://www.vbet.com/es/juegos" data-page-type="pageCasino">
                                                                             <span class="title">
-                                                                                Games
+                                                                                JUEGOS
                                                                             </span>
                                                                         </a>
                                                                     </li>
@@ -230,28 +263,28 @@ include_once('includes/header.php');
                                                     </div>
                                                 </div>
                                                 <div class="module-container  align-center ModuleSpace
-                                                 " style="  padding-bottom:1.1560693641618px; ">
-                                                    <div class="  module ModuleSpace " datamodule-id="24549">
+                                                 ">
+                                                    <div class="  module ModuleSpace " datamodule-id="62190">
                                                         <div class="space-container">
-                                                            <div class="space-inner" style="height: 40px;">
+                                                            <div class="space-inner" style="height: 30px;">
                                                             </div>
                                                         </div>
                                                         <style>
-                                                            .ModuleSpace[datamodule-id="24549"] .space-container {
+                                                            .ModuleSpace[datamodule-id="62190"] .space-container {
                                                                 border-radius: 0 0 0 0;
                                                             }
 
-                                                            .ModuleSpace[datamodule-id="24549"]:hover .space-container {
+                                                            .ModuleSpace[datamodule-id="62190"]:hover .space-container {
                                                                 border-radius: 0 0 0 0;
                                                             }
                                                         </style>
                                                         <style>
-                                                            .ModuleSpace[datamodule-id="24549"] .uc-row .column:first-child {
+                                                            .ModuleSpace[datamodule-id="62190"] .uc-row .column:first-child {
                                                                 border-bottom-left-radius: 0;
                                                                 border-top-left-radius: 0;
                                                             }
 
-                                                            .ModuleSpace[datamodule-id="24549"] .uc-row .column:last-child {
+                                                            .ModuleSpace[datamodule-id="62190"] .uc-row .column:last-child {
                                                                 border-bottom-right-radius: 0;
                                                                 border-top-right-radius: 0;
                                                             }
@@ -259,82 +292,80 @@ include_once('includes/header.php');
                                                     </div>
                                                 </div>
                                                 <div class="module-container   only-mobile   align-left ModuleImage
-                          last                         " style=" padding-right:80px;padding-left:80px;;  ">
-                                                    <div class="  module ModuleImage " datamodule-id="29274" style="display:block;max-width:60px;">
+                          last                         " style=" padding-right:40px;padding-left:80px;;  ">
+                                                    <div class="  module ModuleImage " datamodule-id="62191" style="display:block;max-width:60px;">
                                                         <style>
-                                                            .animated-29274 .effect-block.effect-lilly .layer {
+                                                            .animated-62191 .effect-block.effect-lilly .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-default .layer {
+                                                            .animated-62191 .effect-block.effect-default .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-sadie .layer {
+                                                            .animated-62191 .effect-block.effect-sadie .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-honey .layer {
+                                                            .animated-62191 .effect-block.effect-honey .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-roxy .layer {
+                                                            .animated-62191 .effect-block.effect-roxy .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-sarah .layer {
+                                                            .animated-62191 .effect-block.effect-sarah .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-Soft-Fade .layer {
+                                                            .animated-62191 .effect-block.effect-Soft-Fade .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-apollo .layer {
+                                                            .animated-62191 .effect-block.effect-apollo .layer {
                                                                 background: rgba(0, 0, 0, 0.5) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-honey .figcaption:before {
+                                                            .animated-62191 .effect-block.effect-honey .figcaption:before {
                                                                 background: rgb(52, 52, 52) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-roxy .figcaption:before {
+                                                            .animated-62191 .effect-block.effect-roxy .figcaption:before {
                                                                 border-image: rgb(52, 52, 52) 3 stretch;
                                                                 -moz-border-image: -moz-rgb(52, 52, 52) 3 stretch;
                                                                 border-width: 3px;
                                                                 border: 3px solid rgb(52, 52, 52);
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-apollo .figcaption:before {
+                                                            .animated-62191 .effect-block.effect-apollo .figcaption:before {
                                                                 background: rgb(52, 52, 52) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-apollo .description:before {
+                                                            .animated-62191 .effect-block.effect-apollo .description:before {
                                                                 background: rgb(52, 52, 52) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-sarah .title:after {
+                                                            .animated-62191 .effect-block.effect-sarah .title:after {
                                                                 background: rgb(52, 52, 52) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-steve .title,
-                                                            .animated-29274 .effect-block.effect-steve .description {
+                                                            .animated-62191 .effect-block.effect-steve .title,
+                                                            .animated-62191 .effect-block.effect-steve .description {
                                                                 background: rgb(52, 52, 52) !important;
                                                             }
 
-                                                            .animated-29274 .effect-block.effect-goliath {
+                                                            .animated-62191 .effect-block.effect-goliath {
                                                                 background: rgb(52, 52, 52) !important;
                                                             }
                                                         </style>
-                                                        <a class="image-module-link" href="https://www.vbet.com/promotions" target="_self" rel="">
-                                                            <div class="animated animated-29274 " data-loading-animation="" data-animated-id="29274">
+                                                        <a class="image-module-link" href="https://www.vbet.com/es/promociones" target="_self" rel="">
+                                                            <div class="animated animated-62191 " data-loading-animation="" data-animated-id="62191">
                                                                 <div class=" effect-block public-mode figure effect-selena  ">
                                                                     <div class="layer"></div>
                                                                     <div>
-                                                                        <div class="" style="">
-                                                                            <img class="image lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/29274-29-promosicon.png" data-webp="0" style="" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/29274-29-promosicon.png" data-was-processed="true">
-                                                                        </div>
-                                                                        <div style="" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/29274-29-promosicon.png" data-target="0" data-link="https://www.vbet.com/promotions" class="figcaption not-clickable">
+                                                                        <img class="image lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/62191-promosicon3x.png" style="" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/62191-promosicon3x.png" data-was-processed="true">
+                                                                        <div style="" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/62191-promosicon3x.png" data-target="0" data-link="https://www.vbet.com/es/promociones" class="figcaption not-clickable">
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -359,718 +390,43 @@ include_once('includes/header.php');
     </div>
 </div>
 
-<div class="header-and-main-rows  " style="background: rgb(246, 246, 246); margin-bottom: -368.297px;">
-    <div class="header-rows  " style="  margin-bottom:0vh;  background:rgb(29, 24, 78);">
-        <div class="header-row-wrapper sb-account-row">
-            <div class="uc-row-wrapper ">
-                <div class="uc-row  vbetheader                             header-row  
-                        
-                                                        " data-id="11672" style="   margin-bottom:0vh;   background:rgba(89, 72, 147, 0); ">
-                    <div class="row-container ">
-                        <div class="row headerRow " style="">
-                            <div class="column col-xs-1 " datacolumn-id="41029" style="  padding:5px 0px;     ">
-                                <div class="column-container " style="">
-                                    <div class="module-container  align-left ModuleLogo
-                         first   last                         " style=" padding-right:0px;padding-left:30px;;  ">
-                                        <div class="  module ModuleLogo " datamodule-id="114159" style="display:block;max-width: 100%;">
-                                            <a href="https://www.vbet.com">
-                                                <div class="" style="">
-                                                    <img data-logo-element="" class="lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" alt="VBET" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" data-was-processed="true">
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="column col-xs-2 " datacolumn-id="34419" style="  padding:5px 0px;     ">
-                                <div class="column-container " style="">
-                                    <div class="module-container   only-mobile   align-left ModuleImage
-                         first   last                         " style=" padding-right:30px;padding-left:40px;;  ">
-                                        <div class="  module ModuleImage " datamodule-id="50384" style="display:block;max-width: 100%;">
-                                            <a class="image-module-link" href="https://www.vbet.com" target="_self" rel="">
-                                                <div class="animated animated-50384 " data-loading-animation="" data-animated-id="50384">
-                                                    <div class=" ">
-                                                        <div>
-                                                            <div class="" style="">
-                                                                <img class="image lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/50384-50384-arsenal-5581-pt-1572873212371x-15902395922933-min.png" data-webp="0" style="" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/50384-50384-arsenal-5581-pt-1572873212371x-15902395922933-min.png" data-was-processed="true">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                )
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="column col-xs-5 " datacolumn-id="19004" style="  padding:5px 0px;     ">
-                                <div class="column-container " style="">
-                                    <div class="module-container   only-mobile   align-right ModuleNavigation
-                         first   last                         " style=" padding-right:60px;padding-left:40px;;  ">
-                                        <div class="  module ModuleNavigation " datamodule-id="50378" style="width: auto;">
-                                            <input type="hidden" class="standard-navigation">
-                                            <style>
-                                                #navigation-50378>.standard-view>.navigation>.page>.page-children {
-                                                    background: rgb(31, 23, 71);
-                                                }
+<div class="header-and-main-rows" style="background: rgb(246, 246, 246); margin-bottom: -389.906px;">
+    <?php include_once('includes/nav.php'); ?>
 
-                                                #navigation-50378>.standard-view>.navigation>.page>.page-children>.page>ul {
-                                                    background: rgb(31, 23, 71);
-                                                }
-
-
-                                                #navigation-50378>.standard-view>.navigation>.page>.page-children {
-                                                    border-radius: 0px;
-                                                }
-
-                                                #navigation-50378>.standard-view>.navigation>.page>.page-children>.page>ul {
-                                                    border-radius: 0px;
-                                                }
-
-                                                #navigation-50378>.standard-view>.navigation>.page>.page-children {
-                                                    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.1);
-                                                    -moz-box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.1);
-                                                    -webkit-box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.1);
-                                                }
-
-
-                                                #navigation-50378 .navigation>li.has-childes.page>ul a {
-                                                    padding: 0 15px;
-                                                }
-
-                                                #navigation-50378>div>ul li:hover>ul {
-                                                    display: block;
-                                                }
-
-
-                                                #navigation-50378 .page a {
-                                                    color: rgb(255, 255, 255);
-                                                    font-size: 13px;
-                                                    font-weight: 500;
-                                                    letter-spacing: 0px;
-                                                    text-transform: uppercase;
-                                                }
-
-                                                #navigation-50378>div>ul>li.page:not(:last-child) {
-                                                    margin-right: 11px;
-                                                }
-
-                                                #navigation-50378>div>ul>li:first-child:nth-last-child(1) {}
-
-                                                #navigation-50378 li.page>a:hover {
-                                                    color: rgb(254, 203, 90) !important;
-                                                }
-
-                                                #navigation-50378 li.page.active>a {
-                                                    color: rgb(254, 203, 90);
-                                                }
-
-                                                #navigation-50378 li.page.active>a:hover {
-                                                    color: rgb(254, 203, 90) !important;
-                                                }
-
-                                                #navigation-50378 li.page>ul.page-children li.page a {
-                                                    color: rgb(255, 255, 255);
-                                                }
-
-                                                #navigation-50378 li.page>ul.page-children>li.page a:hover,
-                                                #navigation-50378 li.page>ul.page-children>li.page>ul.page-children>li.page a:hover {
-                                                    color: #959595 !important;
-                                                }
-
-                                                #navigation-50378 li.page>ul.page-children>li.page.active>a,
-                                                #navigation-50378 li.page>ul.page-children>li.page>ul.page-children>li.page.active>a {
-                                                    color: #353535;
-                                                }
-
-                                                #navigation-50378 li.page>ul.page-children>li.page.active>a:hover,
-                                                #navigation-50378 li.page>ul.page-children>li.page>ul.page-children>li.page.active>a:hover {
-                                                    color: #959595 !important;
-                                                }
-
-                                                #navigation-50378 li.page>ul.page-children:before,
-                                                #navigation-50378 li.page>ul.page-children>li.has-childes>.page-children.pagesArrows>li:first-child:before {
-                                                    color: rgb(31, 23, 71);
-                                                }
-
-                                                #navigation-50378 li.page>ul.page-children>li.page>a {
-                                                    color: rgb(255, 255, 255);
-                                                    font-size: 12px;
-
-
-
-
-                                                }
-
-
-                                                #navigation-50378 li.page>ul.page-children>li.page>a {
-                                                    font-weight: 500;
-                                                }
-
-
-                                                #navigation-50378 li.page ul.page-children .page {
-                                                    padding-top: 11px;
-                                                    padding-bottom: 11px;
-                                                }
-
-                                                #navigation-50378 li.page ul.page-children .page:last-child {
-                                                    padding-bottom: 11px;
-                                                }
-
-                                                #navigation-50378 li.has-childes.page>a>.uci-dropdown-arrow-down {
-                                                    font-size: 7.5px;
-                                                }
-
-                                                #navigation-50378 li.has-childes.page>.page-children.pagesArrows>.has-childes>a>.uci-dropdown-arrow-down {
-                                                    font-size: 7px;
-                                                }
-
-                                                #navigation-50378 li.has-childes.page>.page-children li>a,
-                                                #navigation-50378 li.has-childes.page>.page-children li {
-                                                    text-align: center;
-                                                }
-                                            </style>
-                                            <div id="navigation-50378" data-nav-sub-page-scollapsible="0" class="navigation-inner
-                
-        horizontal standard">
-                                                <div class="off-canvas-button icon" data-selector="off-canvas-50378" style="width:25px;height:25px;">
-                                                    <svg viewBox="0 0 100.00000762939453 75.000244140625" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                        <g transform="scale(1.2716659928598795)">
-                                                            <g>
-                                                                <g>
-                                                                    <path clip-rule="evenodd" d="M81.602,44.102h-66.84c-3.256,0-5.898,2.64-5.898,5.898    s2.642,5.898,5.898,5.898h66.84c3.256,0,5.898-2.64,5.898-5.898S84.858,44.102,81.602,44.102z M81.602,67.693h-66.84    c-3.256,0-5.898,2.64-5.898,5.898c0,3.258,2.642,5.898,5.898,5.898h66.84c3.256,0,5.898-2.64,5.898-5.898    C87.5,70.333,84.858,67.693,81.602,67.693z M14.763,32.307h66.84c3.256,0,5.898-2.64,5.898-5.898c0-3.258-2.642-5.898-5.898-5.898    h-66.84c-3.256,0-5.898,2.64-5.898,5.898C8.865,29.667,11.507,32.307,14.763,32.307z" transform="translate(-8.864001274108887,-20.511001586914062)"></path>
-                                                                </g>
-                                                            </g>
-                                                        </g>
-                                                    </svg>
-                                                </div>
-                                                <div class="standard-view ">
-                                                    <ul class="navigation" style="font-family: 'Roboto';">
-                                                        <li class=" page   show" data-anchor="">
-                                                            <a class="nav-item" href="https://www.vbet.com/live" data-page-type="pageLive">
-                                                                <span class="title">
-                                                                    Live
-                                                                </span>
-                                                            </a>
-                                                        </li>
-                                                        <li class=" page   show" data-anchor="">
-                                                            <a class="nav-item" href="https://www.vbet.com/pre-match" data-page-type="pagePrematch">
-                                                                <span class="title">
-                                                                    Pre-Match
-                                                                </span>
-                                                            </a>
-                                                        </li>
-                                                        <li class=" page   show" data-anchor="">
-                                                            <a class="nav-item" href="https://www.vbet.com/casino" data-page-type="pageCasino">
-                                                                <span class="title">
-                                                                    Casino
-                                                                </span>
-                                                            </a>
-                                                        </li>
-                                                        <li class=" page   show" data-anchor="">
-                                                            <a class="nav-item" href="https://www.vbet.com/live-casino" data-page-type="pageCasino">
-                                                                <span class="title">
-                                                                    Live casino
-                                                                </span>
-                                                            </a>
-                                                        </li>
-                                                        <li class=" has-childes  page   show" data-anchor="">
-                                                            <a class="nav-item" href="https://www.vbet.com/poker" data-page-type="pageBlank">
-                                                                <span class="title">
-                                                                    Poker
-                                                                </span>
-                                                            </a>
-                                                        </li>
-                                                        <li class=" has-childes  page   show" data-anchor="">
-                                                            <a class="nav-item" href="https://www.vbet.com/games" data-page-type="pageCasino">
-                                                                <span class="title">
-                                                                    Games
-                                                                </span>
-                                                            </a>
-                                                        </li>
-                                                        <li class=" page   show" data-anchor="">
-                                                            <a class="nav-item" href="https://www.vbet.com/promotions" data-page-type="pageBlank">
-                                                                <span class="title">
-                                                                    Promo
-                                                                </span>
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="column col-xs-1 " datacolumn-id="19005" style="  padding:5px 0px;     ">
-                                <div class="column-container " style="">
-                                </div>
-                            </div>
-                            <div class="column col-xs-2 " datacolumn-id="19006" style="  padding:5px 0px;     ">
-                                <div class="column-container " style="">
-                                    <div class="module-container   only-mobile   align-right ModuleSbAccount
-                         first   last                         " style=" padding-right:0px;padding-left:0px;;  ">
-                                        <div class="  module ModuleSbAccount " datamodule-id="50385" style="display:block;max-width: 100%;">
-                                            <link rel="stylesheet" type="text/css" href="https://static.betconstruct.me/assets/main.css?v=1596804054">
-                                            <link rel="stylesheet" type="text/css" href="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/css/sp.css?v=1596809311">
-                                            <div data-id="50385" data-component="sbaccount" data-layout-type="popup" data-attrs="{&quot;params&quot;: {&quot;id&quot;:50385,&quot;type&quot;:&quot;ModuleSbAccount&quot;,&quot;componentName&quot;:&quot;sbaccount&quot;,&quot;ordering&quot;:2,&quot;signinShow&quot;:&quot;1&quot;,&quot;rememberMeShow&quot;:&quot;0&quot;,&quot;signinButtonType&quot;:&quot;link&quot;,&quot;signinButtonText&quot;:&quot;SIGN IN&quot;,&quot;signinButtonStyle&quot;:&quot;btn1&quot;,&quot;signinButtonIcon&quot;:&quot;<svg viewBox='0 0 100.00000762939453 100' version='1.1' xmlns='http:\/\/www.w3.org\/2000\/svg' xmlns:xlink='http:\/\/www.w3.org\/1999\/xlink'><g transform='scale(1.1111111111111112)'><g><g><path d='M41.3,68.8l5.3,5.3c0.5,0.5,1.2,0.5,1.7,0l23.3-23.3c0.5-0.5,0.5-1.2,0-1.6L48.3,25.8c-0.5-0.5-1.2-0.5-1.7,0l-5.3,5.3    c-0.5,0.5-0.5,1.2,0,1.7L53.5,45H6.2C5.5,45,5,45.5,5,46.2v7.6C5,54.5,5.5,55,6.2,55h47.3L41.3,67.2    C40.9,67.6,40.9,68.4,41.3,68.8z M85,5H15C9.5,5,5,9.5,5,15v18.7C5,34.4,5.6,35,6.3,35h7.5c0.7,0,1.3-0.6,1.3-1.3V19.1    c0-2.3,1.8-4.1,4.1-4.1h61.8c2.3,0,4.1,1.8,4.1,4.1v61.8c0,2.3-1.8,4.1-4.1,4.1H19.1c-2.3,0-4.1-1.8-4.1-4.1V66.3    c0-0.7-0.6-1.3-1.3-1.3H6.3C5.6,65,5,65.6,5,66.3V85c0,5.5,4.5,10,10,10h70c5.5,0,10-4.5,10-10V15C95,9.5,90.5,5,85,5z' transform='translate(-5,-5)'><\/path><\/g><\/g><\/g><\/svg>&quot;,&quot;signinButtonIconSize&quot;:&quot;36&quot;,&quot;signinButtonIconColor&quot;:&quot;#303838&quot;,&quot;signinButtonIconColorHover&quot;:&quot;#303838&quot;,&quot;signinLinkButtonFontSize&quot;:&quot;14&quot;,&quot;signinLinkButtonFontFamily&quot;:&quot;Roboto&quot;,&quot;signinLinkButtonColor&quot;:&quot;rgb(255, 255, 255)&quot;,&quot;signinLinkButtonColorHover&quot;:&quot;rgb(246, 219, 124)&quot;,&quot;signinLinkButtonLetterSpacing&quot;:&quot;0&quot;,&quot;signupShow&quot;:&quot;1&quot;,&quot;signupButtonType&quot;:&quot;button&quot;,&quot;signupButtonText&quot;:&quot;REGISTER&quot;,&quot;signupButtonStyle&quot;:&quot;btn1&quot;,&quot;signupButtonIcon&quot;:&quot;<svg viewBox='0 0 100 99.056640625' version='1.1' xmlns='http:\/\/www.w3.org\/2000\/svg' xmlns:xlink='http:\/\/www.w3.org\/1999\/xlink'><g transform='scale(1.3477088117342138)'><path d='M74.4,59c-3.5-2.3-7.6-4-11.9-5.2c5.9-4,9.7-10.7,9.7-18.4c0-12.3-10-22.2-22.2-22.2s-22.2,10-22.2,22.2  c0,7.6,3.9,14.3,9.7,18.4c-13.3,3.7-24.6,13-24.6,25.4v7.5h7.5h59.2h7.5v-7.5C87.1,71.6,82.5,64.2,74.4,59z M50,20.8  c8.1,0,14.7,6.6,14.7,14.7c0,8.1-6.6,14.7-14.7,14.7c-8.1,0-14.7-6.6-14.7-14.7C35.3,27.4,41.9,20.8,50,20.8z M20.4,79.2  c0-10.8,14.7-19.6,29.6-19.6s29.6,8.8,29.6,19.6H20.4z' transform='translate(-12.899995803833008,-13.200000762939453)'><\/path><\/g><\/svg>&quot;,&quot;signupButtonIconSize&quot;:&quot;36&quot;,&quot;signupButtonIconColor&quot;:&quot;#303838&quot;,&quot;signupButtonIconColorHover&quot;:&quot;#303838&quot;,&quot;signupLinkButtonFontSize&quot;:&quot;14&quot;,&quot;signupLinkButtonFontFamily&quot;:&quot;Roboto&quot;,&quot;signupLinkButtonColor&quot;:&quot;rgb(255, 255, 255)&quot;,&quot;signupLinkButtonColorHover&quot;:&quot;rgb(255, 255, 255)&quot;,&quot;signupLinkButtonLetterSpacing&quot;:&quot;1&quot;,&quot;buttonsOrientation&quot;:&quot;0&quot;,&quot;buttonsDistance&quot;:&quot;9&quot;,&quot;showBalanceVisibilitySwitcher&quot;:&quot;1&quot;,&quot;showPasswordVisibilitySwitcher&quot;:&quot;1&quot;,&quot;showVipIcon&quot;:&quot;0&quot;,&quot;desktopCompactView&quot;:&quot;1&quot;,&quot;desktopShowLabels&quot;:&quot;1&quot;,&quot;desktopShowMyBetsCompact&quot;:&quot;1&quot;,&quot;desktopShowMyBetsDefault&quot;:&quot;0&quot;,&quot;desktopShowBonuses&quot;:&quot;1&quot;,&quot;desktopShowMessages&quot;:&quot;1&quot;,&quot;desktopShowWithdraw&quot;:&quot;0&quot;,&quot;desktopShowDepositDefault&quot;:&quot;0&quot;,&quot;desktopShowDepositCompact&quot;:&quot;1&quot;,&quot;mobileCompactView&quot;:&quot;1&quot;,&quot;mobileShowLabels&quot;:&quot;1&quot;,&quot;mobileShowMyBetsCompact&quot;:&quot;1&quot;,&quot;mobileShowMyBetsDefault&quot;:&quot;0&quot;,&quot;mobileShowBonuses&quot;:&quot;1&quot;,&quot;mobileShowMessages&quot;:&quot;1&quot;,&quot;mobileShowWithdraw&quot;:&quot;0&quot;,&quot;mobileShowDepositDefault&quot;:&quot;0&quot;,&quot;mobileShowDepositCompact&quot;:&quot;1&quot;,&quot;accInfoCompactMainBalanceColor&quot;:&quot;#353535&quot;,&quot;accInfoCompactBonusBalanceColor&quot;:&quot;#fe7260&quot;,&quot;accInfoCompactMenuBackgroundColor&quot;:&quot;#eee&quot;,&quot;accInfoCompactMenuBackgroundColorHover&quot;:&quot;#dfdfdf&quot;,&quot;accInfoCompactMenuTextColor&quot;:&quot;#353535&quot;,&quot;accInfoCompactMenuTextColorHover&quot;:&quot;#353535&quot;,&quot;accInfoNotCompactMainBalanceColor&quot;:&quot;#353535&quot;,&quot;accInfoNotCompactBonusBalanceColor&quot;:&quot;#fe7260&quot;,&quot;accInfoNotCompactProfileTextColorHover&quot;:&quot;#fff&quot;,&quot;accInfoNotCompactProfileBackgroundColorHover&quot;:&quot;#fe7260&quot;,&quot;accInfoNotCompactMenuTextColor&quot;:&quot;#353535&quot;,&quot;accInfoNotCompactMenuTextColorHover&quot;:&quot;#fe7260&quot;,&quot;logOutCompactMenuBackgroundColor&quot;:&quot;#fff&quot;,&quot;logOutCompactMenuBackgroundColorHover&quot;:&quot;#fb3e30&quot;,&quot;logOutCompactMenuTextColor&quot;:&quot;#fb3e30&quot;,&quot;logOutCompactMenuTextColorHover&quot;:&quot;#fff&quot;,&quot;logOutNotCompactMenuTextColor&quot;:&quot;#fb3e30&quot;,&quot;logOutNotCompactMenuTextColorHover&quot;:&quot;#fb3e30&quot;,&quot;gdprPopupForExistingPlayers&quot;:&quot;0&quot;,&quot;tabNetDeposit&quot;:&quot;0&quot;,&quot;ggPokertabTransfer&quot;:&quot;0&quot;,&quot;mainCasinoTransfer&quot;:&quot;0&quot;,&quot;myCards&quot;:&quot;0&quot;,&quot;walletPopup&quot;:&quot;1&quot;,&quot;tabSelfExclusion&quot;:&quot;1&quot;,&quot;tabTimeOut&quot;:&quot;1&quot;,&quot;tabDepositLimits&quot;:&quot;1&quot;,&quot;tabDocuments&quot;:&quot;0&quot;,&quot;tabVerifyAccount&quot;:&quot;0&quot;,&quot;tabAccumulatedLosses&quot;:&quot;0&quot;,&quot;sessionTime&quot;:&quot;1&quot;,&quot;tabBuddyTransfer&quot;:&quot;0&quot;,&quot;tabBetLimit&quot;:&quot;1&quot;,&quot;tabGdpr&quot;:&quot;1&quot;,&quot;typeSportsbook&quot;:&quot;1&quot;,&quot;typeCasino&quot;:&quot;1&quot;,&quot;collapsedViewByDefault&quot;:&quot;1&quot;,&quot;showFullSessionHistory&quot;:&quot;1&quot;,&quot;depositConfirmationPopup&quot;:&quot;1&quot;,&quot;wordCountAbout&quot;:&quot;0&quot;,&quot;accountButtonStyle&quot;:&quot;btn1&quot;,&quot;accountInactiveButtonStyle&quot;:&quot;buttons1558357729029&quot;,&quot;autologin&quot;:&quot;1&quot;,&quot;privacyPolicyLink&quot;:51,&quot;privacyPolicyTarget&quot;:&quot;1&quot;,&quot;privacyPolicyLinkType&quot;:1,&quot;TermsConditionsTarget&quot;:1,&quot;TermsConditionsLinkType&quot;:1,&quot;TermsConditionsLink&quot;:50,&quot;tcVersion&quot;:&quot;1.1&quot;,&quot;zimplerOnOff&quot;:&quot;&quot;,&quot;regFields&quot;:[{&quot;label&quot;:&quot;Username&quot;,&quot;type&quot;:&quot;username&quot;,&quot;formType&quot;:&quot;username&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Username&quot;,&quot;placeholder&quot;:&quot;Username&quot;,&quot;showOnRegFields&quot;:&quot;1&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;,&quot;required&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Username&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;username&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Email&quot;,&quot;type&quot;:&quot;email&quot;,&quot;formType&quot;:&quot;email&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Email&quot;,&quot;placeholder&quot;:&quot;Email&quot;,&quot;showOnRegFields&quot;:&quot;1&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;,&quot;showConfirmEmail&quot;:&quot;0&quot;,&quot;emailConfirmLabel&quot;:&quot;Confirm Email&quot;,&quot;emailConfirmPlaceholder&quot;:&quot;Confirm Email&quot;,&quot;emailConfirmRequired&quot;:&quot;1&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Email&quot;,&quot;validations&quot;:{&quot;required&quot;:true,&quot;email&quot;:true},&quot;vars&quot;:{&quot;email&quot;:{&quot;value&quot;:&quot;&quot;},&quot;email2&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Password&quot;,&quot;type&quot;:&quot;password&quot;,&quot;formType&quot;:&quot;password&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Password&quot;,&quot;placeholder&quot;:&quot;Password&quot;,&quot;showOnRegFields&quot;:&quot;1&quot;,&quot;passwordValidationOn&quot;:&quot;1&quot;,&quot;required&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Password&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;password&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Country&quot;,&quot;type&quot;:&quot;country&quot;,&quot;formType&quot;:&quot;country&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Country&quot;,&quot;showOnRegFields&quot;:&quot;1&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;excludeCountries&quot;:[&quot;Australia&quot;,&quot;Bulgaria&quot;,&quot;Cayman Islands&quot;,&quot;Cuba&quot;,&quot;Cyprus&quot;,&quot;Czech Republic&quot;,&quot;Denmark&quot;,&quot;France&quot;,&quot;French Guiana&quot;,&quot;French Southern Territories&quot;,&quot;French Polynesia&quot;,&quot;Germany&quot;,&quot;Greece&quot;,&quot;Guadeloupe&quot;,&quot;Hong Kong&quot;,&quot;Hungary&quot;,&quot;Iran&quot;,&quot;Iraq&quot;,&quot;Ireland&quot;,&quot;Israel&quot;,&quot;Italy&quot;,&quot;Japan&quot;,&quot;Kahnawake&quot;,&quot;Libya&quot;,&quot;Macao&quot;,&quot;Martinique&quot;,&quot;Mayotte&quot;,&quot;Myanmar&quot;,&quot;Netherlands&quot;,&quot;Korea, North&quot;,&quot;Philippines&quot;,&quot;Poland&quot;,&quot;Portugal&quot;,&quot;Reunion&quot;,&quot;Saudi Arabia&quot;,&quot;Serbia&quot;,&quot;Singapore&quot;,&quot;South Africa&quot;,&quot;Spain&quot;,&quot;Switzerland&quot;,&quot;Sudan&quot;,&quot;Syria&quot;,&quot;Turkey&quot;,&quot;Uganda&quot;,&quot;United Kingdom&quot;,&quot;United States&quot;,&quot;Yemen&quot;,&quot;Sweden&quot;,&quot;Malta&quot;,&quot;Afghanistan&quot;,&quot;Slovenia&quot;,&quot;Belgium&quot;,&quot;British Indian Ocean Territory&quot;,&quot;Croatia&quot;,&quot;Curacao&quot;,&quot;Greenland&quot;,&quot;Guernsey&quot;,&quot;Sint Maarten (Netherlands)&quot;,&quot;Argentina&quot;,&quot;Bolivia&quot;,&quot;Brazil&quot;,&quot;Chile&quot;,&quot;Paraguay&quot;,&quot;Peru&quot;,&quot;Venezuela&quot;,&quot;Guyana&quot;,&quot;Suriname&quot;,&quot;Ecuador&quot;,&quot;Andorra&quot;,&quot;Gibraltar&quot;,&quot;Latvia&quot;,&quot;Luxembourg&quot;,&quot;Slovakia&quot;,&quot;Iceland&quot;,&quot;China&quot;,&quot;Mexico&quot;,&quot;Colombia&quot;],&quot;includeCountries&quot;:[]},&quot;params&quot;:{&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;country_code&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Currency&quot;,&quot;type&quot;:&quot;currency&quot;,&quot;formType&quot;:&quot;currency&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;currencySelectType&quot;:&quot;0&quot;,&quot;label&quot;:&quot;Currency&quot;,&quot;showOnRegFields&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;},&quot;params&quot;:{&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;currency_name&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;First Name&quot;,&quot;type&quot;:&quot;first-name&quot;,&quot;formType&quot;:&quot;first_name&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;First Name&quot;,&quot;placeholder&quot;:&quot;First Name&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;,&quot;required&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;First Name&quot;,&quot;validations&quot;:{&quot;required&quot;:false,&quot;min:3&quot;:true},&quot;vars&quot;:{&quot;first_name&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Last Name&quot;,&quot;type&quot;:&quot;last-name&quot;,&quot;formType&quot;:&quot;last_name&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Last Name&quot;,&quot;placeholder&quot;:&quot;Last Name&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;,&quot;required&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Last Name&quot;,&quot;validations&quot;:{&quot;required&quot;:false,&quot;min:2&quot;:true},&quot;vars&quot;:{&quot;last_name&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Confirm Password&quot;,&quot;type&quot;:&quot;password-confirmation&quot;,&quot;formType&quot;:&quot;passwordConfirmation&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Confirm Password&quot;,&quot;placeholder&quot;:&quot;Confirm Password&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;required&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Confirm Password&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;password_confirmation&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Passport Number&quot;,&quot;type&quot;:&quot;passport-number&quot;,&quot;formType&quot;:&quot;passportNum&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Passport Number&quot;,&quot;placeholder&quot;:&quot;Passport Number&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Passport Number&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;doc_number&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Document issued by&quot;,&quot;type&quot;:&quot;document-issued-by&quot;,&quot;formType&quot;:&quot;documentIssuedBy&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;0&quot;,&quot;label&quot;:&quot;Document issued by&quot;,&quot;placeholder&quot;:&quot;Document issued by&quot;,&quot;required&quot;:&quot;0&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Document issued by&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;doc_issued_by&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Document issue date&quot;,&quot;type&quot;:&quot;document-issue-date&quot;,&quot;formType&quot;:&quot;documentIssueDate&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;0&quot;,&quot;label&quot;:&quot;Document issue date&quot;,&quot;placeholder&quot;:&quot;Document issue date&quot;,&quot;required&quot;:&quot;0&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Document issue date&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;doc_issue_date&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Document issue code&quot;,&quot;type&quot;:&quot;document-issue-code&quot;,&quot;formType&quot;:&quot;documentIssueCode&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;0&quot;,&quot;label&quot;:&quot;Document issue code&quot;,&quot;placeholder&quot;:&quot;Document issue code&quot;,&quot;required&quot;:&quot;0&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Document issue code&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;doc_issue_code&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Birth Country&quot;,&quot;type&quot;:&quot;birth-country&quot;,&quot;formType&quot;:&quot;birthCountry&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;showOnRegFields&quot;:0,&quot;showOnEditProfile&quot;:0,&quot;label&quot;:&quot;Birth Country&quot;,&quot;required&quot;:&quot;on&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;includeBirthCountries&quot;:[],&quot;excludeBirthCountries&quot;:[]},&quot;params&quot;:{&quot;vars&quot;:{&quot;birth_region&quot;:{&quot;value&quot;:&quot;&quot;}},&quot;validations&quot;:{&quot;required&quot;:false}}},{&quot;label&quot;:&quot;Birth City&quot;,&quot;type&quot;:&quot;birth-city&quot;,&quot;formType&quot;:&quot;birthCity&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;showOnRegFields&quot;:0,&quot;showOnEditProfile&quot;:0,&quot;label&quot;:&quot;Birth City&quot;,&quot;placeholder&quot;:&quot;Birth City&quot;,&quot;required&quot;:&quot;on&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;},&quot;params&quot;:{&quot;vars&quot;:{&quot;birth_city&quot;:{&quot;value&quot;:&quot;&quot;}},&quot;validations&quot;:{&quot;required&quot;:false}}},{&quot;label&quot;:&quot;Birth Department&quot;,&quot;type&quot;:&quot;birth-department&quot;,&quot;formType&quot;:&quot;birthDepartment&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;showOnRegFields&quot;:0,&quot;showOnEditProfile&quot;:0,&quot;label&quot;:&quot;Birth Department&quot;,&quot;required&quot;:&quot;on&quot;,&quot;disabled&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;vars&quot;:{&quot;birth_department&quot;:{&quot;value&quot;:&quot;&quot;}},&quot;validations&quot;:{&quot;required&quot;:false}}},{&quot;label&quot;:&quot;Personal Id&quot;,&quot;type&quot;:&quot;personal-id&quot;,&quot;formType&quot;:&quot;personalId&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Personal Id&quot;,&quot;placeholder&quot;:&quot;Personal Id&quot;,&quot;required&quot;:&quot;1&quot;,&quot;disabled&quot;:&quot;1&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Personal Id&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;personal_id&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Auto Withdraw&quot;,&quot;type&quot;:&quot;auto-withdraw&quot;,&quot;formType&quot;:&quot;autoWithdraw&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Auto Withdraw&quot;,&quot;placeholder&quot;:&quot;Auto Withdraw&quot;,&quot;balance_limit&quot;:&quot;0&quot;,&quot;showAutoWithdrawTooltip&quot;:&quot;on&quot;,&quot;showAutoWithdraw&quot;:&quot;0&quot;,&quot;required&quot;:0,&quot;showOnRegFields&quot;:0},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Auto Withdraw&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;balance_limit&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Bet Limits&quot;,&quot;type&quot;:&quot;bet-limits&quot;,&quot;formType&quot;:&quot;betLimits&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Bet Limits&quot;,&quot;maxSingleBet&quot;:&quot;100&quot;,&quot;maxSingleRequired&quot;:&quot;on&quot;,&quot;showMaxDailyBet&quot;:&quot;0&quot;,&quot;maxDailyBet&quot;:&quot;200&quot;,&quot;maxDailyRequired&quot;:&quot;on&quot;,&quot;showMaxWeeklyBet&quot;:&quot;0&quot;,&quot;maxWeeklyBet&quot;:&quot;1000&quot;,&quot;maxWeeklyRequired&quot;:&quot;on&quot;,&quot;showMaxSingleBet&quot;:&quot;0&quot;,&quot;showBetTooltip&quot;:&quot;on&quot;,&quot;dailyBetLabel&quot;:&quot;Max Daily Bet&quot;,&quot;weeklyBetLabel&quot;:&quot;Max Weekly Bet&quot;,&quot;singleLabel&quot;:&quot;Max Single Bet&quot;,&quot;showOnRegFields&quot;:0,&quot;monthlyBetLabel&quot;:&quot;Max Monthly Bet&quot;},&quot;params&quot;:{&quot;vars&quot;:{&quot;max_single_bet_amount&quot;:{&quot;value&quot;:&quot;&quot;},&quot;max_daily_bet_amount&quot;:{&quot;value&quot;:&quot;&quot;},&quot;max_weekly_bet_amount&quot;:{&quot;value&quot;:&quot;&quot;}},&quot;validations&quot;:{&quot;required&quot;:false}}},{&quot;label&quot;:&quot;Account Number&quot;,&quot;type&quot;:&quot;account-number&quot;,&quot;formType&quot;:&quot;accountNumber&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Account Number&quot;,&quot;placeholder&quot;:&quot;Account Number&quot;,&quot;required&quot;:0,&quot;showOnRegFields&quot;:0,&quot;showOnEditProfile&quot;:0},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Account Number&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;iban&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Bank Name&quot;,&quot;type&quot;:&quot;bank-name&quot;,&quot;formType&quot;:&quot;bankName&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Bank Name&quot;,&quot;placeholder&quot;:&quot;Bank Name&quot;,&quot;required&quot;:0,&quot;showOnRegFields&quot;:0,&quot;showOnEditProfile&quot;:0},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Bank Name&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;swift_code&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Security Question&quot;,&quot;type&quot;:&quot;security-question&quot;,&quot;formType&quot;:&quot;securityQuestion&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Security Question&quot;,&quot;placeholder&quot;:&quot;Security Question&quot;,&quot;required&quot;:0,&quot;labelAnswer&quot;:&quot;Answer&quot;,&quot;placeholderAnswer&quot;:&quot;Answer&quot;,&quot;showOnRegFields&quot;:0},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Security Question&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;security_question&quot;:{&quot;value&quot;:&quot;&quot;}},&quot;labelAnswer&quot;:&quot;Answer&quot;,&quot;placeholderAnswer&quot;:&quot;Answer&quot;}},{&quot;label&quot;:&quot;Bonus Code&quot;,&quot;type&quot;:&quot;bonus-code&quot;,&quot;formType&quot;:&quot;bonusCode&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Bonus Code&quot;,&quot;placeholder&quot;:&quot;Bonus Code&quot;,&quot;required&quot;:0,&quot;showOnRegFields&quot;:0},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Bonus Code&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;loyalty_code&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Agent Id&quot;,&quot;type&quot;:&quot;agent-id&quot;,&quot;formType&quot;:&quot;agentId&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Agent Id&quot;,&quot;placeholder&quot;:&quot;Agent Id&quot;,&quot;required&quot;:&quot;off&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Agent Id&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;affiliate_id&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Gender&quot;,&quot;type&quot;:&quot;gender&quot;,&quot;formType&quot;:&quot;gender&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Gender&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;},&quot;params&quot;:{&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;gender&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Birth Date&quot;,&quot;type&quot;:&quot;birth-date&quot;,&quot;formType&quot;:&quot;birthDate&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;birthDateType&quot;:&quot;1&quot;,&quot;label&quot;:&quot;Birth Date&quot;,&quot;ageLimit&quot;:&quot;18&quot;,&quot;showOnTheLoginPopup&quot;:&quot;0&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;},&quot;params&quot;:{&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;birth_date&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;City&quot;,&quot;type&quot;:&quot;city&quot;,&quot;formType&quot;:&quot;city&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;City&quot;,&quot;placeholder&quot;:&quot;City&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;,&quot;showCustomCities&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;City&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;city&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Address&quot;,&quot;type&quot;:&quot;address&quot;,&quot;formType&quot;:&quot;address&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Address&quot;,&quot;placeholder&quot;:&quot;Address&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;,&quot;disabled&quot;:&quot;1&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;,&quot;showAditionalAddress&quot;:&quot;0&quot;,&quot;aditionalAddressLabel&quot;:&quot;Aditional Address&quot;,&quot;aditionalAddressPlaceholder&quot;:&quot;Aditional Address&quot;,&quot;aditionalAddressRequired&quot;:&quot;1&quot;,&quot;aditionalAddressDisabled&quot;:&quot;0&quot;,&quot;aditionalAddressCustomValidation&quot;:&quot;0&quot;,&quot;aditionalAddressCustomValidationCode&quot;:&quot;&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Address&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;address&quot;:{&quot;value&quot;:&quot;&quot;},&quot;aditional_address&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Zip Code&quot;,&quot;type&quot;:&quot;zip-code&quot;,&quot;formType&quot;:&quot;zip&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Zip Code&quot;,&quot;placeholder&quot;:&quot;Zip Code&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;0&quot;,&quot;required&quot;:&quot;1&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Zip Code&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;zip_code&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Mobile Number&quot;,&quot;type&quot;:&quot;mobile-number&quot;,&quot;formType&quot;:&quot;mobileNumber&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Mobile Number&quot;,&quot;placeholder&quot;:&quot;Mobile Number&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;showOnEditProfile&quot;:&quot;1&quot;,&quot;required&quot;:&quot;1&quot;,&quot;disabled&quot;:&quot;0&quot;,&quot;customValidation&quot;:&quot;0&quot;,&quot;customValidationCode&quot;:&quot;&quot;,&quot;showPhoneVerificationCode&quot;:&quot;0&quot;,&quot;phoneVerificationCodeLabel&quot;:&quot;&quot;,&quot;phoneVerificationGetCodeBtnText&quot;:&quot;&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Mobile Number&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;phone&quot;:{&quot;value&quot;:&quot;&quot;},&quot;confirmation_code&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Promo Code&quot;,&quot;type&quot;:&quot;promo-code&quot;,&quot;formType&quot;:&quot;promoCode&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:true,&quot;editForm&quot;:{&quot;label&quot;:&quot;Promo Code&quot;,&quot;placeholder&quot;:&quot;Promo Code&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;,&quot;required&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Promo Code&quot;,&quot;validations&quot;:{&quot;required&quot;:false},&quot;vars&quot;:{&quot;promo_code&quot;:{&quot;value&quot;:&quot;&quot;}}}},{&quot;label&quot;:&quot;Deposit Limits&quot;,&quot;type&quot;:&quot;deposit-limits&quot;,&quot;formType&quot;:&quot;depositLimits&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Deposit Limits&quot;,&quot;showMaxDailyDeposit&quot;:&quot;1&quot;,&quot;dailyLabel&quot;:&quot;Max Daily Deposit&quot;,&quot;maxDailyDeposit&quot;:&quot;200&quot;,&quot;maxDailyRequired&quot;:&quot;1&quot;,&quot;showMaxWeeklyDeposit&quot;:&quot;1&quot;,&quot;weeklyLabel&quot;:&quot;Max Weekly Deposit&quot;,&quot;maxWeeklyDeposit&quot;:&quot;1000&quot;,&quot;maxWeeklyRequired&quot;:&quot;1&quot;,&quot;showMaxMonthlyDeposit&quot;:&quot;1&quot;,&quot;monthlyLabel&quot;:&quot;Max Monthly Deposit&quot;,&quot;maxMonthlyDeposit&quot;:&quot;5000&quot;,&quot;maxMonthlyRequired&quot;:&quot;1&quot;,&quot;showDepositTooltip&quot;:&quot;1&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;vars&quot;:{&quot;max_day_deposit&quot;:{&quot;value&quot;:&quot;&quot;},&quot;max_week_deposit&quot;:{&quot;value&quot;:&quot;&quot;},&quot;max_month_deposit&quot;:{&quot;value&quot;:&quot;&quot;}},&quot;validations&quot;:{&quot;required&quot;:false}}},{&quot;label&quot;:&quot;Notification Options&quot;,&quot;type&quot;:&quot;gdpr&quot;,&quot;formType&quot;:&quot;gdpr&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Notification Options&quot;,&quot;showInternalMessage&quot;:&quot;1&quot;,&quot;internalMessageLabel&quot;:&quot;Internal Message&quot;,&quot;showGdprPushNotification&quot;:&quot;1&quot;,&quot;pushNotificationLabel&quot;:&quot;Push Notification&quot;,&quot;showGdprPhoneCall&quot;:&quot;1&quot;,&quot;phoneCallLabel&quot;:&quot;Phone Call&quot;,&quot;showGdprEmail&quot;:&quot;1&quot;,&quot;gdprEmailLabel&quot;:&quot;Email&quot;,&quot;showGdprSms&quot;:&quot;1&quot;,&quot;gdprSMSLabel&quot;:&quot;SMS&quot;,&quot;showOnRegFields&quot;:&quot;0&quot;},&quot;params&quot;:{&quot;vars&quot;:{&quot;subscribe_to_internal_message&quot;:{&quot;value&quot;:&quot;&quot;},&quot;subscribe_to_push_notification&quot;:{&quot;value&quot;:&quot;&quot;},&quot;subscribe_to_phone_call&quot;:{&quot;value&quot;:&quot;&quot;},&quot;subscribe_to_email&quot;:{&quot;value&quot;:&quot;&quot;},&quot;subscribe_to_sms&quot;:{&quot;value&quot;:&quot;&quot;}},&quot;validations&quot;:{&quot;required&quot;:false}}},{&quot;label&quot;:&quot;Terms and Conditions&quot;,&quot;type&quot;:&quot;tc-checkbox&quot;,&quot;formType&quot;:&quot;T&amp;C_Checkbox&quot;,&quot;hasSettings&quot;:true,&quot;hidden&quot;:false,&quot;editForm&quot;:{&quot;label&quot;:&quot;Terms and Conditions&quot;,&quot;placeholder&quot;:&quot;Terms and Conditions&quot;,&quot;required&quot;:0,&quot;showOnRegFields&quot;:1},&quot;params&quot;:{&quot;placeholder&quot;:&quot;Terms and Conditions&quot;,&quot;validations&quot;:{&quot;required&quot;:true},&quot;vars&quot;:{&quot;tccheckbox&quot;:{&quot;value&quot;:&quot;&quot;}}}}],&quot;socialReg&quot;:[{&quot;label&quot;:&quot;facebook&quot;,&quot;type&quot;:&quot;facebook&quot;,&quot;formType&quot;:&quot;facebook&quot;,&quot;hidden&quot;:true,&quot;hasSettings&quot;:true},{&quot;label&quot;:&quot;google&quot;,&quot;type&quot;:&quot;google&quot;,&quot;formType&quot;:&quot;google&quot;,&quot;hidden&quot;:true,&quot;hasSettings&quot;:true}],&quot;myProfile&quot;:[{&quot;label&quot;:&quot;Edit Profile&quot;,&quot;sectionType&quot;:&quot;tabEditProfile&quot;,&quot;formType&quot;:&quot;tabEditProfile&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Change Password&quot;,&quot;sectionType&quot;:&quot;tabChangePassword&quot;,&quot;formType&quot;:&quot;tabChangePassword&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Documents&quot;,&quot;sectionType&quot;:&quot;tabDocuments&quot;,&quot;formType&quot;:&quot;tabDocuments&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Verify Account&quot;,&quot;sectionType&quot;:&quot;tabVerifyAccount&quot;,&quot;formType&quot;:&quot;tabVerifyAccount&quot;,&quot;hidden&quot;:true,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Self-Exclusion&quot;,&quot;sectionType&quot;:&quot;tabSelfExclusion&quot;,&quot;formType&quot;:&quot;tabSelfExclusion&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:true,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Time-Out&quot;,&quot;sectionType&quot;:&quot;tabTimeOut&quot;,&quot;formType&quot;:&quot;tabTimeOut&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:true,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Reality Check&quot;,&quot;sectionType&quot;:&quot;sessionTime&quot;,&quot;formType&quot;:&quot;sessionTime&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:true,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Accumulated Losses&quot;,&quot;sectionType&quot;:&quot;tabAccumulatedLosses&quot;,&quot;formType&quot;:&quot;tabAccumulatedLosses&quot;,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true,&quot;hidden&quot;:true},{&quot;label&quot;:&quot;Limits&quot;,&quot;sectionType&quot;:&quot;tabBetLimit&quot;,&quot;formType&quot;:&quot;tabBetLimit&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:true,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Notification options&quot;,&quot;sectionType&quot;:&quot;tabNotifications&quot;,&quot;formType&quot;:&quot;tabNotifications&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:true,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Close Account&quot;,&quot;sectionType&quot;:&quot;closeAccount&quot;,&quot;formType&quot;:&quot;closeAccount&quot;,&quot;hidden&quot;:true,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Session History&quot;,&quot;sectionType&quot;:&quot;tabLoginHistory&quot;,&quot;formType&quot;:&quot;tabLoginHistory&quot;,&quot;hidden&quot;:true,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;GAMSTOP&quot;,&quot;sectionType&quot;:&quot;tabGamstop&quot;,&quot;formType&quot;:&quot;tabGamstop&quot;,&quot;hidden&quot;:true,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true},{&quot;label&quot;:&quot;Login Limit&quot;,&quot;sectionType&quot;:&quot;loginLimit&quot;,&quot;formType&quot;:&quot;loginLimit&quot;,&quot;hidden&quot;:true,&quot;hasSettings&quot;:true,&quot;showHide&quot;:true}],&quot;sections&quot;:[{&quot;label&quot;:&quot;My Wallet&quot;,&quot;sectionType&quot;:&quot;myWallet&quot;,&quot;formType&quot;:&quot;myWallet&quot;,&quot;hasSettings&quot;:true,&quot;showHide&quot;:false,&quot;hidden&quot;:false,&quot;type&quot;:&quot;section&quot;},{&quot;label&quot;:&quot;My Profile&quot;,&quot;sectionType&quot;:&quot;myProfile&quot;,&quot;formType&quot;:&quot;myProfile&quot;,&quot;hasSettings&quot;:true,&quot;showHide&quot;:false,&quot;hidden&quot;:false,&quot;type&quot;:&quot;section&quot;},{&quot;label&quot;:&quot;My Bets&quot;,&quot;sectionType&quot;:&quot;myBets&quot;,&quot;formType&quot;:&quot;myBets&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:true,&quot;showHide&quot;:false,&quot;type&quot;:&quot;section&quot;},{&quot;label&quot;:&quot;My Predictions&quot;,&quot;sectionType&quot;:&quot;myPredictions&quot;,&quot;formType&quot;:&quot;myPredictions&quot;,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true,&quot;hidden&quot;:true,&quot;type&quot;:&quot;section&quot;},{&quot;label&quot;:&quot;My Account Info&quot;,&quot;sectionType&quot;:&quot;myAccountInfo&quot;,&quot;formType&quot;:&quot;myAccountInfo&quot;,&quot;hasSettings&quot;:false,&quot;showHide&quot;:true,&quot;hidden&quot;:true,&quot;type&quot;:&quot;section&quot;},{&quot;label&quot;:&quot;Bonuses&quot;,&quot;sectionType&quot;:&quot;bonuses&quot;,&quot;formType&quot;:&quot;bonuses&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:true,&quot;showHide&quot;:false,&quot;type&quot;:&quot;section&quot;},{&quot;label&quot;:&quot;Messages&quot;,&quot;sectionType&quot;:&quot;messages&quot;,&quot;formType&quot;:&quot;messages&quot;,&quot;hidden&quot;:false,&quot;hasSettings&quot;:false,&quot;showHide&quot;:false,&quot;type&quot;:&quot;section&quot;}],&quot;buttons&quot;:[{&quot;label&quot;:&quot;Sign Up&quot;,&quot;formType&quot;:&quot;signup&quot;,&quot;class&quot;:&quot;signup-btn sbRegisterBtn&quot;,&quot;show&quot;:&quot;signupShow&quot;,&quot;type&quot;:&quot;signupButtonType&quot;,&quot;text&quot;:&quot;signupButtonText&quot;,&quot;buttonStyle&quot;:&quot;signupButtonStyle&quot;,&quot;linkButtonFontSize&quot;:&quot;signupLinkButtonFontSize&quot;,&quot;linkButtonFontFamily&quot;:&quot;signupLinkButtonFontFamily&quot;,&quot;linkButtonColor&quot;:&quot;signupLinkButtonColor&quot;,&quot;linkButtonLetterSpacing&quot;:&quot;signupLinkButtonLetterSpacing&quot;,&quot;icon&quot;:&quot;signupButtonIcon&quot;,&quot;iconColor&quot;:&quot;signupButtonIconColor&quot;,&quot;iconSize&quot;:&quot;signupButtonIconSize&quot;},{&quot;label&quot;:&quot;Sign In&quot;,&quot;formType&quot;:&quot;signin&quot;,&quot;class&quot;:&quot;signin-btn sbLoginBtn&quot;,&quot;show&quot;:&quot;signinShow&quot;,&quot;type&quot;:&quot;signinButtonType&quot;,&quot;text&quot;:&quot;signinButtonText&quot;,&quot;buttonStyle&quot;:&quot;signinButtonStyle&quot;,&quot;linkButtonFontSize&quot;:&quot;signinLinkButtonFontSize&quot;,&quot;linkButtonFontFamily&quot;:&quot;signinLinkButtonFontFamily&quot;,&quot;linkButtonColor&quot;:&quot;signinLinkButtonColor&quot;,&quot;linkButtonLetterSpacing&quot;:&quot;signinLinkButtonLetterSpacing&quot;,&quot;icon&quot;:&quot;signinButtonIcon&quot;,&quot;iconColor&quot;:&quot;signinButtonIconColor&quot;,&quot;iconSize&quot;:&quot;signinButtonIconSize&quot;}],&quot;cancelButton&quot;:&quot;1&quot;,&quot;bonusCodeButton&quot;:&quot;1&quot;,&quot;showBonusBalance&quot;:&quot;1&quot;,&quot;sportsBookBonusTab&quot;:&quot;1&quot;,&quot;casinoBonusTab&quot;:&quot;1&quot;,&quot;latinCharactersOn&quot;:&quot;0&quot;,&quot;regSteps&quot;:&quot;0&quot;,&quot;depositLimits&quot;:&quot;1&quot;,&quot;showDailyDeposit&quot;:&quot;1&quot;,&quot;showWeeklyDeposit&quot;:&quot;1&quot;,&quot;showMonthlyDeposit&quot;:&quot;1&quot;,&quot;betLimits&quot;:&quot;1&quot;,&quot;showSinglBetSport&quot;:&quot;1&quot;,&quot;showDailyBetSport&quot;:&quot;1&quot;,&quot;showWeeklyBetSport&quot;:&quot;0&quot;,&quot;showMonthlyBetSport&quot;:&quot;0&quot;,&quot;showSinglBetCasino&quot;:&quot;1&quot;,&quot;showDailyBetCasino&quot;:&quot;1&quot;,&quot;autoWithdraw&quot;:&quot;0&quot;,&quot;showDepositCancel&quot;:&quot;0&quot;,&quot;week-1&quot;:&quot;1&quot;,&quot;months-1&quot;:&quot;1&quot;,&quot;months-3&quot;:&quot;0&quot;,&quot;months-6&quot;:&quot;1&quot;,&quot;years-1&quot;:&quot;1&quot;,&quot;years-2&quot;:&quot;0&quot;,&quot;years-3&quot;:&quot;1&quot;,&quot;years-5&quot;:&quot;0&quot;,&quot;years-500&quot;:&quot;1&quot;,&quot;timeout-days-7&quot;:&quot;1&quot;,&quot;timeout-days-14&quot;:&quot;1&quot;,&quot;timeout-months-1&quot;:&quot;1&quot;,&quot;timeout-months-3&quot;:&quot;0&quot;,&quot;timeout-months-2&quot;:&quot;1&quot;,&quot;timeout-years-1&quot;:&quot;1&quot;,&quot;timeout-years-2&quot;:&quot;1&quot;,&quot;timeout-days-1&quot;:&quot;1&quot;,&quot;timeout-days-42&quot;:&quot;1&quot;,&quot;other&quot;:&quot;1&quot;,&quot;betSlip&quot;:&quot;1&quot;,&quot;document&quot;:&quot;1&quot;,&quot;passport&quot;:&quot;1&quot;,&quot;driveLicense&quot;:&quot;1&quot;,&quot;iBAN&quot;:&quot;1&quot;,&quot;socialCardId&quot;:&quot;1&quot;,&quot;bankNameType&quot;:&quot;0&quot;,&quot;selfExclusionType&quot;:&quot;2&quot;,&quot;timeOutType&quot;:&quot;1&quot;,&quot;facebookShareButton&quot;:&quot;0&quot;,&quot;showBonusSingleGame&quot;:&quot;0&quot;,&quot;showBetButton&quot;:&quot;0&quot;,&quot;bonusVerification&quot;:&quot;0&quot;,&quot;loginLimit30min&quot;:&quot;1&quot;,&quot;loginLimit1h&quot;:&quot;1&quot;,&quot;loginLimit2h&quot;:&quot;1&quot;,&quot;loginLimit4h&quot;:&quot;1&quot;,&quot;loginLimit6h&quot;:&quot;1&quot;,&quot;loginLimit8h&quot;:&quot;1&quot;,&quot;hideFreebetEndDate&quot;:&quot;1&quot;,&quot;showLoyalty&quot;:&quot;0&quot;,&quot;showBonusReminder&quot;:&quot;0&quot;,&quot;accountVerificationPopup&quot;:&quot;0&quot;,&quot;hidePaymentMethodName&quot;:&quot;0&quot;,&quot;hideCancelWithdrawal&quot;:&quot;0&quot;,&quot;hideZeroBonusBalance&quot;:&quot;1&quot;,&quot;hideBalanceCurrency&quot;:&quot;1&quot;,&quot;confirmByPasswordSE&quot;:&quot;0&quot;,&quot;confirmByPasswordTimeOut&quot;:&quot;0&quot;,&quot;borderRadius&quot;:&quot;4&quot;,&quot;shadowColor&quot;:&quot;rgba(0,0,0,0.1)&quot;,&quot;shadowSpread&quot;:&quot;0&quot;,&quot;shadowBlur&quot;:&quot;20&quot;,&quot;shadowY&quot;:&quot;4&quot;,&quot;shadowX&quot;:&quot;4&quot;,&quot;shadow&quot;:&quot;0&quot;,&quot;resetPassViaSMS&quot;:&quot;0&quot;,&quot;openIn&quot;:&quot;popup&quot;,&quot;inPageDefaultSlide&quot;:&quot;sign-in&quot;,&quot;accountFormFieldsButtonStyle&quot;:&quot;btn1&quot;,&quot;signinHorizontal&quot;:&quot;0&quot;,&quot;signinHorizontalInputHeight&quot;:30,&quot;signupPopupLink&quot;:&quot;&quot;,&quot;signinPopupLink&quot;:&quot;&quot;,&quot;includeSignUp&quot;:&quot;1&quot;,&quot;includeSignIn&quot;:&quot;1&quot;,&quot;realityValuesCheckbox&quot;:[&quot;0&quot;,&quot;10&quot;,&quot;20&quot;,&quot;30&quot;,&quot;45&quot;,&quot;60&quot;,&quot;120&quot;,&quot;240&quot;,&quot;360&quot;,&quot;480&quot;],&quot;realityDefaultValue&quot;:&quot;0&quot;,&quot;tabNotificationsShowInternalMessage&quot;:&quot;1&quot;,&quot;tabNotificationsShowPushNotification&quot;:&quot;1&quot;,&quot;tabNotificationsShowPhoneCall&quot;:&quot;1&quot;,&quot;tabNotificationsShowEmail&quot;:&quot;1&quot;,&quot;tabNotificationsShowSms&quot;:&quot;1&quot;,&quot;afterSendMessageText&quot;:&quot;&quot;,&quot;appendCustomCodeWithdraw&quot;:&quot;0&quot;,&quot;customCodeWithdraw&quot;:&quot;&quot;,&quot;appendCustomCodeDeposit&quot;:&quot;0&quot;,&quot;customCodeDeposit&quot;:&quot;&quot;,&quot;labelsOn&quot;:&quot;0&quot;,&quot;placeholdersOn&quot;:&quot;1&quot;,&quot;appendCustomCode&quot;:&quot;0&quot;,&quot;customCode&quot;:&quot;&quot;,&quot;appendCustomCodeLogin&quot;:&quot;0&quot;,&quot;customCodeLogin&quot;:&quot;&quot;,&quot;horizontalAlign&quot;:&quot;right&quot;,&quot;padding&quot;:&quot;0px 0px 0px 0px&quot;,&quot;visibility&quot;:[&quot;all&quot;,&quot;2&quot;,&quot;3&quot;,&quot;4&quot;],&quot;facebookId&quot;:&quot;1632489186842023&quot;,&quot;googleId&quot;:&quot;206018844875-smpdvcdtkqgvh0d5aq69ptkauabkclbq.apps.googleusercontent.com&quot;,&quot;closeAccount&quot;:&quot;0&quot;,&quot;onSportAvatars&quot;:&quot;1&quot;,&quot;onPoliticAvatars&quot;:&quot;0&quot;,&quot;appendCustomCodeProfileUpdate&quot;:&quot;0&quot;,&quot;customCodeProfileUpdate&quot;:&quot;&quot;,&quot;maxWidth&quot;:-1,&quot;ticketPrinting&quot;:&quot;0&quot;,&quot;showCustomCities&quot;:&quot;0&quot;,&quot;checkedByDefault&quot;:&quot;0&quot;,&quot;visibilityIncludeExclude&quot;:1,&quot;visibilityByCountryCity&quot;:1,&quot;visibilityCountryCity&quot;:[&quot;US&quot;,&quot;MX&quot;,&quot;CO&quot;,&quot;GB&quot;],&quot;visibilitySession&quot;:1,&quot;visibilityUserGroups&quot;:[&quot;1&quot;]},&quot;paymentParams&quot;:[]}">
-                                                <div id="ember36" class="ember-view">
-                                                    <div id="ember51" class="ember-view">
-                                                        <div id="ember52" class="loginRegisterButtons sb-login-register-buttons clearfix ember-view">
-                                                            <style>
-                                                                #ember51 .sb-login-register-buttons .signup-btn.link {
-                                                                    color: rgb(255, 255, 255);
-                                                                    font-size: 14px;
-                                                                    letter-spacing: 1px;
-                                                                    font-family: Roboto;
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons .signup-btn.link:hover {
-                                                                    color: rgb(255, 255, 255);
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons .signin-btn.link {
-                                                                    color: rgb(255, 255, 255);
-                                                                    font-size: 14px;
-                                                                    letter-spacing: 0px;
-                                                                    font-family: Roboto;
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons .signin-btn.link:hover {
-                                                                    color: rgb(246, 219, 124);
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons.vertical a {
-                                                                    margin: 0 0 9px 0;
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons:not(.vertical) a {
-                                                                    margin: 0 9px 0 0;
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons .icon-block.signup-btn {
-                                                                    width: 36px;
-                                                                    height: 36px;
-                                                                    color: #303838;
-                                                                    fill: #303838;
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons .icon-block.signup-btn:hover {
-                                                                    color: #303838;
-                                                                    fill: #303838;
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons .icon-block.signin-btn {
-                                                                    width: 36px;
-                                                                    height: 36px;
-                                                                    color: #303838;
-                                                                    fill: #303838;
-                                                                }
-
-                                                                #ember51 .sb-login-register-buttons .icon-block.signin-btn:hover {
-                                                                    color: #303838;
-                                                                    fill: #303838;
-                                                                }
-
-
-                                                                [dir="rtl"] #ember52.sb-login-register-buttons:not(.vertical) a {
-                                                                    margin: 0 0 0 9px;
-                                                                }
-                                                            </style>
-
-                                                            <div id="ember54" class="ember-view"> <a class="btn signup-btn sbRegisterBtn btn1" data-ember-action="" data-ember-action-55="55">
-                                                                    <span class="btn-text">REGISTER</span>
-                                                                </a>
-                                                            </div>
-                                                            <div id="ember57" class="ember-view"> <a class="link signin-btn sbLoginBtn" data-ember-action="" data-ember-action-58="58">
-                                                                    <span class="btn-text">SIGN IN</span>
-                                                                </a>
-                                                            </div>
-
-                                                            <!---->
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <script>
-                                                window['termsLink'] = "https://www.vbet.com/general-terms-and-conditions";
-                                                window['termsLinkTarget'] = "_blank";
-
-                                                window['privacyPolicyLink'] = "https://www.vbet.com/privacy-policy";
-                                                window['privacyPolicyTarget'] = "_blank";
-                                            </script>
-                                            <script type="text/javascript">
-                                                (function() {
-                                                    var po = document.createElement('script');
-                                                    po.type = 'text/javascript';
-                                                    po.async = true;
-                                                    po.src = 'https://apis.google.com/js/client.js';
-                                                    var s = document.getElementsByTagName('script')[0];
-                                                    s.parentNode.insertBefore(po, s);
-                                                })();
-                                            </script>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="column col-xs-1 " datacolumn-id="19007" style="  padding:5px 0px;     ">
-                                <div class="column-container vertical-center" style="">
-                                    <div class="module-container   only-mobile   align-center ModuleLanguageSwitcher
-                         first   last                         " style=" padding-right:0px;padding-left:0px;;  ">
-                                        <div class="  module ModuleLanguageSwitcher " datamodule-id="50382">
-                                            <style>
-                                                .ModuleLanguageSwitcher[datamodule-id="50382"] .uci-dropdown-arrow-down.lng-ic-down {
-                                                    font-size: 11px;
-                                                }
-
-                                                .ModuleLanguageSwitcher[datamodule-id="50382"] .flag {
-                                                    height: 16px;
-                                                    width: 24px;
-                                                }
-
-                                                .ModuleLanguageSwitcher[datamodule-id="50382"] .uci-dropdown-arrow-down,
-                                                .custom-arrow-dropdown {
-                                                    margin-left: 0px;
-                                                }
-
-                                                html[dir=rtl] .ModuleLanguageSwitcher[datamodule-id="50382"] .uci-dropdown-arrow-down,
-                                                html[dir=rtl] .ModuleLanguageSwitcher[datamodule-id="50382"] .custom-arrow-dropdown {
-                                                    margin-right: 0px;
-                                                    margin-left: 0;
-                                                }
-                                            </style>
-                                            <div class="languages open-on-hover top">
-                                                <div class="main-language">
-                                                    <span class="flag" style="background-image: url(https://static.betconstruct.me/fs/userFiles/vbetcom-updated/media/en-gb-15922103539725.svg);"></span>
-                                                    <span class="name ">
-                                                        EN
-                                                    </span>
-                                                </div>
-                                                <ul class="native-scroll-box">
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'tr');" data-href="https://www.vbet.com/tr/sss" class="" href="https://www.vbet.com/tr/sss">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/assets/images/flags64/tr-tr.svg?v=1596804054);"></span>
-                                                            <span class="name">
-                                                                TR
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'ka');" data-href="https://www.vbet.com/ka/ხშირად-დასმული-კითხვები" class="" href="https://www.vbet.com/ka/ხშირად-დასმული-კითხვები">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/assets/images/flags64/ka-ge.svg?v=1596804054);"></span>
-                                                            <span class="name">
-                                                                GE
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'ru');" data-href="https://www.vbet.com/ru/chasto-zadavaemye-voprosy" class="" href="https://www.vbet.com/ru/chasto-zadavaemye-voprosy">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/assets/images/flags64/ru-ru.svg?v=1596804054);"></span>
-                                                            <span class="name">
-                                                                RU
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'uk');" data-href="https://www.vbet.com/uk/chastі-pitannja" class="" href="https://www.vbet.com/uk/chastі-pitannja">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/assets/images/flags64/uk-ua.svg?v=1596804054);"></span>
-                                                            <span class="name">
-                                                                UA
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'es');" data-href="https://www.vbet.com/es/preguntas-frecuentes" class="" href="https://www.vbet.com/es/preguntas-frecuentes">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/assets/images/flags64/es-es.svg?v=1596804054);"></span>
-                                                            <span class="name">
-                                                                ES
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'pt-br');" data-href="https://www.vbet.com/pt-br/faqs" class="" href="https://www.vbet.com/pt-br/faqs">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/fs/userFiles/vbetcom-updated/media/pt-br-15922100925062.svg);"></span>
-                                                            <span class="name">
-                                                                PT
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'fra');" data-href="https://www.vbet.com/fra/faq" class="" href="https://www.vbet.com/fra/faq">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/fs/userFiles/vbetcom-updated/media/fr.svg);"></span>
-                                                            <span class="name">
-                                                                FR
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a onclick="changeLanguage(this,'fa');" data-href="https://www.vbet.com/fa/پرسشها-وپاسخهای-متداول" class="" href="https://www.vbet.com/fa/پرسشها-وپاسخهای-متداول">
-                                                            <span class="flag" style="background-image: url(https://static.betconstruct.me/assets/images/flags64/fa.svg?v=1596804054);"></span>
-                                                            <span class="name">
-                                                                FA
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="margin-container" data-type="row" style="bottom:-0vh;">
-                        <div class="margin-controller"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="header-row-wrapper">
-            <div class="uc-row-wrapper ">
-                <div class="uc-row                             header-row  
-                        
-                                                        " data-id="23069" style="  ">
-                    <div class="row-container ">
-                        <div class="row headerRow " style="">
-                            <div class="column col-xs-12 " datacolumn-id="36329" style="  padding:0px 0px;     ">
-                                <div class="column-container " style="">
-                                    <div class="module-container  align-center ModuleCustomHtml
-                         first   last                         ">
-                                        <div class="  module ModuleCustomHtml " datamodule-id="101856">
-                                            <div class="custom-html-container">
-                                                <style>
-                                                    table>tbody>tr:nth-of-type(odd) {
-                                                        background: rgba(255, 255, 255, 0.02);
-                                                    }
-
-                                                    table>tbody>tr:nth-of-type(even) {
-                                                        background: rgba(255, 255, 255, 0.04);
-                                                    }
-
-                                                    table>tbody:first-child>tr:first-child {
-                                                        background: rgba(255, 255, 255, 0.1);
-                                                    }
-
-
-                                                    .loggedInStateButtons li {
-                                                        color: #3a335a !important;
-                                                    }
-
-                                                    .bottomnavigation>div>.row.headerRow>div:last-child>div>div:nth-child(2) {
-                                                        padding-right: 0px !important;
-                                                        padding-left: 30px !important;
-                                                        padding-bottom: 0 !important;
-                                                    }
-
-                                                    .bottomnavigation>div>.row.headerRow>div:last-child>div>div:nth-child(3) {
-                                                        display: none !important;
-                                                    }
-
-                                                    table>tbody>tr:nth-of-type(odd) {
-                                                        background: rgba(255, 255, 255, 0.02);
-                                                    }
-
-                                                    table>tbody>tr:nth-of-type(even) {
-                                                        background: rgba(255, 255, 255, 0.04);
-                                                    }
-
-                                                    table>tbody:first-child>tr:first-child {
-                                                        background: rgba(255, 255, 255, 0.1);
-                                                    }
-
-                                                    table>thead>tr:first-child {
-                                                        background: rgba(255, 255, 255, 0.1);
-                                                    }
-
-                                                    @media screen and (max-width: 1280px) and (min-width: 1024px) {
-
-                                                        .vbetheader .navigation-inner.horizontal .page a {
-                                                            font-size: 11px !important;
-                                                        }
-
-                                                    }
-
-                                                    .magenta_shadow a.btn:hover {
-                                                        box-shadow: 0 2px 11px 0 rgba(216, 40, 143, .64) !important;
-                                                    }
-
-                                                    .green_shadow a.btn:hover {
-                                                        box-shadow: 0 2px 11px 0 rgba(32, 205, 142, .6) !important;
-                                                    }
-
-                                                    .contactIcon img {
-                                                        width: 28px;
-                                                        cursor: pointer;
-                                                    }
-
-
-
-                                                    .mobileContactIcon img {
-                                                        width: 28px;
-                                                    }
-
-                                                    @media screen and (min-width: 980px) {
-                                                        .footer-rows>.uc-row-wrapper>.uc-row>.row-container {
-                                                            max-width: 1830px;
-                                                            width: 100%;
-                                                            margin: 0 auto;
-                                                            padding: 0 15px;
-                                                        }
-                                                    }
-
-                                                    .row-on-module .module-container .dark-button-hover .btn:hover {
-                                                        box-shadow: 0px 2px 11px 0 rgba(32, 205, 142, .6);
-                                                    }
-
-                                                    .row-on-module .module-container .btn:hover {
-                                                        box-shadow: 0px 2px 11px 0 rgba(32, 205, 142, .6);
-                                                    }
-
-                                                    .footer-rows>.uc-row-wrapper:first-child>.first>.row-container {
-                                                        max-width: 1830px;
-                                                        margin: 0 auto;
-                                                        padding: 0 15px;
-                                                    }
-
-                                                    .footer-rows .uc-row {
-                                                        background: rgb(23, 10, 52) !important;
-                                                        ;
-                                                    }
-
-                                                    #hoory-root {
-                                                        left: 20px;
-                                                        right: auto;
-                                                    }
-
-                                                    .footer-rows .uc-row-wrapper:last-child .footerRow {
-                                                        max-width: 1750px;
-                                                        margin: 0 auto;
-                                                    }
-
-                                                    .mobile #hoory-root {
-                                                        bottom: 90px;
-                                                        z-index: 9 !important;
-                                                    }
-
-
-                                                    .btn {
-                                                        border-radius: 3px !important;
-                                                        text-transform: uppercase !important;
-                                                    }
-
-                                                    @media screen and (max-width: 1400px) {
-                                                        .vbetheader .headerRow>.col-xs-5 .ModuleNavigation {
-                                                            padding: 0 20px !important;
-                                                        }
-
-                                                        .media-menu #navigation-10613>div>ul>li.page:not(:last-child) {
-                                                            margin-right: 10px;
-                                                        }
-                                                    }
-
-                                                    @media screen and (min-width: 980px) {
-                                                        html .popup-wrapper-inner .row-container {
-                                                            padding: 0 !important;
-                                                        }
-                                                    }
-
-                                                    @media screen and (max-width: 980px) {
-
-                                                        .layers-container .layer .off-canvas.open {
-                                                            background: #1d184e;
-                                                        }
-
-                                                    }
-
-                                                    @media screen and (max-width: 980px) {
-
-                                                        .header-rows .header-row-wrapper:nth-child(3) {
-                                                            position: fixed;
-                                                            bottom: 0;
-                                                        }
-
-                                                        .bottomnavigation {
-                                                            transform: translate3d(0, 0, 0);
-                                                        }
-
-                                                        .push {
-                                                            background: #170a34;
-                                                        }
-
-                                                        .gdpr-popup-container .gdpr-popup .gdpr-popup-body .gdpr-popup-fields .gdpr-popup-field .checkbox-group .checkbox:not(:first-child),
-                                                        .gdpr-popup-container .gdpr-popup1 .gdpr-popup-body .gdpr-popup-fields .gdpr-popup-field .checkbox-group .checkbox:not(:first-child) {
-                                                            padding-left: 20px;
-                                                        }
-
-                                                    }
-
-                                                    @media screen and (max-width: 414px) and (min-width: 376px) {
-                                                        .header-rows .ModuleNavigation>.navigation-inner:not(.in-canvas) {
-                                                            text-align: center;
-                                                        }
-
-                                                        .header-rows .ModuleNavigation>.navigation-inner:not(.in-canvas)>.off-canvas-button {
-                                                            height: 34px !important;
-                                                            text-align: center;
-                                                        }
-                                                    }
-
-                                                    @media screen and (max-width: 480px) {
-
-                                                        .bottomnavigation>div>.row.headerRow>div:last-child>div>div:nth-child(2) {
-                                                            padding: 0 !important;
-                                                        }
-
-                                                    }
-                                                </style>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="margin-container" data-type="row">
-                        <div class="margin-controller"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="main-rows">
         <div class="uc-row-wrapper ">
             <div class="uc-row    last                           
                         
-                                                        " data-id="390" style="   margin-bottom:5.9855521155831vh;  ">
+                                                        " data-id="13370" style="   margin-bottom:5.9855521155831vh;  ">
                 <div class="row-container  container ">
                     <div class="row mainRow" style="">
-                        <div class="column col-sm-6 uc-animation affix active" datacolumn-id="607" data-effect="affix" style="  padding:0vh 0vh;     ">
+                        <div class="column col-sm-6 uc-animation affix active" datacolumn-id="22292" data-effect="affix" style="  padding:0vh 0vh;     ">
                             <div class="column-container vertical-top" style=" margin-top:1.982160555005vh; ">
                                 <div class="affix-column" style="top:  20px">
                                     <div class="module-container   only-mobile   align-center ModuleSpace
                          first                          " style="  padding-bottom:0vh; ">
-                                        <div class="  module ModuleSpace " datamodule-id="1447">
+                                        <div class="  module ModuleSpace " datamodule-id="61160">
                                             <div class="space-container">
                                                 <div class="space-inner" style="height: 10px;">
                                                 </div>
                                             </div>
                                             <style>
-                                                .ModuleSpace[datamodule-id="1447"] .space-container {
+                                                .ModuleSpace[datamodule-id="61160"] .space-container {
                                                     border-radius: 0 0 0 0;
                                                     background: transparent;
                                                 }
 
-                                                .ModuleSpace[datamodule-id="1447"]:hover .space-container {
+                                                .ModuleSpace[datamodule-id="61160"]:hover .space-container {
                                                     border-radius: 0 0 0 0;
                                                 }
                                             </style>
                                             <style>
-                                                .ModuleSpace[datamodule-id="1447"] .uc-row .column:first-child {
+                                                .ModuleSpace[datamodule-id="61160"] .uc-row .column:first-child {
                                                     border-bottom-left-radius: 0;
                                                     border-top-left-radius: 0;
                                                 }
 
-                                                .ModuleSpace[datamodule-id="1447"] .uc-row .column:last-child {
+                                                .ModuleSpace[datamodule-id="61160"] .uc-row .column:last-child {
                                                     border-bottom-right-radius: 0;
                                                     border-top-right-radius: 0;
                                                 }
@@ -1079,33 +435,34 @@ include_once('includes/header.php');
                                     </div>
                                     <div class="module-container  align-left ModuleTitle
                                                  " style=" padding-right:40px;padding-left:40px;;   padding-bottom:0vh; ">
-                                        <div class="  casinottl  module ModuleTitle " datamodule-id="1435">
+                                        <div class="  casinottl  module ModuleTitle " datamodule-id="61161">
                                             <div class="uc-content">
-                                                <h1 style="color:rgb(255, 255, 255);"><span style="font-family:'Arm Hmks Bebas Neue Regular Custom';"><span style="color:rgb(53, 53, 53);"><strong>FAQ</strong></span></span></h1>
+                                                <h1 style="color:rgb(255, 255, 255);"><span style="font-family:'Arm Hmks Bebas Neue Regular Custom';"><span style="color:rgb(53, 53, 53);">Preguntas-frecuentes</span></span></h1>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="module-container   only-mobile   align-left ModuleParagraph
                                                  " style=" padding-right:40px;padding-left:40px;;   padding-bottom:1.982160555005vh; ">
-                                        <div class="  module ModuleParagraph " datamodule-id="1436" style="display:block;max-width:952px;">
+                                        <div class="  module ModuleParagraph " datamodule-id="61162" style="display:block;max-width:952px;">
                                             <div class="uc-content ">
-                                                <p style="color:rgb(31, 37, 49);">&nbsp;</p>
-                                                <h5 style="color:rgb(0, 0, 0);"><span class="font-14em"><strong>CONTACT US</strong></span></h5>
-                                                <h5 style="color:rgb(32, 37, 49);"><span class="font-13em"><span style="font-family:Roboto;"><strong>LIVE CHAT</strong></span></span></h5>
-                                                <p style="color:rgb(32, 37, 49);"><span class="font-13em"><span style="font-family:Roboto;">Our 24/7 Live Support service is always happy to help you.</span></span></p>
-                                                <p style="color:rgb(32, 37, 49);"><br><span class="font-13em"><span style="font-family:Roboto;"><strong>EMAIL</strong></span></span><br><span class="font-13em"><span style="font-family:Roboto;">For all customer queries, please email us at <span style="color:rgb(166, 29, 103);">support@vbet.com</span> and quote your name and account number.</span></span></p>
-                                                <p style="color:rgb(32, 37, 49);"><br><span class="font-13em"><span style="font-family:Roboto;">For all other questions or offers, please email us on <span style="color:rgb(166, 29, 103);">info@vbet.com</span><span style="color:rgb(64, 64, 64);">.</span><span style="color:rgb(166, 29, 103);"> </span><span style="color:rgb(0, 0, 0);">Your</span> request</span></span></p>
-                                                <p style="color:rgb(32, 37, 49);"><br><span class="font-13em"><span style="font-family:Roboto;">Please use <span style="color:rgb(166, 29, 103);">docs@vbet.com</span> when sending us your verification documents.</span></span></p>
-                                                <p style="color:rgb(32, 37, 49);">&nbsp;</p>
-                                                <p style="color:rgb(0, 0, 0);"><span class="font-13em"><span style="font-family:Roboto;"><strong>Phone number</strong></span></span></p>
-                                                <p style="color:rgb(0, 0, 0);"><span class="font-13em"><span style="font-family:Roboto;">+37410 51 00 51</span></span><br>&nbsp;</p>
-                                                <p style="color:rgb(0, 0, 0);"><span class="font-13em"><span style="font-family:Roboto;"><span style="color:rgb(22, 28, 38);"><strong>Georgian number</strong></span></span></span><br><span class="font-13em"><span style="font-family:Roboto;"><span style="color:rgb(22, 28, 38);">+995322421962</span></span></span></p>
+                                                <h5 style="color:rgb(32, 37, 49);">&nbsp;</h5>
+                                                <h5 style="color:rgb(32, 37, 49);"><strong>CHAT EN VIVO</strong></h5>
+                                                <p class="font-12em">Nuestro servicio de asistencia en vivo 24/7 siempre está dispuesto a ayudarlo.</p>
+                                                <p><br><span class="font-12em"><strong>CORREO ELECTRÓNICO</strong></span><br><span class="font-12em">Para todas las consultas de clientes, envíenos un correo electrónico a <span style="color:rgb(166, 29, 103);">support@alivecasino.com</span> y coloque su nombre y número de cuenta.</span></p>
+                                                <p>&nbsp;</p>
+                                                <p class="font-12em">Para cualquier otra pregunta u oferta, envíenos un correo electrónico a <span style="color:rgb(166, 29, 103);">info@alivecasino.com</span>. Su solicitud</p>
+                                                <p>&nbsp;</p>
+                                                <p class="font-12em">Utilice <span style="color:rgb(166, 29, 103);">docs@alivecasino.com</span> cuando nos envíe sus documentos de verificación.</p>
+                                                <p>&nbsp;</p>
+                                                <p class="font-12em"><strong>Número telefónico&nbsp;</strong></p>
+                                                <p><span class="font-13em"><span style="font-family:Roboto;">+37410 51 00 51</span></span></p>
+                                                <p style="color:rgb(0, 0, 0);"><span class="font-13em">+13233955131</span></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="module-container  align-left ModuleDivider
                           last                         " style=" padding-right:40px;padding-left:40px;;  ">
-                                        <div class="  module ModuleDivider " datamodule-id="1437" style="display:block;max-width:60px;">
+                                        <div class="  module ModuleDivider " datamodule-id="61163" style="display:block;max-width:60px;">
                                             <div class="divider-container">
                                                 <div class="divider-inner" style="height: 2px; "></div>
                                             </div>
@@ -1114,32 +471,32 @@ include_once('includes/header.php');
                                 </div>
                             </div>
                         </div>
-                        <div class="column col-sm-6 " datacolumn-id="608" style="  padding:0vh 0vh;     ">
+                        <div class="column col-sm-6 " datacolumn-id="22293" style="  padding:0vh 0vh;     ">
                             <div class="column-container vertical-top" style=" margin-top:1.982160555005vh; ">
                                 <div class="module-container   only-mobile   align-center ModuleSpace
                          first                          " style="  padding-bottom:0vh; ">
-                                    <div class="  module ModuleSpace " datamodule-id="1449">
+                                    <div class="  module ModuleSpace " datamodule-id="61164">
                                         <div class="space-container">
                                             <div class="space-inner" style="height: 10px;">
                                             </div>
                                         </div>
                                         <style>
-                                            .ModuleSpace[datamodule-id="1449"] .space-container {
+                                            .ModuleSpace[datamodule-id="61164"] .space-container {
                                                 border-radius: 0 0 0 0;
                                                 background: transparent;
                                             }
 
-                                            .ModuleSpace[datamodule-id="1449"]:hover .space-container {
+                                            .ModuleSpace[datamodule-id="61164"]:hover .space-container {
                                                 border-radius: 0 0 0 0;
                                             }
                                         </style>
                                         <style>
-                                            .ModuleSpace[datamodule-id="1449"] .uc-row .column:first-child {
+                                            .ModuleSpace[datamodule-id="61164"] .uc-row .column:first-child {
                                                 border-bottom-left-radius: 0;
                                                 border-top-left-radius: 0;
                                             }
 
-                                            .ModuleSpace[datamodule-id="1449"] .uc-row .column:last-child {
+                                            .ModuleSpace[datamodule-id="61164"] .uc-row .column:last-child {
                                                 border-bottom-right-radius: 0;
                                                 border-top-right-radius: 0;
                                             }
@@ -1148,17 +505,17 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container  align-left ModuleTitle
                                                  " style=" padding-right:40px;padding-left:40px;;   padding-bottom:2.0597322348095vh; ">
-                                    <div class="  module ModuleTitle " datamodule-id="1438">
+                                    <div class="  module ModuleTitle " datamodule-id="61165">
                                         <div class="uc-content">
-                                            <h5><strong>Registration</strong></h5>
+                                            <h5><strong>Registro</strong></h5>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-center ModuleAccordion
                                                  " style=" padding-right:40px;padding-left:40px;;   padding-bottom:3.0895983522142vh; ">
-                                    <div class="  module ModuleAccordion " datamodule-id="1439" style="display:block;max-width:1130px;">
+                                    <div class="  module ModuleAccordion " datamodule-id="61167" style="display:block;max-width:1130px;">
                                         <div class="accordion-module-container style1">
-                                            <div id="accordion1439" data-module-id="1439">
+                                            <div id="accordion61167" data-module-id="61167">
                                                 <div class="accordion-container">
                                                     <div class="accordion-item">
                                                         <div class="accordion-item-content">
@@ -1168,13 +525,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        Why do I need to be registered?
+                                                                        ¿Por qué debo estar registrado?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Registration on Vbet website is a condition for using all the products available on the website. Registration entitles you to open a Vbet.com account free-of-charge and without obligations. Use the account to manage your bets and personal data. You can make bets with real money after you replenish your account.</p>
+                                                                    <p style="line-height:normal;">El registro en Alivecasino es una condición para utilizar todos los productos disponibles en el sitio web. El registro le da derecho a abrir una cuenta de la web de forma gratuita y sin obligaciones. Use la cuenta para administrar sus apuestas y datos personales. Puede hacer apuestas con dinero real después de recargar su cuenta.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1188,13 +545,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        How can I register on your website?
+                                                                        ¿Cómo puedo registrarme en su sitio web?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>To register on our website, visit the “Register” section in the upper right corner. Please be careful and take into account the proposed registration requirements in order to avoid further problems. We recommend that you get acquainted with our rules in advance.</p>
+                                                                    <p style="line-height:normal;">Para registrarse en nuestro sitio web, visite la sección "Registrarse" en la esquina superior derecha. Tenga cuidado y tenga en cuenta los requisitos de registro propuestos para evitar problemas adicionales. Le recomendamos que primeramente lea nuestras reglas.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1208,13 +565,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        Why should I specify my personal data when registering?
+                                                                        ¿Por qué debería especificar mis datos personales al registrarme?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>The accuracy of your data is a condition of using our products. Management of your money in your Vbet account is implemented in a similar way to a bank account. We need to know your first name and last name, as well as your current residential address. By entering your date of birth, you verify that you are of legal age to use the services of Vbet. It is important for us to have your email address so that if you forget your password or want us to send you notifications, we will be able to get in touch with you by email.</p>
+                                                                    <p style="line-height:normal;">La corrección de sus datos es una condición para usar nuestros productos. La administración de su dinero en su cuenta de la web es implementada de forma similar a como se hace en el banco. Necesitamos saber su nombre y apellido, así como su dirección residencial actual. Al ingresar su fecha de nacimiento, usted verifica que es mayor de edad para usar los servicios de la web. Es importante que tengamos su dirección de correo electrónico, ya que si olvida su contraseña o quiere que le enviemos notificaciones, podremos ponernos en contacto con usted por este medio.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1228,13 +585,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        Why is it necessary to fill in the passport details?
+                                                                        ¿Por qué es necesario completar los datos del pasaporte?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>This is done for security purposes. You will only be able to withdraw any winnings after you present your identification document.</p>
+                                                                    <p style="line-height:normal;">Esto es por su seguridad. Solo podrá retirar las ganancias después de presentar su documento de identificación.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1248,13 +605,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        Where can I see my account number?
+                                                                        ¿Dónde puedo ver mi número de cuenta?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>You can see your account (ID) number, which was given by the company in the “My Profile” page, “My Data” section ID: XXXXXXXX</p>
+                                                                    <p style="line-height:normal;">Puede ver el número de su cuenta (ID), proporcionado por la empresa, en la página "Mi perfil", sección “Mis datos” ID:XXXXXXXXX:</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1268,13 +625,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        Do I undertake any obligations by registering on the Vbet website?
+                                                                        ¿Tomo alguna obligación registrándome en el sitio web?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>No. Your registration does not bind you in any way and you are not obligated to make regular deposits or place a certain number of bets. However, by registering you agree to our General Terms and Conditions.</p>
+                                                                    <p style="line-height:normal;">No. Su registro no lo vincula de ninguna manera y no está obligado a hacer depósitos regulares ni a realizar cierto número de apuestas. Sin embargo, al registrarse, acepta nuestros Términos y condiciones generales (GTC).</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1288,13 +645,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        Can I change my personal data after registration?
+                                                                        ¿Puedo cambiar mis datos personales después del registro?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Please note that you are unable to change your basic data, such as your first name and last name, date of birth, the currency of your account in Vbet or the country settings. You will, however, still be able to change other data even after registration. In certain circumstances (e.g. the personal data was filled incorrectly, etc.), Vbet will verify and accept changes to your basic data if you submit the corresponding confirming document.</p>
+                                                                    <p style="line-height:normal;">Tenga en cuenta que ya no podrá modificar sus datos básicos, como su nombre y apellido, fecha de nacimiento, la moneda de su cuenta en la web o la configuración del país. La seriedad y la confiabilidad son las principales prioridades para web. Sin embargo, aún podrá cambiar otros datos incluso después de registrarse. En casos especiales (por ejemplo, los datos personales fueron completados incorrectamente, etc.) la web verificará y aceptará los cambios en sus datos básicos en caso nos envíe el documento de confirmación correspondiente.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1308,13 +665,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        I don’t want to deposit money right after registration. Do I have to?
+                                                                        No quiero depositar dinero inmediatamente después del registro.
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>You don’t need to make a deposit immediately. You may make a deposit whenever you like by using the “Deposit” option.</p>
+                                                                    <p style="line-height:normal;">No necesita hacer un depósito de inmediato. Puede hacer un depósito cuando lo desee utilizando la opción "Depositar".</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1328,13 +685,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What should I do if I have forgotten my password or username?
+                                                                        ¿Qué debo hacer si olvido mi contraseña o mi nombre de usuario?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Try to restore it on our website using the “Forgot Password?” option. In some cases (e.g. if the email address is wrong or if there are any technical inaccuracies etc.) it can’t be restored. You should contact our support managers.</p>
+                                                                    <p style="line-height:normal;">Intente restaurarlo en nuestro sitio web usando la opción "¿Olvidó su contraseña?" En algunos casos (por ejemplo, la dirección de correo electrónico es incorrecta o hay alguna incorrección técnica, etc.) no es posible restaurar la contraseña. En estos casos debe contactar a nuestros gerentes de soporte.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1348,13 +705,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        Can anyone else get access to my account?
+                                                                        ¿Puede una tercera persona tener acceso a mi cuenta?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>This may happen if you log out from your page without clicking on the “Log out” button and closing the page using the exit “X” button.</p>
+                                                                    <p style="line-height:normal;">Puede suceder cuando cierra sesión en su página sin hacer clic en el botón "Cerrar sesión", y solo cierra la página haciendo clic en el botón "X" de salida.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1368,13 +725,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What should I do if another person learns my password/username?
+                                                                        ¿Qué debería hacer cuando en caso otra persona sepa mi contraseña / nombre de usuario?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>You should immediately inform the support managers about it. We will block your account and try to solve the problem.</p>
+                                                                    <p style="line-height:normal;">Debe informar inmediatamente a los gerentes de soporte al respecto. Bloquearemos su cuenta e intentaremos resolver el problema.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1388,67 +745,80 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        How do I verify my account?
+                                                                        ¿Cómo verifico mi cuenta?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p><strong>Proof of identity</strong></p>
-                                                                    <p>As proof of identity please provide one of the following:</p>
+                                                                    <p style="line-height:normal;">Prueba de identidad</p>
+                                                                    <p style="line-height:normal;">Como prueba de identidad, proporcione uno de los siguientes documentos:</p>
                                                                     <ul>
-                                                                        <li>Valid passport (full double page)</li>
-                                                                        <li>Valid identity card (both sides)</li>
-                                                                        <li>Valid driving license (both sides)</li>
-                                                                        <li>Valid official residence document<br><br>&nbsp;</li>
+                                                                        <li style="line-height:normal;">Pasaporte válido (doble página completa)</li>
+                                                                        <li style="line-height:normal;">Tarjeta de identidad válida (ambos lados)</li>
+                                                                        <li style="line-height:normal;">Licencia de conducir válida (ambos lados)</li>
+                                                                        <li style="line-height:normal;">Documento de residencia oficial válido.</li>
                                                                     </ul>
-                                                                    <p>No other documents can be accepted as proof of identity.</p>
-                                                                    <p><br><strong>Proof of address&nbsp;</strong><br>As a proof of address please provide a full-page document of one of the following:</p>
+                                                                    <p style="line-height:normal;">&nbsp;</p>
+                                                                    <p style="line-height:normal;">No se pueden aceptar otros documentos como prueba de identidad.</p>
+                                                                    <p style="line-height:normal;">&nbsp;</p>
+                                                                    <p style="line-height:normal;"><strong>Comprobante de domicilio</strong></p>
+                                                                    <p style="line-height:normal;">Como comprobante de domicilio, proporcione un documento de página completa de uno de los siguientes documentos:</p>
                                                                     <ul>
-                                                                        <li>Bank statement</li>
-                                                                        <li>Utility bill for landline services such as landline telephone, gas, water or electricity</li>
-                                                                        <li>Residence certificate<br>&nbsp;</li>
-                                                                        <li>Valid driving license (both sides)</li>
-                                                                        <li>Any official government correspondence certified by local authorities.<br><br>&nbsp;</li>
+                                                                        <li style="line-height:normal;">Estado de cuenta</li>
+                                                                        <li style="line-height:normal;">Factura de servicios públicos de servicios fijos como teléfono fijo, gas, agua o electricidad.</li>
+                                                                        <li style="line-height:normal;">Certificado de residencia</li>
+                                                                        <li style="line-height:normal;">Licencia de conducir válida (ambos lados)</li>
+                                                                        <li style="line-height:normal;">Cualquier correspondencia oficial del gobierno certificada por las autoridades locales.</li>
                                                                     </ul>
-                                                                    <p><u>Your document must be dated within the last 3 months.</u></p>
-                                                                    <p><strong>We cannot accept</strong>&nbsp;any other type of document such as:&nbsp;</p>
+                                                                    <p style="line-height:normal;">&nbsp;</p>
+                                                                    <p style="line-height:normal;"><u>Su documento debe estar fechado dentro de los últimos 3 meses.</u></p>
+                                                                    <p style="line-height:normal;"><strong>No podemos aceptar</strong> ningún otro tipo de documento como, por ejemplo:</p>
                                                                     <ul>
-                                                                        <li>Rent contract</li>
-                                                                        <li>Handwritten contracts</li>
+                                                                        <li style="line-height:normal;">Contrato de renta</li>
+                                                                        <li style="line-height:normal;">Contratos escritos a mano</li>
                                                                     </ul>
-                                                                    <p>&nbsp;</p>
-                                                                    <p><strong>Please remember:</strong></p>
+                                                                    <p style="line-height:normal;">&nbsp;</p>
+                                                                    <p style="line-height:normal;"><strong>Por favor recuerde:</strong></p>
                                                                     <ul>
-                                                                        <li>Uploaded copies must be clear, showing all&nbsp;four corners of the document.</li>
-                                                                        <li>The address&nbsp;on your account must be the same as in the provided document.&nbsp;<br>&nbsp;</li>
+                                                                        <li style="line-height:normal;">Las copias cargadas deben ser claras y mostrar las cuatro esquinas del documento.</li>
+                                                                        <li style="line-height:normal;">La dirección en su cuenta debe ser la misma que en el documento provisto.</li>
                                                                     </ul>
-                                                                    <p>Please blank out any irrelevant information such as bank balances, transactions and card numbers.</p>
-                                                                    <p>In addition we <i><u>might</u></i> ask you to verify the payment methods you are using.<br><br>Proof of payment<br>We ask you to verify your payment method by uploading a colour screenshot with all relevant details on one page. What we need for each payment method is listed below.</p>
-                                                                    <p><strong>Credit or Debit Card</strong></p>
+                                                                    <p style="line-height:normal;">&nbsp;</p>
+                                                                    <p style="line-height:normal;">Ponga en blanco cualquier información irrelevante, como saldos bancarios, transacciones y números de tarjeta.</p>
+                                                                    <p style="line-height:normal;">&nbsp;</p>
+                                                                    <p style="line-height:normal;">Además, podríamos pedirle que verifique los métodos de pago que esté utilizando.</p>
+                                                                    <p style="line-height:normal;">&nbsp;</p>
+                                                                    <p style="line-height:normal;">Prueba de pago</p>
+                                                                    <p style="line-height:normal;">Le pediremos que verifique su método de pago cargando una captura de pantalla en color con todos los detalles relevantes en una página. Lo que necesitamos para cada método de pago se detalla a continuación.</p>
+                                                                    <p style="line-height:normal;">&nbsp;</p>
+                                                                    <p style="line-height:normal;"><strong>Tarjeta de crédito o débito</strong></p>
                                                                     <ul>
-                                                                        <li>Scan or digital photo of both sides of your card</li>
-                                                                        <li>The card must&nbsp;be signed</li>
-                                                                        <li>All corners must&nbsp;be visible<br>&nbsp;</li>
+                                                                        <li style="line-height:normal;">Escaneo o foto digital de ambos lados de su tarjeta</li>
+                                                                        <li style="line-height:normal;">La tarjeta debe estar firmada.</li>
+                                                                        <li style="line-height:normal;">Todas las esquinas deben ser visibles.</li>
                                                                     </ul>
-                                                                    <p><strong>For your own security,</strong>&nbsp;blank out the numbers on your credit card so only the first six and last four digits are visible. Also, cover the CVV/CVC digits on the back of your card.</p>
-                                                                    <p><strong>Bank transaction</strong></p>
-                                                                    <p>We need to see one&nbsp;of the following, with all corners visible:</p>
+                                                                    <p style="line-height:normal;"><strong>Por su propia seguridad</strong>, deje en blanco los números en su tarjeta de crédito para que solo se vean los primeros seis y los últimos cuatro dígitos. Además, cubra los dígitos CVV / CVC en el reverso de su tarjeta.</p>
+                                                                    <p style="line-height:normal;">&nbsp;</p>
+                                                                    <p style="line-height:normal;"><strong>Transacción bancaria</strong></p>
+                                                                    <p style="line-height:normal;">Necesitamos ver uno de los siguientes documentos, con todas las esquinas visibles:</p>
                                                                     <ul>
-                                                                        <li>Scan or digital photo of your paper bank statement</li>
-                                                                        <li>Screenshot of your online account</li>
-                                                                        <li>Bank statement extracted from your online account</li>
+                                                                        <li style="line-height:normal;">Escaneo o foto digital de su estado bancario en papel</li>
+                                                                        <li style="line-height:normal;">Captura de pantalla de su cuenta en línea</li>
+                                                                        <li style="line-height:normal;">Estado de cuenta extraído de su cuenta en línea</li>
                                                                     </ul>
-                                                                    <p>&nbsp;</p>
-                                                                    <p><strong>Digital Wallet (Neteller, Skrill, etc)</strong></p>
+                                                                    <p style="line-height:normal;">&nbsp;</p>
+                                                                    <p style="line-height:normal;"><strong>Billetera digital (Neteller, Skrill, etc.)</strong></p>
                                                                     <ul>
-                                                                        <li>If you are using Skrill or Neteller or similar available wallets, upload a screenshot of your full profile page with full name and account details visible.<br><br>&nbsp;</li>
+                                                                        <li style="line-height:normal;">Si está utilizando Skrill o Neteller o billeteras disponibles similares, cargue una captura de pantalla de su página de perfil completa, con el nombre completo y los detalles de la cuenta visibles.</li>
                                                                     </ul>
-                                                                    <p><strong>Credit voucher</strong></p>
+                                                                    <p style="line-height:normal;">&nbsp;</p>
+                                                                    <p style="line-height:normal;"><strong>Comprobante de crédito</strong></p>
                                                                     <ul>
-                                                                        <li>To verify your Paysafecard, we need you to upload a scan of your voucher or receipt. Please blank out any sensitive information.</li>
+                                                                        <li style="line-height:normal;">Para verificar su Paysafecard, necesitamos que cargue un escaneo de su comprobante o recibo. Deje en blanco cualquier información confidencial.</li>
                                                                     </ul>
-                                                                    <p><br><strong>Important:&nbsp;</strong>You can upload a digital photo or a screenshot of the required documents. All files must be in colour and uploaded in one of the following formats: JPG, JPEG, PNG, BMP, TIFF, DOC, DOCX or PDF. Image quality: min 320dpi. File max size 8Mb. &nbsp;Please make sure all information is legible and, to help us process the documents faster, give the file a name that describes the type of document you’re uploading (eg. ID, proof of address, bank statement, credit card).</p>
+                                                                    <p style="line-height:normal;">&nbsp;</p>
+                                                                    <p style="line-height:normal;"><strong>Importante:</strong> puede cargar una foto digital o una captura de pantalla de los documentos requeridos. Todos los archivos deben estar en color y cargados en uno de los siguientes formatos: JPG, JPEG, PNG, BMP, TIFF, DOC, DOCX o PDF. Calidad de imagen: mínimo 320 ppp. Tamaño máximo del archivo 8Mb. Asegúrese de que toda la información sea legible y, para ayudarnos a procesar los documentos más rápidamente, asigne le al archivo un nombre que describa el tipo de documento que está cargando (por ejemplo, ID, comprobante de domicilio, estado de cuenta, tarjeta de crédito).&nbsp;</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1457,38 +827,38 @@ include_once('includes/header.php');
                                                 </div>
                                             </div>
                                             <style>
-                                                #accordion1439 .accordion-item {
+                                                #accordion61167 .accordion-item {
 
                                                     padding-bottom: 10px;
 
                                                 }
 
-                                                #accordion1439 .accordion-item-content {
+                                                #accordion61167 .accordion-item-content {
                                                     background: rgb(233, 233, 237);
                                                     background-clip: content-box;
 
                                                 }
 
-                                                #accordion1439 .accordion-item .icon-container {
+                                                #accordion61167 .accordion-item .icon-container {
                                                     font-size: 14px;
                                                     color: rgb(49, 49, 49);
                                                     width: 14px;
                                                     height: 14px;
                                                 }
 
-                                                #accordion1439 .accordion-item .icon-container:hover {
+                                                #accordion61167 .accordion-item .icon-container:hover {
                                                     color: rgb(166, 27, 103);
                                                 }
 
-                                                #accordion1439 .accordion-item .accordion-item-title .title-container {
+                                                #accordion61167 .accordion-item .accordion-item-title .title-container {
                                                     padding-left: 10px;
                                                 }
 
-                                                #accordion1439 .accordion-item .icon-container .custom-icon {
+                                                #accordion61167 .accordion-item .icon-container .custom-icon {
                                                     background-image: url(https://static.betconstruct.me/fs/userFiles/vbetcom-updated/media/thumb/);
                                                 }
 
-                                                #accordion1439 .accordion-item .accordion-item-content {
+                                                #accordion61167 .accordion-item .accordion-item-content {
                                                     border-color: #000000;
 
                                                     border-width: 0 0 0 0;
@@ -1496,10 +866,10 @@ include_once('includes/header.php');
                                                     border-radius: 4px;
                                                 }
 
-                                                #accordion1439 .accordion-item .accordion-item-content .icon-container,
-                                                #accordion1439 .accordion-item .accordion-item-content .icon-container .custom-icon {}
+                                                #accordion61167 .accordion-item .accordion-item-content .icon-container,
+                                                #accordion61167 .accordion-item .accordion-item-content .icon-container .custom-icon {}
 
-                                                #accordion1439 .accordion-item .accordion-item-title {
+                                                #accordion61167 .accordion-item .accordion-item-title {
                                                     color: rgba(49, 49, 49, 0.7);
                                                     font-size: 14px;
                                                     line-height: 14px;
@@ -1511,7 +881,7 @@ include_once('includes/header.php');
 
                                                 }
 
-                                                #accordion1439 .accordion-item .accordion-item-description {
+                                                #accordion61167 .accordion-item .accordion-item-description {
                                                     color: rgba(49, 49, 49, 0.7);
                                                     font-size: 14px;
                                                     font-family: &#039;
@@ -1524,18 +894,18 @@ include_once('includes/header.php');
 
                                                 }
 
-                                                #accordion1439 .accordion-item .accordion-item-description .description-container {
+                                                #accordion61167 .accordion-item .accordion-item-description .description-container {
                                                     margin-top: 10px;
                                                     margin-bottom: 15px;
                                                     transform: none;
                                                     ;
                                                 }
 
-                                                #accordion1439 .accordion-item .accordion-item-description .description-container a {
+                                                #accordion61167 .accordion-item .accordion-item-description .description-container a {
                                                     color: #333;
                                                 }
 
-                                                #accordion1439 .accordion-item .accordion-item-description .description-container a:hover {
+                                                #accordion61167 .accordion-item .accordion-item-description .description-container a:hover {
                                                     color: #333;
                                                 }
                                             </style>
@@ -1544,17 +914,17 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container  align-left ModuleTitle
                                                  " style=" padding-right:40px;padding-left:40px;;   padding-bottom:2.0597322348095vh; ">
-                                    <div class="  module ModuleTitle " datamodule-id="1440">
+                                    <div class="  module ModuleTitle " datamodule-id="61169">
                                         <div class="uc-content">
-                                            <h5><strong>Placing Bets and Settlement</strong></h5>
+                                            <p class="font-13em"><strong>Realización de apuestas y determinación</strong></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-center ModuleAccordion
                                                  " style=" padding-right:40px;padding-left:40px;;   padding-bottom:3.0895983522142vh; ">
-                                    <div class="  module ModuleAccordion " datamodule-id="1441" style="display:block;max-width:1130px;">
+                                    <div class="  module ModuleAccordion " datamodule-id="61171" style="display:block;max-width:1130px;">
                                         <div class="accordion-module-container style1">
-                                            <div id="accordion1441" data-module-id="1441">
+                                            <div id="accordion61171" data-module-id="61171">
                                                 <div class="accordion-container">
                                                     <div class="accordion-item">
                                                         <div class="accordion-item-content">
@@ -1564,13 +934,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        How do I place a bet?
+                                                                        ¿Cómo realizo una apuesta?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>First, log in with your username and password. Select one or several bets from our line-up and use the mouse to click on an estimated outcome. Your bet will then appear in the bet slip on the right- hand side of the page. Next, specify the amount you wish to stake and your preferred type of bet (single, system or chain). In the third and final phase, you can either confirm the bet or cancel it. Please note that our General Terms and Conditions do not permit the cancellation of any bets once they have been placed.</p>
+                                                                    <p>Primero, inicie sesión con su nombre de usuario y contraseña. Seleccione una o varias apuestas de nuestra alineación y use el mouse para hacer clic en uno de los resultados estimados. Su apuesta aparecerá en el cupón de apuestas, al lado derecho de la página. A continuación, especifique el monto que desea apostar y su tipo preferido de apuesta (simple, sistema o cadena). En la tercera y última fase, confirme la apuesta o cancélala. Tenga en cuenta que nuestros Términos y condiciones generales no permiten la cancelación de ninguna apuesta una vez que se haya realizado.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1584,13 +954,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What are the types of bets?
+                                                                        ¿Cuáles son los tipos de apuesta?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>At Vbet.com you can choose different types of bets. Starting with one prediction, you can use the “Single” bet option (single), with two or more predictions you can place “Express” bets, and with three or more predictions you can place a “System” or “Chain” bet. And if you would prefer to place “Single” or “System” bets, you need to select the desired option.</p>
+                                                                    <p>En Alivecasino.com puede elegir diferentes tipos de apuestas. Comenzando con una predicción, puede usar la opción de apuesta "Única" (simple), con dos o más predicciones puede formar apuestas "Express", y con tres o más predicciones puede formar una apuesta de "Sistema" o de "Cadena". Y si prefiere realizar apuestas "Simples" o de "sistema", debe seleccionar la opción deseada.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1604,13 +974,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What is a “Single” bet?
+                                                                        ¿Qué es una apuesta simple?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>A “Single” bet is the simplest form of betting. You predict an outcome, specify the desired stake and place the bet. If your prediction is correct, you win the bet. The winnings are calculated by multiplying the odds by the stake.</p>
+                                                                    <p>Una apuesta "simple" es la forma más simple de apostar. Usted predice un resultado, especifica la apuesta deseada y realiza la misma. Si su predicción es correcta, gana la apuesta. Las ganancias son calculadas multiplicando las cuotas por la apuesta.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1624,13 +994,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What is an “Express Multiple” bet and how is it calculated?
+                                                                        ¿Qué es una apuesta express y como se calcula?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>“Express Multiple” is a bet consisting of two or more events in which a necessary condition is that none of the events should lose. “Express Multiple” bets’ total odds are calculated by multiplying the odds of all the individual predictions.</p>
+                                                                    <p>"Express" es una apuesta que consiste en dos o más eventos en los que una condición necesaria es que ninguno de los eventos pierda. Las cuotas totales de las "apuestas rápidas" son calculadas multiplicando las cuotas de todas las predicciones individuales.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1644,13 +1014,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        Which bets can be combined to form an “Express Multiple” bet?
+                                                                        ¿Qué apuestas se pueden combinar para formar una apuesta “express”?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>The vast majority of the offered bets may be combined freely in an “Express Multiple” bet. There are a few exceptions, however, such as certain Formula – 1 bets that can only be placed as “Single” bets. The bookmakers decide which bets can be combined, and their decision is based on various factors, such as the respective game or the event. You will be informed of their decision by the time the bets are placed. Please note: several bets on the same event/outcome cannot be placed as an “Express Multiple” or “System” bet.</p>
+                                                                    <p>La gran mayoría de las apuestas ofrecidas se pueden combinar libremente en una apuesta "Express". Sin embargo, hay algunas excepciones, como ciertas apuestas de Fórmula 1 que solo pueden realizarse como apuestas "simples". Las casas de apuestas deciden qué apuestas se pueden combinar, y su decisión se basa en varios factores, como el juego o el evento correspondiente. Se le informará de su decisión cuando se realicen las apuestas. Tenga en cuenta que: varias apuestas en el mismo evento / resultado no se pueden realizar como una apuesta "Express" o de “Sistema".</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1664,199 +1034,106 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What is the ”Chain” bet and how is it calculated?
+                                                                        ¿Qué es la apuesta en cadena y como se calcula?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>A “Chain” bet is a combination of “Single” bets on events independent of each other. The customer choses the order of the bets included in the chain and the unit. The unit stake is placed on the first selection as a single. If this generates a return, the unit stake is deducted from the winnings and placed on the second selection and so on until the chain is complete or all funds are lost. If at any stage there is not enough funds on the bet to cover the unit stake then the total remaining balance is staked and the chain continues.</p>
-                                                                    <p>For example:</p>
+                                                                    <p>Una apuesta "en cadena" es una combinación de apuestas "simples" en eventos independientes entre sí. El cliente elige el orden de las apuestas incluidas en la cadena y la unidad. La apuesta de la unidad se coloca en la primera selección como una apuesta simple. Si esto genera una devolución, la apuesta de la unidad se deduce de las ganancias y se coloca en la segunda selección, y así sucesivamente hasta que se complete la cadena o se pierdan todos los fondos. Si en alguna etapa no hay fondos suficientes en la apuesta para cubrir la apuesta de la unidad, el saldo restante total es apostado y la cadena continúa.&nbsp;</p>
                                                                     <figure class="table">
                                                                         <table>
                                                                             <tbody>
                                                                                 <tr>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">Evento</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">Apuesta</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">Cuotas</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">Resultado</p>
+                                                                                    </td>
                                                                                 </tr>
                                                                                 <tr>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>Leg</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>Event</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>Stake</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>Odds</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>Outcome</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">1</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">$3</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">2.</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">Gana</p>
+                                                                                    </td>
                                                                                 </tr>
                                                                                 <tr>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td rowspan="2">&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">2</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">&nbsp;</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">1,5</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">Gana</p>
+                                                                                    </td>
                                                                                 </tr>
                                                                                 <tr>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>1</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>event</td>
-                                                                                    <td>$3</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>2</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>Win</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">3</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">&nbsp;</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">2</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">Pierde</p>
+                                                                                    </td>
                                                                                 </tr>
                                                                                 <tr>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td rowspan="2">&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">4</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">&nbsp;</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">3</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">Gana</p>
+                                                                                    </td>
                                                                                 </tr>
                                                                                 <tr>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>2</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>event</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>1.5</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>Win</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                </tr>
-                                                                                <tr>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td rowspan="2">&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                </tr>
-                                                                                <tr>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>3</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>event</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>2</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>Lose</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                </tr>
-                                                                                <tr>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td rowspan="2">&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                </tr>
-                                                                                <tr>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>4</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>event</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>3</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>Win</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                </tr>
-                                                                                <tr>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td rowspan="2">&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                </tr>
-                                                                                <tr>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>5</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>event</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>1.5</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>Lose</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                </tr>
-                                                                                <tr>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
-                                                                                    <td>&nbsp;</td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">5</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">&nbsp;</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">1,5</p>
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <p style="line-height:13.5pt;">Pierde</p>
+                                                                                    </td>
                                                                                 </tr>
                                                                             </tbody>
                                                                         </table>
                                                                     </figure>
+                                                                    <p>Por ejemplo:</p>
                                                                     <p>&nbsp;</p>
-                                                                    <p>As a result of the first event ~ $6 is generated, from which ~ $3 is transferred to the next event as the sum of the bet. And ~ $3 is transferred to the “chain account”. From the second event being won ~$4.50 is generated, from which ~ $3 is transferred as a bet sum for the next event, and the remaining ~$1.50 is transferred to the “chain account” and the sum is ~ $4.50. As the third event is lost, ~ $3 is taken from the chain account for the fourth event, and only ~ $1.5 remains in the account. After the win fourth event is won ~ $9 is generated, ~ $3 of this sum is transferred as the bet sum for the fifth event and ~ $6 is added to the “chain account”, and the sum of the chain account becomes ~ $7.50. The fifth event is lost; this means that the winnings of this chain are ~ $7.50, the same amount as in the “chain account”.</p>
+                                                                    <p>Como resultado del primer evento, se generan ~ $ 6, de los cuales ~ $ 3 se transfieren al próximo evento como la suma de la apuesta. Y ~ $ 3 se transfiere a la "cuenta de la cadena". A partir del segundo evento que se gana, se genera ~ $ 4.50, del cual se transfiere ~ $ 3 como suma de la apuesta para el próximo evento, y el ~ $ 1.50 restante se transfiere a la "cuenta de la cadena" y la suma es de $ 4.50. A medida que se pierde el tercer evento, se toman ~ $ 3 de la cuenta de la cadena para el cuarto evento, y solo quedan $ 1.5 en la cuenta. Después de ganar el cuarto evento, se genera ~ 9 dólares, se transfiere ~ 3 dólares de esta suma como el monto de la apuesta para el quinto evento y se agregan ~ 6 dólares a la "cuenta de la cadena", y la suma de la cuenta de la cadena pasa a $ 7,50. El quinto evento se pierde; esto significa que las ganancias de esta cadena son ~ $ 7.50, la misma cantidad que en la "cuenta de la cadena".</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1870,13 +1147,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What is the “System” bet? How is it calculated and how much is the minimum sum of each bet?
+                                                                        ¿Qué es la apuesta de “sistema”? ¿Cómo se calcula y cuál es la suma mínima de cada apuesta?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>“System” is a bet which consists of at least three events. The program forms variants of the events you have selected. For example, if you select a 2/5 system, it means that at least 2 events from 5 must win for the bet to win. The minimum sum of each bet depends on the selection of the system.</p>
+                                                                    <p>La apuesta de “sistema” es una apuesta que consiste en al menos tres eventos. El programa forma variantes de los acontecimientos que ha seleccionado. Por ejemplo, si selecciona un sistema 2/5, significa que al menos 2 eventos desde 5 deben ganar para que la apuesta para ganar. La suma mínima de cada apuesta depende de la selección del sistema.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1890,13 +1167,35 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What is a “Handicap”?
+                                                                        ¿Qué es un hándicap?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>A handicap is a head start given to a selection expressed in goals/points/sets/frames etc. depending on the type of the competition. The handicap is offered by the bookmaking company and it can be “positive” (1), “negative” (-1) and “zero”. For example, if you made a bet on “Handicap 1(2)” on a football match, this means you allowed Team 1 a 2 - goal ‘head start’.</p>
+                                                                    <p>Un “Hándicap” es una ventaja dada a una selección expresada por goles / puntos / juegos / partidas, etc. dependiendo de la competencia. El hándicap es ofrecido por la empresa de apuestas y puede ser “positivo” (1), “negativo” (-1) y “cero”. He aquí un ejemplo: supongamos que ha realizado una apuesta en “Hándicap 1 (2)” en un partido de futbol, esto significa que le permitió al Equipo 1 dos goles de “ventaja”</p>
+                                                                    <ul>
+                                                                        <li>Si el partido termina en empate (1-1), y luego, al añadir el hándicap se produce un marcador de 3-1, la apuesta gana.</li>
+                                                                        <li>Si el partido finaliza 0-3, y luego, al añadir el hándicap se produce un marcador de 2-3, la apuesta pierde.</li>
+                                                                        <li>Si el partido finaliza 0-2, y luego, al añadir el hándicap se produce un marcador de 2-2, la apuesta resulta en un empate (apuestas devueltas).&nbsp;</li>
+                                                                        <li>Si el hándicap es "negativo", debe restar en lugar de sumar.</li>
+                                                                    </ul>
+                                                                    <p>&nbsp;</p>
+                                                                    <p>Estos son algunos otros ejemplos de un hándicap:</p>
+                                                                    <p>&nbsp;</p>
+                                                                    <ul>
+                                                                        <li>La apuesta W1 Hándicap (-1) solo puede ganar cuando el equipo local gana el partido por dos goles.</li>
+                                                                        <li>La apuesta W2 Hándicap (1) solo puede ganar cuando el equipo visitante no pierde el partido (empate o victoria del equipo visitante).</li>
+                                                                        <li>La apuesta X Hándicap (1) puede ganar solo cuando el equipo local gana el partido por un gol (o cuando el equipo visitante pierde por un gol).</li>
+                                                                        <li>La apuesta X Hándicap (-1) puede ganar solo cuando el equipo local pierde el partido por un gol (si el equipo visitante gana por un gol).</li>
+                                                                        <li>La apuesta W1 Hándicap (-2) solo puede ganar cuando el equipo local gana el partido por tres goles. La apuesta W2 Hándicap (2) solo puede ganar en el siguiente resultado del partido:</li>
+                                                                    </ul>
+                                                                    <p>&nbsp;</p>
+                                                                    <p>Un empate</p>
+                                                                    <p>La victoria del equipo local por un gol.</p>
+                                                                    <p>Cualquier victoria del equipo visitante.</p>
+                                                                    <p>La apuesta X Hándicap (2) puede ganar solo cuando el equipo local gana por dos goles.</p>
+                                                                    <p>Apuesta X Hándicap (-2) puede ganar solo cuando el equipo local pierde por dos goles (o el equipo visitante gana por dos goles).</p>
                                                                     <p>&nbsp;</p>
                                                                     <ul>
                                                                         <li>If the match ends 1-1, then adding the handicap will produce a score of 3-1 and the bet will win.</li>
@@ -1931,13 +1230,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What is a “Hattrick”?
+                                                                        ¿Qué es un “Hat-trick”?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>A “Hattrick” bet means that one of the players of the two teams should score three or more goals during the match.</p>
+                                                                    <p>Una apuesta “Hattrick” significa que uno de los jugadores de los dos equipos debe anotar tres goles o más durante el partido.&nbsp;</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1951,13 +1250,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What do W1/W2, W1/X, X/W2 and other bets mean?
+                                                                        ¿Que significan las apuestas W1/W2, W1/X, X/W2?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>This type of bet is halftime/fulltime betting, the first symbol shows the result of the first half, and the second symbol shows the result of the game. For example, W1/W2 bet means that the first team has won in the first half but the second team has won in the total game. W1/X bet means that the first team has won in the first half, and the overall game has ended in a draw.</p>
+                                                                    <p>En este tipo de apuesta entretiempo/tiempo completo el primer símbolo muestra el resultado de la primera mitad, y el segundo símbolo muestra el resultado del partido. Por ejemplo, la apuesta W1/W2 significa que el primer equipo ha ganado en la primera mitad, pero el segundo equipo ha ganado al final del partido. La apuesta W1/ X significa que el primer equipo ha ganado en la primera mitad, y el juego al final ha terminado en un empate.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1971,14 +1270,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        When I try to place a bet, I get a message that I have exceeded the winnings limit. How high is the winnings limit?
+                                                                        Cuando intento apostar, recibo el mensaje que he excedido el límite de ganancias, ¿qué tan alto es el límite de ganancias?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Vbet reserves the right to set various betting limits for all events, markets and selections. You will be informed of any limits when you place your bet.</p>
-                                                                    <p>There are various reasons for setting a winnings limit, including the supply and demand for a bet. Please note that winnings limits may also be lowered for a short time when odds are updated.</p>
+                                                                    <p>Alivecasino se reserva el derecho de establecer varios límites de apuestas para todos los eventos, mercados y selecciones. Se le informará de cualquier límite cuando haga su apuesta. Hay varias razones para establecer un límite de ganancias, incluida la oferta y la demanda de una apuesta. Tenga en cuenta que los límites de ganancias también pueden reducirse por un corto tiempo cuando se actualizan las cuotas.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1992,13 +1290,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What is the minimum/maximum size of the bet?
+                                                                        ¿Cuál es tamaño mínimo/máximo de una apuesta?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>The maximum amount of one bet is defined by the maximum amount of the winnings specified above. When choosing a bet, if you have received a message that the amount of your bet exceeds the maximum amount, reduce the amount of the bet accordingly. The minimum amount of a bet is 0.10 Euro.</p>
+                                                                    <p>El monto máximo de una apuesta se define por el monto máximo de las ganancias especificadas anteriormente. Al elegir una apuesta, si ha recibido un mensaje de que el monto de su apuesta supera el monto máximo, reduzca el monto de la misma. El monto mínimo de una apuesta es de 0,10 euros.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2012,13 +1310,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What is the maximum odds for express or system bets?
+                                                                        ¿Cuál es el monto máximo de ganancias?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>The maximum odds for express and each variant for system bet is 1000. Bets that exceed 1000, are calculated at 1000 odds.</p>
+                                                                    <p>Las cuotas máximas para apuestas express o de sistema son de 1000. Las apuestas que excedan 1000, se calculan con cuotas de 1000.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2032,13 +1330,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        How it is possible to remove selections chosen by me from the coupon?
+                                                                        ¿Como puedo eliminar del cupón las selecciones que haya realizado?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Selections can be removed before placement of the bet by clicking directly on the “X” button on the right side of the betslip.</p>
+                                                                    <p>Las selecciones pueden ser eliminadas antes de realizar la apuesta haciendo clic directamente en el botón "X" en el lado derecho del cupón.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2052,14 +1350,14 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        I have placed a bet by mistake. Can I ask for my bet to be cancelled?
+                                                                        He cometido un error al realizar una apuesta. ¿Puedo solicitar que mi apuesta sea cancelada?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Unfortunately, in accordance with the Terms and Conditions we are not allowed to cancel bets once they have been placed. According to our General Terms and Conditions, a bet is considered to be placed as soon as it is displayed in your betting account in “My bets”.</p>
-                                                                    <p>Before you confirm a bet, you can cancel it in the betslip and not place the bet. However, once you have confirmed the bet in the betslip your bet is accepted and can no longer be cancelled.</p>
+                                                                    <p>Lamentablemente, de acuerdo con los Términos y condiciones, no podemos cancelar las apuestas una vez que se hayan realizado. De acuerdo con nuestros Términos y Condiciones Generales, se considera que una apuesta ha sido realizada tan pronto como aparezca en su cuenta de apuestas en "Mis apuestas".</p>
+                                                                    <p>Antes de confirmar una apuesta, puede cancelarla en el cupón de apuestas y no realizarla. Sin embargo, una vez que haya confirmado la apuesta en el cupón, esta será aceptada y ya no podrá ser cancelada.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2073,13 +1371,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        How can I check whether my bet has been accepted?
+                                                                        ¿Como puedo ver si mi apuesta ha sido aceptada?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>As soon as you have confirmed the bet in the coupon, by pressing the button “Place a Bet”, you will receive a confirmation of acceptance if the bet has been placed successfully. Each bet that you place will appear in your betting account in "My Bets".</p>
+                                                                    <p>Tan pronto como haya confirmado la apuesta en el cupón, al presionar el botón "Hacer una apuesta", recibirá una confirmación de aceptación si la apuesta ha sido realizada correctamente. Cada apuesta que realice aparecerá en su cuenta de apuestas en "Historial de apuestas".</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2093,13 +1391,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        In what circumstances are bets cancelled by the operator?
+                                                                        ¿En qué circunstancias el operador cancela las apuestas?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Bets are cancelled if there is an inaccuracy in the names of players or teams, if the wrong odds are offered, if a wrong total is quoted, if a a wrong handicap is quoted, etc. In these instances the bets are void.</p>
+                                                                    <p>Las apuestas son canceladas si hay una inexactitud en los nombres de los jugadores o equipos, si se ofrecen las cuotas equivocadas, si se cita un total incorrecto, si se cita un hándicap incorrecto, etc. En estos casos, las apuestas son nulas.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2113,13 +1411,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What happens in the event of match postponement/cancellation?
+                                                                        ¿Qué sucede en caso un partido sea pospuesto/cancelado?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>The bet is settled as void depending on the individual sport in our Rules. In the case of an “Express” or “System” bet the selection is considered void.</p>
+                                                                    <p>La apuesta se establece como nula en función del deporte individual en nuestras Reglas. En el caso de una apuesta "Express" o de "Sistema", la selección se considerará nula.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2133,13 +1431,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        How is a football match settled if the match ended in extra time or a penalty shoot-out?
+                                                                        ¿Como se determina un partido de futbol si el partido finaliza en tiempo extra o en tanda de penales?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>All football bets are settled only for the 90-minute result (full-time), excluding extra time and penalty shoot-outs, unless otherwise stipulated by Vbet.com. According to Vbet’s rules, full-time includes any stoppage time during the 90 minutes.</p>
+                                                                    <p>Todas las apuestas de fútbol se determinan solo por el resultado de 90 minutos (tiempo completo), excluyendo el tiempo extra y las tandas de penales, a menos que Alivecasino.com estipule lo contrario. De acuerdo con las reglas de Alivecasino, el tiempo completo incluye cualquier tiempo de detención durante los 90 minutos.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2153,13 +1451,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        How are two yellow cards given to a player settled?
+                                                                        ¿Como se determinan dos tarjetas amarillas sacadas a un jugador?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>The second yellow card leading to the player’s dismissal is considered to be red, which means the player has one yellow card and one red card.</p>
+                                                                    <p>La segunda tarjeta amarilla que conduzca a la expulsión del jugador se considera roja, lo que significa que el jugador tiene una tarjeta amarilla y una tarjeta roja.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2173,13 +1471,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        How is a basketball game settled?
+                                                                        ¿Como se determina un partido de baloncesto?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>The results for all bets on the game are made taking into account overtime, unless stated otherwise. One exception is the bets on the winner of the match, where a “draw” is offered in regular time, not taking into account the overtime.</p>
+                                                                    <p>Los resultados de todas las apuestas en el partido se realizan teniendo en cuenta las horas extras, a menos que se indique lo contrario. Una excepción son las apuestas al ganador del partido, en donde se ofrece un "empate" en el tiempo regular, sin tener en cuenta el tiempo extra.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2193,13 +1491,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        How is a hockey match settled?
+                                                                        ¿Cómo se determina un partido de hockey?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>The bets on National and International Ice Hockey championships, are settled according to the official time of the matches, unless otherwise stated.</p>
+                                                                    <p>Las apuestas en los campeonatos nacionales e internacionales de hockey sobre hielo se determinan de acuerdo con la hora oficial de los partidos, a menos que se indique lo contrario.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2213,13 +1511,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        How is a bet settled if a tennis player refuses to continue the game?
+                                                                        ¿Como se determina una apuesta si un jugador de tenis se niega a continuar jugando en el partido?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>If a tennis player refuses to continue the game (or is disqualified), then in all the following games and sets he/she is considered to be defeated, and bet settlement is made according to the subsequent results.</p>
+                                                                    <p>Si un jugador de tenis se niega a continuar el partido (o es descalificado), entonces en todos los juegos y sets siguientes se considera como perdidos, y la determinación se realiza de acuerdo con los resultados posteriores.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2233,13 +1531,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        Do I get back my money if the match did not take place as planned?
+                                                                        ¿Me rembolsan mi dinero si el partido no se llevó a cabo tal cual y estaba programado?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>If the match is interrupted for more than 24 hours, all bets are returned, except for those, where the result was determined.</p>
+                                                                    <p>Si el partido se interrumpe por más de 24 horas, se devuelven todas las apuestas, excepto en aquellas en donde el resultado fue determinado.&nbsp;</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2253,13 +1551,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        Why is the calculation of my bets delayed?
+                                                                        ¿Por qué la determinación de mis apuestas toma tanto tiempo?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Calculation is usually made as quickly as possible. The settlement of online games is made immediately during the game; the settlement of offline games will be made as soon as a game ends, regardless of the bet type. But settlement can be sometimes delayed due to various reasons: the absence of information about the results, the same event with different information on various websites, technical problems, etc.</p>
+                                                                    <p>La determinación se hace generalmente lo más rápido posible. La determinación de los juegos en línea se realiza inmediatamente durante el juego; la determinación de los juegos fuera de línea se realizará tan pronto como el juego termine, independientemente del tipo de apuesta. Pero la determinación puede a veces retrasarse debido a varias razones: la falta de información sobre los resultados, el mismo evento con información diferente en varios sitios web, problemas técnicos, etc.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2273,13 +1571,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What should I do if my bet is calculated incorrectly?
+                                                                        ¿Qué debo hacer si mi apuesta ha sido mal determinada?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>You should contact the Live Support department. Our support staff will check your bet, and if the bet is calculated incorrectly, the mistake will be corrected and your winnings will be added to your account.</p>
+                                                                    <p>Debe ponerse en contacto con el departamento de soporte en vivo. Nuestro personal de soporte revisará su apuesta y, si la apuesta fue calculada incorrectamente, el error se corregirá y sus ganancias se agregarán a su cuenta.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2293,25 +1591,23 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What is the minimum number of minutes an interrupted match is played to be considered as completed for betting purposes?
+                                                                        ¿Cuál es el número mínimo de minutos que se juega un partido interrumpido para ser considerado como completado a efectos de apuestas?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Matches are considered to be completed for betting purposes, if they have been interrupted and not finished in the official time specified in points 6 and 7 of the Terms and Conditions, and if the time played is at least the following:</p>
-                                                                    <ul>
-                                                                        <li>Soccer – 90 min</li>
-                                                                        <li>Futsal (duration 2 x 20 minutes.) - 35 minutes&nbsp;</li>
-                                                                        <li>Futsal (duration 2 x 25 minutes.) - 45 minutes</li>
-                                                                        <li>Basketball NBA (National Basketball Association) – 43 min&nbsp;</li>
-                                                                        <li>Eurobasketball – 35 min</li>
-                                                                        <li>Hockey NHL (National Hockey League) – 55 min</li>
-                                                                        <li>Bandy – 60 min.</li>
-                                                                        <li>Eurohockey – 50 min</li>
-                                                                        <li>American football – 55 min</li>
-                                                                        <li>Baseball- 5 periods (innings) Handball – 50 min.</li>
-                                                                    </ul>
+                                                                    <p>Se considera que los partidos están completados para fines de apuesta, si se han interrumpido y no se han completado en el tiempo oficial especificado en los puntos 6 y 7 de los Términos y condiciones, y si el tiempo jugado es al menos el siguiente:</p>
+                                                                    <p>Fútbol - 90 min</p>
+                                                                    <p>Futsal (duración 2 x 20 minutos) - 35 minutos</p>
+                                                                    <p>Futsal (duración 2 x 25 minutos) - 45 minutos</p>
+                                                                    <p>Baloncesto NBA (Asociación Nacional de Baloncesto) - 43 min</p>
+                                                                    <p>Eurobasketball - 35 min</p>
+                                                                    <p>Hockey NHL (Liga Nacional de Hockey) - 55 min</p>
+                                                                    <p>Bandy - 60 min.</p>
+                                                                    <p>Eurohockey - 50 min</p>
+                                                                    <p>Fútbol americano - 55 min</p>
+                                                                    <p>Béisbol- 5 periodos (entradas) Balonmano - 50 min.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2325,13 +1621,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What happens to my bet if a match or event is postponed?
+                                                                        ¿Qué sucede con mi apuesta si un partido o evento es pospuesto?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>If the event does not take place as scheduled or if the official score of the match is not announced and is not resumed within 24 hours, all bets will be declared void, refunded and transferred to your account. If this match is included in your "express bet" or “system bet”, the odds for this selection will be settled at 1.0.</p>
+                                                                    <p>Si el evento no se lleva a cabo según lo programado o si el resultado oficial del partido no se anuncia y no se reanuda dentro de 24 horas, todas las apuestas se declararán nulas, reembolsadas y transferidas a su cuenta. Si este partido se incluye en su "apuesta expresa" o "apuesta de sistema", las cuotas para esta selección se establecerán en 1.0.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2345,13 +1641,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        How can I check the result of my preferred game?
+                                                                        ¿Como puedo ver el resultado de mi partido de preferencia?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>As we settle bets according to the data of the official websites, you can find the list of official websites under point 20.3 of the Terms and Conditions.</p>
+                                                                    <p>Mientras determinamos las apuestas de acuerdo con los datos de los sitios web oficiales, puede encontrar la lista de sitios web oficiales en el punto 18.3 de los Términos y condiciones.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2360,38 +1656,38 @@ include_once('includes/header.php');
                                                 </div>
                                             </div>
                                             <style>
-                                                #accordion1441 .accordion-item {
+                                                #accordion61171 .accordion-item {
 
                                                     padding-bottom: 10px;
 
                                                 }
 
-                                                #accordion1441 .accordion-item-content {
+                                                #accordion61171 .accordion-item-content {
                                                     background: rgb(233, 233, 237);
                                                     background-clip: content-box;
 
                                                 }
 
-                                                #accordion1441 .accordion-item .icon-container {
+                                                #accordion61171 .accordion-item .icon-container {
                                                     font-size: 14px;
                                                     color: rgb(31, 37, 49);
                                                     width: 14px;
                                                     height: 14px;
                                                 }
 
-                                                #accordion1441 .accordion-item .icon-container:hover {
+                                                #accordion61171 .accordion-item .icon-container:hover {
                                                     color: rgb(166, 27, 103);
                                                 }
 
-                                                #accordion1441 .accordion-item .accordion-item-title .title-container {
+                                                #accordion61171 .accordion-item .accordion-item-title .title-container {
                                                     padding-left: 10px;
                                                 }
 
-                                                #accordion1441 .accordion-item .icon-container .custom-icon {
+                                                #accordion61171 .accordion-item .icon-container .custom-icon {
                                                     background-image: url(https://static.betconstruct.me/fs/userFiles/vbetcom-updated/media/thumb/);
                                                 }
 
-                                                #accordion1441 .accordion-item .accordion-item-content {
+                                                #accordion61171 .accordion-item .accordion-item-content {
                                                     border-color: #000000;
 
                                                     border-width: 0 0 0 0;
@@ -2399,10 +1695,10 @@ include_once('includes/header.php');
                                                     border-radius: 4px;
                                                 }
 
-                                                #accordion1441 .accordion-item .accordion-item-content .icon-container,
-                                                #accordion1441 .accordion-item .accordion-item-content .icon-container .custom-icon {}
+                                                #accordion61171 .accordion-item .accordion-item-content .icon-container,
+                                                #accordion61171 .accordion-item .accordion-item-content .icon-container .custom-icon {}
 
-                                                #accordion1441 .accordion-item .accordion-item-title {
+                                                #accordion61171 .accordion-item .accordion-item-title {
                                                     color: rgba(49, 49, 49, 0.7);
                                                     font-size: 14px;
                                                     line-height: 14px;
@@ -2414,7 +1710,7 @@ include_once('includes/header.php');
 
                                                 }
 
-                                                #accordion1441 .accordion-item .accordion-item-description {
+                                                #accordion61171 .accordion-item .accordion-item-description {
                                                     color: rgb(31, 37, 49);
                                                     font-size: 13px;
                                                     font-family: &#039;
@@ -2427,18 +1723,18 @@ include_once('includes/header.php');
 
                                                 }
 
-                                                #accordion1441 .accordion-item .accordion-item-description .description-container {
+                                                #accordion61171 .accordion-item .accordion-item-description .description-container {
                                                     margin-top: 10px;
                                                     margin-bottom: 15px;
                                                     transform: none;
                                                     ;
                                                 }
 
-                                                #accordion1441 .accordion-item .accordion-item-description .description-container a {
+                                                #accordion61171 .accordion-item .accordion-item-description .description-container a {
                                                     color: #333;
                                                 }
 
-                                                #accordion1441 .accordion-item .accordion-item-description .description-container a:hover {
+                                                #accordion61171 .accordion-item .accordion-item-description .description-container a:hover {
                                                     color: #333;
                                                 }
                                             </style>
@@ -2446,26 +1742,26 @@ include_once('includes/header.php');
                                     </div>
                                 </div>
                                 <div class="module-container  align-left ModuleTitle
-                                                 " style=" padding-right:40px;padding-left:40px;;   padding-bottom:2.0597322348095vh; ">
-                                    <div class="  module ModuleTitle " datamodule-id="1442">
+                                                 " style=" padding-right:40px;padding-left:40px;;   padding-bottom:1.1415525114155vh; ">
+                                    <div class="  module ModuleTitle " datamodule-id="61173">
                                         <div class="uc-content">
-                                            <h5><strong>“Live” bets</strong></h5>
+                                            <h5 style="margin-left:0cm;"><span style="color:#353535;"><strong>“Apuestas "en vivo"</strong></span></h5>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-center ModuleParagraph
                                                  " style=" padding-right:40px;padding-left:40px;;   padding-bottom:2.0597322348095vh; ">
-                                    <div class="  module ModuleParagraph " datamodule-id="1443" style="display:block;max-width:1110px;">
+                                    <div class="  module ModuleParagraph " datamodule-id="61174" style="display:block;max-width:1110px;">
                                         <div class="uc-content ">
-                                            <p class="AlignLeft">Our Live bets will keep you in suspense until the end of the sports event. Hundreds of fans simultaneously make bets in real time. The odds of bets are dynamic and change depending on the course of the sports event. Simultaneously, detailed information, such as the expired time, the current score, quantity of the yellow and red cards shown, etc. is displayed in real time. Live bets are available not only for soccer games but also for other sports events, such as tennis, Formula 1, American football, ice hockey, skiing, etc.</p>
+                                            <p class="AlignLeft" style="margin-left:0cm;"><span style="color:#1F2531;">Nuestras apuestas en vivo lo mantendrán en suspenso hasta el final del evento deportivo. Cientos de fanáticos hacen apuestas simultáneamente en tiempo real. Las cuotas de las apuestas son dinámicas y cambian según el curso del evento deportivo. Simultáneamente, se muestra información en tiempo real, como el tiempo del juego, el marcador actual, la cantidad de tarjetas amarillas y rojas mostradas, etc. Las apuestas en vivo están disponibles no solo para partidos de fútbol sino también para otros eventos deportivos, como tenis, Fórmula 1, fútbol americano, hockey sobre hielo, esquí, etc.</span></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="module-container  align-center ModuleAccordion
                                                  " style=" padding-right:40px;padding-left:40px;;   padding-bottom:3.0895983522142vh; ">
-                                    <div class="  module ModuleAccordion " datamodule-id="1444" style="display:block;max-width:1130px;">
+                                    <div class="  module ModuleAccordion " datamodule-id="61176" style="display:block;max-width:1130px;">
                                         <div class="accordion-module-container style1">
-                                            <div id="accordion1444" data-module-id="1444">
+                                            <div id="accordion61176" data-module-id="61176">
                                                 <div class="accordion-container">
                                                     <div class="accordion-item">
                                                         <div class="accordion-item-content">
@@ -2475,19 +1771,19 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        Why has the acceptance of my bet been delayed or interrupted?
+                                                                        ¿Por qué la aceptación de mi apuesta ha sido retrasada o interrumpida?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>This may occur because of the following reasons:</p>
+                                                                    <p>Esto puede ocurrir debido a las siguientes razones:</p>
                                                                     <ul>
-                                                                        <li>Technical problems (interruption of the broadcast during (live) games, software failure, power cuts, etc.).</li>
-                                                                        <li>Busy time periods.</li>
-                                                                        <li>High level of interest in a sports game/match or an event.</li>
-                                                                        <li>Congestion of a network provider.</li>
-                                                                        <li>Speed of completion of the sport or event. For example, a tennis game is an event with a very fast outcome, the quantity of bets is high, therefore changes in odds are frequent.</li>
+                                                                        <li>Problemas técnicos (interrupción de la transmisión durante partidos (en vivo), falla del software, cortes de energía, etc.).</li>
+                                                                        <li>Periodos de tiempo cargados.</li>
+                                                                        <li>Alto nivel de interés en un partido o en un evento.</li>
+                                                                        <li>Congestión de un proveedor de red.</li>
+                                                                        <li>Velocidad de finalización del deporte o evento. Por ejemplo, un partido de tenis es un evento con un resultado muy rápido, la cantidad de apuestas es alta, por lo tanto, los cambios en las cuotas son frecuentes.</li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -2502,13 +1798,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        Why was my bet registered twice?
+                                                                        ¿Por qué mi apuesta fue registrada por partida doble?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>This can happen only if you pressed the button twice. Please take care when placing bets.</p>
+                                                                    <p>Esto solo puede suceder si presiona el botón dos veces. Por favor tenga cuidado al hacer apuestas.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2522,13 +1818,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        Why have the odds on an event been suspended ahead of start time?
+                                                                        ¿Por qué se han suspendido las cuotas en un evento antes de la hora de inicio?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Suspension of odds could happen for any of the reasons in 2 above.</p>
+                                                                    <p>La suspensión de cuotas podría ocurrir por cualquiera de las razones mencionadas en la 1ra pregunta</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2542,13 +1838,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        How accurate is the data given on the Live matches on your website?
+                                                                        ¿Qué tan precisa es la información presentada en los partidos en vivo de su página web?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Every effort is made to ensure that this information is up to date and correct. However, it should only be considered as a guide when betting.</p>
+                                                                    <p>Se hace todo lo posible para garantizar que esta información esté actualizada y sea correcta. Sin embargo, solo debe ser considerado como una guía para apostar.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2562,13 +1858,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        Why is my limit on the (live) bet reduced?
+                                                                        ¿Por qué se redujo el límite de mi apuesta en vivo?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Vbet reserves the right to reduce the limit of all or some players. Vbet is not obliged to provide an explanation concerning these decisions and reserves the right to block some players from using its services.</p>
+                                                                    <p>Alivecasino se reserva el derecho de reducir el límite de todos o algunos jugadores. Alivecasino no está obligado a brindar una explicación sobre estas decisiones y se reserva el derecho de impedir que algunos jugadores usen sus servicios.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2577,38 +1873,38 @@ include_once('includes/header.php');
                                                 </div>
                                             </div>
                                             <style>
-                                                #accordion1444 .accordion-item {
+                                                #accordion61176 .accordion-item {
 
                                                     padding-bottom: 10px;
 
                                                 }
 
-                                                #accordion1444 .accordion-item-content {
+                                                #accordion61176 .accordion-item-content {
                                                     background: rgb(233, 233, 237);
                                                     background-clip: content-box;
 
                                                 }
 
-                                                #accordion1444 .accordion-item .icon-container {
+                                                #accordion61176 .accordion-item .icon-container {
                                                     font-size: 14px;
                                                     color: rgb(31, 37, 49);
                                                     width: 14px;
                                                     height: 14px;
                                                 }
 
-                                                #accordion1444 .accordion-item .icon-container:hover {
+                                                #accordion61176 .accordion-item .icon-container:hover {
                                                     color: rgb(166, 27, 103);
                                                 }
 
-                                                #accordion1444 .accordion-item .accordion-item-title .title-container {
+                                                #accordion61176 .accordion-item .accordion-item-title .title-container {
                                                     padding-left: 10px;
                                                 }
 
-                                                #accordion1444 .accordion-item .icon-container .custom-icon {
+                                                #accordion61176 .accordion-item .icon-container .custom-icon {
                                                     background-image: url(https://static.betconstruct.me/fs/userFiles/vbetcom-updated/media/thumb/);
                                                 }
 
-                                                #accordion1444 .accordion-item .accordion-item-content {
+                                                #accordion61176 .accordion-item .accordion-item-content {
                                                     border-color: #000000;
 
                                                     border-width: 0 0 0 0;
@@ -2616,10 +1912,10 @@ include_once('includes/header.php');
                                                     border-radius: 4px;
                                                 }
 
-                                                #accordion1444 .accordion-item .accordion-item-content .icon-container,
-                                                #accordion1444 .accordion-item .accordion-item-content .icon-container .custom-icon {}
+                                                #accordion61176 .accordion-item .accordion-item-content .icon-container,
+                                                #accordion61176 .accordion-item .accordion-item-content .icon-container .custom-icon {}
 
-                                                #accordion1444 .accordion-item .accordion-item-title {
+                                                #accordion61176 .accordion-item .accordion-item-title {
                                                     color: rgba(49, 49, 49, 0.7);
                                                     font-size: 14px;
                                                     line-height: 14px;
@@ -2631,7 +1927,7 @@ include_once('includes/header.php');
 
                                                 }
 
-                                                #accordion1444 .accordion-item .accordion-item-description {
+                                                #accordion61176 .accordion-item .accordion-item-description {
                                                     color: rgb(31, 37, 49);
                                                     font-size: 13px;
                                                     font-family: &#039;
@@ -2644,18 +1940,18 @@ include_once('includes/header.php');
 
                                                 }
 
-                                                #accordion1444 .accordion-item .accordion-item-description .description-container {
+                                                #accordion61176 .accordion-item .accordion-item-description .description-container {
                                                     margin-top: 10px;
                                                     margin-bottom: 15px;
                                                     transform: none;
                                                     ;
                                                 }
 
-                                                #accordion1444 .accordion-item .accordion-item-description .description-container a {
+                                                #accordion61176 .accordion-item .accordion-item-description .description-container a {
                                                     color: #333;
                                                 }
 
-                                                #accordion1444 .accordion-item .accordion-item-description .description-container a:hover {
+                                                #accordion61176 .accordion-item .accordion-item-description .description-container a:hover {
                                                     color: #333;
                                                 }
                                             </style>
@@ -2664,7 +1960,7 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container  align-left ModuleTitle
                                                  " style=" padding-right:40px;padding-left:40px;;   padding-bottom:2.0597322348095vh; ">
-                                    <div class="  module ModuleTitle " datamodule-id="1445">
+                                    <div class="  module ModuleTitle " datamodule-id="61178">
                                         <div class="uc-content">
                                             <h5><strong>Casino</strong></h5>
                                         </div>
@@ -2672,9 +1968,9 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="module-container  align-center ModuleAccordion
                           last                         " style=" padding-right:40px;padding-left:40px;;  ">
-                                    <div class="  module ModuleAccordion " datamodule-id="1446" style="display:block;max-width:1130px;">
+                                    <div class="  module ModuleAccordion " datamodule-id="61180" style="display:block;max-width:1130px;">
                                         <div class="accordion-module-container style1">
-                                            <div id="accordion1446" data-module-id="1446">
+                                            <div id="accordion61180" data-module-id="61180">
                                                 <div class="accordion-container">
                                                     <div class="accordion-item">
                                                         <div class="accordion-item-content">
@@ -2684,13 +1980,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        How do I create a Casino account?
+                                                                        ¿Cómo puedo crear una cuenta de casino?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Playing in the Vbet Casino requires a Vbet Account. If you do not already have one, just click on the “Register” button on the Casino page and follow the simple registration process.</p>
+                                                                    <p>Jugar en el Casino de Alivecasino requiere una cuenta de Alivecasino. Si aún no tiene una, simplemente haga clic en el botón "Registrarse" en la página del Casino y siga el sencillo proceso de registro.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2704,13 +2000,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        How do I make a deposit in the online casino?
+                                                                        ¿Cómo puedo realizar un depósito en el casino en línea?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Once logged in, hover on your profile pic on the top of your screen, then press “Deposit” button and select your desired amount and payment method.</p>
+                                                                    <p>Una vez que haya iniciado sesión, presione el botón "Depositar" en la parte superior de su pantalla y seleccione el monto deseado y el método de pago.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2724,13 +2020,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        How do I view what games I’ve played last?
+                                                                        ¿Cómo puedo ver los últimos juegos que he jugado?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Once logged in, you can view a Last Played Games using the appropriate icons on the bottom of the Casino page.</p>
+                                                                    <p>Una vez que haya iniciado sesión, podrá ver los últimos juegos jugados usando los iconos correspondientes en la parte inferior de la página del Casino.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2744,14 +2040,14 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What is a Random Number Generator (RNG)?
+                                                                        ¿Qué es un generador de números aleatorio (RNG)?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>A Random Number Generator (RNG) is a computer program which randomly produces the results for our online casino games. Every individual card dealt, dice rolled, or any other pertinent game action is produced by the program without any unrealistic duplication or predictability.</p>
-                                                                    <p>As the results are generated in a completely random manner with no possibility of manipulation, you always get fair results.</p>
+                                                                    <p>Un generador de números aleatorios (RNG) es un programa de computadora que produce de forma aleatoria los resultados de nuestros juegos de casino en línea. Todas las cartas individuales repartidas, dados tirados o cualquier otra acción pertinente del juego es producida por el programa sin ninguna duplicación o previsibilidad irreal.</p>
+                                                                    <p>Puesto que los resultados son generados de una manera completamente aleatoria sin posibilidad de manipulación, siempre se obtienen resultados justos.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2765,13 +2061,13 @@ include_once('includes/header.php');
                                                                         <i class="uci-plus-2"></i>
                                                                     </div>
                                                                     <div class="title-container">
-                                                                        What kind of games can I play online at the Vbet Casino?
+                                                                        ¿Qué tipo de juegos puedo jugar en línea en el casino de Alivecasino?
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="accordion-item-description">
                                                                 <div class="description-container">
-                                                                    <p>Vbet offers a wide selection of games to our players. You can find many different 3D games, Table games, a huge variety of Slot games, and even Live games including Blackjack, Roulette, Baccarat and Bet on Poker.</p>
+                                                                    <p>Alivecasino ofrece una amplia selección de juegos para nuestros jugadores. Podrá encontrar muchos juegos en 3D, juegos de mesa, una gran variedad de juegos de tragamonedas e incluso juegos en vivo como Blackjack, Ruleta, Bacará y Apuesta en póker.&nbsp;</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2780,38 +2076,38 @@ include_once('includes/header.php');
                                                 </div>
                                             </div>
                                             <style>
-                                                #accordion1446 .accordion-item {
+                                                #accordion61180 .accordion-item {
 
                                                     padding-bottom: 10px;
 
                                                 }
 
-                                                #accordion1446 .accordion-item-content {
+                                                #accordion61180 .accordion-item-content {
                                                     background: rgb(233, 233, 237);
                                                     background-clip: content-box;
 
                                                 }
 
-                                                #accordion1446 .accordion-item .icon-container {
+                                                #accordion61180 .accordion-item .icon-container {
                                                     font-size: 14px;
                                                     color: rgb(31, 37, 49);
                                                     width: 14px;
                                                     height: 14px;
                                                 }
 
-                                                #accordion1446 .accordion-item .icon-container:hover {
+                                                #accordion61180 .accordion-item .icon-container:hover {
                                                     color: rgb(166, 27, 103);
                                                 }
 
-                                                #accordion1446 .accordion-item .accordion-item-title .title-container {
+                                                #accordion61180 .accordion-item .accordion-item-title .title-container {
                                                     padding-left: 10px;
                                                 }
 
-                                                #accordion1446 .accordion-item .icon-container .custom-icon {
+                                                #accordion61180 .accordion-item .icon-container .custom-icon {
                                                     background-image: url(https://static.betconstruct.me/fs/userFiles/vbetcom-updated/media/thumb/);
                                                 }
 
-                                                #accordion1446 .accordion-item .accordion-item-content {
+                                                #accordion61180 .accordion-item .accordion-item-content {
                                                     border-color: #000000;
 
                                                     border-width: 0 0 0 0;
@@ -2819,10 +2115,10 @@ include_once('includes/header.php');
                                                     border-radius: 4px;
                                                 }
 
-                                                #accordion1446 .accordion-item .accordion-item-content .icon-container,
-                                                #accordion1446 .accordion-item .accordion-item-content .icon-container .custom-icon {}
+                                                #accordion61180 .accordion-item .accordion-item-content .icon-container,
+                                                #accordion61180 .accordion-item .accordion-item-content .icon-container .custom-icon {}
 
-                                                #accordion1446 .accordion-item .accordion-item-title {
+                                                #accordion61180 .accordion-item .accordion-item-title {
                                                     color: rgba(49, 49, 49, 0.7);
                                                     font-size: 14px;
                                                     line-height: 14px;
@@ -2834,7 +2130,7 @@ include_once('includes/header.php');
 
                                                 }
 
-                                                #accordion1446 .accordion-item .accordion-item-description {
+                                                #accordion61180 .accordion-item .accordion-item-description {
                                                     color: rgb(31, 37, 49);
                                                     font-size: 13px;
                                                     font-family: &#039;
@@ -2847,18 +2143,18 @@ include_once('includes/header.php');
 
                                                 }
 
-                                                #accordion1446 .accordion-item .accordion-item-description .description-container {
+                                                #accordion61180 .accordion-item .accordion-item-description .description-container {
                                                     margin-top: 10px;
                                                     margin-bottom: 15px;
                                                     transform: none;
                                                     ;
                                                 }
 
-                                                #accordion1446 .accordion-item .accordion-item-description .description-container a {
+                                                #accordion61180 .accordion-item .accordion-item-description .description-container a {
                                                     color: #333;
                                                 }
 
-                                                #accordion1446 .accordion-item .accordion-item-description .description-container a:hover {
+                                                #accordion61180 .accordion-item .accordion-item-description .description-container a:hover {
                                                     color: #333;
                                                 }
                                             </style>
@@ -2869,13 +2165,14 @@ include_once('includes/header.php');
                         </div>
                     </div>
                 </div>
+
                 <div class="margin-container" data-type="row" style="bottom:-5.9855521155831vh;">
                     <div class="margin-controller"></div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="push" style="height: 368.297px;"></div>
+    <div class="push" style="height: 389.906px;"></div>
 </div>
 
 <?php

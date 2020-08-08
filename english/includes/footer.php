@@ -60,9 +60,9 @@
 
                                             function downloadApp() {
                                                 if (window.navigator.platform.includes('Mac')) {
-                                                    window.location.href = "//games.vbet.com/download/4/vbet-skillgames-mac-setup.dmg"
+                                                    window.location.href = "//games.Alivecasino.com/download/4/vbet-skillgames-mac-setup.dmg"
                                                 } else if (window.navigator.platform.includes('Win')) {
-                                                    window.location.href = "//games.vbet.com//download/4/Vbet-SkillGames-windows-2.4.12-Setup.exe"
+                                                    window.location.href = "//games.Alivecasino.com//download/4/Vbet-SkillGames-windows-2.4.12-Setup.exe"
                                                 }
                                             }
 
@@ -513,7 +513,7 @@
                                                                 "@type": "ListItem",
                                                                 "position": 0,
                                                                 "name": "Sport Betting Rules",
-                                                                "item": "https:\/\/www.vbet.com\/sport-betting-rules"
+                                                                "item": "https:\/\/www.Alivecasino.com\/sport-betting-rules"
                                                             }]
                                                         }
                                                     </script>
@@ -771,7 +771,7 @@
                                                  " style="padding-right:0px;padding-left:40px;padding-bottom:2.1929824561404vh; ">
                                 <div class="module ModuleParagraph " datamodule-id="760">
                                     <div class="uc-content ">
-                                        <p style="color:rgba(53, 53, 53, 0.65);"><span style="color: rgba(255, 255, 255, 0.6);">© 2003 - 2020 VBET</span></p>
+                                        <p style="color:rgba(53, 53, 53, 0.65);"><span style="color: rgba(255, 255, 255, 0.6);">© 2003 - 2020 Alivecasino</span></p>
                                     </div>
                                 </div>
                             </div>
@@ -821,8 +821,8 @@
                                             {
                                                 "@context": "https:\/\/schema.org",
                                                 "@type": "Organization",
-                                                "url": "https:\/\/www.vbet.com",
-                                                "sameAs": ["https:\/\/www.facebook.com\/vbetcom\/", "https:\/\/twitter.com\/Vbet_com\/", "https:\/\/www.instagram.com\/vbet_com\/", "https:\/\/www.youtube.com\/channel\/UCuZ76V-LiadIuIr2m2F7vVg"]
+                                                "url": "https:\/\/www.Alivecasino.com",
+                                                "sameAs": ["https:\/\/www.facebook.com\/Alivecasino\/", "https:\/\/twitter.com\/Alivecasino_com\/", "https:\/\/www.instagram.com\/Alivecasino_com\/", "https:\/\/www.youtube.com\/channel\/UCuZ76V-LiadIuIr2m2F7vVg"]
                                             }
                                         </script>
                                     </div>
@@ -849,7 +849,7 @@
                          first                          " style="padding-right:80px;padding-left:40px;">
                                 <div class="operated_radon  module ModuleParagraph " datamodule-id="995">
                                     <div class="uc-content ">
-                                        <p><span style="color:rgba(255, 255, 255, 0.8);">Vbet.com is operated by Radon B.V. (Commercial register of Curacao no.126922 Emancipatie Boulevard 29, Curacao) under a sublicense CIL pursuant to Master gaming License №5536/JAZ. Play responsibly.</span></p>
+                                        <p><span style="color:rgba(255, 255, 255, 0.8);">Alivecasino.com is operated by Radon B.V. (Commercial register of Curacao no.126922 Emancipatie Boulevard 29, Curacao) under a sublicense CIL pursuant to Master gaming License №5536/JAZ. Play responsibly.</span></p>
                                     </div>
                                 </div>
                             </div>

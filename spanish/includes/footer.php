@@ -60,9 +60,9 @@
 
                                             function downloadApp() {
                                                 if (window.navigator.platform.includes('Mac')) {
-                                                    window.location.href = "//games.vbet.com/download/4/vbet-skillgames-mac-setup.dmg"
+                                                    window.location.href = "//games.Alivecasino.com/download/4/vbet-skillgames-mac-setup.dmg"
                                                 } else if (window.navigator.platform.includes('Win')) {
-                                                    window.location.href = "//games.vbet.com//download/4/Vbet-SkillGames-windows-2.4.12-Setup.exe"
+                                                    window.location.href = "//games.Alivecasino.com//download/4/Vbet-SkillGames-windows-2.4.12-Setup.exe"
                                                 }
                                             }
 
@@ -173,7 +173,7 @@
                          first" style="padding-right:0px;padding-left:40px;padding-bottom:2.1627188465499vh; ">
                                 <div class="module ModuleTitle " datamodule-id="56">
                                     <div class="uc-content">
-                                        <h6 style="color:rgb(90, 91, 91);"><span style="text-transform: uppercase; color: rgb(255, 255, 255);"><strong>ABOUT</strong></span></h6>
+                                        <h6 style="color:rgb(90, 91, 91);"><span style="text-transform: uppercase; color: rgb(255, 255, 255);"><strong>Sobre la empresa</strong></span></h6>
                                     </div>
                                 </div>
                             </div>
@@ -313,23 +313,23 @@
                                         <div class="standard-view">
                                             <ul class="navigation" style="font-family: 'Roboto';">
                                                 <li class="page show" data-anchor="">
-                                                    <a class="nav-item" href="/english/about.php" data-page-type="pageBlank">
+                                                    <a class="nav-item" href="/spanish/about.php" data-page-type="pageBlank">
                                                         <span class="title">
-                                                            About us
+                                                            Sobre nosotros
                                                         </span>
                                                     </a>
                                                 </li>
                                                 <li class="page show" data-anchor="">
-                                                    <a class="nav-item" href="/english/responsible-gaming.php" data-page-type="pageBlank">
+                                                    <a class="nav-item" href="/spanish/responsible-gaming.php" data-page-type="pageBlank">
                                                         <span class="title">
-                                                            Responsible Gaming
+                                                            Juego responsable
                                                         </span>
                                                     </a>
                                                 </li>
                                                 <li class="page show" data-anchor="">
                                                     <a class="nav-item" href="https://vbetaffiliates.com/" data-page-type="pageExternal" target="_blank" rel="noreferrer noopener">
                                                         <span class="title">
-                                                            Affiliate Program
+                                                            Programa de Afiliados
                                                         </span>
                                                     </a>
                                                 </li>
@@ -346,7 +346,7 @@
                          first                          " style="padding-right:0px;padding-left:40px;padding-bottom:2.1929824561404vh; ">
                                 <div class="module ModuleTitle " datamodule-id="57">
                                     <div class="uc-content">
-                                        <h6 style="color:rgb(90, 91, 91);"><span style="text-transform: uppercase; color: rgb(255, 255, 255);"><strong>HELP</strong></span></h6>
+                                        <h6 style="color:rgb(90, 91, 91);"><span style="text-transform: uppercase; color: rgb(255, 255, 255);"><strong>AYUDA</strong></span></h6>
                                     </div>
                                 </div>
                             </div>
@@ -486,23 +486,23 @@
                                         <div class="standard-view">
                                             <ul class="navigation" style="font-family: 'Roboto';">
                                                 <li class="page show" data-anchor="">
-                                                    <a class="nav-item" href="/english/faq.php" data-page-type="pageBlank">
+                                                    <a class="nav-item" href="/spanish/faq.php" data-page-type="pageBlank">
                                                         <span class="title">
-                                                            FAQ
+                                                            Preguntas frecuentes
                                                         </span>
                                                     </a>
                                                 </li>
                                                 <li class="page show" data-anchor="">
-                                                    <a class="nav-item" href="/english/contact.php" data-page-type="pageBlank">
+                                                    <a class="nav-item" href="/spanish/contact.php" data-page-type="pageBlank">
                                                         <span class="title">
-                                                            Contact us
+                                                            Contáctenos
                                                         </span>
                                                     </a>
                                                 </li>
                                                 <li class="page  active   show" data-anchor="">
-                                                    <a class="nav-item" href="/english/sport-betting.php" data-page-type="pageBlank">
+                                                    <a class="nav-item" href="/spanish/sport-betting.php" data-page-type="pageBlank">
                                                         <span class="title">
-                                                            Sport Betting Rules
+                                                            Apuestas deportivas
                                                         </span>
                                                     </a>
                                                     <script type="application/ld+json">
@@ -513,20 +513,20 @@
                                                                 "@type": "ListItem",
                                                                 "position": 0,
                                                                 "name": "Sport Betting Rules",
-                                                                "item": "https:\/\/www.vbet.com\/sport-betting-rules"
+                                                                "item": "https:\/\/www.Alivecasino.com\/sport-betting-rules"
                                                             }]
                                                         }
                                                     </script>
                                                 </li>
                                                 <li class="page show" data-anchor="">
-                                                    <a class="nav-item" href="/english/casino.php" data-page-type="pageBlank">
+                                                    <a class="nav-item" href="/spanish/casino.php" data-page-type="pageBlank">
                                                         <span class="title">
                                                             Casino
                                                         </span>
                                                     </a>
                                                 </li>
                                                 <li class="page show" data-anchor="">
-                                                    <a class="nav-item" href="/english/poker.php" data-page-type="pageBlank">
+                                                    <a class="nav-item" href="/spanish/poker.php" data-page-type="pageBlank">
                                                         <span class="title">
                                                             Poker
                                                         </span>
@@ -546,7 +546,7 @@
                          first                          " style="padding-right:0px;padding-left:40px;padding-bottom:2.1929824561404vh; ">
                                 <div class="module ModuleTitle " datamodule-id="754">
                                     <div class="uc-content">
-                                        <h6 style="color:rgb(90, 91, 91);"><span style="text-transform: uppercase; color: rgb(255, 255, 255);"><strong>Regulations</strong></span></h6>
+                                        <h6 style="color:rgb(90, 91, 91);"><span style="text-transform: uppercase; color: rgb(255, 255, 255);"><strong>Regulaciones</strong></span></h6>
                                     </div>
                                 </div>
                             </div>
@@ -686,23 +686,23 @@
                                         <div class="standard-view">
                                             <ul class="navigation" style="font-family: 'Roboto';">
                                                 <li class="page show" data-anchor="">
-                                                    <a class="nav-item" href="/english/rng-certificate.php" data-page-type="pageBlank">
+                                                    <a class="nav-item" href="/spanish/rng-certificate.php" data-page-type="pageBlank">
                                                         <span class="title">
-                                                            RNG Certificate
+                                                            Certificado RNG
                                                         </span>
                                                     </a>
                                                 </li>
                                                 <li class="page show" data-anchor="">
-                                                    <a class="nav-item" href="/english/terms-and-conditions.php" data-page-type="pageBlank">
+                                                    <a class="nav-item" href="/spanish/terms-and-conditions.php" data-page-type="pageBlank">
                                                         <span class="title">
-                                                            General Terms and Conditions
+                                                            Términos y conficiones
                                                         </span>
                                                     </a>
                                                 </li>
                                                 <li class="page show" data-anchor="">
-                                                    <a class="nav-item" href="/english/privacy-policy.php" data-page-type="pageBlank">
+                                                    <a class="nav-item" href="/spanish/privacy-policy.php" data-page-type="pageBlank">
                                                         <span class="title">
-                                                            Privacy Policy
+                                                            Política de privacidad
                                                         </span>
                                                     </a>
                                                 </li>
@@ -771,7 +771,7 @@
                                                  " style="padding-right:0px;padding-left:40px;padding-bottom:2.1929824561404vh; ">
                                 <div class="module ModuleParagraph " datamodule-id="760">
                                     <div class="uc-content ">
-                                        <p style="color:rgba(53, 53, 53, 0.65);"><span style="color: rgba(255, 255, 255, 0.6);">© 2003 - 2020 VBET</span></p>
+                                        <p style="color:rgba(53, 53, 53, 0.65);"><span style="color: rgba(255, 255, 255, 0.6);">© 2003 - 2020 Alivecasino</span></p>
                                     </div>
                                 </div>
                             </div>
@@ -821,8 +821,8 @@
                                             {
                                                 "@context": "https:\/\/schema.org",
                                                 "@type": "Organization",
-                                                "url": "https:\/\/www.vbet.com",
-                                                "sameAs": ["https:\/\/www.facebook.com\/vbetcom\/", "https:\/\/twitter.com\/Vbet_com\/", "https:\/\/www.instagram.com\/vbet_com\/", "https:\/\/www.youtube.com\/channel\/UCuZ76V-LiadIuIr2m2F7vVg"]
+                                                "url": "https:\/\/www.alivecasino.com",
+                                                "sameAs": ["https:\/\/www.facebook.com\/alivecasinocom\/", "https:\/\/twitter.com\/Alivecasino_com\/", "https:\/\/www.instagram.com\/Alivecasino_com\/", "https:\/\/www.youtube.com\/channel\/UCuZ76V-LiadIuIr2m2F7vVg"]
                                             }
                                         </script>
                                     </div>
@@ -849,7 +849,7 @@
                          first                          " style="padding-right:80px;padding-left:40px;">
                                 <div class="operated_radon  module ModuleParagraph " datamodule-id="995">
                                     <div class="uc-content ">
-                                        <p><span style="color:rgba(255, 255, 255, 0.8);">Vbet.com is operated by Radon B.V. (Commercial register of Curacao no.126922 Emancipatie Boulevard 29, Curacao) under a sublicense CIL pursuant to Master gaming License №5536/JAZ. Play responsibly.</span></p>
+                                        <p><span style="color:rgba(255, 255, 255, 0.8);">Alivecasino.com is operated by Radon B.V. (Commercial register of Curacao no.126922 Emancipatie Boulevard 29, Curacao) under a sublicense CIL pursuant to Master gaming License №5536/JAZ. Play responsibly.</span></p>
                                     </div>
                                 </div>
                             </div>
