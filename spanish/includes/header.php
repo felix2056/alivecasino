@@ -3,34 +3,7 @@
 <head>
     <script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en.cDdhVphf8T0.O/m=client/rt=j/sv=1/d=1/ed=1/am=wQc/rs=AGLTcCPgxnVLH-m1Wb1NpO4DLY9DNtv-bQ/cb=gapi.loaded_0" async=""></script><script type="text/javascript" async="" src="http://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/client.js" gapi_processed="true"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/IU7gZ7o6RDdDE6U4Y1YJJWnN/recaptcha__en.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/IU7gZ7o6RDdDE6U4Y1YJJWnN/recaptcha__en.js"></script><script src="https://www.recaptcha.net/recaptcha/api.js?render=6LewArAUAAAAAH-ZevuCBp3Iao6liPZee8h-0Mf8"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en.cDdhVphf8T0.O/m=client/rt=j/sv=1/d=1/ed=1/am=wQc/rs=AGLTcCPgxnVLH-m1Wb1NpO4DLY9DNtv-bQ/cb=gapi.loaded_0" async=""></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/XouiqSILPPT9wqvb4ipoGannh3kQzfj3/analytics.min.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/client.js" gapi_processed="true"></script>
         
-    
-    <script src="/assets/jQuery/jquery-3.2.1.min.js?v=1596804054"></script>
-    <script src="/assets/js/publicAssets.js?v=1596804054"></script>
-    <script src="/assets/js/public.js?v=1596804054"></script>
-    <link rel="stylesheet" href="/assets/frontend-addon/spring-builder-public/assets/vendor.css?v=1596804054">
-    <link rel="stylesheet" href="/assets/frontend-addon/spring-builder-public/assets/spring-builder-public.css?v=1596804054">
-    <link rel="stylesheet" href="/assets/frontend-addon/spring-builder-public/assets/spring-builder-public.css?v=1596804054">
-    <script src="/assets/frontend-addon/spring-builder-public/assets/vendor.js?v=1596804054"></script>
-    <script src="/assets/frontend-addon/spring-builder-public/assets/spring-builder-public.js?v=1596804054"></script>
-    <script src="/assets/js/lottie.min.js"></script>
-    
-    <style>
-        .account-container .body .account-info[data-section="messages"] .new-message-link {
-        display: none!important;
-        }
-        .account-container .body .tab-item.section-tab[data-tab="sent-messages"],
-        .account-container .body .account-info[data-section="messages"] .new-message-link,
-        .account-container [data-tab="sent-messages"],
-        .account-container [data-tab="new-message"]
-        { display: none!important;
-        }
-        .styled-dropdown.my-bets select option[value="10"] {
-        display: none!important;
-        }
-        .ct-page-intro-info-container .countdown-container {
-            display: none;
-        }
-    </style>
+
 
     <title>Sportsbook, Online Casino Games, Poker &amp; Betting - ALIVECASINO</title>
 

@@ -942,3 +942,33 @@
         </div>
     </div>
 </div>
+
+<script src="/assets/jQuery/jquery-3.2.1.min.js"></script>
+    <script src="/assets/js/publicAssets.js"></script>
+    <script src="/assets/js/public.js"></script>
+
+
+    <link rel="stylesheet" href="/assets/frontend-addon/spring-builder-public/assets/vendor.css?v=1596804054">
+    <link rel="stylesheet" href="/assets/frontend-addon/spring-builder-public/assets/spring-builder-public.css?v=1596804054">
+    <link rel="stylesheet" href="/assets/frontend-addon/spring-builder-public/assets/spring-builder-public.css?v=1596804054">
+    <script src="/assets/frontend-addon/spring-builder-public/assets/vendor.js?v=1596804054"></script>
+    <script src="/assets/frontend-addon/spring-builder-public/assets/spring-builder-public.js?v=1596804054"></script>
+    <script src="/assets/js/lottie.min.js"></script>
+    
+    <style>
+        .account-container .body .account-info[data-section="messages"] .new-message-link {
+        display: none!important;
+        }
+        .account-container .body .tab-item.section-tab[data-tab="sent-messages"],
+        .account-container .body .account-info[data-section="messages"] .new-message-link,
+        .account-container [data-tab="sent-messages"],
+        .account-container [data-tab="new-message"]
+        { display: none!important;
+        }
+        .styled-dropdown.my-bets select option[value="10"] {
+        display: none!important;
+        }
+        .ct-page-intro-info-container .countdown-container {
+            display: none;
+        }
+    </style>
