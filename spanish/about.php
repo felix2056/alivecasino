@@ -18,9 +18,9 @@ include_once('includes/header.php');
                                         
                                                                         " data-id="13532" style="   background:rgba(169, 40, 114, 0); ">
                                                 <div class="row-container ">
-                                                    <div class="row headerRow " style="">
+                                                    <div class="row headerRow ">
                                                         <div class="column col-xs-1 " datacolumn-id="22547" style="  padding:0vh 0vh;      background: rgb(29, 24, 78); ">
-                                                            <div class="column-container " style="">
+                                                            <div class="column-container ">
                                                                 <div class="module-container  align-center ModuleSpace
                                         first   last                         ">
                                                                     <div class="  module ModuleSpace " datamodule-id="62186">
@@ -53,12 +53,12 @@ include_once('includes/header.php');
                                                             </div>
                                                         </div>
                                                         <div class="column col-xs-11 " datacolumn-id="22548" style="  padding:0vh 0vh;      background: rgb(29, 24, 78); ">
-                                                            <div class="column-container vertical-center" style="">
+                                                            <div class="column-container vertical-center">
                                                                 <div class="module-container   only-mobile   align-left ModuleLogo
                                         first                          " style=" padding-right:80px;padding-left:80px;;   padding-bottom:0px; ">
                                                                     <div class="  module ModuleLogo " datamodule-id="62187" style="display:block;max-width:140px;">
                                                                         <a href="/spanish/index.html">
-                                                                            <div class="" style="">
+                                                                            <div class="">
                                                                                 <img data-logo-element="" class="lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" alt="Alivecasino" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" data-was-processed="true">
                                                                             </div>
                                                                         </a>
@@ -368,8 +368,8 @@ include_once('includes/header.php');
                                                                                 <div class=" effect-block public-mode figure effect-selena  ">
                                                                                     <div class="layer"></div>
                                                                                     <div>
-                                                                                        <img class="image lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/62191-promosicon3x.png" style="" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/62191-promosicon3x.png" data-was-processed="true">
-                                                                                        <div style="" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/62191-promosicon3x.png" data-target="0" data-link="https://www.vbet.com/es/promociones" class="figcaption not-clickable">
+                                                                                        <img class="image lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/62191-promosicon3x.png" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/62191-promosicon3x.png" data-was-processed="true">
+                                                                                        <div data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/62191-promosicon3x.png" data-target="0" data-link="https://www.vbet.com/es/promociones" class="figcaption not-clickable">
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -394,18 +394,16 @@ include_once('includes/header.php');
                     </div>
                 </div>
 
-                <div class="header-and-main-rows  " style="background: linear-gradient(135deg, rgb(62, 11, 11) 29%, rgb(216, 30, 45) 87%); margin-bottom: -389.906px;">
+                <div class="header-and-main-rows" style="linear-gradient(135deg, #020220 29%, #0c0e4d 87%); margin-bottom: -389.906px;">
                     <?php include_once('includes/nav.php'); ?>
 
                     <div class="main-rows">
                         <div class="uc-row-wrapper ">
-                            <div class="uc-row    first                           
-                                        
-                                                                        " data-id="19562" style="   margin-bottom:0vh;  ">
-                                <div class="row-container ">
-                                    <div class="row mainRow " style="">
+                            <div class="uc-row first" data-id="19562" style="   margin-bottom:0vh;  ">
+                                <div class="row-container">
+                                    <div class="row mainRow">
                                         <div class="column col-sm-12 " datacolumn-id="31006" style="      ">
-                                            <div class="column-container vertical-top" style="">
+                                            <div class="column-container vertical-top">
                                                 <div class="module-container  align-center ModuleCustomHtml
                                         first   last                         ">
                                                     <div class="  module ModuleCustomHtml " datamodule-id="85792">
@@ -498,7 +496,7 @@ include_once('includes/header.php');
                                         
                                                                         " data-id="19563" style="   margin-bottom:0vh;   background:rgba(187, 40, 142, 0); ">
                                 <div class="row-container ">
-                                    <div class="row mainRow " style="">
+                                    <div class="row mainRow ">
                                         <div class="column col-sm-6 " datacolumn-id="31007" style="  padding:0vh 0vh;      background: transparent; ">
                                             <div class="column-container vertical-top" style=" margin-top:0vh; ">
                                                 <div class="module-container   only-mobile   align-center ModuleSpace
@@ -594,7 +592,7 @@ include_once('includes/header.php');
                                             </div>
                                         </div>
                                         <div class="column col-sm-6 " datacolumn-id="31008" style="  padding:0vh 0vh;     ">
-                                            <div class="column-container vertical-center" style="">
+                                            <div class="column-container vertical-center">
                                                 <div class="module-container   only-mobile   align-center ModuleSpace
                                         first                          " style="  padding-bottom:0vh; ">
                                                     <div class="  module ModuleSpace " datamodule-id="85798">
@@ -630,8 +628,8 @@ include_once('includes/header.php');
                                                         <div class="animated animated-85799 " data-loading-animation="" data-animated-id="85799">
                                                             <div class=" ">
                                                                 <div>
-                                                                    <div class="" style="">
-                                                                        <img class="image lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/85799-untitled-1-15846491608309.png" data-webp="0" style="" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/85799-untitled-1-15846491608309.png" data-was-processed="true">
+                                                                    <div class="">
+                                                                        <img class="image lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/85799-untitled-1-15846491608309.png" data-webp="0" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/85799-untitled-1-15846491608309.png" data-was-processed="true">
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -652,7 +650,7 @@ include_once('includes/header.php');
                                         
                                                                         " data-id="19564" style="   margin-bottom:0vh;   background:rgba(169, 40, 114, 0); ">
                                 <div class="row-container ">
-                                    <div class="row mainRow " style="">
+                                    <div class="row mainRow ">
                                         <div class="column col-sm-3 " datacolumn-id="31009" style="  padding:0vh 0vh;     ">
                                             <div class="column-container vertical-top" style=" margin-top:0vh; ">
                                                 <div class="module-container  align-left ModuleTitle
@@ -862,7 +860,7 @@ include_once('includes/header.php');
                                         
                                                                         " data-id="19569" style="   margin-bottom:0vh;  ">
                                 <div class="row-container ">
-                                    <div class="row mainRow " style="">
+                                    <div class="row mainRow ">
                                         <div class="column col-sm-12 " datacolumn-id="31020" style="      ">
                                             <div class="column-container vertical-top" style=" margin-top:0vh; ">
                                                 <div class="module-container  align-center ModuleCustomHtml

@@ -361,7 +361,7 @@
                     </div>
                 </div>
 
-                <div class="header-and-main-rows" style="background: linear-gradient(135deg, rgb(62, 11, 11) 29%, rgb(216, 30, 45) 87%); margin-bottom: -368.297px;">
+                <div class="header-and-main-rows" style="background: linear-gradient(135deg, #020220 29%, #0c0e4d 87%); margin-bottom: -368.297px;">
                     <?php include_once('includes/nav.php'); ?>
                     
                     <div class="main-rows">
