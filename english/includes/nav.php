@@ -1,4 +1,4 @@
-<div class="header-rows  " style="  margin-bottom:0vh;  background:rgb(29, 24, 78);">
+<!--<div class="header-rows  " style="  margin-bottom:0vh;  background:rgb(29, 24, 78);">
     <div class="header-row-wrapper sb-account-row">
         <div class="uc-row-wrapper ">
             <div class="uc-row vbetheader header-row" data-id="11672" style="   margin-bottom:0vh;   background:rgba(89, 72, 147, 0); ">
@@ -323,7 +323,6 @@
                                                             </a>
                                                         </div>
 
-                                                        <!---->
                                                     </div>
                                                 </div>
                                             </div>
@@ -392,14 +391,6 @@
                                                         </span>
                                                     </a>
                                                 </li>
-                                                <!-- <li>
-                                                    <a onclick="changeLanguage(this,'pt-br');" data-href="https://www.vbet.com/pt-br/sobre-nos" href="https://www.vbet.com/pt-br/sobre-nos">
-                                                        <span class="flag" style="background-image: url(https://static.betconstruct.me/fs/userFiles/vbetcom-updated/media/pt-br-15922100925062.svg);"></span>
-                                                        <span class="name">
-                                                            PT
-                                                        </span>
-                                                    </a>
-                                                </li> -->
                                             </ul>
                                         </div>
                                     </div>
@@ -613,4 +604,4 @@
             </div>
         </div>
     </div>
-</div>
+</div>-->

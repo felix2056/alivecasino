@@ -1,4 +1,4 @@
-<div class="footer-rows " style="background:rgb(246, 246, 246);">
+<!--<div class="footer-rows " style="background:rgb(246, 246, 246);">
     <div class="uc-row-wrapper ">
         <div class="uc-row first" data-id="35" style="margin-bottom:0vh;  background:rgb(255, 255, 255);">
             <div class="row-container ">
@@ -941,7 +941,7 @@
             </div>
         </div>
     </div>
-</div>
+</div>-->
 
 <script src="/assets/jQuery/jquery-3.2.1.min.js?v=1596804054"></script>
     <script src="/assets/js/publicAssets.js?v=1596804054"></script>
