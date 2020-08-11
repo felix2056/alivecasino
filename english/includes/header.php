@@ -32,7 +32,7 @@
         }
     </style>
 
-    <title>Sportsbook, Online Casino Games, Poker &amp; Betting - VBET</title>
+    <title>Sportsbook, Online Casino Games, Poker &amp; Betting - ALIVECASINO</title>
 
 
     <meta name="image" content="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/1501-seo-2020-01-24-175140-window.png">
@@ -41,7 +41,7 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="YES">
     <meta name="robots" content="index, follow">
-    <link rel="icon" type="image/png" href="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/favicon.png?v=1569508948">
+    <link rel="icon" type="image/png" href="/assets/images/AliveCasinoIcon.png">
     <link href="https://fonts.googleapis.com/css?family=ABeeZee:400,400italic:400,600,700,800|Bebas+Neue:400,600,700,800|Roboto:400,700,500,300" rel="stylesheet">
     <link rel="preload" as="style" type="text/css" href="/assets/css/public.css?v=1596051417">
     <link rel="stylesheet" type="text/css" href="/assets/css/public.css?v=1596051417">
@@ -769,6 +769,3 @@
     </style>
 </head>
 
-<body class="txlive ember-application" data-gr-c-s-loaded="true">
-    <div class="main-container">
-        <div class="main-layout">

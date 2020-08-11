@@ -32,7 +32,7 @@
         }
     </style>
 
-    <title>Sportsbook, Online Casino Games, Poker &amp; Betting - VBET</title>
+    <title>Sportsbook, Online Casino Games, Poker &amp; Betting - ALIVECASINO</title>
 
 
     <meta name="image" content="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/1501-seo-2020-01-24-175140-window.png">
@@ -768,7 +768,3 @@
         @keyframes erd_scroll_detection_container_animation { 0% { opacity: 1; } 50% { opacity: 0; } 100% { opacity: 1; } }</style><script src="undefinedsentry.1c7aaf86eae0f5793e78.js"></script><script async="" src="https://script.hotjar.com/modules.9e0dfa53977fdaaa37e1.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}
     </style>
 </head>
-
-<body class="txlive ember-application" data-gr-c-s-loaded="true">
-    <div class="main-container">
-        <div class="main-layout">

@@ -1,0 +1,240 @@
+@font-face {
+  font-family: 'aff_icons';
+  src: url('fonts/aff_icons.eot?hib9pu');
+  src: url('fonts/aff_icons.eot?hib9pu#iefix') format('embedded-opentype'), url('fonts/aff_icons.ttf?hib9pu') format('truetype'), url('fonts/aff_icons.woff?hib9pu') format('woff'), url('fonts/aff_icons.svg?hib9pu#aff_icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'aff_icons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-afficons_affiliates_full_add:before {
+  content: "\21";
+}
+.icon-afficons_affiliates_full_affiliate:before {
+  content: "\22";
+}
+.icon-afficons_affiliates_full_alert:before {
+  content: "\23";
+}
+.icon-afficons_affiliates_full_arrow_big:before {
+  content: "\24";
+}
+.icon-afficons_affiliates_full_arrow_bottom:before {
+  content: "\25";
+}
+.icon-afficons_affiliates_full_arrow_left:before {
+  content: "\26";
+}
+.icon-afficons_affiliates_full_arrow_right:before {
+  content: "\27";
+}
+.icon-afficons_affiliates_full_arrow_top:before {
+  content: "\28";
+}
+.icon-afficons_affiliates_full_burger:before {
+  content: "\29";
+}
+.icon-afficons_affiliates_full_calendar:before {
+  content: "\2a";
+}
+.icon-afficons_affiliates_full_calendar_small:before {
+  content: "\2b";
+}
+.icon-afficons_affiliates_full_check:before {
+  content: "\2c";
+}
+.icon-afficons_affiliates_full_close:before {
+  content: "\2d";
+}
+.icon-afficons_affiliates_full_close_big:before {
+  content: "\2e";
+}
+.icon-afficons_affiliates_full_code:before {
+  content: "\2f";
+}
+.icon-afficons_affiliates_full_commision_plan:before {
+  content: "\30";
+}
+.icon-afficons_affiliates_full_congif:before {
+  content: "\31";
+}
+.icon-afficons_affiliates_full_copy:before {
+  content: "\32";
+}
+.icon-afficons_affiliates_full_curency_usd:before {
+  content: "\33";
+}
+.icon-afficons_affiliates_full_currency_eur:before {
+  content: "\34";
+}
+.icon-afficons_affiliates_full_dashboard:before {
+  content: "\35";
+}
+.icon-afficons_affiliates_full_deactivate:before {
+  content: "\36";
+}
+.icon-afficons_affiliates_full_deselect_all:before {
+  content: "\37";
+}
+.icon-afficons_affiliates_full_done:before {
+  content: "\38";
+}
+.icon-afficons_affiliates_full_edit:before {
+  content: "\39";
+}
+.icon-afficons_affiliates_full_error:before {
+  content: "\3a";
+}
+.icon-afficons_affiliates_full_facebook:before {
+  content: "\3b";
+}
+.icon-afficons_affiliates_full_filter:before {
+  content: "\3c";
+}
+.icon-afficons_affiliates_full_fovorite:before {
+  content: "\3d";
+}
+.icon-afficons_affiliates_full_g:before {
+  content: "\3e";
+}
+.icon-afficons_affiliates_full_grid_picker:before {
+  content: "\3f";
+}
+.icon-afficons_affiliates_full_grid_view_more_info:before {
+  content: "\40";
+}
+.icon-afficons_affiliates_full_grid_view_pics:before {
+  content: "\41";
+}
+.icon-afficons_affiliates_full_grid_view_row:before {
+  content: "\42";
+}
+.icon-afficons_affiliates_full_group:before {
+  content: "\43";
+}
+.icon-afficons_affiliates_full_group_v2:before {
+  content: "\44";
+}
+.icon-afficons_affiliates_full_help:before {
+  content: "\45";
+}
+.icon-afficons_affiliates_full_instagram:before {
+  content: "\46";
+}
+.icon-afficons_affiliates_full_language:before {
+  content: "\47";
+}
+.icon-afficons_affiliates_full_link:before {
+  content: "\48";
+}
+.icon-afficons_affiliates_full_link_2:before {
+  content: "\49";
+}
+.icon-afficons_affiliates_full_link_off:before {
+  content: "\4a";
+}
+.icon-afficons_affiliates_full_log .path1:before {
+  content: "\4b";
+  color: #010101;
+}
+.icon-afficons_affiliates_full_log .path2:before {
+  content: "\4c";
+  margin-left: -1em;
+  color: #ffffff;
+}
+.icon-afficons_affiliates_full_log .path3:before {
+  content: "\4d";
+  margin-left: -1em;
+  color: #ffffff;
+}
+.icon-afficons_affiliates_full_log .path4:before {
+  content: "\4e";
+  margin-left: -1em;
+  color: #ffffff;
+}
+.icon-afficons_affiliates_full_login:before {
+  content: "\4f";
+}
+.icon-afficons_affiliates_full_mail:before {
+  content: "\50";
+}
+.icon-afficons_affiliates_full_media:before {
+  content: "\51";
+}
+.icon-afficons_affiliates_full_notification:before {
+  content: "\52";
+}
+.icon-afficons_affiliates_full_pending:before {
+  content: "\53";
+}
+.icon-afficons_affiliates_full_players:before {
+  content: "\54";
+}
+.icon-afficons_affiliates_full_players_2:before {
+  content: "\55";
+}
+.icon-afficons_affiliates_full_product:before {
+  content: "\56";
+}
+.icon-afficons_affiliates_full_publish:before {
+  content: "\57";
+}
+.icon-afficons_affiliates_full_reload:before {
+  content: "\58";
+}
+.icon-afficons_affiliates_full_reload_small:before {
+  content: "\59";
+}
+.icon-afficons_affiliates_full_report:before {
+  content: "\5a";
+}
+.icon-afficons_affiliates_full_select_all:before {
+  content: "\5b";
+}
+.icon-afficons_affiliates_full_share:before {
+  content: "\5c";
+}
+.icon-afficons_affiliates_full_social:before {
+  content: "\5d";
+}
+.icon-afficons_affiliates_full_tools:before {
+  content: "\5e";
+}
+.icon-afficons_affiliates_full_transfer:before {
+  content: "\5f";
+}
+.icon-afficons_affiliates_full_twitter:before {
+  content: "\60";
+}
+.icon-afficons_affiliates_full_view:before {
+  content: "\61";
+}
+.icon-afficons_affiliates_full_visibility:before {
+  content: "\62";
+}
+.icon-afficons_affiliates_full_vk:before {
+  content: "\63";
+}
+.icon-afficons_affiliates_full_wallet:before {
+  content: "\64";
+}
+.icon-afficons_affiliates_full_wallet_correction:before {
+  content: "\65";
+}
+.icon-afficons_affiliates_full_withdraw:before {
+  content: "\66";
+}
+.icon-afficons_affiliates_full_youtube:before {
+  content: "\67";
+}

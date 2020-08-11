@@ -1,0 +1,15 @@
+pre {
+   // background-color: ghostwhite;
+   // border: 1px solid silver;
+   padding: 10px 20px;
+   margin: 20px;
+}
+.json-key {
+   color: #1b9bfb;
+}
+.json-value {
+   color: #474747;
+}
+.json-string {
+   color:  #474747;
+}

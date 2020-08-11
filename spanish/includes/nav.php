@@ -180,49 +180,49 @@
                                             <div class="standard-view ">
                                                 <ul class="navigation" style="font-family: 'Roboto';">
                                                     <li class=" page   show" data-anchor="">
-                                                        <a class="nav-item" href="https://www.vbet.com/es/en-vivo" data-page-type="pageLive">
+                                                        <a class="nav-item" href="https://www.alivecasino.io/#/sport/?type=1" data-page-type="pageLive">
                                                             <span class="title">
                                                                 En vivo
                                                             </span>
                                                         </a>
                                                     </li>
                                                     <li class=" page   show" data-anchor="">
-                                                        <a class="nav-item" href="https://www.vbet.com/es/deportes" data-page-type="pagePrematch">
+                                                        <a class="nav-item" href="https://www.alivecasino.io/#/sport/?type=0" data-page-type="pagePrematch">
                                                             <span class="title">
                                                                 Deportes
                                                             </span>
                                                         </a>
                                                     </li>
                                                     <li class=" page   show" data-anchor="">
-                                                        <a class="nav-item" href="https://www.vbet.com/es/casino" data-page-type="pageCasino">
+                                                        <a class="nav-item" href="https://www.alivecasino.io/#/casino/" data-page-type="pageCasino">
                                                             <span class="title">
                                                                 Casino
                                                             </span>
                                                         </a>
                                                     </li>
                                                     <li class=" page   show" data-anchor="">
-                                                        <a class="nav-item" href="https://www.vbet.com/es/casino-en-vivo" data-page-type="pageCasino">
+                                                        <a class="nav-item" href="https://www.alivecasino.io/#/livedealer/" data-page-type="pageCasino">
                                                             <span class="title">
                                                                 Casino en vivo
                                                             </span>
                                                         </a>
                                                     </li>
                                                     <li class=" has-childes  page   show" data-anchor="">
-                                                        <a class="nav-item" href="https://www.vbet.com/es/poker-2" data-page-type="pageBlank">
+                                                        <a class="nav-item" href="https://www.alivecasino.io/#/poker/" data-page-type="pageBlank">
                                                             <span class="title">
                                                                 Poker
                                                             </span>
                                                         </a>
                                                     </li>
                                                     <li class=" has-childes  page   show" data-anchor="">
-                                                        <a class="nav-item" href="https://www.vbet.com/es/juegos" data-page-type="pageCasino">
+                                                        <a class="nav-item" href="https://www.alivecasino.io/#/virtualsports/" data-page-type="pageCasino">
                                                             <span class="title">
                                                                 JUEGOS
                                                             </span>
                                                         </a>
                                                     </li>
                                                     <li class=" page   show" data-anchor="">
-                                                        <a class="nav-item" href="https://www.vbet.com/es/promociones" data-page-type="pageBlank">
+                                                        <a class="nav-item" href="https://www.alivecasino.io/#/promos/" data-page-type="pageBlank">
                                                             <span class="title">
                                                                 Promoción
                                                             </span>
@@ -326,10 +326,10 @@
                                             </div>
                                         </div>
                                         <script>
-                                            window['termsLink'] = "https://www.vbet.com/es/general-terms-and-conditions-1";
+                                            window['termsLink'] = "/spanish/terms-and-conditions";
                                             window['termsLinkTarget'] = "_blank";
 
-                                            window['privacyPolicyLink'] = "https://www.vbet.com/es/privacy-policy";
+                                            window['privacyPolicyLink'] = "/spanish/privacy-policy";
                                             window['privacyPolicyTarget'] = "_blank";
                                         </script>
                                         <script type="text/javascript">

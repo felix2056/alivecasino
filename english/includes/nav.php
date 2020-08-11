@@ -11,7 +11,7 @@
                                     <div class="module ModuleLogo " datamodule-id="114159" style="display:block;max-width: 100%;">
                                         <a href="/english/index.html">
                                             <div>
-                                            <img data-logo-element="" class="lazy initial loaded" data-src="/assets/images/AliveCasinoLight.png" alt="VBET" src="/assets/images/AliveCasinoLight.png" data-was-processed="true">
+                                            <img data-logo-element="" class="lazy initial loaded" data-src="/assets/images/AliveCasinoLight.png" alt="AliveCasino" src="/assets/images/AliveCasinoLight.png" data-was-processed="true">
                                             </div>
                                         </a>
                                     </div>
@@ -183,49 +183,49 @@
                                             <div class="standard-view ">
                                                 <ul class="navigation" style="font-family: 'Roboto';">
                                                     <li class=" page   show" data-anchor="">
-                                                        <a class="nav-item" href="https://www.vbet.com/live" data-page-type="pageLive">
+                                                        <a class="nav-item" href="https://www.alivecasino.io/#/sport/?type=1" data-page-type="pageLive">
                                                             <span class="title">
                                                                 Live
                                                             </span>
                                                         </a>
                                                     </li>
                                                     <li class=" page   show" data-anchor="">
-                                                        <a class="nav-item" href="https://www.vbet.com/pre-match" data-page-type="pagePrematch">
+                                                        <a class="nav-item" href="https://www.alivecasino.io/#/sport/?type=0" data-page-type="pagePrematch">
                                                             <span class="title">
-                                                                Pre-Match
+                                                                Sports
                                                             </span>
                                                         </a>
                                                     </li>
                                                     <li class=" page   show" data-anchor="">
-                                                        <a class="nav-item" href="https://www.vbet.com/casino" data-page-type="pageCasino">
+                                                        <a class="nav-item" href="https://www.alivecasino.io/#/casino/" data-page-type="pageCasino">
                                                             <span class="title">
                                                                 Casino
                                                             </span>
                                                         </a>
                                                     </li>
                                                     <li class=" page   show" data-anchor="">
-                                                        <a class="nav-item" href="https://www.vbet.com/live-casino" data-page-type="pageCasino">
+                                                        <a class="nav-item" href="https://www.alivecasino.io/#/livedealer/" data-page-type="pageCasino">
                                                             <span class="title">
                                                                 Live casino
                                                             </span>
                                                         </a>
                                                     </li>
                                                     <li class=" has-childes  page   show" data-anchor="">
-                                                        <a class="nav-item" href="https://www.vbet.com/poker" data-page-type="pageBlank">
+                                                        <a class="nav-item" href="https://www.alivecasino.io/#/poker/" data-page-type="pageBlank">
                                                             <span class="title">
                                                                 Poker
                                                             </span>
                                                         </a>
                                                     </li>
                                                     <li class=" has-childes  page   show" data-anchor="">
-                                                        <a class="nav-item" href="https://www.vbet.com/games" data-page-type="pageCasino">
+                                                        <a class="nav-item" href="https://www.alivecasino.io/#/virtualsports/" data-page-type="pageCasino">
                                                             <span class="title">
-                                                                Games
+                                                                Virtual Sports
                                                             </span>
                                                         </a>
                                                     </li>
                                                     <li class=" page   show" data-anchor="">
-                                                        <a class="nav-item" href="https://www.vbet.com/promotions" data-page-type="pageBlank">
+                                                        <a class="nav-item" href="https://www.alivecasino.io/#/promos/" data-page-type="pageBlank">
                                                             <span class="title">
                                                                 Promo
                                                             </span>
@@ -330,10 +330,10 @@
                                         </div>
                                         <script>
                                             window['termsLink'] =
-                                                "https://www.vbet.com/general-terms-and-conditions";
+                                                "/english/terms-and-conditions";
                                             window['termsLinkTarget'] = "_blank";
 
-                                            window['privacyPolicyLink'] = "https://www.vbet.com/privacy-policy";
+                                            window['privacyPolicyLink'] = "/english/privacy-policy";
                                             window['privacyPolicyTarget'] = "_blank";
                                         </script>
                                         <script type="text/javascript">
