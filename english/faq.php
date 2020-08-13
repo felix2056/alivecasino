@@ -2,8 +2,9 @@
 include_once('includes/header.php');
 ?>
 
-<body class="txlive ember-application" data-gr-c-s-loaded="true">
-    <div class="main-container">
+<body class="txlive ember-application alivecasinoio" data-gr-c-s-loaded="true">
+    <div class="main-container nav-wrapper homepage lang-eng theme- alivecasino.io wwwalivecasinoio classic">
+        <?php include_once('includes/nav.php'); ?>
         <div class="main-body">
             <div class="main-layout">
                 <div class="layers-container">
@@ -364,7 +365,7 @@ include_once('includes/header.php');
                 </div>
 
                 <div class="header-and-main-rows  " style="background: rgb(246, 246, 246); margin-bottom: -368.297px;">
-                    <?php include_once('includes/nav.php'); ?>
+                    <?php //include_once('includes/nav.php'); ?>
 
                     <div class="main-rows">
                         <div class="uc-row-wrapper ">
@@ -2208,9 +2209,13 @@ include_once('includes/header.php');
                 </div>
 
                 <?php
-                include_once('includes/footer.php');
+                //include_once('includes/footer.php');
                 ?>
             </div>
         </div>
     </div>
+    
+    <?php
+        include_once('includes/footer.php');
+    ?>
 </body>

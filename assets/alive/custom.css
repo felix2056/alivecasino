@@ -1,0 +1,385 @@
+/***BEGIN PAGINA PRINCIPAL > LAST MINUTE BETS****/.row .row-child>div products-slider,
+.row .row-child>div>div {
+ display: contents;    /* float: left; */
+ width: 540px;
+ height: 256px;
+}
+.size-10 {
+ width: 540px;
+}
+.balance-view-tab {
+ color:#ffffff;
+}
+.balance-view-progress-b .progress-bonus-info-box>p:last-child>span:first-child {
+ color: #ffffff;
+}
+.balance-view-progress-b .bonus-statistic-box {
+ background: #ffffff;
+}
+.list-news ul li p {
+ color: #0A0112;
+}
+.logo-nav-wrapper a img {
+ margin-top: 1px;
+}
+.live-scores-info > div:first-child > span {
+ color: #1a7051;
+}
+/*.games-view-slider-contain>ul {    background: #050235;}.title-b-wg>h3 {    color: #ffffff;}.title-b-wg{    background: #050235;}.featured-game-list-b {    background: #501e5a;}.team-names-wrapper-b>ul>li>p {  color:#ffffff;}.team-names-wrapper-b>ul>li>span {    color: #ffd559;}.game-full-information-w {    background: #09054a no-repeat 50% 50%/cover;}.date-championship-logo {    color: #050235;  	background:#29256f;}.game-link-wrapper-b>a {    color: #ffffff;    background: #7c2871;    border: 1px solid #09054A;    font-weight: bold;}.game-link-wrapper-b:hover{  color: #ffffff;}.date-championship-logo>p {    color: #b3b3b3;}.date-championship-logo>p:first-line {    color: #b3b3b3;}.body-wrapper.homepage .lmb-time-selector {    background: #501e5a;    color:#ffffff;}.lmb-table-j .lmb-title-j li {    background-color: #501e5a;    color: #ffffff;}.lmb-table-j ul:nth-of-type(even) {    background: #050235;}.lmb-time-selector li {    color: #ffffff;}.lmb-table-j li {    color: #ffffff;}.lmb-time-selector li.active-j, .lmb-time-selector li:hover {    color: #ffffff;}.lmb-sport-select-j {    background-color: #7C2871;}   .body-wrapper.homepage .lmb-time-selector h3 {    color: #ffffff;}.lmb-table-j li:first-child, .lmb-table-j li:last-child, .lmb-table-j li:nth-child(3) {    color: #ffffff;}.lmb-sport-select-j .sport-icon-j {    color: #ffffff;}.lmb-table-j {    background: #6b2a62;}.lmb-table-wrap-j {    background: #7c2871;}*/.classic-view-column-v3 {
+ background: #070939d;
+}
+.left-column-v3 {
+ background: #070939;
+}
+.market-ciew-v3 {
+ background: #070939;
+}
+*//***END PAGINA PRINCIPAL > LAST MINUTE BETS****//***BEGIN PAGINA PRINCIPAL > LAST MINUTE BETS****.last-minute-bets-j {  width: 500px;}.hp-slider-17 .hp-slide-17 a img {    width: 530px;}***END PAGINA PRINCIPAL > LAST MINUTE BETS****//***BEGIN TAB PROMOTIONS DELETE DATE*******/.list-news ul li p {
+ visibility: hidden;
+}
+/***END TAB PROMOTIONS DELETE DATE*******//***BEGIN TAB GAMES HIDDEN *******.header-nav-contain> ul > li:nth-child(6) {  display: none;  visibility: hidden;}****END TAB GAMES HIDDEN *******//***BEGIN LAST MINUTE BETS ******.size-10 {  width: 100%;}***END LAST MINUTE BETS *******//***BEGIN PESTAÑA CASINO ****/.casino-jackpots-board {
+ float: left;
+ width: 100%;
+ visibility: hidden;
+}
+.tab-winners>ul>li {
+ float: left;
+ padding: 0;
+}
+.casino-winners-table {
+ float: right;
+ margin: -320px 10 50 10px;
+}
+.center-contain-casino.not-casino-jackpots .casino-jackpots-board+.casino-gamer-winners-container .casino-gamer {
+ height: 320px;
+}
+.casino-jackpots-board+.casino-gamer-board {
+ margin-top: -320px;
+}
+/***END PESTAÑA CASINO ****//****BEGIN DISEÑO DE COLORES **************/body .better-homepage .row {
+ background: rgba(0, 0, 0, 0.5);
+ !important
+}
+.promotions-section-j .header-wrapper.big-news-block {
+ background: rgba(0, 0, 0, 0.5);
+ !important
+}
+.header-container-b {
+ background: rgba(4, 12, 36, 0.9);
+ !important
+}
+.header-bottom-row,
+.responsive-header-mainMenu-j {
+ background: rgba(11, 0, 93, 0.2);
+ !important   	
+}
+.header-nav-contain>ul>li>.top-menu-sub-a-t>a {
+ color: #fff;
+ !important 
+}
+.header-container-b {
+ box-shadow: 0 2px 0 #231C59;
+ !important 
+}
+.header-nav-contain>ul>li.active>.top-menu-sub-a-t>a,
+.header-nav-contain>ul>li>.top-menu-sub-a-t>a:hover {
+ background: #fff;
+ !important 
+}
+.header-wrapper.guide {
+ background: #000;
+ !important
+}
+.guide,
+.promotions-section-j .big-news-block {
+ background: rgba(0, 0, 0, 0,9);
+ !important
+}
+.better-homepage .row:first-of-type {
+ box-shadow: rgba(0, 0, 0, 0,9);
+ !important
+}
+.logo-nav-wrapper a img {
+ margin-top: 17px;
+}
+.contain-footer-block {
+ background-image: url("https://cmsbetconstruct.com/content/images/002ef49a097061cf18b44873a8b98b09_989_media.jpeg") !important;
+ background-repeat: repeat-x !important;
+}
+.footer-j .footer-nav-b ul li a {
+ color: #fff !important;
+}
+.signin-reg-buttons-b {
+ border-right: 1px solid #1d0259;
+ !important
+}
+.signin-reg-buttons-b > ul > li > button {
+ border-color: #1d0259;
+ background: #320a87;
+ !important
+}
+.responsive-header-contain-j a {
+ color:#fff !important;
+}
+.signin-reg-buttons-b>ul>li:first-child>button {
+ background: #501e5a !important;
+ color: #fff !important;
+}
+.signin-reg-buttons-b>ul>li>button {
+ background: #7c2771 !important;
+}
+.separator-contain-nav.no-timezone-v,
+.separator-contain-nav.no-timezone-v .settings-icon-contain.clock-set-b {
+ color: #fff;
+}
+.settings-icon-contain {
+ color: #fff;
+}
+/********* END DISEÑO CASINO *************************/body>.about .headerVersion_2 .conteiner:before,
+body>.backgammon .headerVersion_2 .conteiner:before,
+body>.belote .headerVersion_2 .conteiner:before,
+body>.blast .headerVersion_2 .conteiner:before,
+body>.csbpoolbetting .headerVersion_2 .conteiner:before,
+body>.draw .headerVersion_2 .conteiner:before,
+body>.external .headerVersion_2 .conteiner:before,
+body>.fantasy .headerVersion_2 .conteiner:before,
+body>.first_deposit_bonus .headerVersion_2 .conteiner:before,
+body>.first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner:before,
+body>.freebet .headerVersion_2 .conteiner:before,
+body>.gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner:before,
+body>.games .headerVersion_2 .conteiner:before,
+body>.gameslanding .headerVersion_2 .conteiner:before,
+body>.livedealer .headerVersion_2 .conteiner:before,
+body>.ogwil .headerVersion_2 .conteiner:before,
+body>.poker .headerVersion_2 .conteiner:before,
+body>.pokerklas .headerVersion_2 .conteiner:before,
+body>.poolbetting .headerVersion_2 .conteiner:before,
+body>.vip-promos .headerVersion_2 .conteiner:before,
+body>.vrcasino .headerVersion_2 .conteiner:before {
+ background: transparent !important;
+}
+body>.about .headerVersion_2 .conteiner,
+body>.backgammon .headerVersion_2 .conteiner,
+body>.belote .headerVersion_2 .conteiner,
+body>.blast .headerVersion_2 .conteiner,
+body>.csbpoolbetting .headerVersion_2 .conteiner,
+body>.draw .headerVersion_2 .conteiner,
+body>.external .headerVersion_2 .conteiner,
+body>.fantasy .headerVersion_2 .conteiner,
+body>.first_deposit_bonus .headerVersion_2 .conteiner,
+body>.first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner,
+body>.freebet .headerVersion_2 .conteiner,
+body>.gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner,
+body>.games .headerVersion_2 .conteiner,
+body>.gameslanding .headerVersion_2 .conteiner,
+body>.livedealer .headerVersion_2 .conteiner,
+body>.ogwil .headerVersion_2 .conteiner,
+body>.poker .headerVersion_2 .conteiner,
+body>.pokerklas .headerVersion_2 .conteiner,
+body>.poolbetting .headerVersion_2 .conteiner,
+body>.vip-promos .headerVersion_2 .conteiner,
+body>.vrcasino .headerVersion_2 .conteiner {
+ background: transparent !important;
+}
+body>.about .headerVersion_2 .conteiner:before,
+body>.backgammon .headerVersion_2 .conteiner:before,
+body>.belote .headerVersion_2 .conteiner:before,
+body>.blast .headerVersion_2 .conteiner:before,
+body>.csbpoolbetting .headerVersion_2 .conteiner:before,
+body>.draw .headerVersion_2 .conteiner:before,
+body>.external .headerVersion_2 .conteiner:before,
+body>.fantasy .headerVersion_2 .conteiner:before,
+body>.first_deposit_bonus .headerVersion_2 .conteiner:before,
+body>.first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner:before,
+body>.freebet .headerVersion_2 .conteiner:before,
+body>.gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner:before,
+body>.games .headerVersion_2 .conteiner:before,
+body>.gameslanding .headerVersion_2 .conteiner:before,
+body>.livedealer .headerVersion_2 .conteiner:before,
+body>.ogwil .headerVersion_2 .conteiner:before,
+body>.poker .headerVersion_2 .conteiner:before,
+body>.pokerklas .headerVersion_2 .conteiner:before,
+body>.poolbetting .headerVersion_2 .conteiner:before,
+body>.vip-promos .headerVersion_2 .conteiner:before,
+body>.vrcasino .headerVersion_2 .conteiner:before {
+ border-bottom: solid 2px transparent !important;
+}
+body>.about .headerVersion_2 .conteiner,
+body>.backgammon .headerVersion_2 .conteiner,
+body>.belote .headerVersion_2 .conteiner,
+body>.blast .headerVersion_2 .conteiner,
+body>.csbpoolbetting .headerVersion_2 .conteiner,
+body>.draw .headerVersion_2 .conteiner,
+body>.external .headerVersion_2 .conteiner,
+body>.fantasy .headerVersion_2 .conteiner,
+body>.first_deposit_bonus .headerVersion_2 .conteiner,
+body>.first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner,
+body>.freebet .headerVersion_2 .conteiner,
+body>.gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner,
+body>.games .headerVersion_2 .conteiner,
+body>.gameslanding .headerVersion_2 .conteiner,
+body>.livedealer .headerVersion_2 .conteiner,
+body>.ogwil .headerVersion_2 .conteiner,
+body>.poker .headerVersion_2 .conteiner,
+body>.pokerklas .headerVersion_2 .conteiner,
+body>.poolbetting .headerVersion_2 .conteiner,
+body>.vip-promos .headerVersion_2 .conteiner,
+body>.vrcasino .headerVersion_2 .conteiner {
+ background: #070e28 !important;
+}
+.header-wrapper.guide {
+ background: #070e28 !important;
+}
+.slider-landing-overlay h1 {
+ text-indent:-999px !important;
+ font: 0/0 a !important;
+ text-shadow: transparent !important;
+ color: transparent !important;
+ text-decoration: none !important;
+}
+.list-news.promo {
+ background: rgba(0, 0, 0, 0.5) ;
+ background-image: url(http://cmsbetconstruct.com/content/images/206c8be12939826a6a120e39cc3f68f3_989_media.png);
+ background-position: right top;
+ background-repeat: no-repeat, no-repeat;
+ background-size: auto 100%;
+ padding: 28px !important;
+ color: #fff !important;
+}
+.list-news ul li h3 a {
+ color: #fff;
+}
+.list-news ul li p {
+ color: #fff;
+}
+.new-casino-no-games-text>p {
+ color: #fff;
+}
+.promotions-menu-p {
+ margin: 0 auto -8px  !important;
+}
+.promotions-menu-p ul {
+ float: left;
+ width: 100%;
+ display: table;
+ table-layout: fixed;
+ background: rgba(0, 0, 0, 0.5) !important;
+}
+.promotions-menu-p ul li {
+ color: #fff;
+}
+.promotions-menu-p ul li.active,
+.promotions-menu-p ul li:hover {
+ color: #fff;
+ background: #7c2771 !important;
+}
+.promotions-menu-p {
+ box-shadow: 0 2px 0 #7c2771;
+}
+.games-type {
+ background: #7c2771;
+}
+.games-type > ul > li.active .block-games-search > i,
+.games-type > ul > li.active .games-type-icon,
+.games-type > ul > li.active > p,
+.games-type > ul > li:hover .block-games-search > i,
+.games-type > ul > li:hover .games-type-icon,
+.games-type > ul > li:hover > p {
+ color: #fff;
+}
+.games-type-icon {
+ color: #ddd;
+}
+.games-type > ul > li > p {
+ color: #ddd;
+}
+.casino-games-search .block-games-search i {
+ color: #ddd;
+}
+.center-contain-casino {
+ background: rgba(0, 0, 0, 0.5) !important;
+}
+.games-providers-container {
+ background: rgba(0, 0, 0, 0.5) !important;
+}
+.all-games-container > a {
+ border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.top-winners-wrapper {
+ background: rgba(0, 0, 0, 0.5) !important;
+}
+.tab-winners>ul>li {
+ background: rgba(0, 0, 0, 0.9) !important;
+ color: #fff;
+}
+.tab-winners>ul>li.active {
+ color: #fff;
+}
+.tab-winners>ul>li.active {
+ box-shadow: 0 -1px 0 #fff inset;
+}
+.title-slider-games {
+ color: #fff;
+}
+.title-slider-games .title-slider-games-line:before {
+ background:  #fff;
+}
+.headerVersion_2 .subtop-game-menu-j,
+.headerVersion_2 .subtop-header-menu-j {
+ background: rgba(0, 0, 0, 0.9) !important;
+ color: #fff;
+}
+.subtop-header-menu-j>ul>li>a {
+ color: #fff;
+}
+.subtop-header-menu-j>ul>li.active>a {
+ box-shadow: inset 0 -3px 0 #fff;
+ color: #fff;
+}
+.subtop-header-menu-j>ul>li>a:hover {
+ color: #ddd;
+}
+.virtual-games .group-container {
+ background-image: url(https://cmsbetconstruct.com/content/images/42169f557bc733345907a8038c3a461e_989_media.png), url(https://cmsbetconstruct.com/content/images/4e831e6d17a2cfcc861d8cf8c09dd9c1_989_media.png);
+ background-position: left top, right top;
+ background-repeat: no-repeat, no-repeat;
+ background-size: auto 100%, auto 100%;
+}
+.paymentImage {
+ max-width: 1200px !important;
+}
+.paymentImage {
+ max-height: 60px !important;
+}
+.contain-footer-block .paymen-icons-list {
+ background: #5e3f51 !important;
+}
+/*REGISTER*/.signin-reg-buttons-b>ul>li>button {
+ background: #71E90F !important;
+}
+.balance-lightbox-j aside ul li {
+ display: block;
+ height: 60px;
+ width:125px;
+}
+.balance-lightbox-j aside ul li.active {
+ background: #ccb54c;
+}
+.balance-lightbox-j aside .select-currency-j {
+ width: 125px;
+}
+.balance-lightbox-j article .unplayed-balance>li.withdraw-balance {
+ color: #33b12c;
+}
+select.ng-valid.ng-not-empty.ng-valid-required.ng-touched.ng-dirty.ng-valid-parse:before {
+ content: "REME ";
+}
+select.ng-valid.ng-not-empty.ng-valid-required.ng-touched.ng-dirty.ng-valid-parse:after {
+ content: "REME ";
+}
+.block-sign-in-form .reg-list-item-wrapper-j .select-j select .option[value="MBT"] {
+ color:red;
+}
+.new-default-popup-j img {
+ width: 100px;    /*height: auto;*/
+}
