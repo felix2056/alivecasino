@@ -4,8 +4,8 @@ ul {
 .body-wrapper {
  width:100%;
  min-height:100%;
- min-width:980px;
- /*display:grid;*/
+ /*min-width:980px;
+ display:grid;*/
  grid-gap:0;
  grid-template-rows:auto 10fr auto;
  grid-template-columns:auto;
