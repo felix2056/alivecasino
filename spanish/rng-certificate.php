@@ -3,7 +3,9 @@ include_once('includes/header.php');
 ?>
 
 <body class="txlive ember-application" data-gr-c-s-loaded="true">
-    <div class="main-container">
+    <div class="main-container body-wrapper classic">
+        <?php include_once('includes/nav.php'); ?>
+
         <div class="main-body">
             <div class="main-layout">
                 <div class="layers-container">
@@ -395,13 +397,11 @@ include_once('includes/header.php');
                 </div>
 
                 <div class="header-and-main-rows  " style="background: rgb(246, 246, 246); margin-bottom: -389.906px;">
-                    <?php include_once('includes/nav.php'); ?>
-
                     <div class="main-rows">
                         <div class="uc-row-wrapper">
                             <div class="uc-row first uc-animation staticParallax active" data-id="22064" data-effect="staticParallax" style="   margin-bottom:0vh;   background:rgba(248, 248, 248, 0); ">
                                 <div class="row-container ">
-                                    <div class="row mainRow " style="">
+                                    <div class="row mainRow" style="background: #fff">
                                         <div class="column col-sm-6 " datacolumn-id="34582" style="  padding:5.336179295624333vh 0vh;     ">
                                             <div class="column-container vertical-center" style="">
                                                 <div class="module-container   only-mobile   align-center ModuleSpace
@@ -603,11 +603,10 @@ include_once('includes/header.php');
                     </div>
                     <div class="push" style="height: 389.906px;"></div>
                 </div>
-
-                <?php
-                include_once('includes/footer.php');
-                ?>
             </div>
         </div>
     </div>
+    <?php
+        include_once('includes/footer.php');
+    ?>
 </body>

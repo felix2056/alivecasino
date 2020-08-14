@@ -3,7 +3,9 @@ include_once('includes/header.php');
 ?>
 
 <body class="txlive ember-application" data-gr-c-s-loaded="true">
-    <div class="main-container">
+    <div class="main-container body-wrapper classic">
+        <?php include_once('includes/nav.php'); ?>
+
         <div class="main-body">
             <div class="main-layout">
                 <div class="layers-container">
@@ -395,10 +397,8 @@ include_once('includes/header.php');
                 </div>
 
                 <div class="header-and-main-rows" style="linear-gradient(135deg, #020220 29%, #0c0e4d 87%); margin-bottom: -389.906px;">
-                    <?php include_once('includes/nav.php'); ?>
-
                     <div class="main-rows">
-                        <div class="uc-row-wrapper ">
+                        <div class="uc-row-wrapper">
                             <div class="uc-row first" data-id="19562" style="   margin-bottom:0vh;  ">
                                 <div class="row-container">
                                     <div class="row mainRow">
@@ -896,11 +896,10 @@ include_once('includes/header.php');
                     </div>
                     <div class="push" style="height: 389.906px;"></div>
                 </div>
-
-                <?php
-                include_once('includes/footer.php');
-                ?>
             </div>
         </div>
     </div>
+    <?php
+        include_once('includes/footer.php');
+    ?>
 </body>

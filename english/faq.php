@@ -2,9 +2,10 @@
 include_once('includes/header.php');
 ?>
 
-<body class="txlive ember-application alivecasinoio" data-gr-c-s-loaded="true">
-    <div class="main-container nav-wrapper homepage lang-eng theme- alivecasino.io wwwalivecasinoio classic">
+<body class="txlive ember-application" data-gr-c-s-loaded="true">
+    <div class="main-container body-wrapper classic">
         <?php include_once('includes/nav.php'); ?>
+        
         <div class="main-body">
             <div class="main-layout">
                 <div class="layers-container">
@@ -369,16 +370,13 @@ include_once('includes/header.php');
 
                     <div class="main-rows">
                         <div class="uc-row-wrapper ">
-                            <div class="uc-row    last                           
-                                        
-                                                                        " data-id="390" style="   margin-bottom:5.9855521155831vh;  ">
+                            <div class="uc-row last" data-id="390" style="margin-bottom:5.9855521155831vh;">
                                 <div class="row-container  container ">
-                                    <div class="row mainRow" style="">
+                                    <div class="row mainRow" style="background: #fff">
                                         <div class="column col-sm-6 uc-animation affix active" datacolumn-id="607" data-effect="affix" style="  padding:0vh 0vh;     ">
                                             <div class="column-container vertical-top" style=" margin-top:1.982160555005vh; ">
                                                 <div class="affix-column" style="top:  20px">
-                                                    <div class="module-container   only-mobile   align-center ModuleSpace
-                                        first                          " style="  padding-bottom:0vh; ">
+                                                    <div class="module-container   only-mobile   align-center ModuleSpace first" style="padding-bottom:0vh;">
                                                         <div class="  module ModuleSpace " datamodule-id="1447">
                                                             <div class="space-container">
                                                                 <div class="space-inner" style="height: 10px;">

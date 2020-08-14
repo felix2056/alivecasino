@@ -1,9 +1,44 @@
 <!DOCTYPE html>
 <html class="desktop v1" prefix="og: http://ogp.me/ns#" lang="en" dir="ltr" itemscope="" itemtype="http://schema.org/WebSite" data-page-type="pageBlank">
 <head>
-    <script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en.cDdhVphf8T0.O/m=client/rt=j/sv=1/d=1/ed=1/am=wQc/rs=AGLTcCPgxnVLH-m1Wb1NpO4DLY9DNtv-bQ/cb=gapi.loaded_0" async=""></script><script type="text/javascript" async="" src="http://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/client.js" gapi_processed="true"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/IU7gZ7o6RDdDE6U4Y1YJJWnN/recaptcha__en.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/IU7gZ7o6RDdDE6U4Y1YJJWnN/recaptcha__en.js"></script><script src="https://www.recaptcha.net/recaptcha/api.js?render=6LewArAUAAAAAH-ZevuCBp3Iao6liPZee8h-0Mf8"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en.cDdhVphf8T0.O/m=client/rt=j/sv=1/d=1/ed=1/am=wQc/rs=AGLTcCPgxnVLH-m1Wb1NpO4DLY9DNtv-bQ/cb=gapi.loaded_0" async=""></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/XouiqSILPPT9wqvb4ipoGannh3kQzfj3/analytics.min.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/client.js" gapi_processed="true"></script>
-        
+    <style type="text/css">
+    @media(max-width:801px) {
+        #hideonmobile{display:none;}
+    }
 
+    @media(min-width:810px) {
+        #hideondesktop{display:none;}
+    }
+    </style>
+
+    <style type="text/css">
+        @charset "UTF-8";
+
+        [ng\:cloak],
+        [ng-cloak],
+        [data-ng-cloak],
+        [x-ng-cloak],
+        .ng-cloak,
+        .x-ng-cloak,
+        .ng-hide:not(.ng-hide-animate) {
+            display: none !important;
+        }
+
+        ng\:form {
+            display: block;
+        }
+
+        .ng-animate-shim {
+            visibility: hidden;
+        }
+
+        .ng-anchor {
+            position: absolute;
+        }
+    </style>        
+    
+    <script src="https://cdn.lr-ingest.io/LogRocket.min.js" crossorigin="anonymous"></script><script src="https://cdn.lr-ingest.io/logger-1.min.js" async=""></script>
+    <script>window.LogRocket && window.LogRocket.init('xzde63/vbet');</script>
 
     <title>Sportsbook, Online Casino Games, Poker &amp; Betting - ALIVECASINO</title>
 
@@ -14,11 +49,18 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="YES">
     <meta name="robots" content="index, follow">
-    <link rel="icon" type="image/png" href="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/favicon.png?v=1569508948">
+    <link rel="icon" type="image/png" href="/assets/images/AliveCasinoIcon.png">
     <link href="https://fonts.googleapis.com/css?family=ABeeZee:400,400italic:400,600,700,800|Bebas+Neue:400,600,700,800|Roboto:400,700,500,300" rel="stylesheet">
-    <link rel="preload" as="style" type="text/css" href="/assets/css/public.css?v=1596051417">
-    <link rel="stylesheet" type="text/css" href="/assets/css/public.css?v=1596051417">
-    <link rel="stylesheet" type="text/css" href="https://static.betconstruct.me/assets/fonts/icomoon.css?v=1596050633" media="all" onload="if(media!=='all')media='all'">
+    
+    <link rel="preload" as="style" type="text/css" href="/assets/css/public.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/public.css">
+
+    <link rel="stylesheet" href="/assets/alive/skin.min.css">
+    <link rel="stylesheet" href="/assets/alive/custom.css">
+    <link rel="stylesheet" href="/assets/alive/chunk.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <style type="text/css" id="font-face-style-a-l-k-sanet-custom">
         @font-face {
             font-family: 'ALK Sanet Custom';

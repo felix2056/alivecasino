@@ -5,7 +5,7 @@ ul {
  width:100%;
  min-height:100%;
  min-width:980px;
- display:grid;
+ /*display:grid;*/
  grid-gap:0;
  grid-template-rows:auto 10fr auto;
  grid-template-columns:auto;
@@ -27237,9 +27237,9 @@ html[dir=rtl] .overview-blocked-icon {
 .body-wrapper.freebet {
  background:#03032e
 }
-.nav-wrapper,
-.nav-wrapper.euro2016,
-.nav-wrapper.sport.classic {
+.body-wrapper,
+.body-wrapper.euro2016,
+.body-wrapper.sport.classic {
  background:#010816
 }
 .body-wrapper.balance,

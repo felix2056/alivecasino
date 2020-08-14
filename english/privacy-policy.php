@@ -3,7 +3,9 @@ include_once('includes/header.php');
 ?>
 
 <body class="txlive ember-application" data-gr-c-s-loaded="true">
-    <div class="main-container">
+    <div class="main-container body-wrapper classic">
+        <?php include_once('includes/nav.php'); ?>
+
         <div class="main-body">
             <div class="main-layout">
                 <div class="layers-container">
@@ -364,15 +366,11 @@ include_once('includes/header.php');
                 </div>
 
                 <div class="header-and-main-rows  " style="background: rgb(246, 246, 246); margin-bottom: -368.297px;">
-                    <?php include_once('includes/nav.php'); ?>
-
                     <div class="main-rows">
                         <div class="uc-row-wrapper ">
-                            <div class="uc-row    last                           
-                                        
-                                                                        " data-id="405" style="   margin-bottom:4.9554013875124vh;  ">
+                            <div class="uc-row last" data-id="405" style="   margin-bottom:4.9554013875124vh;  ">
                                 <div class="row-container  container ">
-                                    <div class="row mainRow" style="">
+                                    <div class="row mainRow" style="background: #fff">
                                         <div class="column col-sm-6 uc-animation affix active" datacolumn-id="631" data-effect="affix" style="  padding:0vh 0vh;     ">
                                             <div class="column-container vertical-top" style=" margin-top:1.982160555005vh; ">
                                                 <div class="affix-column" style="top:  20px">
@@ -799,11 +797,10 @@ include_once('includes/header.php');
                     </div>
                     <div class="push" style="height: 368.297px;"></div>
                 </div>
-
-                <?php
-                include_once('includes/footer.php');
-                ?>
             </div>
         </div>
     </div>
+    <?php
+        include_once('includes/footer.php');
+    ?>
 </body>
