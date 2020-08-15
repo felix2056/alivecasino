@@ -1,1159 +1,880 @@
-<html dir="ltr" ng-class="{'integration-auto-height': confPartner.notifyOnResize}" lang="en">
-
-<head>
-    <link rel="preload" as="style" type="text/css" href="/assets/css/public.css?v=1596051417">
-    <link rel="stylesheet" type="text/css" href="https://static.betconstruct.me/assets/fonts/icomoon.css?v=1596050633" media="all">
-    <style type="text/css">
-        @charset "UTF-8";
-
-        [ng\:cloak],
-        [ng-cloak],
-        [data-ng-cloak],
-        [x-ng-cloak],
-        .ng-cloak,
-        .x-ng-cloak,
-        .ng-hide:not(.ng-hide-animate) {
-            display: none !important;
-        }
-
-        ng\:form {
-            display: block;
-        }
-
-        .ng-animate-shim {
-            visibility: hidden;
-        }
-
-        .ng-anchor {
-            position: absolute;
-        }
-    </style>
-    
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
-    <meta charset="utf-8">
-
-
-    <title ng-bind="siteTitle">Sport @ alivetoken.com - Sport Betting &amp; Gaming</title>
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <link rel="icon" href="_favicon.ico?=20200717122045">
-    <link rel="stylesheet" href="/assets/alive/skin.min.css?20200717122045">
-    <!--[if lt IE 10]>
-    <script src="//cdn.rawgit.com/jpillora/xdomain/0.7.3/dist/xdomain.min.js"></script>
-    <script>xdomain.slaves({"https://swarm5.betconstruct.com" : "/xdomain-proxy.html", "http://casino.alivetoken.com" : "/global/partners/xdomain/xDomainProxy.html"});</script>
-    <![endif]-->
-
-    <!---->
-
-    <!---->
-    <!-- /build -->
-    <link rel="stylesheet" href="/assets/alive/custom.css?v=1597262300200">
-    <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
-    <script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/IU7gZ7o6RDdDE6U4Y1YJJWnN/recaptcha__en.js"></script>
-    <script id="recaptcha-v3-script-id" src="https://www.recaptcha.net/recaptcha/api.js?render=6LdYo7MZAAAAAJz_VSrkQwsLY0zLgyzgGrxl-RNS"></script>
-    <script src="https://www.googletagmanager.com/gtag/js?id=UA-137145191-1" async=""></script>
-</head>
-
-<body class="alivecasinoio">
-    <div class="body-wrapper lang-eng         sport         theme-         alivecasino.io         wwwalivecasinoio classic               footer-movable" no-animate="">
-
-        <script async="" src="https://embed.tawk.to/5da49f77fbec0f2fe3b9aca1/default" charset="UTF-8" crossorigin="*"></script>
-        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.7.7/angular.min.js?v=1.7.7"></script>
-        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.7.7/angular-route.min.js?v=1.7.7"></script>
-        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.7.7/angular-animate.min.js?v=1.7.7"></script>
-        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.7.7/angular-cookies.min.js?v=1.7.7"></script>
-
-        <script id="app-config" data-config-url-path="" data-id="" data-config-is-externall=""></script>
-        <script src="app.min.js?20200717122045-46e7ec2569f39bd0d06a0422899f72102daee828" id="bc-main-js"></script>
-        <!---->
-        <div class="contain-header tpl-container block-size-visible-b subheader-enabled" ng-include="::'templates/header.html'|fixPath" ng-class="{'subheader-enabled': $root.currentPage.hasSubHeader, 'vertical-nav-null': $root.leftMenuOpen === false}">
-            <!---->
-            <!---->
-            <div id="header" class="block-size-visible-b" ng-include="::'templates/mainheader.html'|fixPath" ng-if="$location.path() !='/popup/'">
-                <div class="block-size-visible-b alivecasino.io    headerVersion_2 " ng-controller="mainHeaderCtrl" ng-init="mainHeaderInit()">
-                    <div class-on-scroll="show-fix,show-normal" not-change="" class="conteiner new0" ng-class="{'show-game': casinoGameOpened}" id="main-header-container">
-                        <!---->
-                        <ng-include class="float-width" src="::'templates/header/version_' + conf.header.version + '/main.html'|fixPath">
-                            <!---->
-                            <div ng-controller="mainHeaderVersion2Controller" class="guide header-wrapper" ng-if="!conf.integrationMode &amp;&amp; $location.path().indexOf('/widget/') === -1">
-                                <!---->
-                                <!---->
-                                <!---->
-                                <!---->
-                                <div class="header-container-b">
-                                    <!---->
-                                    <ul class="responsive-header-contain-j">
-                                        <li class="responsive-header-item-j">
-                                            <div class="logo-nav-wrapper"><a ng-href="#/" ng-click="closeSlider();" href="#/"><img ng-src="_logo.png?v=46e7ec2569f39bd0d06a0422899f72102daee828" image-on-load="" image-width="logoWidth" ng-style="{'width' : conf.logo.width ? (conf.logo.width + 'px') : '', 'height' : conf.logo.height ? (conf.logo.height + 'px') : ''}" src="_logo.png?v=46e7ec2569f39bd0d06a0422899f72102daee828" style="height: 54px;"> <img ng-src="_logo2.png?v=46e7ec2569f39bd0d06a0422899f72102daee828" ng-style="{'width' : conf.logo.widthFix ? (conf.logo.widthFix + 'px') : '', 'height' : conf.logo.heightFix ? (conf.logo.heightFix + 'px') : ''}" src="_logo2.png?v=46e7ec2569f39bd0d06a0422899f72102daee828"></a></div>
-                                        </li>
-                                        <li class="responsive-header-item-j auto-width">
-                                            <div class="header-top-row">
-                                                <ul class="responsive-header-contain-j">
-                                                    <!---->
-                                                    <li ng-if="!$root.conf.header.hideTopMenu" class="responsive-header-item-j header-icon-menu"><label for="header-collapse" class="menu-visible-icon-b" trans="">Menu</label></li>
-                                                    <!---->
-                                                    <li class="responsive-header-item-j very-top-menu-wrapper-j auto-width">
-                                                        <!---->
-                                                        <div class="original" ng-include="::'templates/header/version_2/veryTopMenu.html'|fixPath">
-                                                            <!---->
-                                                            <div class="simple-nav-j" ng-if="$root.conf.headerNavigation.nearLogo.length > 0">
-                                                                <p></p>
-                                                                <ul sub-menu-creator="veryTopMenu">
-                                                                    <!---->
-                                                                    <!---->
-                                                                    <li ng-repeat="item in $root.conf.headerNavigation.nearLogo track by $index" ng-click="$root.gaSend('send', 'event', 'top menu', item.label, {'label': item.label, 'navigate': item.href || item.help || item.sliderAuthorized});goToTop();$event.stopPropagation();" ng-if="!item.showCondition || item.showCondition.authorized === env.authorized">
-                                                                        <!----><a ng-if="item.href || (item.broadcast &amp;&amp; !env.authorized)" target="_self" ng-href="#/promos/" ng-click="$root.topMenuDropDown=false;closeSlider();broadcast(item.broadcast)" ng-bind="item.label|translate" ng-class="item.staticClass" href="#/promos/">Promotions</a>
-                                                                        <!---->
-                                                                        <!---->
-                                                                        <!---->
-                                                                    </li>
-                                                                    <!---->
-                                                                    <!---->
-                                                                    <!---->
-                                                                    <li ng-repeat="item in $root.conf.headerNavigation.nearLogo track by $index" ng-click="$root.gaSend('send', 'event', 'top menu', item.label, {'label': item.label, 'navigate': item.href || item.help || item.sliderAuthorized});goToTop();$event.stopPropagation();" ng-if="!item.showCondition || item.showCondition.authorized === env.authorized">
-                                                                        <!---->
-                                                                        <!---->
-                                                                        <!---->
-                                                                    </li>
-                                                                    <!---->
-                                                                    <!---->
-                                                                </ul>
-                                                            </div>
-                                                            <!---->
-                                                        </div>
-                                                        <!---->
-                                                        <div class="duplicate" ng-include="::'templates/header/version_2/veryTopMenu.html'|fixPath">
-                                                            <!---->
-                                                            <div class="simple-nav-j" ng-if="$root.conf.headerNavigation.nearLogo.length > 0">
-                                                                <p></p>
-                                                                <ul sub-menu-creator="veryTopMenu">
-                                                                    <!---->
-                                                                    <!---->
-                                                                    <li ng-repeat="item in $root.conf.headerNavigation.nearLogo track by $index" ng-click="$root.gaSend('send', 'event', 'top menu', item.label, {'label': item.label, 'navigate': item.href || item.help || item.sliderAuthorized});goToTop();$event.stopPropagation();" ng-if="!item.showCondition || item.showCondition.authorized === env.authorized">
-                                                                        <!----><a ng-if="item.href || (item.broadcast &amp;&amp; !env.authorized)" target="_self" ng-href="#/promos/" ng-click="$root.topMenuDropDown=false;closeSlider();broadcast(item.broadcast)" ng-bind="item.label|translate" ng-class="item.staticClass" href="#/promos/">Promotions</a>
-                                                                        <!---->
-                                                                        <!---->
-                                                                        <!---->
-                                                                    </li>
-                                                                    <!---->
-                                                                    <!---->
-                                                                    <!---->
-                                                                    <li ng-repeat="item in $root.conf.headerNavigation.nearLogo track by $index" ng-click="$root.gaSend('send', 'event', 'top menu', item.label, {'label': item.label, 'navigate': item.href || item.help || item.sliderAuthorized});goToTop();$event.stopPropagation();" ng-if="!item.showCondition || item.showCondition.authorized === env.authorized">
-                                                                        <!---->
-                                                                        <!---->
-                                                                        <!---->
-                                                                    </li>
-                                                                    <!---->
-                                                                    <!---->
-                                                                </ul>
-                                                            </div>
-                                                            <!---->
-                                                        </div>
-                                                    </li>
-                                                    <!---->
-                                                    <!---->
-                                                    <li class="responsive-header-item-j ng-hide" ng-show="env.authorized &amp;&amp; conf.header.messageIcon.showInTopRow" ng-if="conf.header.messageIcon.enabled">
-                                                        <div class="separator-contain-nav" prevent-fast-click="" ng-click="toggleSliderTab('messages')">
-                                                            <div class="settings-icon-contain messages-icon-b"><i class="favorite-count-view ng-hide" ng-bind="profile.unread_count" ng-show="profile.unread_count"></i></div>
-                                                        </div>
-                                                    </li>
-                                                    <!---->
-                                                    <!---->
-                                                    <li class="responsive-header-item-j" ng-show="!env.authorized">
-                                                        <div class="signin-reg-buttons-b" id="signin-reg-buttons">
-                                                            <ul ng-hide="conf.header.disableRegistrationAndLogin">
-                                                                <!---->
-                                                                <li ng-if="conf.registration.enableSignIn"><button ng-class="{'active-s': env.sliderContent === 'login'}" ng-click="signin()" trans="">Sign in</button></li>
-                                                                <!---->
-                                                                <!---->
-                                                                <li ng-if="conf.registration.enable"><button ng-click="register()" trans="">Register</button>
-                                                                    <!---->
-                                                                    <ng-include src="::'templates/header/dynamicmessage.html'|fixPath">
-                                                                        <div class="dinamic-message">
-                                                                            <div class="right-b"></div>
-                                                                            <div class="centr-text-b">Join us now!<div class="bottom-arrow"></div>
+<?php include_once('includes/header.php');?>
+<link rel="stylesheet" href="test.css">
+<body class="txlive ember-application" data-gr-c-s-loaded="true">
+    <div class="main-container body-wrapper classic">
+        <?php include_once('includes/nav.php'); ?>
+        
+        <div class="main-body">
+            <div class="main-layout">
+                <div class="layers-container">
+                    <div class="layer">
+                        <div class="off-canvas" style="background:rgb(29, 24, 78); width:69.047619047619vw;">
+                            <div class="off-canvas-scroll-container">
+                                <div class="off-canvas-close uci-close" style="color:#FFFFFF;"></div>
+                                <div class="off-canvas-inner-container native-scroll-box y-scroll">
+                                    <div class="header-row-wrapper">
+                                        <div class="uc-row-wrapper ">
+                                            <div class="uc-row  mainslider  last                           header-row  
+                                        
+                                                                        " data-id="1" style="   background:rgba(169, 40, 114, 0); ">
+                                                <div class="row-container ">
+                                                    <div class="row headerRow ">
+                                                        <div class="column col-xs-12 " datacolumn-id="1" style="  padding:0vh 0vh;      background: rgb(29, 24, 78); ">
+                                                            <div class="column-container vertical-center">
+                                                                <div class="module-container   only-mobile   align-left ModuleLogo
+                                        first                          " style=" padding-right:80px;padding-left:80px;;   padding-bottom:0px; ">
+                                                                    <div class="  module ModuleLogo " datamodule-id="23089" style="display:block;max-width:140px;">
+                                                                        <a href="https://www.vbet.com">
+                                                                            <div class="">
+                                                                                <img data-logo-element="" class="lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" alt="Alivecasino" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" data-was-processed="true">
                                                                             </div>
-                                                                            <div class="left-b"></div>
+                                                                        </a>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="module-container  align-center ModuleSpace
+                                                                ">
+                                                                    <div class="  module ModuleSpace " datamodule-id="24548">
+                                                                        <div class="space-container">
+                                                                            <div class="space-inner" style="height: 40px;">
+                                                                            </div>
                                                                         </div>
-                                                                    </ng-include>
-                                                                </li>
-                                                                <!---->
-                                                            </ul>
-                                                        </div>
-                                                    </li>
-                                                    <li class="responsive-header-item-j header-notifications-section">
-                                                        <!---->
-                                                        <ng-include class="settings-include-contain" src="::'templates/header/version_2/whatsNewNotifications.html'|fixPath">
-                                                            <div ng-controller="whatsNewNotificationsCtrl">
-                                                                <!---->
-                                                            </div>
-                                                        </ng-include>
-                                                    </li>
-                                                    <li class="responsive-header-item-j ng-hide" ng-show="env.authorized">
-                                                        <!---->
-                                                        <ng-include class="settings-include-contain" src="::'templates/header/version_2/profileMenu.html'|fixPath">
-                                                            <div class="separator-contain-nav user-nav-view-b " id="user-settings">
-                                                                <div class="settings-icon-contain balance-box" ng-class="{'user-verified': profile.is_verified}" ng-click="toggleProfileMenu($event)" ng-mouseover="toggleProfileMenu($event, true)" ng-mouseleave="toggleProfileMenu($event, false)" hide-on-click="" state-flag-var="headerVersion2Icons.profileToggled"><b class="mybets-icon-box-b user-icon-view"></b> <i></i> <span class="count-info-box-b ng-hide" ng-bind="profile.unread_count" ng-show="profile.unread_count"></span></div>
-                                                                <div class="nav-open-view-contain" ng-mouseover="toggleProfileMenu($event, true)" ng-mouseleave="toggleProfileMenu($event, false)">
-                                                                    <ul>
-                                                                        <li>
-                                                                            <div class="user-info-box-b">
-                                                                                <h3 ng-hide="conf.profileMenuHeaderFullName"></h3>
-                                                                                <h4 ng-show="!env.hideUsername"></h4>
-                                                                                <h5><span trans="">ID</span>: <span></span></h5>
-                                                                            </div>
-                                                                        </li>
-                                                                        <li>
-                                                                            <div class="drop-nav-new-b">
-                                                                                <div class="drop-items-contain-b icon-view-box">
-                                                                                    <ul>
-                                                                                        <li ng-click="toggleSliderTab('settings'); headerVersion2Icons.profileToggled = false; $event.stopPropagation()" prevent-fast-click="1.5" ng-class="{'active': env.sliderContent === 'settings'}"><i class="my-profile-icon-b"></i> <span trans="">My Profile</span></li>
-                                                                                        <!---->
-                                                                                        <li ng-if="conf.header.messageIcon.enabled" ng-show="!conf.header.messageIcon.showInTopRow" ng-class="{'active': env.sliderContent === 'messages'}" prevent-fast-click="1.5" ng-click="toggleSliderTab('messages'); headerVersion2Icons.profileToggled = false; $event.stopPropagation()"><i class="messages-icon-b"></i> <span trans="">Messages</span> <b ng-bind="profile.unread_count" ng-show="profile.unread_count" class="ng-hide"></b></li>
-                                                                                        <!---->
-                                                                                        <li ng-show="conf.enableBonuses" ng-click="toggleSliderTab('bonuses'); headerVersion2Icons.profileToggled = false; $event.stopPropagation()" prevent-fast-click="1.5" ng-class="{'active': env.sliderContent === 'bonuses'}" class="ng-hide"><i class="bonuses-icon-b"></i> <span trans="">Bonuses</span>
-                                                                                            <!----><b ng-if="calculatedConfigs.sportEnabled" ng-show="!env.hideBalance &amp;&amp; profile.bonus_balance" class="ng-hide"> </b>
-                                                                                            <!---->
-                                                                                        </li>
-                                                                                        <li ng-show="conf.promotionalBonuses.enable &amp;&amp; (!conf.hideBonusSectionIfNoBonus || (conf.hideBonusSectionIfNoBonus &amp;&amp; $root.allBonusesCount.sportsbook + $root.allBonusesCount.casino > 0))" ng-click="toggleSliderTab('promotionalBonuses'); headerVersion2Icons.profileToggled = false; $event.stopPropagation()" prevent-fast-click="1.5" ng-class="{'active': env.sliderContent === 'promotionalBonuses'}"><i class="bonuses-icon-b"></i> <span trans="">Promotional bonuses</span></li>
-                                                                                        <li ng-hide="env.hideLogOut" ng-click="logOut(); headerVersion2Icons.profileToggled = false; $event.stopPropagation()"><i class="logout-icon-b"></i> <span trans="">Log Out</span></li>
-                                                                                    </ul>
-                                                                                </div>
-                                                                            </div>
-                                                                        </li>
-                                                                    </ul>
+                                                                        <style>
+                                                                            .ModuleSpace[datamodule-id="24548"] .space-container {
+                                                                                border-radius: 0 0 0 0;
+                                                                            }
+
+                                                                            .ModuleSpace[datamodule-id="24548"]:hover .space-container {
+                                                                                border-radius: 0 0 0 0;
+                                                                            }
+                                                                        </style>
+                                                                        <style>
+                                                                            .ModuleSpace[datamodule-id="24548"] .uc-row .column:first-child {
+                                                                                border-bottom-left-radius: 0;
+                                                                                border-top-left-radius: 0;
+                                                                            }
+
+                                                                            .ModuleSpace[datamodule-id="24548"] .uc-row .column:last-child {
+                                                                                border-bottom-right-radius: 0;
+                                                                                border-top-right-radius: 0;
+                                                                            }
+                                                                        </style>
+                                                                    </div>
                                                                 </div>
-                                                            </div>
-                                                        </ng-include>
-                                                    </li>
-                                                    <li class="responsive-header-item-j ng-hide" ng-show="env.authorized">
-                                                        <!---->
-                                                        <ng-include class="settings-include-contain" src="::'templates/header/version_2/balance.html'|fixPath">
-                                                            <div class="separator-contain-nav ">
-                                                                <div class="settings-icon-contain balance-box" no-animate="" ng-class="{'bonus': profile.bonus_balance !== undefined &amp;&amp; profile.calculatedBonus !== 0}" ng-click="headerVersion2Icons.balanceIsToggled = !headerVersion2Icons.balanceIsToggled; $event.stopPropagation()" id="wallet" hide-on-click="" state-flag-var="headerVersion2Icons.balanceIsToggled"><b class="mybets-icon-box-b cms-jcon-Wallet ng-hide" ng-show="env.hideBalance"></b>
-                                                                    <ul ng-show="!env.hideBalance">
-                                                                        <li><span ng-show="$root.profile.casino_balance === null || !$root.currentPage.isInCasino" class="balance-view-off"> </span>
-                                                                            <!----><span></span></li>
-                                                                        <!---->
-                                                                    </ul><i></i>
+                                                                <div class="module-container   only-mobile   align-left ModuleNavigation
+                                                                " style=" padding-right:80px;padding-left:80px;;   padding-bottom:0.32894736842105px; ">
+                                                                    <div class="  module ModuleNavigation " datamodule-id="1" style="width: auto;">
+                                                                        <input type="hidden" class="standard-navigation">
+                                                                        <style>
+                                                                            #navigation-1>.standard-view>.navigation>.page>.page-children {
+                                                                                background: rgba(241, 241, 241, 0);
+                                                                            }
+
+                                                                            #navigation-1>.standard-view>.navigation>.page>.page-children>.page>ul {
+                                                                                background: rgba(241, 241, 241, 0);
+                                                                            }
+
+
+                                                                            #navigation-1>.standard-view>.navigation>.page>.page-children {
+                                                                                border-radius: 0px;
+                                                                            }
+
+                                                                            #navigation-1>.standard-view>.navigation>.page>.page-children>.page>ul {
+                                                                                border-radius: 0px;
+                                                                            }
+
+
+                                                                            #navigation-1 .navigation>li.has-childes.page>ul a {
+                                                                                padding: 0 15px;
+                                                                            }
+
+                                                                            #navigation-1>div>ul li:hover>ul {
+                                                                                display: block;
+                                                                            }
+
+
+                                                                            #navigation-1 .page a {
+                                                                                color: rgb(255, 255, 255);
+                                                                                font-size: 26px;
+                                                                                font-weight: 900;
+                                                                                letter-spacing: 0px;
+                                                                                text-transform: uppercase;
+                                                                            }
+
+                                                                            #navigation-1>div>ul>li.page:not(:last-child) {
+                                                                                margin-bottom: 20px;
+                                                                            }
+
+                                                                            #navigation-1>div>ul>li:first-child:nth-last-child(1) {
+                                                                                margin-bottom: 40px;
+                                                                            }
+
+                                                                            #navigation-1 li.page>a:hover {
+                                                                                color: rgb(255, 255, 255) !important;
+                                                                            }
+
+                                                                            #navigation-1 li.page.active>a {
+                                                                                color: rgb(255, 255, 255);
+                                                                            }
+
+                                                                            #navigation-1 li.page.active>a:hover {
+                                                                                color: #f1f1f1 !important;
+                                                                            }
+
+                                                                            #navigation-1 li.page>ul.page-children li.page a {
+                                                                                color: rgb(255, 255, 255);
+                                                                            }
+
+                                                                            #navigation-1 li.page>ul.page-children>li.page a:hover,
+                                                                            #navigation-1 li.page>ul.page-children>li.page>ul.page-children>li.page a:hover {
+                                                                                color: #959595 !important;
+                                                                            }
+
+                                                                            #navigation-1 li.page>ul.page-children>li.page.active>a,
+                                                                            #navigation-1 li.page>ul.page-children>li.page>ul.page-children>li.page.active>a {
+                                                                                color: #353535;
+                                                                            }
+
+                                                                            #navigation-1 li.page>ul.page-children>li.page.active>a:hover,
+                                                                            #navigation-1 li.page>ul.page-children>li.page>ul.page-children>li.page.active>a:hover {
+                                                                                color: #959595 !important;
+                                                                            }
+
+                                                                            #navigation-1 li.page>ul.page-children:before,
+                                                                            #navigation-1 li.page>ul.page-children>li.has-childes>.page-children.pagesArrows>li:first-child:before {
+                                                                                color: rgba(241, 241, 241, 0);
+                                                                            }
+
+                                                                            #navigation-1 li.page>ul.page-children>li.page>a {
+                                                                                color: rgb(255, 255, 255);
+                                                                                font-size: 16px;
+
+
+
+
+                                                                            }
+
+
+                                                                            #navigation-1 li.page>ul.page-children>li.page>a {
+                                                                                font-weight: 400;
+                                                                            }
+
+
+                                                                            #navigation-1 li.page ul.page-children .page {
+                                                                                padding-top: 10px;
+                                                                                padding-bottom: 10px;
+                                                                            }
+
+                                                                            #navigation-1 li.page ul.page-children .page:last-child {
+                                                                                padding-bottom: 10px;
+                                                                            }
+
+                                                                            #navigation-1 li.has-childes.page>a>.uci-dropdown-arrow-down {
+                                                                                font-size: 14px;
+                                                                            }
+
+                                                                            #navigation-1 li.has-childes.page>.page-children.pagesArrows>.has-childes>a>.uci-dropdown-arrow-down {
+                                                                                font-size: 9px;
+                                                                            }
+
+                                                                            #navigation-1 li.has-childes.page>.page-children li>a,
+                                                                            #navigation-1 li.has-childes.page>.page-children li {
+                                                                                text-align: center;
+                                                                            }
+                                                                        </style>
+                                                                        <div id="navigation-1" data-nav-sub-page-scollapsible="1" class="navigation-inner
+                                
+                        vertical standard">
+                                                                            <div class="standard-view ">
+                                                                                <ul class="navigation" style="font-family: 'Roboto';">
+                                                                                    <li class=" page   show" data-anchor="">
+                                                                                        <a class="nav-item" href="https://www.vbet.com/live" data-page-type="pageLive">
+                                                                                            <span class="title">
+                                                                                                Live
+                                                                                            </span>
+                                                                                        </a>
+                                                                                    </li>
+                                                                                    <li class=" page   show" data-anchor="">
+                                                                                        <a class="nav-item" href="https://www.vbet.com/pre-match" data-page-type="pagePrematch">
+                                                                                            <span class="title">
+                                                                                                Pre-Match
+                                                                                            </span>
+                                                                                        </a>
+                                                                                    </li>
+                                                                                    <li class=" page   show" data-anchor="">
+                                                                                        <a class="nav-item" href="https://www.vbet.com/casino" data-page-type="pageCasino">
+                                                                                            <span class="title">
+                                                                                                Casino
+                                                                                            </span>
+                                                                                        </a>
+                                                                                    </li>
+                                                                                    <li class=" page   show" data-anchor="">
+                                                                                        <a class="nav-item" href="https://www.vbet.com/live-casino" data-page-type="pageCasino">
+                                                                                            <span class="title">
+                                                                                                Live casino
+                                                                                            </span>
+                                                                                        </a>
+                                                                                    </li>
+                                                                                    <li class=" has-childes  page   show" data-anchor="">
+                                                                                        <a class="nav-item" href="https://www.vbet.com/poker" data-page-type="pageBlank">
+                                                                                            <span class="title">
+                                                                                                Poker
+                                                                                            </span>
+                                                                                        </a>
+                                                                                    </li>
+                                                                                    <li class=" has-childes  page   show" data-anchor="">
+                                                                                        <a class="nav-item" href="https://www.vbet.com/games" data-page-type="pageCasino">
+                                                                                            <span class="title">
+                                                                                                Games
+                                                                                            </span>
+                                                                                        </a>
+                                                                                    </li>
+                                                                                </ul>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
                                                                 </div>
-                                                                <div class="nav-open-view-contain">
-                                                                    <ul>
-                                                                        <li>
-                                                                            <div class="drop-nav-new-b">
-                                                                                <div class="drop-items-contain-b icon-view-box">
-                                                                                    <div class="switcher-t-view-b">
-                                                                                        <p trans="">Hide Balance</p>
-                                                                                        <div class="switcher-box-b" ng-click="setHideBalance(!env.hideBalance); $event.stopPropagation()" ng-class="{'on': env.hideBalance}">
-                                                                                            <div class="sw-circle-b"></div>
+                                                                <div class="module-container  align-center ModuleSpace
+                                                                " style="  padding-bottom:1.1560693641618px; ">
+                                                                    <div class="  module ModuleSpace " datamodule-id="24549">
+                                                                        <div class="space-container">
+                                                                            <div class="space-inner" style="height: 40px;">
+                                                                            </div>
+                                                                        </div>
+                                                                        <style>
+                                                                            .ModuleSpace[datamodule-id="24549"] .space-container {
+                                                                                border-radius: 0 0 0 0;
+                                                                            }
+
+                                                                            .ModuleSpace[datamodule-id="24549"]:hover .space-container {
+                                                                                border-radius: 0 0 0 0;
+                                                                            }
+                                                                        </style>
+                                                                        <style>
+                                                                            .ModuleSpace[datamodule-id="24549"] .uc-row .column:first-child {
+                                                                                border-bottom-left-radius: 0;
+                                                                                border-top-left-radius: 0;
+                                                                            }
+
+                                                                            .ModuleSpace[datamodule-id="24549"] .uc-row .column:last-child {
+                                                                                border-bottom-right-radius: 0;
+                                                                                border-top-right-radius: 0;
+                                                                            }
+                                                                        </style>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="module-container   only-mobile   align-left ModuleImage
+                                        last                         " style=" padding-right:80px;padding-left:80px;;  ">
+                                                                    <div class="  module ModuleImage " datamodule-id="29274" style="display:block;max-width:60px;">
+                                                                        <style>
+                                                                            .animated-29274 .effect-block.effect-lilly .layer {
+                                                                                background: rgba(0, 0, 0, 0.5) !important;
+                                                                            }
+
+                                                                            .animated-29274 .effect-block.effect-default .layer {
+                                                                                background: rgba(0, 0, 0, 0.5) !important;
+                                                                            }
+
+                                                                            .animated-29274 .effect-block.effect-sadie .layer {
+                                                                                background: rgba(0, 0, 0, 0.5) !important;
+                                                                            }
+
+                                                                            .animated-29274 .effect-block.effect-honey .layer {
+                                                                                background: rgba(0, 0, 0, 0.5) !important;
+                                                                            }
+
+                                                                            .animated-29274 .effect-block.effect-roxy .layer {
+                                                                                background: rgba(0, 0, 0, 0.5) !important;
+                                                                            }
+
+                                                                            .animated-29274 .effect-block.effect-sarah .layer {
+                                                                                background: rgba(0, 0, 0, 0.5) !important;
+                                                                            }
+
+                                                                            .animated-29274 .effect-block.effect-Soft-Fade .layer {
+                                                                                background: rgba(0, 0, 0, 0.5) !important;
+                                                                            }
+
+                                                                            .animated-29274 .effect-block.effect-apollo .layer {
+                                                                                background: rgba(0, 0, 0, 0.5) !important;
+                                                                            }
+
+                                                                            .animated-29274 .effect-block.effect-honey .figcaption:before {
+                                                                                background: rgb(52, 52, 52) !important;
+                                                                            }
+
+                                                                            .animated-29274 .effect-block.effect-roxy .figcaption:before {
+                                                                                border-image: rgb(52, 52, 52) 3 stretch;
+                                                                                -moz-border-image: -moz-rgb(52, 52, 52) 3 stretch;
+                                                                                border-width: 3px;
+                                                                                border: 3px solid rgb(52, 52, 52);
+                                                                            }
+
+                                                                            .animated-29274 .effect-block.effect-apollo .figcaption:before {
+                                                                                background: rgb(52, 52, 52) !important;
+                                                                            }
+
+                                                                            .animated-29274 .effect-block.effect-apollo .description:before {
+                                                                                background: rgb(52, 52, 52) !important;
+                                                                            }
+
+                                                                            .animated-29274 .effect-block.effect-sarah .title:after {
+                                                                                background: rgb(52, 52, 52) !important;
+                                                                            }
+
+                                                                            .animated-29274 .effect-block.effect-steve .title,
+                                                                            .animated-29274 .effect-block.effect-steve .description {
+                                                                                background: rgb(52, 52, 52) !important;
+                                                                            }
+
+                                                                            .animated-29274 .effect-block.effect-goliath {
+                                                                                background: rgb(52, 52, 52) !important;
+                                                                            }
+                                                                        </style>
+                                                                        <a class="image-module-link" href="https://www.vbet.com/promotions" target="_self" rel="">
+                                                                            <div class="animated animated-29274 " data-loading-animation="" data-animated-id="29274">
+                                                                                <div class=" effect-block public-mode figure effect-selena  ">
+                                                                                    <div class="layer"></div>
+                                                                                    <div>
+                                                                                        <div class="">
+                                                                                            <img class="image lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/29274-29-promosicon.png" data-webp="0" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/29274-29-promosicon.png" data-was-processed="true">
+                                                                                        </div>
+                                                                                        <div data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/29274-29-promosicon.png" data-target="0" data-link="https://www.vbet.com/promotions" class="figcaption not-clickable">
                                                                                         </div>
                                                                                     </div>
-                                                                                    <!---->
-                                                                                    <ul>
-                                                                                        <li ng-click="selectBalanceMenuItem($event, 'cashier')" ng-show="(casinoEnabled || calculatedConfigs.pokerEnabled) &amp;&amp; conf.transferEnabled" ng-class="{'active': env.sliderContent === 'cashier'}" prevent-fast-click="1.5" class="ng-hide"><i class="cashier-icon-b"></i> <span trans="">Transfer</span></li>
-                                                                                        <li ng-click="selectBalanceMenuItem($event, 'myWallets')" ng-show="$root.conf.myWalletsEnabled" ng-class="{'active': env.sliderContent === 'myWallets'}" prevent-fast-click="1.5" class="ng-hide"><i class="cashier-icon-b"></i> <span trans="">My Wallets</span></li>
-                                                                                        <li ng-click="selectBalanceMenuItem($event, 'balanceHistory');$event.stopPropagation();" ng-class="{'active': env.sliderContent === 'balanceHistory'}" prevent-fast-click="1.5"><i class="history-icon-b"></i> <span>History</span></li>
-                                                                                        <li ng-click="selectBalanceMenuItem($event, 'casinoBalanceHistory')" ng-class="{'active': env.sliderContent === 'casinoBalanceHistory'}" ng-hide="conf.enableMixedView || !conf.enableCasinoBalanceHistory" prevent-fast-click="1.5" class="ng-hide"><i class="history-icon-b"></i> <span>History (casino)</span></li>
-                                                                                        <li ng-click="selectBalanceMenuItem($event, 'renew')" ng-class="{'active': env.sliderContent === 'renew'}" ng-hide="!conf.enableFreeRenew" prevent-fast-click="1.5" class="ng-hide"><i class="cms-jcon-Renew"></i> <span trans="">Renew</span></li>
-                                                                                        <li ng-click="selectBalanceMenuItem($event, 'deposit');$event.stopPropagation();" ng-class="{'active': env.sliderContent === 'deposit'}" ng-hide="conf.disableDepositPage" prevent-fast-click="1.5"><i class="deposit-icon-b"></i> <span trans="">Deposit</span></li>
-                                                                                        <li ng-click="selectBalanceMenuItem($event, 'withdraw');$event.stopPropagation();" ng-class="{'active': env.sliderContent === 'withdraw'}" ng-hide="conf.disableWithdrawPage" prevent-fast-click="1.5"><i class="withdraw-icon-b"></i> <span trans="">Withdraw</span></li>
-                                                                                        <li ng-click="selectBalanceMenuItem($event, 'buddytransfer')" ng-class="{'active': env.sliderContent === 'buddytransfer'}" ng-show="conf.buddyTransfer.enabled &amp;&amp; !conf.enableMixedView" prevent-fast-click="1.5" class="ng-hide"><i class="buddyTransfer-icon-b"></i> <span trans="">Buddy transfer</span></li>
-                                                                                        <li ng-click="selectBalanceMenuItem($event, 'loyaltyPoints')" ng-class="{'active': env.sliderContent === 'loyaltyPoints'}" ng-show="conf.enableLoyaltyPoints" prevent-fast-click="1.5" class="ng-hide"><i class="deposit-icon-b"></i> <span trans="">Loyalty Points</span></li>
-                                                                                    </ul>
                                                                                 </div>
                                                                             </div>
-                                                                        </li>
-                                                                    </ul>
+                                                                            )
+                                                                        </a>
+                                                                    </div>
                                                                 </div>
                                                             </div>
-                                                        </ng-include>
-                                                    </li>
-                                                    <li class="responsive-header-item-j ng-hide" ng-show="env.authorized &amp;&amp; (conf.betHistoryEnabled &amp;&amp; $root.calculatedConfigs.sportEnabled)">
-                                                        <div class="separator-contain-nav" ng-click="myBetsToggle()" prevent-fast-click="" id="myBets">
-                                                            <div class="settings-icon-contain my-bets-b"><b class="mybets-icon-box-b"></b> <span ng-hide="headerVersion2Icons.hideLablesIsToggled" trans="">My bets</span></div>
                                                         </div>
-                                                    </li>
-                                                    <!---->
-                                                    <!---->
-                                                    <li class="responsive-header-item-j" ng-show="!conf.rfid.loginWIthRFID || conf.rfid.loginWIthRFID &amp;&amp; env.authorized" ng-if="(calculatedConfigs.sportEnabled || casinoEnabled) &amp;&amp; conf.header.showFavoriteIcon">
-                                                        <div class="separator-contain-nav" prevent-fast-click="" ng-click="myGamesToggle()">
-                                                            <div class="settings-icon-contain favorite-icon-b" title="Favorites" trans="attr-only"><i class="favorite-count-view ng-hide" ng-show="myGames.length || (!env.hideCasinoFavorites &amp;&amp; casinoEnabled &amp;&amp; myCasinoGames.length)">0</i></div>
+                                                    </div>
+                                                </div>
+                                                <div class="margin-container" data-type="row">
+                                                    <div class="margin-controller"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="header-and-main-rows" style="background: linear-gradient(135deg, #020220 29%, #0c0e4d 87%); margin-bottom: -368.297px;">
+                    <div class="main-rows">
+                        <div class="uc-row-wrapper ">
+                            <div class="uc-row first" data-id="19258" style="   margin-bottom:0vh;  ">
+                                <div class="row-container ">
+                                    <div class="row mainRow ">
+                                        <div class="column col-sm-12" datacolumn-id="30545">
+                                            <div class="column-container vertical-top">
+                                                <div class="module-container  align-center ModuleCustomHtml first last ">
+                                                    <div class="  module ModuleCustomHtml " datamodule-id="84395">
+                                                        <div class="custom-html-container">
+                                                            <style>
+                                                                .header-and-main-rows>.header-rows {
+                                                                    background: linear-gradient(113deg, #550a16 43%, #c11623 100%) !important;
+                                                                }
+
+                                                                .vbetheader.header-row {
+                                                                    background-color: rgba(0, 0, 0, .4) !important;
+                                                                }
+
+                                                                html .footer-rows>.uc-row-wrapper>.uc-row {
+                                                                    background: transparent !important;
+                                                                }
+
+                                                                html body .footer-rows {
+                                                                    background: linear-gradient(113deg, #550a16 10%, #ea1f30 100%) !important;
+                                                                }
+
+                                                                html .row.footerRow>.column {
+                                                                    background-color: transparent !important;
+                                                                    ;
+                                                                }
+
+                                                                html .footer-rows .uc-row-wrapper .uc-row .space-container {
+                                                                    background: transparent !important;
+                                                                }
+
+
+                                                                .footer-rows>.uc-row-wrapper {
+                                                                    background-color: rgba(0, 0, 0, .3) !important;
+                                                                }
+
+                                                                .push {
+                                                                    background: linear-gradient(90deg, rgba(0, 0, 0, .35), rgba(0, 0, 0, .5));
+                                                                }
+
+                                                                <blade media|%20screen%20and%20(min-width%3A%20980px)%20%7B%0D>.admin .main-typography .uc-row .row-container,
+                                                                html .uc-row .row-container {
+                                                                    width: 100%;
+                                                                    max-width: 1830px;
+                                                                    padding: 0 15px;
+                                                                    margin: 0 auto;
+                                                                }
+
+                                                                }
+
+
+                                                                <blade media|%20screen%20and%20(max-width%3A%20980px)%20%7B%0D>.header-and-main-rows>.header-rows {
+                                                                    background: linear-gradient(90deg, #93111e, #720d19) !important;
+                                                                }
+
+                                                                html body .footer-rows {
+                                                                    background: linear-gradient(90deg, #bc1523 0%, #a2131f 100%) !important;
+                                                                }
+
+                                                                .vbetheader.header-row {
+                                                                    background-color: rgba(0, 0, 0, .25) !important;
+                                                                }
+
+                                                                }
+                                                            </style>
                                                         </div>
-                                                    </li>
-                                                    <!---->
-                                                    <li class="responsive-header-item-j" ng-show="conf.header.showHelpIcon">
-                                                        <div id="faq-header" class="separator-contain-nav dont-collaped-b " hide-on-click="" state-flag-var="headerVersion2Icons.helpIsToggled" ng-click="headerIconClick();" ng-mouseover="headerIconClick(true);" ng-mouseleave="headerIconClick(false);">
-                                                            <div class="settings-icon-contain help-icon-b"></div>
-                                                            <div class="nav-open-view-contain">
-                                                                <ul>
-                                                                    <li>
-                                                                        <div class="drop-nav-new-b">
-                                                                            <p><span trans="">Choose Help</span></p>
-                                                                            <div class="drop-items-contain-b icon-view-box">
-                                                                                <ul>
-                                                                                    <!---->
-                                                                                    <li ng-click="openFaq();$event.stopPropagation()" ng-if="conf.header.haveFaq &amp;&amp; conf.header.haveFaq==true"><i class="icon-faq-new-b"></i> <span trans="">FAQ</span></li>
-                                                                                    <!---->
-                                                                                    <!---->
-                                                                                    <!---->
-                                                                                    <!---->
-                                                                                    <li ng-show="!!isLiveAgent &amp;&amp; !conf.liveChat.disableFromHeader &amp;&amp; !conf.liveChat[env.lang].notLiveAgentIsLang" ng-click="startLiveAgent()" class="ng-hide"><i class="icon-livechat-new-b"></i> <span trans="">Live Chat</span></li>
-                                                                                    <li title="Live Agent" trans="attr-only" class="help-b ng-hide" ng-show="!!conf.liveChat.zopimInHeader" onclick="showZopimChat('tr');"><i class="icon-faq-new-b"></i> <span trans="">Need Help? Live Chat Support - 24/7" </span></li>
-                                                                                    <!---->
-                                                                                    <!---->
-                                                                                    <!---->
-                                                                                    <!---->
-                                                                                    <!---->
-                                                                                    <!---->
-                                                                                </ul>
-                                                                            </div>
-                                                                        </div>
-                                                                    </li>
-                                                                </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="margin-container" data-type="row" style="bottom:-0vh;">
+                                    <div class="margin-controller"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uc-row-wrapper ">
+                            <div class="uc-row  aboutbg" data-id="19282" style="margin-bottom:0vh;   background:rgba(187, 40, 142, 0); ">
+                                <div class="row-container ">
+                                    <div class="row mainRow ">
+                                        <div class="column col-sm-6 " datacolumn-id="30587" style="padding:0vh 0vh;background: transparent;">
+                                            <div class="column-container vertical-top" style=" margin-top:0vh; ">
+                                                <div class="module-container   only-mobile   align-center ModuleSpace first">
+                                                    <div class="  module ModuleSpace " datamodule-id="84462">
+                                                        <div class="space-container">
+                                                            <div class="space-inner" style="height: 100px;">
                                                             </div>
                                                         </div>
-                                                    </li>
-                                                    <li class="responsive-header-item-j" ng-hide="conf.header.hideClock">
-                                                        <div class="separator-contain-nav no-timezone-v " hide-on-click="" state-flag-var="headerVersion2Icons.timezoneIsToggled">
-                                                            <div class="settings-icon-contain clock-set-b" ng-click="headerVersion2Icons.timezoneIsToggled = !headerVersion2Icons.timezoneIsToggled" ng-class="{'format-12h': $root.env.timeFormat === $root.env.longTimeFormats.HALF}"><span class="time-view-w-bc"><b class="clock-time-v-bc" ng-bind="$root.env.clock">20:01:22</b>
-                                                                    <!----></span></div>
-                                                            <!---->
-                                                        </div>
-                                                    </li>
-                                                    <li class="responsive-header-item-j" ng-show="(conf.availableLanguages|count) > 1">
-                                                        <div class="separator-contain-nav " hide-on-click="" state-flag-var="headerVersion2Icons.languageIsToggled">
-                                                            <div class="settings-icon-contain leng-b selected-eng" ng-click="headerVersion2Icons.languageIsToggled = !headerVersion2Icons.languageIsToggled"><span>EN</span> <i></i></div>
-                                                            <div class="nav-open-view-contain">
-                                                                <ul>
-                                                                    <li>
-                                                                        <div class="drop-nav-new-b">
-                                                                            <p><span trans="">Change language</span></p>
-                                                                            <div class="drop-items-contain-b">
-                                                                                <ul>
-                                                                                    <!---->
-                                                                                    <li ng-repeat="lang in sortedAvailableLanguages track by lang.code" ng-click="selectLanguage(lang.code, true)" ng-class="{'active': lang.code === env.lang}" class="spa"><span>Español</span></li>
-                                                                                    <!---->
-                                                                                    <li ng-repeat="lang in sortedAvailableLanguages track by lang.code" ng-click="selectLanguage(lang.code, true)" ng-class="{'active': lang.code === env.lang}" class="eng active"><span>English</span></li>
-                                                                                    <!---->
-                                                                                    <li ng-repeat="lang in sortedAvailableLanguages track by lang.code" ng-click="selectLanguage(lang.code, true)" ng-class="{'active': lang.code === env.lang}" class="por"><span>Português</span></li>
-                                                                                    <!---->
-                                                                                    <li ng-repeat="lang in sortedAvailableLanguages track by lang.code" ng-click="selectLanguage(lang.code, true)" ng-class="{'active': lang.code === env.lang}" class="pt-br"><span>Português do Brasil</span></li>
-                                                                                    <!---->
-                                                                                </ul>
-                                                                            </div>
-                                                                        </div>
-                                                                    </li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <!---->
-                                                    <li class="responsive-header-item-j" ng-if="(conf.header.enableSettings.authorized &amp;&amp; env.authorized) || (conf.header.enableSettings.notAuthorized &amp;&amp; !env.authorized)">
-                                                        <!---->
-                                                        <ng-include class="settings-include-contain" src="::'templates/header/version_' + conf.header.version + '/settings.html'|fixPath" hide-on-click="" state-flag-var="headerVersion2Icons.settingsIsToggled">
-                                                            <div id="default-settings" class="separator-contain-nav ">
-                                                                <div class="settings-icon-contain settings-b" ng-click="headerVersion2Icons.settingsIsToggled = !headerVersion2Icons.settingsIsToggled"></div>
-                                                                <div class="nav-open-view-contain">
-                                                                    <ul>
-                                                                        <li ng-show="env.authorized &amp;&amp; conf.enableSettingHideLabels" class="ng-hide">
-                                                                            <div class="switcher-t-view-b" ng-click="headerVersion2Icons.hideLablesIsToggled = !headerVersion2Icons.hideLablesIsToggled">
-                                                                                <p trans="">Hide labels</p>
-                                                                                <div class="switcher-box-b ">
-                                                                                    <div class="sw-circle-b"></div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </li>
-                                                                        <li>
-                                                                            <div class="drop-nav-new-b ">
-                                                                                <p ng-click="headerVersion2Icons.oddsInIsToggled = !headerVersion2Icons.oddsInIsToggled"><span trans="">Odds </span> <i class="arrow-closed-open-b"></i></p>
-                                                                                <div class="drop-items-contain-b">
-                                                                                    <ul>
-                                                                                        <!---->
-                                                                                        <li ng-repeat="oddFormat in ::conf.oddFormats track by oddFormat.name" ng-click="broadcast('setOddsFormat', oddFormat.format)" ng-class="{'active': env.oddFormat === oddFormat.format}" class="active">Decimal</li>
-                                                                                        <!---->
-                                                                                        <li ng-repeat="oddFormat in ::conf.oddFormats track by oddFormat.name" ng-click="broadcast('setOddsFormat', oddFormat.format)" ng-class="{'active': env.oddFormat === oddFormat.format}">Fractional</li>
-                                                                                        <!---->
-                                                                                        <li ng-repeat="oddFormat in ::conf.oddFormats track by oddFormat.name" ng-click="broadcast('setOddsFormat', oddFormat.format)" ng-class="{'active': env.oddFormat === oddFormat.format}">American</li>
-                                                                                        <!---->
-                                                                                        <li ng-repeat="oddFormat in ::conf.oddFormats track by oddFormat.name" ng-click="broadcast('setOddsFormat', oddFormat.format)" ng-class="{'active': env.oddFormat === oddFormat.format}">HongKong</li>
-                                                                                        <!---->
-                                                                                        <li ng-repeat="oddFormat in ::conf.oddFormats track by oddFormat.name" ng-click="broadcast('setOddsFormat', oddFormat.format)" ng-class="{'active': env.oddFormat === oddFormat.format}">Malay</li>
-                                                                                        <!---->
-                                                                                        <li ng-repeat="oddFormat in ::conf.oddFormats track by oddFormat.name" ng-click="broadcast('setOddsFormat', oddFormat.format)" ng-class="{'active': env.oddFormat === oddFormat.format}">Indo</li>
-                                                                                        <!---->
-                                                                                    </ul>
-                                                                                </div>
-                                                                            </div>
-                                                                        </li>
-                                                                        <li ng-show="$root.currentPage.isInSports">
-                                                                            <div class="switcher-t-view-b" ng-click="setSound(env.sound); env.sound > 0 ? env.sound = 0 : env.sound = 0.75">
-                                                                                <p trans="">Events sounds</p>
-                                                                                <div class="switcher-box-b on">
-                                                                                    <div class="sw-circle-b"></div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </li>
-                                                                        <!---->
-                                                                        <li ng-show="conf.allowTimeFormatChange">
-                                                                            <div class="drop-nav-new-b ">
-                                                                                <p ng-click="headerVersion2Icons.timeFormatIsToggled = !headerVersion2Icons.timeFormatIsToggled"><span trans="">Time format</span> <i class="arrow-closed-open-b"></i></p>
-                                                                                <div class="drop-items-contain-b time-format">
-                                                                                    <ul>
-                                                                                        <li ng-click="setTimeFormat(env.longTimeFormats.HALF)" ng-class="{'active': env.timeFormat === env.longTimeFormats.HALF}" trans="">12 H</li>
-                                                                                        <li ng-click="setTimeFormat(env.longTimeFormats.FULL)" ng-class="{'active': env.timeFormat === env.longTimeFormats.FULL}" trans="" class="active">24 H</li>
-                                                                                    </ul>
-                                                                                </div>
-                                                                            </div>
-                                                                        </li>
-                                                                        <li ng-show="conf.enableSportsbookLayoutSwitcher">
-                                                                            <div class="drop-nav-new-b ">
-                                                                                <p ng-click="headerVersion2Icons.layoutSwitcherIsToggled = !headerVersion2Icons.layoutSwitcherIsToggled"><span trans="">Sportsbook layout:</span> <i class="arrow-closed-open-b"></i></p>
-                                                                                <div class="drop-items-contain-b">
-                                                                                    <ul>
-                                                                                        <!---->
-                                                                                        <li ng-repeat="(key, value) in sportsbookAvailableViews track by $index" ng-click="switchSportsbookLayout(key)" ng-class="{'active': conf.sportsLayout === key}" ng-bind="key|capitalise|translate">Modern</li>
-                                                                                        <!---->
-                                                                                        <li ng-repeat="(key, value) in sportsbookAvailableViews track by $index" ng-click="switchSportsbookLayout(key)" ng-class="{'active': conf.sportsLayout === key}" ng-bind="key|capitalise|translate" class="active">Classic</li>
-                                                                                        <!---->
-                                                                                    </ul>
-                                                                                </div>
-                                                                            </div>
-                                                                        </li>
-                                                                        <!---->
-                                                                    </ul>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="84462"] .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="84462"]:hover .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+                                                        </style>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="84462"] .uc-row .column:first-child {
+                                                                border-bottom-left-radius: 0;
+                                                                border-top-left-radius: 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="84462"] .uc-row .column:last-child {
+                                                                border-bottom-right-radius: 0;
+                                                                border-top-right-radius: 0;
+                                                            }
+                                                        </style>
+                                                    </div>
+                                                </div>
+                                                <div class="module-container   only-mobile   align-left ModuleImage" style=" padding-right:80px;padding-left:40px;;   padding-bottom:8.2559339525284vh; ">
+                                                    <div class=" module ModuleImage " datamodule-id="84463" style="display:block;max-width:501px;">
+                                                        <div class="animated animated-84463 " data-loading-animation="" data-animated-id="84463">
+                                                            <div class=" ">
+                                                                <div>
+                                                                    <div class="">
+                                                                        <img class="image lazy initial loaded" data-src="/assets/images/AliveCasinoLight2.png" data-webp="0" src="/assets/images/AliveCasinoLight2.png" data-was-processed="true">
+                                                                    </div>
                                                                 </div>
                                                             </div>
-                                                        </ng-include>
-                                                    </li>
-                                                    <!---->
-                                                </ul>
-                                                <div class="feedback-button ng-hide" ng-show="!!conf.liveChat.zopimInFooter" onclick="showZopimChat('br');">
-                                                    <p trans="">Live Chat</p>
-                                                </div>
-                                                <div class="feedback-button ng-hide" ng-show="!!conf.liveChat.popupInFooter" onclick="startLiveChat()">
-                                                    <p trans="">Live Chat</p>
-                                                </div>
-                                                <div class="feedback-button ng-hide" ng-show="!!conf.liveChat.liveAgentInFooter &amp;&amp; (conf.liveChat[env.lang]=== undefined || conf.liveChat[env.lang].liveAgentInFooter)" onclick="startLiveAgent()">
-                                                    <p>Live Chat</p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul><input type="checkbox" id="header-collapse">
-                                    <div class="header-small-view-hide" ng-class="{'vertical-nav-closed': $root.conf.customNavMenu &amp;&amp; !$root.leftMenuOpen}" ng-init="$root.conf.customNavMenu &amp;&amp; ($root.leftMenuOpen = true)"><i class="vertical-nav-arrow ng-hide" ng-show="$root.conf.customNavMenu" ng-click="$root.leftMenuOpen = !$root.leftMenuOpen;"></i>
-                                        <ul class="responsive-header-mainMenu-j">
-                                            <li class="header-left-small-b-j ng-hide" ng-controller="cmsPagesCtrl" ng-init="loadBanners(getSlug('bannerSlugs.headerSmallBanner'));" ng-show="bannerObjects[getSlug('bannerSlugs.headerSmallBanner')] &amp;&amp; bannerObjects[getSlug('bannerSlugs.headerSmallBanner')][$root.env.authorized]">
-                                                <!---->
-                                            </li>
-                                            <li ng-style="{'padding' : conf.logo.padding || ('0 ' + (conf.logo.height ? '0' : conf.logo.paddingMenu || logoWidth)  + 'px')}" style="padding: 0px;">
-                                                <!---->
-                                                <!---->
-                                                <ng-include ng-if="!conf.header.hideTopMenu" class="include-menu-header-b" src="::'templates/header/version_2/topMenu.html'|fixPath">
-                                                    <div class="header-bottom-row">
-                                                        <div class="header-nav-contain" ng-show="!conf.rfid.loginWIthRFID || conf.rfid.loginWIthRFID &amp;&amp; env.authorized">
-                                                            <ul ng-class="{'menu-dropdown': $root.topMenuDropDown, 'menu-dropdown-show': subMenuItemCount > 0}" sub-menu-creator="main">
-                                                                <div class="top-menu-more" title="More" ng-click="$root.topMenuDropDown=!$root.topMenuDropDown;" hide-on-click="" state-flag-var="$root.topMenuDropDown" trans="attr-only">More</div>
-                                                                <!---->
-                                                                <!---->
-                                                                <!---->
-                                                                <li ng-repeat="item in topMenu track by item.name" ng-if="item.showCondition &amp;&amp; !item.hidden" ng-class="{'active': item.classObject.active,
-                          '': true,
-                          'new-info-item': item.subDisplayName || item.specialCase === 'gamesSpecialText',
-                          'new-info-item-sup': item.supDisplayName,
-                          'nav-live': $root.conf.customNavMenu
-                          }" class="active">
-                                                                    <!---->
-                                                                    <div ng-if="!item.popup &amp;&amp; !item.broadcast" class="top-menu-sub-a-t"><a ng-href="#/sport/?type=1" ng-click="item.click()" data-content="new" ng-show="!item.specialCase &amp;&amp; !item.subDisplayName &amp;&amp; !item.supDisplayName" target="_self" route-reload="" reload="false" href="#/sport/?type=1"><span ng-bind="item.displayName">Live</span> </a>
-                                                                        <!---->
-                                                                        <!---->
-                                                                    </div>
-                                                                    <!---->
-                                                                    <!---->
-                                                                </li>
-                                                                <!---->
-                                                                <!---->
-                                                                <!---->
-                                                                <li ng-repeat="item in topMenu track by item.name" ng-if="item.showCondition &amp;&amp; !item.hidden" ng-class="{'active': item.classObject.active,
-                          '': true,
-                          'new-info-item': item.subDisplayName || item.specialCase === 'gamesSpecialText',
-                          'new-info-item-sup': item.supDisplayName,
-                          'nav-sport': $root.conf.customNavMenu
-                          }" class="">
-                                                                    <!---->
-                                                                    <div ng-if="!item.popup &amp;&amp; !item.broadcast" class="top-menu-sub-a-t"><a ng-href="#/sport/?type=0" ng-click="item.click()" data-content="new" ng-show="!item.specialCase &amp;&amp; !item.subDisplayName &amp;&amp; !item.supDisplayName" target="_self" route-reload="" reload="false" href="#/sport/?type=0"><span ng-bind="item.displayName">Sports</span> </a>
-                                                                        <!---->
-                                                                        <!---->
-                                                                    </div>
-                                                                    <!---->
-                                                                    <!---->
-                                                                </li>
-                                                                <!---->
-                                                                <!---->
-                                                                <!---->
-                                                                <li ng-repeat="item in topMenu track by item.name" ng-if="item.showCondition &amp;&amp; !item.hidden" ng-class="{'active': item.classObject.active,
-                          '': true,
-                          'new-info-item': item.subDisplayName || item.specialCase === 'gamesSpecialText',
-                          'new-info-item-sup': item.supDisplayName,
-                          'nav-casino': $root.conf.customNavMenu
-                          }">
-                                                                    <!---->
-                                                                    <div ng-if="!item.popup &amp;&amp; !item.broadcast" class="top-menu-sub-a-t"><a ng-href="#/casino/" ng-click="item.click()" data-content="new" ng-show="!item.specialCase &amp;&amp; !item.subDisplayName &amp;&amp; !item.supDisplayName" target="_self" route-reload="" reload="false" href="#/casino/"><span ng-bind="item.displayName">casino</span> </a>
-                                                                        <!---->
-                                                                        <!---->
-                                                                    </div>
-                                                                    <!---->
-                                                                    <!---->
-                                                                </li>
-                                                                <!---->
-                                                                <!---->
-                                                                <!---->
-                                                                <li ng-repeat="item in topMenu track by item.name" ng-if="item.showCondition &amp;&amp; !item.hidden" ng-class="{'active': item.classObject.active,
-                          '': true,
-                          'new-info-item': item.subDisplayName || item.specialCase === 'gamesSpecialText',
-                          'new-info-item-sup': item.supDisplayName,
-                          'nav-livedealer': $root.conf.customNavMenu
-                          }">
-                                                                    <!---->
-                                                                    <div ng-if="!item.popup &amp;&amp; !item.broadcast" class="top-menu-sub-a-t"><a ng-href="#/livedealer/" ng-click="item.click()" data-content="new" ng-show="!item.specialCase &amp;&amp; !item.subDisplayName &amp;&amp; !item.supDisplayName" target="_self" route-reload="" reload="false" href="#/livedealer/"><span ng-bind="item.displayName">Live casino</span> </a>
-                                                                        <!---->
-                                                                        <!---->
-                                                                    </div>
-                                                                    <!---->
-                                                                    <!---->
-                                                                </li>
-                                                                <!---->
-                                                                <!---->
-                                                                <!---->
-                                                                <li ng-repeat="item in topMenu track by item.name" ng-if="item.showCondition &amp;&amp; !item.hidden" ng-class="{'active': item.classObject.active,
-                          '1-top-nav': true,
-                          'new-info-item': item.subDisplayName || item.specialCase === 'gamesSpecialText',
-                          'new-info-item-sup': item.supDisplayName,
-                          'nav-virtual-sports': $root.conf.customNavMenu
-                          }" class="1-top-nav">
-                                                                    <!---->
-                                                                    <div ng-if="!item.popup &amp;&amp; !item.broadcast" class="top-menu-sub-a-t"><a ng-href="#/virtualsports/" ng-click="item.click()" data-content="new" ng-show="!item.specialCase &amp;&amp; !item.subDisplayName &amp;&amp; !item.supDisplayName" target="_self" route-reload="" reload="false" href="#/virtualsports/"><span ng-bind="item.displayName">Virtual sports</span> </a>
-                                                                        <!---->
-                                                                        <!---->
-                                                                    </div>
-                                                                    <!---->
-                                                                    <!---->
-                                                                </li>
-                                                                <!---->
-                                                                <!---->
-                                                                <!---->
-                                                                <li ng-repeat="item in topMenu track by item.name" ng-if="item.showCondition &amp;&amp; !item.hidden" ng-class="{'active': item.classObject.active,
-                          '1-top-nav': true,
-                          'new-info-item': item.subDisplayName || item.specialCase === 'gamesSpecialText',
-                          'new-info-item-sup': item.supDisplayName,
-                          'nav-poker': $root.conf.customNavMenu
-                          }" class="1-top-nav">
-                                                                    <!---->
-                                                                    <div ng-if="!item.popup &amp;&amp; !item.broadcast" class="top-menu-sub-a-t"><a ng-href="#/poker/" ng-click="item.click()" data-content="new" ng-show="!item.specialCase &amp;&amp; !item.subDisplayName &amp;&amp; !item.supDisplayName" target="_self" route-reload="" reload="false" href="#/poker/"><span ng-bind="item.displayName">Poker</span> </a>
-                                                                        <!---->
-                                                                        <!---->
-                                                                    </div>
-                                                                    <!---->
-                                                                    <!---->
-                                                                </li>
-                                                                <!---->
-                                                                <!---->
-                                                                <!---->
-                                                                <li ng-repeat="item in topMenu track by item.name" ng-if="item.showCondition &amp;&amp; !item.hidden" ng-class="{'active': item.classObject.active,
-                          '': true,
-                          'new-info-item': item.subDisplayName || item.specialCase === 'gamesSpecialText',
-                          'new-info-item-sup': item.supDisplayName,
-                          'nav-promotions': $root.conf.customNavMenu
-                          }">
-                                                                    <!---->
-                                                                    <div ng-if="!item.popup &amp;&amp; !item.broadcast" class="top-menu-sub-a-t"><a ng-href="#/promos/" ng-click="item.click()" data-content="new" ng-show="!item.specialCase &amp;&amp; !item.subDisplayName &amp;&amp; !item.supDisplayName" target="_self" route-reload="" reload="false" href="#/promos/"><span ng-bind="item.displayName">Promotions</span> </a>
-                                                                        <!---->
-                                                                        <!---->
-                                                                    </div>
-                                                                    <!---->
-                                                                    <!---->
-                                                                </li>
-                                                                <!---->
-                                                                <!---->
-                                                            </ul>
                                                         </div>
                                                     </div>
-                                                </ng-include>
-                                                <!---->
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <!---->
-                            <!---->
-                            <ng-include class="float-width" ng-show="$root.currentPage.hasSubHeader &amp;&amp; $root.currentPage.isInSports &amp;&amp; !$root.conf.hideSubHeaderByPath[$location.path()]" no-animate="" src="::'templates/sport/toptab.html'|fixPath">
-                                <div class="subtop-header-menu-j">
-                                    <ul ng-class="{'toptab-pre-match': !$root.env.live}" class="">
-                                        <!---->
-                                        <!---->
-                                        <li ng-if="(menu.enabledConfig === undefined || calculatedConfigs[menu.enabledConfig]) &amp;&amp; (!menu.exceptViews ||( menu.exceptViews.indexOf($root.conf.sportsLayout) === -1 &amp;&amp;  ($root.conf.sportsLayout !== 'classic' ||  menu.exceptViews.indexOf('euro2016') === -1) ) ) &amp;&amp; !menu.hidden" ng-repeat="menu in $root.conf.subHeaderItems track by menu.alias" ng-class="{'active': $location.path() === '/' + menu.alias + '/' || $location.path() === '/' + menu.alias}" class="active">
-                                            <!----><a data-badge="" ng-if="!menu.url" ng-href="https://www.alivecasino.io/#/sport/?type=1#" href="https://www.alivecasino.io/#/sport/?type=1#">Event View</a>
-                                            <!---->
-                                            <!---->
-                                        </li>
-                                        <!---->
-                                        <!---->
-                                        <!---->
-                                        <li ng-if="(menu.enabledConfig === undefined || calculatedConfigs[menu.enabledConfig]) &amp;&amp; (!menu.exceptViews ||( menu.exceptViews.indexOf($root.conf.sportsLayout) === -1 &amp;&amp;  ($root.conf.sportsLayout !== 'classic' ||  menu.exceptViews.indexOf('euro2016') === -1) ) ) &amp;&amp; !menu.hidden" ng-repeat="menu in $root.conf.subHeaderItems track by menu.alias" ng-class="{'active': $location.path() === '/' + menu.alias + '/' || $location.path() === '/' + menu.alias}">
-                                            <!----><a data-badge="" ng-if="!menu.url" ng-href="#/dashboard" href="#/dashboard">Dashboard</a>
-                                            <!---->
-                                            <!---->
-                                        </li>
-                                        <!---->
-                                        <!---->
-                                        <!---->
-                                        <!---->
-                                        <!---->
-                                        <li ng-if="(menu.enabledConfig === undefined || calculatedConfigs[menu.enabledConfig]) &amp;&amp; (!menu.exceptViews ||( menu.exceptViews.indexOf($root.conf.sportsLayout) === -1 &amp;&amp;  ($root.conf.sportsLayout !== 'classic' ||  menu.exceptViews.indexOf('euro2016') === -1) ) ) &amp;&amp; !menu.hidden" ng-repeat="menu in $root.conf.subHeaderItems track by menu.alias" ng-class="{'active': $location.path() === '/' + menu.alias + '/' || $location.path() === '/' + menu.alias}">
-                                            <!----><a data-badge="" ng-if="!menu.url" ng-href="#/multiview" href="#/multiview">Live MultiView</a>
-                                            <!---->
-                                            <!---->
-                                        </li>
-                                        <!---->
-                                        <!---->
-                                        <!---->
-                                        <li ng-if="(menu.enabledConfig === undefined || calculatedConfigs[menu.enabledConfig]) &amp;&amp; (!menu.exceptViews ||( menu.exceptViews.indexOf($root.conf.sportsLayout) === -1 &amp;&amp;  ($root.conf.sportsLayout !== 'classic' ||  menu.exceptViews.indexOf('euro2016') === -1) ) ) &amp;&amp; !menu.hidden" ng-repeat="menu in $root.conf.subHeaderItems track by menu.alias" ng-class="{'active': $location.path() === '/' + menu.alias + '/' || $location.path() === '/' + menu.alias}">
-                                            <!----><a data-badge="" ng-if="!menu.url" ng-href="#/livecalendar" href="#/livecalendar">Live Calendar</a>
-                                            <!---->
-                                            <!---->
-                                        </li>
-                                        <!---->
-                                        <!---->
-                                        <!---->
-                                        <li ng-if="(menu.enabledConfig === undefined || calculatedConfigs[menu.enabledConfig]) &amp;&amp; (!menu.exceptViews ||( menu.exceptViews.indexOf($root.conf.sportsLayout) === -1 &amp;&amp;  ($root.conf.sportsLayout !== 'classic' ||  menu.exceptViews.indexOf('euro2016') === -1) ) ) &amp;&amp; !menu.hidden" ng-repeat="menu in $root.conf.subHeaderItems track by menu.alias" ng-class="{'active': $location.path() === '/' + menu.alias + '/' || $location.path() === '/' + menu.alias}">
-                                            <!----><a data-badge="" ng-if="!menu.url" ng-href="#/results" href="#/results">Results</a>
-                                            <!---->
-                                            <!---->
-                                        </li>
-                                        <!---->
-                                        <!---->
-                                        <!---->
-                                        <!---->
-                                    </ul>
-                                </div>
-                                <!---->
-                            </ng-include>
-                            <!---->
-                            <!---->
-                            <!---->
-                        </ng-include>
-                    </div>
-                    <div class="block-slider block-slider--t ng-hide" no-animate="" class-on-scroll="slider-scroll" id="block-slider-container" ng-class="{'popup': env.sliderAsPopup[env.sliderContent]}" hide-on-click="true" state-flag-var="env.showSlider" broadcast-on-close="slider.close" except="header" ng-show="env.showSlider &amp;&amp;
-            (!conf.enableMixedView || ['recentBetsCashout', 'recentBets', 'betHistory', 'casinoBetHistory','shukaBetHistory',
-                    'settings','deposit', 'withdraw', 'balanceHistory', 'casinoBalanceHistory', 'cashier', 'myWallets', 'loyaltyPoints', 'tickets', 'casinoCashBackCashOut', 'buddytransfer','profits', 'depositRequest'].indexOf(env.sliderContent) === -1)
-            &amp;&amp; (!conf.enableBonuses || env.sliderContent !== 'bonuses') &amp;&amp; env.sliderContent !== 'promotionalBonuses' ">
-                        <div ng-click="closeSlider()" class="close-slider-button-j"></div>
-                        <!---->
-                        <!---->
-                        <div ng-include="::'templates/slider/recentbets.html'|fixPath">
-                            <!---->
-                        </div>
-                        <!---->
-                        <div ng-include="::'templates/slider/bethistory.html'|fixPath">
-                            <!---->
-                        </div>
-                        <!---->
-                        <div ng-include="::'templates/slider/casinobethistory.html'|fixPath">
-                            <!---->
-                        </div>
-                        <!---->
-                        <div ng-include="::'templates/slider/shukabethistory.html'|fixPath">
-                            <!---->
-                        </div>
-                        <!---->
-                        <div ng-include="::'templates/slider/help.html'|fixPath">
-                            <!---->
-                        </div>
-                        <!---->
-                        <!---->
-                        <div class="block-sign-in-form" ng-include="::'templates/slider/signinform.html'|fixPath">
-                            <div ng-controller="loginCtrl">
-                                <!---->
-                                <!---->
-                                <!---->
-                                <!---->
-                                <!---->
-                            </div>
-                            <!---->
-                            <!---->
-                        </div>
-                        <!---->
-                        <div class="block-sign-in-form" ng-include="::'templates/slider/custom_content.html'|fixPath">
-                            <!---->
-                        </div>
-                        <!---->
-                        <div class="block-sign-in-form" ng-include="::'templates/slider/invite.html'|fixPath"></div>
-                        <!---->
-                        <div class="block-sign-in-form" ng-include="::'templates/slider/warning.html'|fixPath">
-                            <!---->
-                        </div>
-                        <!---->
-                        <!---->
-                        <!---->
-                        <div class="block-sign-in-form saved-games-container" ng-include="::'templates/slider/savedgames.html'|fixPath">
-                            <!---->
-                            <div class="save-games-contain ng-hide" ng-show="env.sliderContent === 'savedGames'" ng-controller="myGamesCtrl" ng-if="conf.sportSavedGamesEnabled" watch-resize="">
-                                <div class="my-games-save">
-                                    <div class="games-save-slider">
-                                        <div class="arrow-left-s ng-hide" ng-show="offset > 0"><a ng-click="slide('left')"></a></div>
-                                        <div class="arrow-right-s ng-hide" ng-show="offset < allGamesCount - gamesToShow"><a ng-click="slide('right')"></a></div>
-                                        <ul ng-show="games.length > 0" class="ng-hide">
-                                            <!---->
-                                        </ul>
-                                        <!---->
-                                        <div class="dont-games-block" ng-show=" games.length === 0">
-                                            <p trans="">You don't have favourite games. To add some, click the star icon near the game name.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!---->
-                        </div>
-                        <!---->
-                        <!---->
-                        <div class="block-sign-in-form saved-games-container" ng-if="availableModules.indexOf('casino') > -1" ng-hide="env.hideCasinoFavorites" ng-include="'optional_modules/casino/templates/slider/casinosavedgames.html'|fixPath">
-                            <div ng-controller="casinoMyGamesCtrl" class="save-games-contain ng-hide" ng-show="env.sliderContent === 'casinoSavedGames'" watch-resize="">
-                                <div class="my-games-save casino">
-                                    <div class="games-save-slider">
-                                        <div class="arrow-left-s ng-hide" ng-show="offset > 0"><a ng-click="slide('left')"></a></div>
-                                        <div class="arrow-right-s ng-hide" ng-show="offset < myCasinoGames.length - GAMES_TO_SHOW"><a ng-click="slide('right')"></a></div>
-                                        <div class="games-slider">
-                                            <div class="all-games-casino-list" show-conditions="true" games-list="myCasinoSavedGames" game-show-conditions="true" show-delete-btn="true" hide-favorite-button="true" use-big-icons="true">
-                                                <!---->
-                                                <div class="all-games-container" ng-if="!jackpotGames &amp;&amp; showConditions">
-                                                    <!---->
                                                 </div>
-                                                <!---->
-                                                <!---->
-                                            </div>
-                                            <!---->
-                                            <!---->
-                                            <div class="dont-games-block" ng-if="myCasinoSavedGames.length === 0">
-                                                <p trans="">You don't have favourite games. To add some, click the star icon near the game name.</p>
-                                            </div>
-                                            <!---->
-                                        </div>
-                                        <div class="page-center md-progress-circular md-theme ng-hide" ng-show="!casinoGamesLoaded"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!---->
-                        <!---->
-                        <div class="block-sign-in-form" ng-include="::'templates/slider/settings.html'|fixPath">
-                            <!---->
-                        </div>
-                        <!---->
-                        <div class="block-sign-in-form" ng-include="::'templates/slider/messages.html'|fixPath">
-                            <!---->
-                        </div>
-                        <div class="closed-arrow-b"><a ng-click="broadcast('slider.close')" trans="">close</a></div>
-                    </div>
-                    <!---->
-                    <!---->
-                    <!---->
-                    <div ng-show="recaptcha.key" ng-controller="recaptchaCtrl" ng-include="::'templates/popup/recaptcha.html'|fixPath" class="ng-hide">
-                        <!---->
-                    </div>
-                    <!---->
-                    <!---->
-                    <!---->
-                </div>
-            </div>
-            <!---->
-            <!---->
-            <ng-include src="::'templates/dialogs/globaldialog.html'|fixPath">
-                <div ng-controller="globalDialogCtrl">
-                    <!---->
-                    <!---->
-                    <!---->
-                </div>
-            </ng-include>
-            <!---->
-            <ng-include src="::'templates/dialogs/renewreminder.html'|fixPath">
-                <!---->
-                <div class="popup-bg-contain" ng-class="{'active': $root.renewReminder}" ng-controller="headerCtrl" ng-if="conf.remindToRenewBalance.enabled &amp;&amp; $location.path() !='/popup/'">
-                    <div class="deposit-alert-contain">
-                        <div class="icon-delete"><a ng-click="$root.renewReminder=false">Close</a></div>
-                        <div class="text-deposit-alert">
-                            <p><span><b trans="">Your balance is low</b></span><span ng-show="conf.remindToRenewBalance.page === 'renew'" trans="" class="ng-hide">Renew to get more.</span> <button class="message-box-ok-btn ng-hide" ng-click="renewReminder = null; env.showSlider = true; env.sliderContent = conf.remindToRenewBalance.page; $event.stopPropagation();" ng-show="conf.remindToRenewBalance.page === 'renew'">Renew</button> <button class="message-box-ok-btn" ng-click="renewReminder = null; env.showSlider = true; env.sliderContent = conf.remindToRenewBalance.page; $event.stopPropagation();" ng-show="conf.remindToRenewBalance.page === 'deposit'">Deposit</button></p>
-                        </div>
-                    </div>
-                </div>
-                <!---->
-            </ng-include>
-            <!---->
-            <div ng-controller="headerCtrl" ng-if="$location.path() !='/popup/'" ng-init="headerInit();">
-                <div class="popup-bg-contain" ng-class="{'active': $root.globalPopup}">
-                    <div class="deposit-alert-contain">
-                        <div class="icon-delete"><a ng-click="$root.globalPopup=null">Close</a></div>
-                        <div class="text-deposit-alert">
-                            <div class="popup-status-icon info" ng-class="$root.globalPopupType||'info'"></div>
-                            <p><span ng-bind-html="$root.globalPopup | html" trans=""></span> <button class="message-box-ok-btn" ng-click="$root.globalPopup=null" trans="">OK</button></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="popup-bg-contain" ng-class="{'active': yesNoDialog}">
-                    <div class="deposit-alert-contain">
-                        <div class="text-deposit-alert free">
-                            <div class="popup-status-icon info" ng-class="yesNoDialogType||'info'"></div>
-                            <p><span ng-bind="yesNoDialog"></span> <button class="message-box-ok-btn" ng-click="answer('yes')" trans="">Yes</button> <button class="message-box-ok-btn" ng-click="answer('no')" trans="">No</button></p>
-                        </div>
-                    </div>
-                </div>
-                <!---->
-                <ng-include src="::'templates/dialogs/youtubevideo.html'|fixPath">
-                    <!---->
-                </ng-include>
-            </div>
-            <!---->
-            <!---->
-            <ng-include src="::'templates/dialogs/survey.html'|fixPath">
-                <!---->
-            </ng-include>
-            <!---->
-            <ng-include src="::'templates/dialogs/rfidlogin.html'|fixPath">
-                <!---->
-            </ng-include>
-            <!---->
-            <div class="popup-bg-contain" ng-class="{'active': blockingPopup}">
-                <div class="deposit-alert-contain">
-                    <div class="text-deposit-alert">
-                        <div class="popup-status-icon info" ng-class="blockingPopupType||'info'"></div>
-                        <p><span ng-bind="blockingPopup"></span></p>
-                    </div>
-                </div>
-            </div>
-            <!---->
-            <ng-include src="::'templates/dialogs/feedback.html'|fixPath">
-                <!---->
-                <div ng-controller="FeedbackController as feedbackCtrl" ng-if="(conf.footer.feedbackButton.enabledLogin || conf.footer.feedbackButton.enabledLogOut) &amp;&amp; $location.path() != '/popup/'">
-                    <div class="new-default-popup-j feedback ng-hide" ng-show="showFeedBackPopup">
-                        <div class="pp-table-j">
-                            <div class="table-row-j">
-                                <div class="table-cell-j">
-                                    <div class="popup-wrapper-j">
-                                        <div class="pu-head-j"><span trans="">Feedback</span> <a class="close-j" ng-click="toggleView()"></a></div>
-                                        <form name="feedbackForm" class="ng-pristine ng-valid-email ng-invalid ng-invalid-required ng-valid-pattern">
-                                            <div class="pu-contain-j">
-                                                <p><span trans="">Hello, we'd love to hear your thoughts.</span><br><br><span trans="">Now, if you have any questions, comments or suggestions, please enter your feedback in the box below and then press "Send".</span></p><label ng-class="{'error': (feedbackForm.email.$touched &amp;&amp; feedbackForm.email.$invalid)}">
-                                                    <p trans="">E-mail</p>
-                                                    <div class="tooltip-wrapper-j"><input name="email" type="email" placeholder="Enter your email address" required="" ng-model="email" ng-pattern="/^[\w!.%+\-]+@[\w\-]+(?:\.[\w\-]+)+$/" trans="" class="ng-pristine ng-untouched ng-empty ng-valid-email ng-invalid ng-invalid-required ng-valid-pattern">
-                                                        <div class="form-error-text-j ng-hide" ng-show="feedbackForm.email.$touched &amp;&amp; feedbackForm.email.$error.pattern">
-                                                            <div class="error-icon-f-j" ng-click="feedbackForm.email.$setUntouched();"></div><span trans="" ng-show="feedbackForm.email.$error.pattern" class="ng-hide">Please enter a valid email address</span>
+                                                <div class="module-container only-mobile align-left ModuleParagraph
+                                                                " style=" padding-right:80px;padding-left:40px;;   padding-bottom:3.0959752321981vh; ">
+                                                    <div class="  module ModuleParagraph " datamodule-id="84464" style="display:block;max-width:504px;">
+                                                        <div class="uc-content ">
+                                                            <p style="color:rgb(255, 255, 255);"><span class="font-11em"><span style="font-family:Roboto;">Alivecasino is a leading online
+                                                                        gambling operator, offering a wide range of live casino
+                                                                        games and thousands of global sporting events to bet
+                                                                        on.</span></span></p>
+                                                            <p>&nbsp;</p>
+                                                            <p style="color:rgb(255, 255, 255);"><span class="font-11em"><span style="font-family:Roboto;">Licensed and regulated by the
+                                                                        Curacao Licensing Authority Alivecasino offers industry-leading
+                                                                        24/7 customer support and a secure and dependable platform
+                                                                        for all its players.</span></span></p>
                                                         </div>
                                                     </div>
-                                                </label><label>
-                                                    <p trans="">Your message</p><textarea name="" cols="1" rows="1" ng-model="messageBody" class="ng-pristine ng-untouched ng-valid ng-empty"></textarea>
-                                                </label>
-                                            </div>
-                                            <div class="pu-button-wrap-j"><button class="cancel-j feedback-cancel-t" ng-click="toggleView()" trans="">Cancel</button> <button ng-show="!sendingFeedBackInProgress" trans="" ng-click="sendMessage()" ng-disabled="feedbackForm.$invalid" disabled="disabled">Send</button>
-                                                <div class="md-progress-circular md-theme ng-hide" ng-show="sendingFeedBackInProgress"></div>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!---->
-            </ng-include>
-            <!---->
-            <ng-include src="::'templates/dialogs/counteroffer.html'|fixPath">
-                <div ng-controller="superBetCtrl">
-                    <div class="popup-bg-contain" ng-class="{'active': showCounterOfferPopup}">
-                        <div class="popup-classic counter-offer">
-                            <div class="closed-btn" ng-click="declineCounterOffer();"></div>
-                            <h3 trans="">SuperBet Counter Offer</h3>
-                            <div class="popup-content">
-                                <div class="evt-details">
-                                    <p></p>
-                                </div>
-                                <table>
-                                    <tbody>
-                                        <tr>
-                                            <th trans="">Bet Details</th>
-                                            <th trans="">Offer Details</th>
-                                        </tr>
-                                        <tr>
-                                            <td ng-class="{'old-odd': (originalSuperBet.k != counterOffer.events.event.coeficient)}"><span trans="">Odds:</span> </td>
-                                            <td><span trans="">Odds:</span> </td>
-                                        </tr>
-                                        <tr>
-                                            <td ng-class="{'old-odd': (originalSuperBet.amount != counterOffer.amount)}"><span trans="">Amount:</span> </td>
-                                            <td><span trans="">Amount:</span> </td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                                <div class="remaining-time"><span trans="">Remaining time:</span>NaN NaN</div>
-                                <div class="popup-buttons"><button ng-click="approveCounterOffer();" trans="">Accept</button> <button ng-click="declineCounterOffer();" trans="" class="btn-default">Decline</button></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </ng-include>
-            <!---->
-            <ng-include src="::'templates/dialogs/skype_authorization_request.html'|fixPath">
-                <!---->
-            </ng-include>
-            <!---->
-            <ng-include src="::'templates/dialogs/couponCheck.html'|fixPath">
-                <!---->
-            </ng-include>
-            <!---->
-        </div>
-        <!---->
+                                                </div>
+                                                <div class="module-container   only-mobile   align-left ModuleParagraph
+                                                                " style=" padding-right:80px;padding-left:40px;;  ">
+                                                    <div class="  module ModuleParagraph " datamodule-id="84465" style="display:block;max-width:489px;">
+                                                        <div class="uc-content ">
+                                                            <p style="color:rgb(255, 255, 255);"><span class="font-11em">We are
+                                                                    committed to providing the highest level of player satisfaction
+                                                                    and setting the top standard for the online casino and
+                                                                    sportsbook industry, so the rest may follow.</span></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="module-container   only-mobile   align-center ModuleSpace
+                                        last                         ">
+                                                    <div class="  module ModuleSpace " datamodule-id="84487">
+                                                        <div class="space-container">
+                                                            <div class="space-inner" style="height: 60px;">
+                                                            </div>
+                                                        </div>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="84487"] .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
 
+                                                            .ModuleSpace[datamodule-id="84487"]:hover .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+                                                        </style>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="84487"] .uc-row .column:first-child {
+                                                                border-bottom-left-radius: 0;
+                                                                border-top-left-radius: 0;
+                                                            }
 
-        <div class="footer-group">
-            <div class="footer-cell">
-                <!---->
-                <!---->
-                <div class="contain-footer-block" id="footerContainer" ng-hide="!footerMovable &amp;&amp; casinoGameOpened > 0" ng-class="{'active': footerOpen &amp;&amp; !env.sliderContent, 'footer-fixed': footerMovable}" ng-include="::'templates/footer.html'|fixPath" ng-if="$location.path() !='/popup/'">
-                    <!---->
-                    <div class="float-left width-100" ng-if="!conf.integrationMode &amp;&amp; !conf.footer.disable &amp;&amp; $location.path() !='/popup/' &amp;&amp; $location.path().indexOf('/widget/') === -1">
-                        <div class="guide" ng-controller="footerCtrl">
-                            <div class="footer-j">
-                                <!---->
-                                <div class="footer-section left" ng-include="::'templates/footer/helppages.html'|fixPath">
-                                    <!---->
-                                    <div class="footer-nav-b" ng-controller="cmsPagesCtrl" ng-init="loadHelpPages();" ng-if="!conf.footer.disable">
-                                        <!---->
-                                        <ul ng-repeat="topLevelPage in navigation">
-                                            <!---->
-                                            <li class="top-level-page" ng-if="topLevelPage.children.length"><a>ABOUT</a></li>
-                                            <!---->
-                                            <!---->
-                                            <!---->
-                                            <li ng-repeat="childPage in topLevelPage.children">
-                                                <!----><a ng-show="childPage.custom_fields.link[0] == null" ng-if="!childPage.custom_fields.authorized[0] || (env.authorized &amp;&amp; childPage.custom_fields.authorized[0])" ng-click="scrollToTop(); openHelpPage(childPage.id, 'footer', topLevelPage, childPage); $event.stopPropagation()">General Terms and Conditions</a>
-                                                <!----> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] != 1" ng-click="$root.ignorePathValidation = true" target="_self" class="ng-hide">General Terms and Conditions</a> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] == 1" ng-click="broadcast('window.openPopup', {url:childPage.custom_fields.link[0], title: '', params: 'toolbar=no,scrollbars=no,resizable=no,width=900,height=700'}); $event.stopPropagation()" class="ng-hide">General Terms and Conditions</a></li>
-                                            <!---->
-                                            <li ng-repeat="childPage in topLevelPage.children">
-                                                <!----><a ng-show="childPage.custom_fields.link[0] == null" ng-if="!childPage.custom_fields.authorized[0] || (env.authorized &amp;&amp; childPage.custom_fields.authorized[0])" ng-click="scrollToTop(); openHelpPage(childPage.id, 'footer', topLevelPage, childPage); $event.stopPropagation()">Responsible Gaming</a>
-                                                <!----> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] != 1" ng-click="$root.ignorePathValidation = true" target="_self" class="ng-hide">Responsible Gaming</a> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] == 1" ng-click="broadcast('window.openPopup', {url:childPage.custom_fields.link[0], title: '', params: 'toolbar=no,scrollbars=no,resizable=no,width=900,height=700'}); $event.stopPropagation()" class="ng-hide">Responsible Gaming</a></li>
-                                            <!---->
-                                            <li ng-repeat="childPage in topLevelPage.children">
-                                                <!----><a ng-show="childPage.custom_fields.link[0] == null" ng-if="!childPage.custom_fields.authorized[0] || (env.authorized &amp;&amp; childPage.custom_fields.authorized[0])" ng-click="scrollToTop(); openHelpPage(childPage.id, 'footer', topLevelPage, childPage); $event.stopPropagation()">Privacy Policy</a>
-                                                <!----> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] != 1" ng-click="$root.ignorePathValidation = true" target="_self" class="ng-hide">Privacy Policy</a> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] == 1" ng-click="broadcast('window.openPopup', {url:childPage.custom_fields.link[0], title: '', params: 'toolbar=no,scrollbars=no,resizable=no,width=900,height=700'}); $event.stopPropagation()" class="ng-hide">Privacy Policy</a></li>
-                                            <!---->
-                                            <li ng-repeat="childPage in topLevelPage.children">
-                                                <!----><a ng-show="childPage.custom_fields.link[0] == null" ng-if="!childPage.custom_fields.authorized[0] || (env.authorized &amp;&amp; childPage.custom_fields.authorized[0])" ng-click="scrollToTop(); openHelpPage(childPage.id, 'footer', topLevelPage, childPage); $event.stopPropagation()">About Project and Team</a>
-                                                <!----> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] != 1" ng-click="$root.ignorePathValidation = true" target="_blank" class="ng-hide">About Project and Team</a> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] == 1" ng-click="broadcast('window.openPopup', {url:childPage.custom_fields.link[0], title: '', params: 'toolbar=no,scrollbars=no,resizable=no,width=900,height=700'}); $event.stopPropagation()" class="ng-hide">About Project and Team</a></li>
-                                            <!---->
-                                        </ul>
-                                        <!---->
-                                        <ul ng-repeat="topLevelPage in navigation">
-                                            <!---->
-                                            <li class="top-level-page" ng-if="topLevelPage.children.length"><a>HELP</a></li>
-                                            <!---->
-                                            <!---->
-                                            <!---->
-                                            <li ng-repeat="childPage in topLevelPage.children">
-                                                <!----><a ng-show="childPage.custom_fields.link[0] == null" ng-if="!childPage.custom_fields.authorized[0] || (env.authorized &amp;&amp; childPage.custom_fields.authorized[0])" ng-click="scrollToTop(); openHelpPage(childPage.id, 'footer', topLevelPage, childPage); $event.stopPropagation()">Sport Betting</a>
-                                                <!----> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] != 1" ng-click="$root.ignorePathValidation = true" target="_self" class="ng-hide">Sport Betting</a> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] == 1" ng-click="broadcast('window.openPopup', {url:childPage.custom_fields.link[0], title: '', params: 'toolbar=no,scrollbars=no,resizable=no,width=900,height=700'}); $event.stopPropagation()" class="ng-hide">Sport Betting</a></li>
-                                            <!---->
-                                            <li ng-repeat="childPage in topLevelPage.children">
-                                                <!----><a ng-show="childPage.custom_fields.link[0] == null" ng-if="!childPage.custom_fields.authorized[0] || (env.authorized &amp;&amp; childPage.custom_fields.authorized[0])" ng-click="scrollToTop(); openHelpPage(childPage.id, 'footer', topLevelPage, childPage); $event.stopPropagation()">FAQs</a>
-                                                <!----> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] != 1" ng-click="$root.ignorePathValidation = true" target="_self" class="ng-hide">FAQs</a> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] == 1" ng-click="broadcast('window.openPopup', {url:childPage.custom_fields.link[0], title: '', params: 'toolbar=no,scrollbars=no,resizable=no,width=900,height=700'}); $event.stopPropagation()" class="ng-hide">FAQs</a></li>
-                                            <!---->
-                                            <li ng-repeat="childPage in topLevelPage.children">
-                                                <!----><a ng-show="childPage.custom_fields.link[0] == null" ng-if="!childPage.custom_fields.authorized[0] || (env.authorized &amp;&amp; childPage.custom_fields.authorized[0])" ng-click="scrollToTop(); openHelpPage(childPage.id, 'footer', topLevelPage, childPage); $event.stopPropagation()">Casino</a>
-                                                <!----> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] != 1" ng-click="$root.ignorePathValidation = true" target="_self" class="ng-hide">Casino</a> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] == 1" ng-click="broadcast('window.openPopup', {url:childPage.custom_fields.link[0], title: '', params: 'toolbar=no,scrollbars=no,resizable=no,width=900,height=700'}); $event.stopPropagation()" class="ng-hide">Casino</a></li>
-                                            <!---->
-                                            <li ng-repeat="childPage in topLevelPage.children">
-                                                <!----><a ng-show="childPage.custom_fields.link[0] == null" ng-if="!childPage.custom_fields.authorized[0] || (env.authorized &amp;&amp; childPage.custom_fields.authorized[0])" ng-click="scrollToTop(); openHelpPage(childPage.id, 'footer', topLevelPage, childPage); $event.stopPropagation()">Poker</a>
-                                                <!----> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] != 1" ng-click="$root.ignorePathValidation = true" target="_self" class="ng-hide">Poker</a> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] == 1" ng-click="broadcast('window.openPopup', {url:childPage.custom_fields.link[0], title: '', params: 'toolbar=no,scrollbars=no,resizable=no,width=900,height=700'}); $event.stopPropagation()" class="ng-hide">Poker</a></li>
-                                            <!---->
-                                        </ul>
-                                        <!---->
-                                        <ul ng-repeat="topLevelPage in navigation">
-                                            <!---->
-                                            <li class="top-level-page" ng-if="topLevelPage.children.length"><a>REGULATIONS</a></li>
-                                            <!---->
-                                            <!---->
-                                            <!---->
-                                            <li ng-repeat="childPage in topLevelPage.children">
-                                                <!----><a ng-show="childPage.custom_fields.link[0] == null" ng-if="!childPage.custom_fields.authorized[0] || (env.authorized &amp;&amp; childPage.custom_fields.authorized[0])" ng-click="scrollToTop(); openHelpPage(childPage.id, 'footer', topLevelPage, childPage); $event.stopPropagation()">Support</a>
-                                                <!----> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] != 1" ng-click="$root.ignorePathValidation = true" target="_self" class="ng-hide">Support</a> <a ng-show="childPage.custom_fields.link[0] != null &amp;&amp; childPage.custom_fields.new_popup[0] == 1" ng-click="broadcast('window.openPopup', {url:childPage.custom_fields.link[0], title: '', params: 'toolbar=no,scrollbars=no,resizable=no,width=900,height=700'}); $event.stopPropagation()" class="ng-hide">Support</a></li>
-                                            <!---->
-                                        </ul>
-                                        <!---->
+                                                            .ModuleSpace[datamodule-id="84487"] .uc-row .column:last-child {
+                                                                border-bottom-right-radius: 0;
+                                                                border-top-right-radius: 0;
+                                                            }
+                                                        </style>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="column col-sm-6 " datacolumn-id="30596" style="  padding:0vh 0vh;     ">
+                                            <div class="column-container vertical-center">
+                                                <div class="module-container   only-mobile   align-center ModuleSpace
+                                        first                          " style="  padding-bottom:0vh; ">
+                                                    <div class="  module ModuleSpace " datamodule-id="84492">
+                                                        <div class="space-container">
+                                                            <div class="space-inner" style="height: 50px;">
+                                                            </div>
+                                                        </div>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="84492"] .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="84492"]:hover .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+                                                        </style>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="84492"] .uc-row .column:first-child {
+                                                                border-bottom-left-radius: 0;
+                                                                border-top-left-radius: 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="84492"] .uc-row .column:last-child {
+                                                                border-bottom-right-radius: 0;
+                                                                border-top-right-radius: 0;
+                                                            }
+                                                        </style>
+                                                    </div>
+                                                </div>
+                                                <div class="module-container  align-center ModuleImage
+                                        last                         " style=" padding-right:40px;padding-left:40px;;  ">
+                                                    <div class="  module ModuleImage " datamodule-id="84488" style="display:block;max-width: 100%;">
+                                                        <div class="animated animated-84488 " data-loading-animation="" data-animated-id="84488">
+                                                            <div class=" ">
+                                                                <div>
+                                                                    <div class="">
+                                                                        <img class="image lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/84488-untitled-1-15846491608309.png" data-webp="0" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/84488-untitled-1-15846491608309.png" data-was-processed="true">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <!---->
                                 </div>
-                                <div class="footer-section right">
-                                    <!---->
-                                    <ng-include src="::'templates/footer/social.html'|fixPath">
-                                        <div class="ref-social-icons-j">
-                                            <!----><a ng-repeat="value in ::conf.footer.socialLinks track by value.key" ng-show="::value.url[env.lang] || value.url.default" ng-href="https://www.instagram.com/alivecasino/" target="_self" ng-class="::value.key" title="" href="https://www.instagram.com/alivecasino/" class="instagram"></a>
-                                            <!----><a ng-repeat="value in ::conf.footer.socialLinks track by value.key" ng-show="::value.url[env.lang] || value.url.default" ng-href="https://twitter.com/alivecasino" target="_self" ng-class="::value.key" title="" href="https://twitter.com/alivecasino" class="twitter"></a>
-                                            <!----><a ng-repeat="value in ::conf.footer.socialLinks track by value.key" ng-show="::value.url[env.lang] || value.url.default" ng-href="https://www.facebook.com/alivecasino/" target="_self" ng-class="::value.key" title="" href="https://www.facebook.com/alivecasino/" class="facebook"></a>
-                                            <!----><a ng-repeat="value in ::conf.footer.socialLinks track by value.key" ng-show="::value.url[env.lang] || value.url.default" ng-href="https://www.youtube.com/channel/UCm99L7kLelfnNAN58hUgmGg/" target="_blank" ng-class="::value.key" title="" href="https://www.youtube.com/channel/UCm99L7kLelfnNAN58hUgmGg/" class="youtube"></a>
-                                            <!----><a ng-repeat="value in ::conf.footer.socialLinks track by value.key" ng-show="::value.url[env.lang] || value.url.default" ng-href="https://t.me/alivecasino" target="_blank" ng-class="::value.key" title="+44 7520640061" href="https://t.me/alivecasino" class="telegram"></a>
-                                            <!----><a ng-repeat="value in ::conf.footer.socialLinks track by value.key" ng-show="::value.url[env.lang] || value.url.default" target="_blank" ng-class="::value.key" title="" class="ng-hide odnoklassniki"></a>
-                                            <!----><a ng-repeat="value in ::conf.footer.socialLinks track by value.key" ng-show="::value.url[env.lang] || value.url.default" target="_blank" ng-class="::value.key" title="" class="ng-hide pinterest"></a>
-                                            <!----><a ng-repeat="value in ::conf.footer.socialLinks track by value.key" ng-show="::value.url[env.lang] || value.url.default" target="_blank" ng-class="::value.key" title="" class="ng-hide line"></a>
-                                            <!----><a ng-repeat="value in ::conf.footer.socialLinks track by value.key" ng-show="::value.url[env.lang] || value.url.default" target="_blank" ng-class="::value.key" title="" class="ng-hide qq"></a>
-                                            <!----><a ng-repeat="value in ::conf.footer.socialLinks track by value.key" ng-show="::value.url[env.lang] || value.url.default" target="_blank" ng-class="::value.key" title="" class="ng-hide wechat"></a>
-                                            <!----><a ng-repeat="value in ::conf.footer.socialLinks track by value.key" ng-show="::value.url[env.lang] || value.url.default" target="_blank" ng-class="::value.key" title="" class="ng-hide linkedIn"></a>
-                                            <!---->
-                                        </div>
-                                    </ng-include>
-                                    <!---->
-                                    <ng-include src="::'templates/footer/copyright.html'|fixPath">
-                                        <div class="copyright-j" ng-show="!conf.footer.disableCopyrightBlock">
-                                            <!---->
-                                            <div ng-if="conf.footer.poweredByText !== ''">© <span ng-show="(now|date:'yyyy') > conf.footer.copyrightSince">2014 - </span>2020 <a href="#/" ng-show="!conf.footer.poweredByText">alivecasino.io</a> <a href="#/" ng-show="conf.footer.poweredByText" ng-bind-html="::conf.footer.poweredByText|translate|html" class="ng-hide"></a></div>
-                                            <!---->
-                                            <!---->
-                                        </div>
-                                    </ng-include>
-                                    <!---->
-                                    <ng-include src="::'templates/footer/links.html'|fixPath">
-                                        <div class="old-version-link-j"><a ng-show="conf.footer.mobileVersionLink" ng-href="?lang=eng" trans="" href="?lang=eng" class="ng-hide">Mobile version</a></div>
-                                    </ng-include>
-                                    <div class="back-block-j">
-                                        <div class="age-restriction-j ng-hide" ng-show="conf.footer.ageRestriction">false+</div>
-                                        <!----><button ng-click="broadcast('feedback.toggle')" ng-if="(env.authorized &amp;&amp; conf.footer.feedbackButton.enabledLogin) || (!env.authorized &amp;&amp; conf.footer.feedbackButton.enabledLogOut)" trans="">Feedback</button>
-                                        <!---->
-                                        <!----><button ng-if="conf.footer.enableToTopButton" class="" ng-click="scrollToTop(true)" class-on-scroll=",back-to-top-hide" trans="">back to top</button>
-                                        <!---->
-                                    </div>
-                                    <!---->
+                                <div class="margin-container" data-type="row" style="bottom:-0vh;">
+                                    <div class="margin-controller"></div>
                                 </div>
                             </div>
-                            <!---->
-                            <div class="extended-license-footer" ng-if="conf.cegSealId || conf.apgSealId || conf.footer.license_logos || conf.footer.about_company_text[env.lang] || conf.footer.about_company_text['eng']">
-                                <div ng-show="conf.footer.license_logos &amp;&amp; conf.footer.enableLicenseRowVersion" class="gamble-logos-j ng-hide">
-                                    <!---->
-                                    <div ng-repeat="row in conf.footer.license_logos">
-                                        <!---->
-                                        <div ng-repeat="logo in row" class="" ng-hide="logo.hide_on ? logo.hide_on.indexOf(env.lang) !== -1 : logo.show_on ? logo.show_on.indexOf(env.lang) === -1 : false"><span ng-switch="logo.type">
-                                                <!---->
-                                                <!---->
-                                                <!---->
-                                                <!----><a ng-switch-default="" ng-href="http://android.betcoapps.com/sportsbook/sportsbook-alive.apk" target="_blank" style="" route-reload="" reload="false" href="http://android.betcoapps.com/sportsbook/sportsbook-alive.apk"><img ng-src="https://cmsbetconstruct.com/content/images/cbbf3fea9e2ce630dae8458b86d18924_989_media.png" src="https://cmsbetconstruct.com/content/images/cbbf3fea9e2ce630dae8458b86d18924_989_media.png" width="" height="52px">
-                                                    <!----></a>
-                                                <!----></span></div>
-                                        <!---->
-                                        <div ng-repeat="logo in row" class="" ng-hide="logo.hide_on ? logo.hide_on.indexOf(env.lang) !== -1 : logo.show_on ? logo.show_on.indexOf(env.lang) === -1 : false"><span ng-switch="logo.type">
-                                                <!---->
-                                                <!---->
-                                                <!---->
-                                                <!----><a ng-switch-default="" ng-href="http://android.betcoapps.com/casino/casino-alive.apk" target="_blank" style="" route-reload="" reload="false" href="http://android.betcoapps.com/casino/casino-alive.apk"><img ng-src="https://cmsbetconstruct.com/content/images/f489b2169c7486f6381256389e2ecec6_989_media.png" src="https://cmsbetconstruct.com/content/images/f489b2169c7486f6381256389e2ecec6_989_media.png" width="" height="52px">
-                                                    <!----></a>
-                                                <!----></span></div>
-                                        <!---->
-                                    </div>
-                                    <!---->
-                                </div>
-                                <ul>
-                                    <li ng-bind-html="(conf.footer.about_company_text[env.lang] || conf.footer.about_company_text['eng'])|html"></li>
-                                    <li ng-show="conf.footer.license_logos &amp;&amp; !conf.footer.enableLicenseRowVersion" class="gamble-logos-j">
-                                        <!---->
-                                        <ul ng-repeat="row in conf.footer.license_logos">
-                                            <!---->
-                                            <li ng-repeat="logo in row" class="" ng-hide="logo.hide_on ? logo.hide_on.indexOf(env.lang) !== -1 : logo.show_on ? logo.show_on.indexOf(env.lang) === -1 : false"><span ng-switch="logo.type">
-                                                    <!---->
-                                                    <!---->
-                                                    <!---->
-                                                    <!----><a ng-switch-default="" ng-href="http://android.betcoapps.com/sportsbook/sportsbook-alive.apk" target="_blank" style="" route-reload="" reload="false" href="http://android.betcoapps.com/sportsbook/sportsbook-alive.apk"><img ng-src="https://cmsbetconstruct.com/content/images/cbbf3fea9e2ce630dae8458b86d18924_989_media.png" src="https://cmsbetconstruct.com/content/images/cbbf3fea9e2ce630dae8458b86d18924_989_media.png" width="" height="52px">
-                                                        <!----></a>
-                                                    <!----></span></li>
-                                            <!---->
-                                            <li ng-repeat="logo in row" class="" ng-hide="logo.hide_on ? logo.hide_on.indexOf(env.lang) !== -1 : logo.show_on ? logo.show_on.indexOf(env.lang) === -1 : false"><span ng-switch="logo.type">
-                                                    <!---->
-                                                    <!---->
-                                                    <!---->
-                                                    <!----><a ng-switch-default="" ng-href="http://android.betcoapps.com/casino/casino-alive.apk" target="_blank" style="" route-reload="" reload="false" href="http://android.betcoapps.com/casino/casino-alive.apk"><img ng-src="https://cmsbetconstruct.com/content/images/f489b2169c7486f6381256389e2ecec6_989_media.png" src="https://cmsbetconstruct.com/content/images/f489b2169c7486f6381256389e2ecec6_989_media.png" width="" height="52px">
-                                                        <!----></a>
-                                                    <!----></span></li>
-                                            <!---->
-                                        </ul>
-                                        <!---->
-                                    </li>
-                                    <!---->
-                                    <!---->
-                                </ul>
-                            </div>
-                            <!---->
                         </div>
-                        <!---->
-                        <!---->
-                        <ng-include src="::'templates/footer/paymentmethods.html'|fixPath">
-                            <div class="paymen-icons-list" ng-controller="footerCtrl" ng-show="(paymentSystemNames.length &amp;&amp; conf.footer.showPaymentSystems || conf.footer.imageInsteadPayments) &amp;&amp; $location.path() !='/popup/'">
-                                <div class="guide">
-                                    <div class="footer-custom-sprite ng-hide" ng-show="conf.footer.imageInsteadPayments"><img></div>
-                                    <div class="payment-content-block" ng-hide="conf.footer.imageInsteadPayments">
-                                        <ul>
-                                            <!---->
-                                            <li ng-repeat="payment in paymentSystemNames track by $index" class="B2BinPay default-cursor" ng-click="openDepositWithPayment($event, payment.name)" ng-class="{'default-cursor': !conf.footerPaymentsClickable}"><span ng-hide="payment.image" class="B2BinPay paymentIcon ng-hide"></span> <img ng-src="https://cmsbetconstruct.com/content/images/payments/custom/989/1283.png?2020-08-06 16:33:31" class="paymentImage" ng-show="payment.image" src="https://cmsbetconstruct.com/content/images/payments/custom/989/1283.png?2020-08-06 16:33:31"></li>
-                                            <!---->
-                                            <li ng-repeat="payment in paymentSystemNames track by $index" class="CoinGate default-cursor" ng-click="openDepositWithPayment($event, payment.name)" ng-class="{'default-cursor': !conf.footerPaymentsClickable}"><span ng-hide="payment.image" class="CoinGate paymentIcon ng-hide"></span> <img ng-src="https://cmsbetconstruct.com/content/images/payments/custom/989/987.png?2020-08-06 16:33:31" class="paymentImage" ng-show="payment.image" src="https://cmsbetconstruct.com/content/images/payments/custom/989/987.png?2020-08-06 16:33:31"></li>
-                                            <!---->
-                                            <li ng-repeat="payment in paymentSystemNames track by $index" class="astropay default-cursor" ng-click="openDepositWithPayment($event, payment.name)" ng-class="{'default-cursor': !conf.footerPaymentsClickable}"><span ng-hide="payment.image" class="astropay paymentIcon ng-hide"></span> <img ng-src="https://cmsbetconstruct.com/content/images/payments/custom/989/5.png?2020-08-06 16:33:31" class="paymentImage" ng-show="payment.image" src="https://cmsbetconstruct.com/content/images/payments/custom/989/5.png?2020-08-06 16:33:31"></li>
-                                            <!---->
-                                            <li ng-repeat="payment in paymentSystemNames track by $index" class="AstroPayDirect default-cursor" ng-click="openDepositWithPayment($event, payment.name)" ng-class="{'default-cursor': !conf.footerPaymentsClickable}"><span ng-hide="payment.image" class="AstroPayDirect paymentIcon ng-hide"></span> <img ng-src="https://cmsbetconstruct.com/content/images/payments/custom/989/58.png?2020-08-06 16:33:31" class="paymentImage" ng-show="payment.image" src="https://cmsbetconstruct.com/content/images/payments/custom/989/58.png?2020-08-06 16:33:31"></li>
-                                            <!---->
-                                            <li ng-repeat="payment in paymentSystemNames track by $index" class="ToditoCashNew default-cursor" ng-click="openDepositWithPayment($event, payment.name)" ng-class="{'default-cursor': !conf.footerPaymentsClickable}"><span ng-hide="payment.image" class="ToditoCashNew paymentIcon ng-hide"></span> <img ng-src="https://cmsbetconstruct.com/content/images/payments/custom/989/2901.png?2020-08-06 16:33:31" class="paymentImage" ng-show="payment.image" src="https://cmsbetconstruct.com/content/images/payments/custom/989/2901.png?2020-08-06 16:33:31"></li>
-                                            <!---->
-                                            <li ng-repeat="payment in paymentSystemNames track by $index" class="AstroPayMobile default-cursor" ng-click="openDepositWithPayment($event, payment.name)" ng-class="{'default-cursor': !conf.footerPaymentsClickable}"><span ng-hide="payment.image" class="AstroPayMobile paymentIcon ng-hide"></span> <img ng-src="https://cmsbetconstruct.com/content/images/payments/custom/989/401.png?2020-08-06 16:33:31" class="paymentImage" ng-show="payment.image" src="https://cmsbetconstruct.com/content/images/payments/custom/989/401.png?2020-08-06 16:33:31"></li>
-                                            <!---->
-                                        </ul>
+                        <div class="uc-row-wrapper ">
+                            <div class="uc-row  aboutbg                             
+                                        
+                                                                        " data-id="19283" style="   margin-bottom:0vh;   background:rgba(169, 40, 114, 0); ">
+                                <div class="row-container ">
+                                    <div class="row mainRow ">
+                                        <div class="column col-sm-3 " datacolumn-id="30591" style="  padding:0vh 0vh;     ">
+                                            <div class="column-container vertical-top" style=" margin-top:0vh; ">
+                                                <div class="module-container  align-left ModuleTitle
+                                        first                          " style=" padding-right:80px;padding-left:40px;;   padding-bottom:1.46771037182vh; ">
+                                                    <div class="  module ModuleTitle " datamodule-id="84478">
+                                                        <div class="uc-content">
+                                                            <h1 class="font-10em" style="color:rgb(255, 255, 255);"><span style="font-family:'Arm Hmks Bebas Neue Regular Custom';"><i><span style="letter-spacing:1px;"><strong>24/7</strong></span></i></span>
+                                                            </h1>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="module-container  align-left ModuleParagraph
+                                                                " style=" padding-right:40px;padding-left:40px;;  ">
+                                                    <div class="  module ModuleParagraph " datamodule-id="84479">
+                                                        <div class="uc-content ">
+                                                            <p class="font-10em" style="color:rgb(255, 255, 255);"><span style="color:rgba(255, 255, 255, 0.75);">alivecasino.com provides 24/7
+                                                                    betting availability by accepting bets on all major and most
+                                                                    minor leagues, cups and tournaments on various sports and events
+                                                                    throughout the world.</span></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="module-container  align-center ModuleSpace
+                                        last                         ">
+                                                    <div class="  module ModuleSpace " datamodule-id="84495">
+                                                        <div class="space-container">
+                                                            <div class="space-inner" style="height: 70px;">
+                                                            </div>
+                                                        </div>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="84495"] .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="84495"]:hover .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+                                                        </style>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="84495"] .uc-row .column:first-child {
+                                                                border-bottom-left-radius: 0;
+                                                                border-top-left-radius: 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="84495"] .uc-row .column:last-child {
+                                                                border-bottom-right-radius: 0;
+                                                                border-top-right-radius: 0;
+                                                            }
+                                                        </style>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="column col-sm-3 " datacolumn-id="30592" style="  padding:0vh 0vh;     ">
+                                            <div class="column-container vertical-top" style=" margin-top:0vh; ">
+                                                <div class="module-container  align-left ModuleTitle
+                                        first                          " style=" padding-right:80px;padding-left:40px;;   padding-bottom:1.46771037182vh; ">
+                                                    <div class="  module ModuleTitle " datamodule-id="84480">
+                                                        <div class="uc-content">
+                                                            <p class="font-21em" style="color:rgb(18, 189, 189);"><span style="font-family:'Arm Hmks Bebas Neue Regular Custom';"><i><span style="color:rgb(255, 255, 255);letter-spacing:1px;"><strong>50+
+                                                                                Categories</strong></span></i></span></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="module-container  align-left ModuleParagraph
+                                                                " style=" padding-right:40px;padding-left:40px;;   padding-bottom:0vh; ">
+                                                    <div class="  module ModuleParagraph " datamodule-id="84481">
+                                                        <div class="uc-content ">
+                                                            <p class="font-10em" style="color:rgb(255, 255, 255);"><span style="color:rgba(255,255,255,0.75);">alivecasino.com accepts wagers on
+                                                                    more than 50 + categories of sports and events. This includes
+                                                                    not only the most popular sports, but also poker, politics, TV
+                                                                    etc. and also electronic competitions such as Star Craft and
+                                                                    DOTA 2.</span></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="module-container  align-center ModuleSpace
+                                        last                         ">
+                                                    <div class="  module ModuleSpace " datamodule-id="84494">
+                                                        <div class="space-container">
+                                                            <div class="space-inner" style="height: 70px;">
+                                                            </div>
+                                                        </div>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="84494"] .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="84494"]:hover .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+                                                        </style>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="84494"] .uc-row .column:first-child {
+                                                                border-bottom-left-radius: 0;
+                                                                border-top-left-radius: 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="84494"] .uc-row .column:last-child {
+                                                                border-bottom-right-radius: 0;
+                                                                border-top-right-radius: 0;
+                                                            }
+                                                        </style>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="column col-sm-3 " datacolumn-id="30593" style="  padding:0vh 0vh;     ">
+                                            <div class="column-container vertical-top" style=" margin-top:0vh; ">
+                                                <div class="module-container  align-left ModuleTitle
+                                        first                          " style=" padding-right:80px;padding-left:40px;;   padding-bottom:1.46771037182vh; ">
+                                                    <div class="  module ModuleTitle " datamodule-id="84482">
+                                                        <div class="uc-content">
+                                                            <p class="font-21em" style="color:rgb(255, 255, 255);"><span style="font-family:'Arm Hmks Bebas Neue Regular Custom';"><i><span style="letter-spacing:1px;"><strong>300+
+                                                                                Traders</strong></span></i></span></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="module-container  align-left ModuleParagraph
+                                                                " style=" padding-right:40px;padding-left:40px;;  ">
+                                                    <div class="  module ModuleParagraph " datamodule-id="84483">
+                                                        <div class="uc-content ">
+                                                            <p class="font-10em" style="color:rgb(255, 255, 255);"><span style="color:rgba(255,255,255,0.75);">Live games are
+                                                                    individually managed by over 300 traders, who use complex
+                                                                    automated tools for market management and odds setting.</span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="module-container  align-center ModuleSpace
+                                        last                         ">
+                                                    <div class="  module ModuleSpace " datamodule-id="84496">
+                                                        <div class="space-container">
+                                                            <div class="space-inner" style="height: 70px;">
+                                                            </div>
+                                                        </div>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="84496"] .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="84496"]:hover .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+                                                        </style>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="84496"] .uc-row .column:first-child {
+                                                                border-bottom-left-radius: 0;
+                                                                border-top-left-radius: 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="84496"] .uc-row .column:last-child {
+                                                                border-bottom-right-radius: 0;
+                                                                border-top-right-radius: 0;
+                                                            }
+                                                        </style>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="column col-sm-3 " datacolumn-id="30594" style="  padding:0vh 0vh;     ">
+                                            <div class="column-container vertical-top" style=" margin-top:0vh; ">
+                                                <div class="module-container  align-left ModuleTitle
+                                        first                          " style=" padding-right:80px;padding-left:40px;;   padding-bottom:1.46771037182vh; ">
+                                                    <div class="  module ModuleTitle " datamodule-id="84484">
+                                                        <div class="uc-content">
+                                                            <p class="font-21em" style="color:rgb(255, 128, 95);"><span style="font-family:'Arm Hmks Bebas Neue Regular Custom';"><i><span style="color:rgb(255, 255, 255);letter-spacing:1px;"><strong>Reliable</strong></span></i></span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="module-container  align-left ModuleParagraph
+                                                                " style=" padding-right:40px;padding-left:40px;;  ">
+                                                    <div class="  module ModuleParagraph " datamodule-id="84485">
+                                                        <div class="uc-content ">
+                                                            <p class="font-10em" style="color:rgb(255, 255, 255);"><span style="color:rgba(255,255,255,0.75);">We are holders of an
+                                                                    ISO/IEC 27001:2013 certificate on Information Security. For
+                                                                    further details, please see our general terms and
+                                                                    conditions.</span></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="module-container  align-center ModuleSpace
+                                        last                         ">
+                                                    <div class="  module ModuleSpace " datamodule-id="84497">
+                                                        <div class="space-container">
+                                                            <div class="space-inner" style="height: 70px;">
+                                                            </div>
+                                                        </div>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="84497"] .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="84497"]:hover .space-container {
+                                                                border-radius: 0 0 0 0;
+                                                            }
+                                                        </style>
+                                                        <style>
+                                                            .ModuleSpace[datamodule-id="84497"] .uc-row .column:first-child {
+                                                                border-bottom-left-radius: 0;
+                                                                border-top-left-radius: 0;
+                                                            }
+
+                                                            .ModuleSpace[datamodule-id="84497"] .uc-row .column:last-child {
+                                                                border-bottom-right-radius: 0;
+                                                                border-top-right-radius: 0;
+                                                            }
+                                                        </style>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
+                                <div class="margin-container" data-type="row" style="bottom:-0vh;">
+                                    <div class="margin-controller"></div>
+                                </div>
                             </div>
-                        </ng-include>
-                        <!---->
-                        <ng-include src="::'templates/footer/chatwidget.html'|fixPath">
-                            <!---->
-                            <!---->
-                            <!---->
-                        </ng-include>
+                        </div>
+                        <div class="uc-row-wrapper ">
+                            <div class="uc-row    last                           
+                                        
+                                                                        " data-id="19155" style="   margin-bottom:0vh;  ">
+                                <div class="row-container ">
+                                    <div class="row mainRow ">
+                                        <div class="column col-sm-12 " datacolumn-id="30434" style="      ">
+                                            <div class="column-container vertical-top" style=" margin-top:0vh; ">
+                                                <div class="module-container  align-center ModuleCustomHtml
+                                        first   last                         ">
+                                                    <div class="  module ModuleCustomHtml " datamodule-id="84059">
+                                                        <div class="custom-html-container">
+                                                            <style>
+                                                                /*
+                        .aboutbg {
+                                background: linear-gradient(90deg, #220d1a, #2d0d1b, #430e1e,  #731021, #ab1127, #9b1125, #500f1f) !important;
+                                background-size: 100% 100% !important;
+                        }
+                        */
+                                                                <blade media|%20only%20screen%20and%20(max-width%3A%20768px)%7B%0D>.aboutbg {
+                                                                    background: transparent !important;
+                                                                }
+
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="margin-container" data-type="row" style="bottom:-0vh;">
+                                    <div class="margin-controller"></div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <!---->
+                    <div class="push" style="height: 368.297px;"></div>
                 </div>
-                <!---->
-                <div class="footer-button theme- ng-hide" ng-click="footerOpen=!footerOpen" ng-class="{'footer-button-open': footerOpen}" ng-hide="conf.footer.disable || !footerMovable || env.sliderContent"></div>
             </div>
         </div>
     </div>
-
-    <!--Start of Tawk.to Script-->
-    <script type="text/javascript">
-        var Tawk_API = Tawk_API || {},
-            Tawk_LoadStart = new Date();
-        (function() {
-            var s1 = document.createElement("script"),
-                s0 = document.getElementsByTagName("script")[0];
-            s1.async = true;
-            s1.src = 'https://embed.tawk.to/5da49f77fbec0f2fe3b9aca1/default';
-            s1.charset = 'UTF-8';
-            s1.setAttribute('crossorigin', '*');
-            s0.parentNode.insertBefore(s1, s0);
-        })();
-    </script>
-    <!--End of Tawk.to Script-->
-    <script src="//my.rtmark.net/p.js?f=sync&amp;lr=1&amp;partner=ab34ba2d3f605e12219f9ae775e7a196c98720c60179825b7072e9abcb13f9f0" defer=""></script>
-
-
-    <img style="position: absolute; width: 1px; height: 1px; left: 0px; bottom: 0px; opacity: 0;" src="https://my.rtmark.net/img.gif?f=sync&amp;partner=ab34ba2d3f605e12219f9ae775e7a196c98720c60179825b7072e9abcb13f9f0&amp;ttl=&amp;rurl=https%3A%2F%2Fwww.alivecasino.io%2F%23%2Fsport%2F%3Ftype%3D0">
-    <div id="swfcontainer" style="visibility: visible;"></div>
-    <div>
-        <div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; position: fixed; visibility: hidden; display: block; transition: right 0.3s ease 0s; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;">
-            <div class="grecaptcha-logo"><iframe src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdYo7MZAAAAAJz_VSrkQwsLY0zLgyzgGrxl-RNS&amp;co=aHR0cHM6Ly93d3cuYWxpdmVjYXNpbm8uaW86NDQz&amp;hl=en&amp;v=IU7gZ7o6RDdDE6U4Y1YJJWnN&amp;size=invisible&amp;cb=l5tpab26n6d" role="presentation" name="a-sylarzjlyuqz" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" width="256" height="60" frameborder="0"></iframe></div>
-            <div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea>
-        </div><iframe style="display: none;"></iframe>
-    </div>
-    <div id="swfcontainer"></div>
-    <div style="visibility: hidden; position: absolute;" id="userdata_el"></div>
+    <?php
+        include_once('includes/footer.php');
+    ?>
 </body>
-
-</html>

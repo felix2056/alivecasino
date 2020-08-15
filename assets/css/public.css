@@ -751,9 +751,7 @@ body.move .popup-container {
 .popup-edit-mode.popup-container .popup-wrapper {
   overflow: hidden;
 }
-.admin .main-typography,
-html {
-}
+
 .admin .main-typography .btn,
 html .btn {
   display: inline-block;
@@ -11990,7 +11988,7 @@ html:not(.admin-mode)
 .footerRow .ModuleNavigation .navigation .nav-item {
   display: inline;
 }
-@media (min-width: 1030px) {
+/* @media (min-width: 1030px) {
   html,
   body,
   body > .main-container,
@@ -11998,7 +11996,7 @@ html:not(.admin-mode)
   body > .main-container > .main-body > .main-layout {
     height: 100%;
   }
-}
+} */
 @media only screen and (max-width: 810px) {
   body > .main-container {
     -webkit-overflow-scrolling: touch;

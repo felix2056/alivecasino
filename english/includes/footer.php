@@ -1,17 +1,12 @@
 <div id="hideonmobile" class="footer-group">
     <div class="footer-cell">
-        <div class="contain-footer-block" id="footerContainer" ng-hide="!footerMovable &amp;&amp; casinoGameOpened > 0" ng-class="{'active': footerOpen &amp;&amp; !env.sliderContent, 'footer-fixed': footerMovable}" ng-include="::'templates/footer.html'|fixPath" ng-if="$location.path() !='/popup/'">
-
-            <div class="float-left width-100" ng-if="!conf.integrationMode &amp;&amp; !conf.footer.disable &amp;&amp; $location.path() !='/popup/' &amp;&amp; $location.path().indexOf('/widget/') === -1">
-                <div class="guide" ng-controller="footerCtrl">
+        <div class="contain-footer-block" id="footerContainer">
+            <div class="float-left width-100">
+                <div class="guide">
                     <div class="footer-j">
-
-                        <div class="footer-section left" ng-include="::'templates/footer/helppages.html'|fixPath">
-
-                            <div class="footer-nav-b" ng-controller="cmsPagesCtrl" ng-init="loadHelpPages();" ng-if="!conf.footer.disable">
-
-                                <ul ng-repeat="topLevelPage in navigation">
-
+                        <div class="footer-section left">
+                            <div class="footer-nav-b">
+                                <ul>
                                     <li class="top-level-page"><a>ABOUT</a></li>
 
                                     <li>
@@ -103,10 +98,10 @@
                             <div class="old-version-link-j"><a href="?lang=eng" class="ng-hide">Mobile version</a></div>
 
                             <div class="back-block-j">
-                                <div class="age-restriction-j ng-hide" ng-show="conf.footer.ageRestriction">false+</div>
+                                <div class="age-restriction-j ng-hide">false+</div>
                                 <button>Feedback</button>
 
-                                <button ng-if="conf.footer.enableToTopButton" class="" onclick="topFunction()" class-on-scroll=",back-to-top-hide" trans="">back to top</button>
+                                <button onclick="topFunction()">back to top</button>
 
                             </div>
 

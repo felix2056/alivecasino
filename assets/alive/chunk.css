@@ -1507,14 +1507,7 @@ html[dir=rtl] .mini-sport-nav-box .add-to-fav-g {
  justify-content:center;
  background:none
 }
-body div div:first-child[style*="opacity: 0.05"],
-body div div:first-child[style*="opacity: 0.5"] {
- opacity:0!important
-}
-body div[style*="z-index: 2000000000"],
-body div div[style*="z-index: 2000000000"] {
- z-index:2147483647!important
-}
+
 .crash .popup-content-view-m {
  background:var(--skin-10)
 }
@@ -4306,10 +4299,6 @@ body.opened-ui {
  }
 }
 @media screen and (min-width:980px) {
- body {
-  height:100%;
-  overflow-y:auto
- }
  .full-container-m {
   float:left;
   width:100%;

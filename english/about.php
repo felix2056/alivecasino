@@ -447,15 +447,12 @@
                             </div>
                         </div>
                         <div class="uc-row-wrapper ">
-                            <div class="uc-row  aboutbg                             
-                                        
-                                                                        " data-id="19282" style="   margin-bottom:0vh;   background:rgba(187, 40, 142, 0); ">
+                            <div class="uc-row  aboutbg" data-id="19282" style="margin-bottom:0vh;   background:rgba(187, 40, 142, 0); ">
                                 <div class="row-container ">
                                     <div class="row mainRow ">
-                                        <div class="column col-sm-6 " datacolumn-id="30587" style="  padding:0vh 0vh;      background: transparent; ">
+                                        <div class="column col-sm-6 " datacolumn-id="30587" style="padding:0vh 0vh;background: transparent;">
                                             <div class="column-container vertical-top" style=" margin-top:0vh; ">
-                                                <div class="module-container   only-mobile   align-center ModuleSpace
-                                        first                          ">
+                                                <div class="module-container   only-mobile   align-center ModuleSpace first">
                                                     <div class="  module ModuleSpace " datamodule-id="84462">
                                                         <div class="space-container">
                                                             <div class="space-inner" style="height: 100px;">
@@ -483,9 +480,8 @@
                                                         </style>
                                                     </div>
                                                 </div>
-                                                <div class="module-container   only-mobile   align-left ModuleImage
-                                                                " style=" padding-right:80px;padding-left:40px;;   padding-bottom:8.2559339525284vh; ">
-                                                    <div class="  module ModuleImage " datamodule-id="84463" style="display:block;max-width:501px;">
+                                                <div class="module-container   only-mobile   align-left ModuleImage" style=" padding-right:80px;padding-left:40px;;   padding-bottom:8.2559339525284vh; ">
+                                                    <div class=" module ModuleImage " datamodule-id="84463" style="display:block;max-width:501px;">
                                                         <div class="animated animated-84463 " data-loading-animation="" data-animated-id="84463">
                                                             <div class=" ">
                                                                 <div>
@@ -497,7 +493,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="module-container   only-mobile   align-left ModuleParagraph
+                                                <div class="module-container only-mobile align-left ModuleParagraph
                                                                 " style=" padding-right:80px;padding-left:40px;;   padding-bottom:3.0959752321981vh; ">
                                                     <div class="  module ModuleParagraph " datamodule-id="84464" style="display:block;max-width:504px;">
                                                         <div class="uc-content ">

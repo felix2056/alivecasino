@@ -128544,7 +128544,7 @@ html[dir=rtl] .draw-video-container-b .video-player-control {
   height:auto!important
  }
 }
-.row {
+/* .row {
  overflow:hidden;
  float:left;
  width:100%
@@ -128554,7 +128554,7 @@ html[dir=rtl] .draw-video-container-b .video-player-control {
 }
 .row:last-of-type {
  padding-bottom:5px
-}
+} */
 .row .row-child {
  display:table;
  height:100%;

@@ -7,7 +7,7 @@ include_once('includes/header.php');
         <?php include_once('includes/nav.php'); ?>
 
         <div class="main-body">
-            <div class="main-layout">
+            <div class="main-layout about-main-layout">
                 <div class="layers-container">
                     <div class="layer">
                         <div class="off-canvas" style="background:rgb(29, 24, 78); width:69.047619047619vw;">
