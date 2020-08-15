@@ -208,10 +208,13 @@
                     <p>Language</p>
                 </li>
                 <li>
-                    <div class="select-contain-m"><img alt="Flag of United Kingdom" class="flag-view-m" src="https://cmsbetconstruct.com/content/mobile/countriesFlags/unitedkingdom.png"><select>
-                            <option value="eng">English</option>
-                            <option value="por">Português</option>
-                        </select></div>
+                    <div class="select-contain-m">
+                        <img alt="Flag of United Kingdom" class="flag-view-m" src="https://cmsbetconstruct.com/content/mobile/countriesFlags/unitedkingdom.png">
+                        <select id="changeLanguage">
+                            <option selected="selected" value="eng">English</option>
+                            <option value="spa">Español</option>
+                        </select>
+                    </div>
                 </li>
             </ul>
         </div>
@@ -241,12 +244,12 @@
                 <a href="/english/terms-and-conditions.php">General Terms and Conditions</a>
                 <a href="/english/responsible-gaming.php">Responsible Gaming</a>
                 <a href="/english/privacy-policy">Privacy Policy</a>
-                <a href="/english/terms-and-conditions.php">Support</a>
+                <a href="/english/about.php">About</a>
                 <a href="/english/sport-betting.php">Sport Betting</a>
                 <a href="/english/faq.php">FAQs</a>
                 <a href="/english/casino.php">Casino</a>
                 <a href="/english/poker.php">Poker</a>
-                <a href="/english/terms-and-conditions.php">REGULATIONS</a>
+                <a href="/english/rng-certificate.php">RNG Certificate</a>
             </li>
             <li class="app-link"></li>
         </ul>
@@ -276,7 +279,28 @@
             behavior: 'smooth',
         });
     }
+
+    $('#changeLanguage').change(function(){
+        if ($(this).val() == 'eng') {
+            return window.location.href = '/english';
+        } else if ($(this).val() == 'spa') {
+            return window.location.href = '/spanish'
+        }
+    });
+
+    $('#clicknavlang').click(function(){
+        $('#navlang').toggle();
+    });
+
+    $('#naveng').click(function(){
+        window.location.href = '/english'
+    });
+
+    $('#navspa').click(function(){
+        window.location.href = '/spanish'
+    });
 </script>
+
 <style>
     .account-container .body .account-info[data-section="messages"] .new-message-link {
         display: none !important;

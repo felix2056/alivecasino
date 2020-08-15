@@ -240,23 +240,21 @@
                                             </li>
                                             <li class="responsive-header-item-j" ng-show="(conf.availableLanguages|count) > 1">
                                                 <div class="separator-contain-nav " hide-on-click="" state-flag-var="headerVersion2Icons.languageIsToggled">
-                                                    <div class="settings-icon-contain leng-b selected-eng" ng-click="headerVersion2Icons.languageIsToggled = !headerVersion2Icons.languageIsToggled"><span>EN</span> <i></i></div>
-                                                    <div class="nav-open-view-contain">
+                                                    <div id="clicknavlang" class="settings-icon-contain leng-b selected-eng">
+                                                        <span>ES</span> 
+                                                        <i class="fa fa-arrow-down"></i>
+                                                    </div>
+                                                    <div id="navlang" class="nav-open-view-contain">
                                                         <ul>
                                                             <li>
-                                                                <div class="drop-nav-new-b">
-                                                                    <p><span trans="">Change language</span></p>
+                                                                <div id="navlang" class="drop-nav-new-b">
+                                                                    <p>
+                                                                        <span>Change language</span>
+                                                                    </p>
                                                                     <div class="drop-items-contain-b">
                                                                         <ul>
-
-                                                                            <li ng-repeat="lang in sortedAvailableLanguages track by lang.code" ng-click="selectLanguage(lang.code, true)" ng-class="{'active': lang.code === env.lang}" class="spa"><span>Español</span></li>
-
-                                                                            <li ng-repeat="lang in sortedAvailableLanguages track by lang.code" ng-click="selectLanguage(lang.code, true)" ng-class="{'active': lang.code === env.lang}" class="eng active"><span>English</span></li>
-
-                                                                            <li ng-repeat="lang in sortedAvailableLanguages track by lang.code" ng-click="selectLanguage(lang.code, true)" ng-class="{'active': lang.code === env.lang}" class="por"><span>Português</span></li>
-
-                                                                            <li ng-repeat="lang in sortedAvailableLanguages track by lang.code" ng-click="selectLanguage(lang.code, true)" ng-class="{'active': lang.code === env.lang}" class="pt-br"><span>Português do Brasil</span></li>
-
+                                                                            <li id="naveng" class="eng"><span>English</span></li>
+                                                                            <li id="navspa" class="spa active"><span>Español</span></li>
                                                                         </ul>
                                                                     </div>
                                                                 </div>

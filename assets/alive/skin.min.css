@@ -77446,14 +77446,14 @@ html[dir=rtl] .settings-icon-contain.leng-b>i {
  left:0;
  right:auto
 }
-.settings-icon-contain.balance-box>i:before,
+/* .settings-icon-contain.balance-box>i:before,
 .settings-icon-contain.leng-b>i:before {
  content:"\e670"
 }
 .separator-contain-nav.active .settings-icon-contain.balance-box>i:before,
 .separator-contain-nav.active .settings-icon-contain.leng-b>i:before {
  content:"\e671"
-}
+} 
 .settings-icon-contain.balance-box .mybets-icon-box-b.user-icon-view+i {
  transition-delay:180ms
 }
@@ -77462,7 +77462,7 @@ html[dir=rtl] .settings-icon-contain.leng-b>i {
 }
 .separator-contain-nav.active .settings-icon-contain.balance-box .mybets-icon-box-b.user-icon-view+i:before {
  content:"\e670"
-}
+}*/
 .settings-include-contain {
  float:left
 }

@@ -231,32 +231,23 @@
                                                     </div>
                                                 </div>
                                             </li>
-                                            <li class="responsive-header-item-j" ng-hide="conf.header.hideClock">
-                                                <div class="separator-contain-nav no-timezone-v " hide-on-click="" state-flag-var="headerVersion2Icons.timezoneIsToggled">
-                                                    <div class="settings-icon-contain clock-set-b" ng-click="headerVersion2Icons.timezoneIsToggled = !headerVersion2Icons.timezoneIsToggled" ng-class="{'format-12h': $root.env.timeFormat === $root.env.longTimeFormats.HALF}"><span class="time-view-w-bc"><b class="clock-time-v-bc" ng-bind="$root.env.clock">20:01:22</b>
-                                                        </span></div>
-
-                                                </div>
-                                            </li>
-                                            <li class="responsive-header-item-j" ng-show="(conf.availableLanguages|count) > 1">
-                                                <div class="separator-contain-nav " hide-on-click="" state-flag-var="headerVersion2Icons.languageIsToggled">
-                                                    <div class="settings-icon-contain leng-b selected-eng" ng-click="headerVersion2Icons.languageIsToggled = !headerVersion2Icons.languageIsToggled"><span>EN</span> <i></i></div>
-                                                    <div class="nav-open-view-contain">
+                                            <li class="responsive-header-item-j">
+                                                <div class="separator-contain-nav ">
+                                                    <div id="clicknavlang" class="settings-icon-contain leng-b selected-eng">
+                                                        <span>EN</span> 
+                                                        <i class="fa fa-arrow-down"></i>
+                                                    </div>
+                                                    <div id="navlang" class="nav-open-view-contain">
                                                         <ul>
                                                             <li>
                                                                 <div class="drop-nav-new-b">
-                                                                    <p><span trans="">Change language</span></p>
+                                                                    <p>
+                                                                        <span>Change language</span>
+                                                                    </p>
                                                                     <div class="drop-items-contain-b">
                                                                         <ul>
-
-                                                                            <li ng-repeat="lang in sortedAvailableLanguages track by lang.code" ng-click="selectLanguage(lang.code, true)" ng-class="{'active': lang.code === env.lang}" class="spa"><span>Español</span></li>
-
-                                                                            <li ng-repeat="lang in sortedAvailableLanguages track by lang.code" ng-click="selectLanguage(lang.code, true)" ng-class="{'active': lang.code === env.lang}" class="eng active"><span>English</span></li>
-
-                                                                            <li ng-repeat="lang in sortedAvailableLanguages track by lang.code" ng-click="selectLanguage(lang.code, true)" ng-class="{'active': lang.code === env.lang}" class="por"><span>Português</span></li>
-
-                                                                            <li ng-repeat="lang in sortedAvailableLanguages track by lang.code" ng-click="selectLanguage(lang.code, true)" ng-class="{'active': lang.code === env.lang}" class="pt-br"><span>Português do Brasil</span></li>
-
+                                                                            <li id="navspa" class="spa"><span>Español</span></li>
+                                                                            <li id="naveng" class="eng active"><span>English</span></li>
                                                                         </ul>
                                                                     </div>
                                                                 </div>
@@ -265,93 +256,9 @@
                                                     </div>
                                                 </div>
                                             </li>
-
-                                            <li class="responsive-header-item-j" ng-if="(conf.header.enableSettings.authorized &amp;&amp; env.authorized) || (conf.header.enableSettings.notAuthorized &amp;&amp; !env.authorized)">
-                                                <ng-include class="settings-include-contain" src="::'templates/header/version_' + conf.header.version + '/settings.html'|fixPath" hide-on-click="" state-flag-var="headerVersion2Icons.settingsIsToggled">
-                                                    <div id="default-settings" class="separator-contain-nav ">
-                                                        <i class="settings-icon-contain settings-b fa fa-cog" ng-click="headerVersion2Icons.settingsIsToggled = !headerVersion2Icons.settingsIsToggled"></i>
-                                                        <div class="nav-open-view-contain">
-                                                            <ul>
-                                                                <li ng-show="env.authorized &amp;&amp; conf.enableSettingHideLabels" class="ng-hide">
-                                                                    <div class="switcher-t-view-b" ng-click="headerVersion2Icons.hideLablesIsToggled = !headerVersion2Icons.hideLablesIsToggled">
-                                                                        <p trans="">Hide labels</p>
-                                                                        <div class="switcher-box-b ">
-                                                                            <div class="sw-circle-b"></div>
-                                                                        </div>
-                                                                    </div>
-                                                                </li>
-                                                                <li>
-                                                                    <div class="drop-nav-new-b ">
-                                                                        <p ng-click="headerVersion2Icons.oddsInIsToggled = !headerVersion2Icons.oddsInIsToggled"><span trans="">Odds </span> <i class="arrow-closed-open-b"></i></p>
-                                                                        <div class="drop-items-contain-b">
-                                                                            <ul>
-
-                                                                                <li ng-repeat="oddFormat in ::conf.oddFormats track by oddFormat.name" ng-click="broadcast('setOddsFormat', oddFormat.format)" ng-class="{'active': env.oddFormat === oddFormat.format}" class="active">Decimal</li>
-
-                                                                                <li ng-repeat="oddFormat in ::conf.oddFormats track by oddFormat.name" ng-click="broadcast('setOddsFormat', oddFormat.format)" ng-class="{'active': env.oddFormat === oddFormat.format}">Fractional</li>
-
-                                                                                <li ng-repeat="oddFormat in ::conf.oddFormats track by oddFormat.name" ng-click="broadcast('setOddsFormat', oddFormat.format)" ng-class="{'active': env.oddFormat === oddFormat.format}">American</li>
-
-                                                                                <li ng-repeat="oddFormat in ::conf.oddFormats track by oddFormat.name" ng-click="broadcast('setOddsFormat', oddFormat.format)" ng-class="{'active': env.oddFormat === oddFormat.format}">HongKong</li>
-
-                                                                                <li ng-repeat="oddFormat in ::conf.oddFormats track by oddFormat.name" ng-click="broadcast('setOddsFormat', oddFormat.format)" ng-class="{'active': env.oddFormat === oddFormat.format}">Malay</li>
-
-                                                                                <li ng-repeat="oddFormat in ::conf.oddFormats track by oddFormat.name" ng-click="broadcast('setOddsFormat', oddFormat.format)" ng-class="{'active': env.oddFormat === oddFormat.format}">Indo</li>
-
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </li>
-                                                                <li ng-show="$root.currentPage.isInSports">
-                                                                    <div class="switcher-t-view-b" ng-click="setSound(env.sound); env.sound > 0 ? env.sound = 0 : env.sound = 0.75">
-                                                                        <p trans="">Events sounds</p>
-                                                                        <div class="switcher-box-b on">
-                                                                            <div class="sw-circle-b"></div>
-                                                                        </div>
-                                                                    </div>
-                                                                </li>
-
-                                                                <li ng-show="conf.allowTimeFormatChange">
-                                                                    <div class="drop-nav-new-b ">
-                                                                        <p ng-click="headerVersion2Icons.timeFormatIsToggled = !headerVersion2Icons.timeFormatIsToggled"><span trans="">Time format</span> <i class="arrow-closed-open-b"></i></p>
-                                                                        <div class="drop-items-contain-b time-format">
-                                                                            <ul>
-                                                                                <li ng-click="setTimeFormat(env.longTimeFormats.HALF)" ng-class="{'active': env.timeFormat === env.longTimeFormats.HALF}" trans="">12 H</li>
-                                                                                <li ng-click="setTimeFormat(env.longTimeFormats.FULL)" ng-class="{'active': env.timeFormat === env.longTimeFormats.FULL}" trans="" class="active">24 H</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </li>
-                                                                <li ng-show="conf.enableSportsbookLayoutSwitcher">
-                                                                    <div class="drop-nav-new-b ">
-                                                                        <p ng-click="headerVersion2Icons.layoutSwitcherIsToggled = !headerVersion2Icons.layoutSwitcherIsToggled"><span trans="">Sportsbook layout:</span> <i class="arrow-closed-open-b"></i></p>
-                                                                        <div class="drop-items-contain-b">
-                                                                            <ul>
-
-                                                                                <li ng-repeat="(key, value) in sportsbookAvailableViews track by $index" ng-click="switchSportsbookLayout(key)" ng-class="{'active': conf.sportsLayout === key}" ng-bind="key|capitalise|translate">Modern</li>
-
-                                                                                <li ng-repeat="(key, value) in sportsbookAvailableViews track by $index" ng-click="switchSportsbookLayout(key)" ng-class="{'active': conf.sportsLayout === key}" ng-bind="key|capitalise|translate" class="active">Classic</li>
-
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </li>
-
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </ng-include>
-                                            </li>
-
                                         </ul>
                                         <div class="feedback-button ng-hide" ng-show="!!conf.liveChat.zopimInFooter" onclick="showZopimChat('br');">
                                             <p trans="">Live Chat</p>
-                                        </div>
-                                        <div class="feedback-button ng-hide" ng-show="!!conf.liveChat.popupInFooter" onclick="startLiveChat()">
-                                            <p trans="">Live Chat</p>
-                                        </div>
-                                        <div class="feedback-button ng-hide" ng-show="!!conf.liveChat.liveAgentInFooter &amp;&amp; (conf.liveChat[env.lang]=== undefined || conf.liveChat[env.lang].liveAgentInFooter)" onclick="startLiveAgent()">
-                                            <p>Live Chat</p>
                                         </div>
                                     </div>
                                 </li>
