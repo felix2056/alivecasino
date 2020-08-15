@@ -650,9 +650,12 @@
                 <img src="/assets/images/AliveCasinoLight2.png" style="max-width: 200px;">
             </a>
         </div>
-        <div class="sw-contain-b-reg-in "><span class="right-top-nav-new-h">Join</span>
+        <div class="sw-contain-b-reg-in ">
+            <a href="https://alivecasino.io" class="right-top-nav-new-h">Join</a>
+            
             <div class="login-parent-div">
-                <div class="closed-nav-icon"></div><span class="right-top-nav-new-h"><span class=""></span>Login</span>
+                <div class="closed-nav-icon"></div>
+                <a href="https://alivecasino.io" class="right-top-nav-new-h" style="color: aliceblue;">Login</a>
             </div>
         </div>
     </div>
