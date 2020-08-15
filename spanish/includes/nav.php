@@ -345,216 +345,111 @@
                                         <div class="feedback-button ng-hide" ng-show="!!conf.liveChat.zopimInFooter" onclick="showZopimChat('br');">
                                             <p trans="">Live Chat</p>
                                         </div>
-                                        <div class="feedback-button ng-hide" ng-show="!!conf.liveChat.popupInFooter" onclick="startLiveChat()">
-                                            <p trans="">Live Chat</p>
-                                        </div>
-                                        <div class="feedback-button ng-hide" ng-show="!!conf.liveChat.liveAgentInFooter &amp;&amp; (conf.liveChat[env.lang]=== undefined || conf.liveChat[env.lang].liveAgentInFooter)" onclick="startLiveAgent()">
-                                            <p>Live Chat</p>
-                                        </div>
                                     </div>
                                 </li>
-                            </ul><input type="checkbox" id="header-collapse">
-                            <div class="header-small-view-hide" ng-class="{'vertical-nav-closed': $root.conf.customNavMenu &amp;&amp; !$root.leftMenuOpen}" ng-init="$root.conf.customNavMenu &amp;&amp; ($root.leftMenuOpen = true)"><i class="vertical-nav-arrow ng-hide" ng-show="$root.conf.customNavMenu" ng-click="$root.leftMenuOpen = !$root.leftMenuOpen;"></i>
+                            </ul>
+                            <input type="checkbox" id="header-collapse">
+                            
+                            <div class="header-small-view-hide">
                                 <ul class="responsive-header-mainMenu-j">
-                                    <li class="header-left-small-b-j ng-hide" ng-controller="cmsPagesCtrl" ng-init="loadBanners(getSlug('bannerSlugs.headerSmallBanner'));" ng-show="bannerObjects[getSlug('bannerSlugs.headerSmallBanner')] &amp;&amp; bannerObjects[getSlug('bannerSlugs.headerSmallBanner')][$root.env.authorized]">
-
-                                    </li>
-                                    <li ng-style="{'padding' : conf.logo.padding || ('0 ' + (conf.logo.height ? '0' : conf.logo.paddingMenu || logoWidth)  + 'px')}" style="padding: 0px;">
-
-
-                                        <ng-include ng-if="!conf.header.hideTopMenu" class="include-menu-header-b" src="::'templates/header/version_2/topMenu.html'|fixPath">
+                                    <li style="padding: 0px;">
+                                        <ng-include class="include-menu-header-b">
                                             <div class="header-bottom-row">
-                                                <div class="header-nav-contain" ng-show="!conf.rfid.loginWIthRFID || conf.rfid.loginWIthRFID &amp;&amp; env.authorized">
-                                                    <ul ng-class="{'menu-dropdown': $root.topMenuDropDown, 'menu-dropdown-show': subMenuItemCount > 0}" sub-menu-creator="main">
+                                                <div class="header-nav-contain">
+                                                    <ul sub-menu-creator="main">
                                                         <div class="top-menu-more" title="More" ng-click="$root.topMenuDropDown=!$root.topMenuDropDown;" hide-on-click="" state-flag-var="$root.topMenuDropDown" trans="attr-only">More</div>
-
-
-
-                                                        <li ng-repeat="item in topMenu track by item.name" ng-if="item.showCondition &amp;&amp; !item.hidden" ng-class="{'active': item.classObject.active,
-                          '': true,
-                          'new-info-item': item.subDisplayName || item.specialCase === 'gamesSpecialText',
-                          'new-info-item-sup': item.supDisplayName,
-                          'nav-live': $root.conf.customNavMenu
-                          }" class="active">
-
-                                                            <div ng-if="!item.popup &amp;&amp; !item.broadcast" class="top-menu-sub-a-t"><a ng-href="#/sport/?type=1" ng-click="item.click()" data-content="new" ng-show="!item.specialCase &amp;&amp; !item.subDisplayName &amp;&amp; !item.supDisplayName" target="_self" route-reload="" reload="false" href="#/sport/?type=1"><span ng-bind="item.displayName">Live</span> </a>
-
-
+                                                        <li>
+                                                            <div class="top-menu-sub-a-t">
+                                                                <a data-content="new" href="https://alivecasino.io/#/sport/?type=1">
+                                                                    <span>Live</span> 
+                                                                </a>
                                                             </div>
+                                                        </li>
 
+                                                        <li>
+                                                            <div class="top-menu-sub-a-t">
+                                                                <a data-content="new"  href="https://alivecasino.io/#/sport/?type=0">
+                                                                    <span>Sports</span>
+                                                                </a>
+                                                            </div>
+                                                        </li>
 
+                                                        <li>
+                                                            <div class="top-menu-sub-a-t">
+                                                                <a data-content="new" href="https://alivecasino.io/#/casino/">
+                                                                    <span>casino</span> 
+                                                                </a>
+                                                            </div>
+                                                        </li>
+
+                                                        <li>
+                                                            <div class="top-menu-sub-a-t">
+                                                                <a data-content="new"  href="https://alivecasino.io/#/livedealer/">
+                                                                    <span>Live casino</span> 
+                                                                </a>
+                                                            </div>
+                                                        </li>
+
+                                                        <li class="1-top-nav">
+                                                            <div class="top-menu-sub-a-t">
+                                                                <a data-content="new"  href="https://alivecasino.io/#/virtualsports/">
+                                                                    <span>Virtual sports</span>
+                                                                </a>
+                                                            </div>
+                                                        </li>
+
+                                                        <li class="1-top-nav">
+                                                            <div class="top-menu-sub-a-t">
+                                                                <a data-content="new"  href="https://alivecasino.io/#/poker/">
+                                                                    <span>Poker</span> 
+                                                                </a>
+                                                            </div>
                                                         </li>
 
 
 
-                                                        <li ng-repeat="item in topMenu track by item.name" ng-if="item.showCondition &amp;&amp; !item.hidden" ng-class="{'active': item.classObject.active,
-                          '': true,
-                          'new-info-item': item.subDisplayName || item.specialCase === 'gamesSpecialText',
-                          'new-info-item-sup': item.supDisplayName,
-                          'nav-sport': $root.conf.customNavMenu
-                          }" class="">
-
-                                                            <div ng-if="!item.popup &amp;&amp; !item.broadcast" class="top-menu-sub-a-t"><a ng-href="#/sport/?type=0" ng-click="item.click()" data-content="new" ng-show="!item.specialCase &amp;&amp; !item.subDisplayName &amp;&amp; !item.supDisplayName" target="_self" route-reload="" reload="false" href="#/sport/?type=0"><span ng-bind="item.displayName">Sports</span> </a>
-
-
+                                                        <li>
+                                                            <div class="top-menu-sub-a-t">
+                                                                <a data-content="new"  href="https://alivecasino.io/#/promos/">
+                                                                    <span>Promotions</span> 
+                                                                </a>
                                                             </div>
-
-
                                                         </li>
-
-
-
-                                                        <li ng-repeat="item in topMenu track by item.name" ng-if="item.showCondition &amp;&amp; !item.hidden" ng-class="{'active': item.classObject.active,
-                          '': true,
-                          'new-info-item': item.subDisplayName || item.specialCase === 'gamesSpecialText',
-                          'new-info-item-sup': item.supDisplayName,
-                          'nav-casino': $root.conf.customNavMenu
-                          }">
-
-                                                            <div ng-if="!item.popup &amp;&amp; !item.broadcast" class="top-menu-sub-a-t"><a ng-href="#/casino/" ng-click="item.click()" data-content="new" ng-show="!item.specialCase &amp;&amp; !item.subDisplayName &amp;&amp; !item.supDisplayName" target="_self" route-reload="" reload="false" href="#/casino/"><span ng-bind="item.displayName">casino</span> </a>
-
-
-                                                            </div>
-
-
-                                                        </li>
-
-
-
-                                                        <li ng-repeat="item in topMenu track by item.name" ng-if="item.showCondition &amp;&amp; !item.hidden" ng-class="{'active': item.classObject.active,
-                          '': true,
-                          'new-info-item': item.subDisplayName || item.specialCase === 'gamesSpecialText',
-                          'new-info-item-sup': item.supDisplayName,
-                          'nav-livedealer': $root.conf.customNavMenu
-                          }">
-
-                                                            <div ng-if="!item.popup &amp;&amp; !item.broadcast" class="top-menu-sub-a-t"><a ng-href="#/livedealer/" ng-click="item.click()" data-content="new" ng-show="!item.specialCase &amp;&amp; !item.subDisplayName &amp;&amp; !item.supDisplayName" target="_self" route-reload="" reload="false" href="#/livedealer/"><span ng-bind="item.displayName">Live casino</span> </a>
-
-
-                                                            </div>
-
-
-                                                        </li>
-
-
-
-                                                        <li ng-repeat="item in topMenu track by item.name" ng-if="item.showCondition &amp;&amp; !item.hidden" ng-class="{'active': item.classObject.active,
-                          '1-top-nav': true,
-                          'new-info-item': item.subDisplayName || item.specialCase === 'gamesSpecialText',
-                          'new-info-item-sup': item.supDisplayName,
-                          'nav-virtual-sports': $root.conf.customNavMenu
-                          }" class="1-top-nav">
-
-                                                            <div ng-if="!item.popup &amp;&amp; !item.broadcast" class="top-menu-sub-a-t"><a ng-href="#/virtualsports/" ng-click="item.click()" data-content="new" ng-show="!item.specialCase &amp;&amp; !item.subDisplayName &amp;&amp; !item.supDisplayName" target="_self" route-reload="" reload="false" href="#/virtualsports/"><span ng-bind="item.displayName">Virtual sports</span> </a>
-
-
-                                                            </div>
-
-
-                                                        </li>
-
-
-
-                                                        <li ng-repeat="item in topMenu track by item.name" ng-if="item.showCondition &amp;&amp; !item.hidden" ng-class="{'active': item.classObject.active,
-                          '1-top-nav': true,
-                          'new-info-item': item.subDisplayName || item.specialCase === 'gamesSpecialText',
-                          'new-info-item-sup': item.supDisplayName,
-                          'nav-poker': $root.conf.customNavMenu
-                          }" class="1-top-nav">
-
-                                                            <div ng-if="!item.popup &amp;&amp; !item.broadcast" class="top-menu-sub-a-t"><a ng-href="#/poker/" ng-click="item.click()" data-content="new" ng-show="!item.specialCase &amp;&amp; !item.subDisplayName &amp;&amp; !item.supDisplayName" target="_self" route-reload="" reload="false" href="#/poker/"><span ng-bind="item.displayName">Poker</span> </a>
-
-
-                                                            </div>
-
-
-                                                        </li>
-
-
-
-                                                        <li ng-repeat="item in topMenu track by item.name" ng-if="item.showCondition &amp;&amp; !item.hidden" ng-class="{'active': item.classObject.active,
-                          '': true,
-                          'new-info-item': item.subDisplayName || item.specialCase === 'gamesSpecialText',
-                          'new-info-item-sup': item.supDisplayName,
-                          'nav-promotions': $root.conf.customNavMenu
-                          }">
-
-                                                            <div ng-if="!item.popup &amp;&amp; !item.broadcast" class="top-menu-sub-a-t"><a ng-href="#/promos/" ng-click="item.click()" data-content="new" ng-show="!item.specialCase &amp;&amp; !item.subDisplayName &amp;&amp; !item.supDisplayName" target="_self" route-reload="" reload="false" href="#/promos/"><span ng-bind="item.displayName">Promotions</span> </a>
-
-
-                                                            </div>
-
-
-                                                        </li>
-
-
                                                     </ul>
                                                 </div>
                                             </div>
                                         </ng-include>
-
                                     </li>
                                 </ul>
                             </div>
                         </div>
                     </div>
 
-
-                    <ng-include class="float-width" ng-show="$root.currentPage.hasSubHeader &amp;&amp; $root.currentPage.isInSports &amp;&amp; !$root.conf.hideSubHeaderByPath[$location.path()]" no-animate="" src="::'templates/sport/toptab.html'|fixPath">
+                    <ng-include class="float-width">
                         <div class="subtop-header-menu-j">
-                            <ul ng-class="{'toptab-pre-match': !$root.env.live}" class="">
-
-
-                                <li ng-if="(menu.enabledConfig === undefined || calculatedConfigs[menu.enabledConfig]) &amp;&amp; (!menu.exceptViews ||( menu.exceptViews.indexOf($root.conf.sportsLayout) === -1 &amp;&amp;  ($root.conf.sportsLayout !== 'classic' ||  menu.exceptViews.indexOf('euro2016') === -1) ) ) &amp;&amp; !menu.hidden" ng-repeat="menu in $root.conf.subHeaderItems track by menu.alias" ng-class="{'active': $location.path() === '/' + menu.alias + '/' || $location.path() === '/' + menu.alias}" class="active">
-                                    <a data-badge="" ng-if="!menu.url" ng-href="https://www.alivecasino.io/#/sport/?type=1#" href="https://www.alivecasino.io/#/sport/?type=1#">Event View</a>
-
-
+                            <ul>
+                                <li>
+                                    <a href="https://www.alivecasino.io/#/sport/?type=1#">Event View</a>
                                 </li>
 
-
-
-                                <li ng-if="(menu.enabledConfig === undefined || calculatedConfigs[menu.enabledConfig]) &amp;&amp; (!menu.exceptViews ||( menu.exceptViews.indexOf($root.conf.sportsLayout) === -1 &amp;&amp;  ($root.conf.sportsLayout !== 'classic' ||  menu.exceptViews.indexOf('euro2016') === -1) ) ) &amp;&amp; !menu.hidden" ng-repeat="menu in $root.conf.subHeaderItems track by menu.alias" ng-class="{'active': $location.path() === '/' + menu.alias + '/' || $location.path() === '/' + menu.alias}">
-                                    <a data-badge="" ng-if="!menu.url" ng-href="#/dashboard" href="#/dashboard">Dashboard</a>
-
-
+                                <li>
+                                    <a href="https://www.alivecasino.io/#/dashboard">Dashboard</a>
                                 </li>
 
-
-
-
-
-                                <li ng-if="(menu.enabledConfig === undefined || calculatedConfigs[menu.enabledConfig]) &amp;&amp; (!menu.exceptViews ||( menu.exceptViews.indexOf($root.conf.sportsLayout) === -1 &amp;&amp;  ($root.conf.sportsLayout !== 'classic' ||  menu.exceptViews.indexOf('euro2016') === -1) ) ) &amp;&amp; !menu.hidden" ng-repeat="menu in $root.conf.subHeaderItems track by menu.alias" ng-class="{'active': $location.path() === '/' + menu.alias + '/' || $location.path() === '/' + menu.alias}">
-                                    <a data-badge="" ng-if="!menu.url" ng-href="#/multiview" href="#/multiview">Live MultiView</a>
-
-
+                                <li>
+                                    <a href="https://www.alivecasino.io/#/multiview">Live MultiView</a>
                                 </li>
 
-
-
-                                <li ng-if="(menu.enabledConfig === undefined || calculatedConfigs[menu.enabledConfig]) &amp;&amp; (!menu.exceptViews ||( menu.exceptViews.indexOf($root.conf.sportsLayout) === -1 &amp;&amp;  ($root.conf.sportsLayout !== 'classic' ||  menu.exceptViews.indexOf('euro2016') === -1) ) ) &amp;&amp; !menu.hidden" ng-repeat="menu in $root.conf.subHeaderItems track by menu.alias" ng-class="{'active': $location.path() === '/' + menu.alias + '/' || $location.path() === '/' + menu.alias}">
-                                    <a data-badge="" ng-if="!menu.url" ng-href="#/livecalendar" href="#/livecalendar">Live Calendar</a>
-
-
+                                <li>
+                                    <a href="https://www.alivecasino.io/#/livecalendar">Live Calendar</a>
                                 </li>
 
-
-
-                                <li ng-if="(menu.enabledConfig === undefined || calculatedConfigs[menu.enabledConfig]) &amp;&amp; (!menu.exceptViews ||( menu.exceptViews.indexOf($root.conf.sportsLayout) === -1 &amp;&amp;  ($root.conf.sportsLayout !== 'classic' ||  menu.exceptViews.indexOf('euro2016') === -1) ) ) &amp;&amp; !menu.hidden" ng-repeat="menu in $root.conf.subHeaderItems track by menu.alias" ng-class="{'active': $location.path() === '/' + menu.alias + '/' || $location.path() === '/' + menu.alias}">
-                                    <a data-badge="" ng-if="!menu.url" ng-href="#/results" href="#/results">Results</a>
-
-
+                                <li>
+                                    <a href="https://www.alivecasino.io/#/results">Results</a>
                                 </li>
-
-
-
-
                             </ul>
                         </div>
-
                     </ng-include>
-
-
-
                 </ng-include>
             </div>
             <div class="block-slider block-slider--t ng-hide" no-animate="" class-on-scroll="slider-scroll" id="block-slider-container" ng-class="{'popup': env.sliderAsPopup[env.sliderContent]}" hide-on-click="true" state-flag-var="env.showSlider" broadcast-on-close="slider.close" except="header" ng-show="env.showSlider &amp;&amp;
@@ -738,7 +633,7 @@
         </div>
         <div class="sw-contain-b-reg-in ">
             <a href="https://alivecasino.io" class="right-top-nav-new-h">Join</a>
-            
+
             <div class="login-parent-div">
                 <div class="closed-nav-icon"></div>
                 <a href="https://alivecasino.io" class="right-top-nav-new-h" style="color: aliceblue;">Login</a>
