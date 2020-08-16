@@ -26,7 +26,7 @@ include_once('includes/header.php');
                                                                 <div class="module-container   only-mobile   align-left ModuleLogo
                                         first                          " style=" padding-right:80px;padding-left:80px;;   padding-bottom:0px; ">
                                                                     <div class="  module ModuleLogo " datamodule-id="23089" style="display:block;max-width:140px;">
-                                                                        <a href="https://www.vbet.com">
+                                                                        <a href="https://www.alivecasino.io">
                                                                             <div class="" style="">
                                                                                 <img data-logo-element="" class="lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" alt="VBET" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/logo.png?v=1593758089" data-was-processed="true">
                                                                             </div>
@@ -189,42 +189,42 @@ include_once('includes/header.php');
                                                                             <div class="standard-view ">
                                                                                 <ul class="navigation" style="font-family: 'Roboto';">
                                                                                     <li class=" page   show" data-anchor="">
-                                                                                        <a class="nav-item" href="https://www.vbet.com/live" data-page-type="pageLive">
+                                                                                        <a class="nav-item" href="https://www.alivecasino.io/live" data-page-type="pageLive">
                                                                                             <span class="title">
                                                                                                 Live
                                                                                             </span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li class=" page   show" data-anchor="">
-                                                                                        <a class="nav-item" href="https://www.vbet.com/pre-match" data-page-type="pagePrematch">
+                                                                                        <a class="nav-item" href="https://www.alivecasino.io/pre-match" data-page-type="pagePrematch">
                                                                                             <span class="title">
                                                                                                 Pre-Match
                                                                                             </span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li class=" page   show" data-anchor="">
-                                                                                        <a class="nav-item" href="https://www.vbet.com/casino" data-page-type="pageCasino">
+                                                                                        <a class="nav-item" href="https://www.alivecasino.io/casino" data-page-type="pageCasino">
                                                                                             <span class="title">
                                                                                                 Casino
                                                                                             </span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li class=" page   show" data-anchor="">
-                                                                                        <a class="nav-item" href="https://www.vbet.com/live-casino" data-page-type="pageCasino">
+                                                                                        <a class="nav-item" href="https://www.alivecasino.io/live-casino" data-page-type="pageCasino">
                                                                                             <span class="title">
                                                                                                 Live casino
                                                                                             </span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li class=" has-childes  page   show" data-anchor="">
-                                                                                        <a class="nav-item" href="https://www.vbet.com/poker" data-page-type="pageBlank">
+                                                                                        <a class="nav-item" href="https://www.alivecasino.io/poker" data-page-type="pageBlank">
                                                                                             <span class="title">
                                                                                                 Poker
                                                                                             </span>
                                                                                         </a>
                                                                                     </li>
                                                                                     <li class=" has-childes  page   show" data-anchor="">
-                                                                                        <a class="nav-item" href="https://www.vbet.com/games" data-page-type="pageCasino">
+                                                                                        <a class="nav-item" href="https://www.alivecasino.io/games" data-page-type="pageCasino">
                                                                                             <span class="title">
                                                                                                 Games
                                                                                             </span>
@@ -332,7 +332,7 @@ include_once('includes/header.php');
                                                                                 background: rgb(52, 52, 52) !important;
                                                                             }
                                                                         </style>
-                                                                        <a class="image-module-link" href="https://www.vbet.com/promotions" target="_self" rel="">
+                                                                        <a class="image-module-link" href="https://www.alivecasino.io/promotions" target="_self" rel="">
                                                                             <div class="animated animated-29274 " data-loading-animation="" data-animated-id="29274">
                                                                                 <div class=" effect-block public-mode figure effect-selena  ">
                                                                                     <div class="layer"></div>
@@ -340,7 +340,7 @@ include_once('includes/header.php');
                                                                                         <div class="" style="">
                                                                                             <img class="image lazy initial loaded" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/29274-29-promosicon.png" data-webp="0" style="" src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/29274-29-promosicon.png" data-was-processed="true">
                                                                                         </div>
-                                                                                        <div style="" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/29274-29-promosicon.png" data-target="0" data-link="https://www.vbet.com/promotions" class="figcaption not-clickable">
+                                                                                        <div style="" data-src="https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/29274-29-promosicon.png" data-target="0" data-link="https://www.alivecasino.io/promotions" class="figcaption not-clickable">
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -431,11 +431,11 @@ include_once('includes/header.php');
                                                                     </li>
                                                                     <li class="gallery-image slider-item" style="visibility: hidden; opacity: 0; transform: matrix(1, 0, 0, 1, 0, 0);">
                                                                         1
-                                                                        <a href="https://www.vbet.com/sport/ucl">
+                                                                        <a href="https://www.alivecasino.io/sport/ucl">
                                                                             <div class="image slider slide-background lazy initial" data-bg="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-desktop-eng-15966170544398.jpg')" data-webp="0" style="background-position: 50% 50%; background-image: url(&quot;https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-desktop-eng-15966170544398.jpg&quot;);" data-was-processed="true">
                                                                             </div>
                                                                         </a>
-                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-desktop-eng-15966170544398.jpg')" data-target="0" data-link="https://www.vbet.com/sport/ucl" class="figcaption not-clickable">
+                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-desktop-eng-15966170544398.jpg')" data-target="0" data-link="https://www.alivecasino.io/sport/ucl" class="figcaption not-clickable">
                                                                         </div>
                                                                         <div class="uc-row-wrapper ">
                                                                             <div class="uc-row  row-on-module  high-z-index  first                           
@@ -449,7 +449,7 @@ include_once('includes/header.php');
                                         first   last                         " style=" padding-right:80px;padding-left:80px;;  ">
                                                                                                     <div class="  green_shadow  module ModuleButton " datamodule-id="129553">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1583764276057" href="https://www.vbet.com/sport/ucl" target="_self" rel="">
+                                                                                                            <a class="btn buttons1583764276057" href="https://www.alivecasino.io/sport/ucl" target="_self" rel="">
                                                                                                                 <span class="btn-text">Learn more</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -545,11 +545,11 @@ include_once('includes/header.php');
                                                                     </li>
                                                                     <li class="gallery-image slider-item" style="visibility: hidden; opacity: 0; transform: matrix(1, 0, 0, 1, 0, 0);">
                                                                         1
-                                                                        <a href="https://www.vbet.com/sport/multy-bosster">
+                                                                        <a href="https://www.alivecasino.io/sport/multy-bosster">
                                                                             <div class="image slider slide-background lazy initial" data-bg="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-eng-1-15935068498332.jpg')" data-webp="0" style="background-position: 50% 50%; background-image: url(&quot;https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-eng-1-15935068498332.jpg&quot;);" data-was-processed="true">
                                                                             </div>
                                                                         </a>
-                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-eng-1-15935068498332.jpg')" data-target="0" data-link="https://www.vbet.com/sport/multy-bosster" class="figcaption not-clickable">
+                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-eng-1-15935068498332.jpg')" data-target="0" data-link="https://www.alivecasino.io/sport/multy-bosster" class="figcaption not-clickable">
                                                                         </div>
                                                                         <div class="uc-row-wrapper ">
                                                                             <div class="uc-row  row-on-module  high-z-index  first                           
@@ -563,7 +563,7 @@ include_once('includes/header.php');
                                         first   last                         " style=" padding-right:80px;padding-left:80px;;  ">
                                                                                                     <div class="  green_shadow  module ModuleButton " datamodule-id="117493">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1583764276057" href="https://www.vbet.com/sport/multy-bosster" target="_self" rel="">
+                                                                                                            <a class="btn buttons1583764276057" href="https://www.alivecasino.io/sport/multy-bosster" target="_self" rel="">
                                                                                                                 <span class="btn-text">Learn more</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -583,11 +583,11 @@ include_once('includes/header.php');
                                                                     </li>
                                                                     <li class="gallery-image slider-item" style="visibility: hidden; opacity: 0; transform: matrix(1, 0, 0, 1, 0, 0);">
                                                                         1
-                                                                        <a href="https://www.vbet.com/sport/sport-welcome-bonus-100-free-bet-up-to-20">
+                                                                        <a href="https://www.alivecasino.io/sport/sport-welcome-bonus-100-free-bet-up-to-20">
                                                                             <div class="image slider slide-background lazy initial" data-bg="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-eng-15959431624811.jpg')" data-webp="0" style="background-position: 50% 50%; background-image: url(&quot;https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-eng-15959431624811.jpg&quot;);" data-was-processed="true">
                                                                             </div>
                                                                         </a>
-                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-eng-15959431624811.jpg')" data-target="0" data-link="https://www.vbet.com/sport/sport-welcome-bonus-100-free-bet-up-to-20" class="figcaption not-clickable">
+                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-eng-15959431624811.jpg')" data-target="0" data-link="https://www.alivecasino.io/sport/sport-welcome-bonus-100-free-bet-up-to-20" class="figcaption not-clickable">
                                                                         </div>
                                                                         <div class="uc-row-wrapper ">
                                                                             <div class="uc-row  row-on-module  high-z-index  first                           
@@ -601,7 +601,7 @@ include_once('includes/header.php');
                                         first   last                         " style=" padding-right:80px;padding-left:80px;;  ">
                                                                                                     <div class="  green_shadow  module ModuleButton " datamodule-id="41691">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1583764276057" href="https://www.vbet.com/sport/sport-welcome-bonus-100-free-bet-up-to-20" target="_self" rel="">
+                                                                                                            <a class="btn buttons1583764276057" href="https://www.alivecasino.io/sport/sport-welcome-bonus-100-free-bet-up-to-20" target="_self" rel="">
                                                                                                                 <span class="btn-text">Learn more</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -621,11 +621,11 @@ include_once('includes/header.php');
                                                                     </li>
                                                                     <li class="gallery-image slider-item" style="visibility: hidden; opacity: 0; transform: matrix(1, 0, 0, 1, 0, 0);">
                                                                         1
-                                                                        <a href="https://www.vbet.com/casino-promotions/welcome-package">
+                                                                        <a href="https://www.alivecasino.io/casino-promotions/welcome-package">
                                                                             <div class="image slider slide-background lazy initial" data-bg="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-eng-1-15888368609074.jpg')" data-webp="0" style="background-position: 50% 50%; background-image: url(&quot;https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-eng-1-15888368609074.jpg&quot;);" data-was-processed="true">
                                                                             </div>
                                                                         </a>
-                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-eng-1-15888368609074.jpg')" data-target="0" data-link="https://www.vbet.com/casino-promotions/welcome-package" class="figcaption not-clickable">
+                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-eng-1-15888368609074.jpg')" data-target="0" data-link="https://www.alivecasino.io/casino-promotions/welcome-package" class="figcaption not-clickable">
                                                                         </div>
                                                                         <div class="uc-row-wrapper ">
                                                                             <div class="uc-row  row-on-module  high-z-index  first                           
@@ -639,7 +639,7 @@ include_once('includes/header.php');
                                         first   last                         " style=" padding-right:80px;padding-left:80px;;  ">
                                                                                                     <div class="  green_shadow  module ModuleButton " datamodule-id="101054">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1583764276057" href="https://www.vbet.com/casino-promotions/welcome-package" target="_self" rel="">
+                                                                                                            <a class="btn buttons1583764276057" href="https://www.alivecasino.io/casino-promotions/welcome-package" target="_self" rel="">
                                                                                                                 <span class="btn-text">Learn more</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -659,11 +659,11 @@ include_once('includes/header.php');
                                                                     </li>
                                                                     <li class="gallery-image slider-item active-slide" style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
                                                                         1
-                                                                        <a href="https://www.vbet.com/sport/boosted-odds">
+                                                                        <a href="https://www.alivecasino.io/sport/boosted-odds">
                                                                             <div class="image slider slide-background lazy initial" data-bg="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-home-bannereng.jpg')" data-webp="0" style="background-position: 50% 50%; background-image: url(&quot;https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-home-bannereng.jpg&quot;);" data-was-processed="true">
                                                                             </div>
                                                                         </a>
-                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-home-bannereng.jpg')" data-target="0" data-link="https://www.vbet.com/sport/boosted-odds" class="figcaption not-clickable">
+                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-home-bannereng.jpg')" data-target="0" data-link="https://www.alivecasino.io/sport/boosted-odds" class="figcaption not-clickable">
                                                                         </div>
                                                                         <div class="uc-row-wrapper ">
                                                                             <div class="uc-row  row-on-module  high-z-index  first                           
@@ -677,7 +677,7 @@ include_once('includes/header.php');
                                         first   last                         " style=" padding-right:80px;padding-left:80px;;  ">
                                                                                                     <div class="  green_shadow  module ModuleButton " datamodule-id="114783">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1583764276057" href="https://www.vbet.com/sport/boosted-odds" target="_self" rel="">
+                                                                                                            <a class="btn buttons1583764276057" href="https://www.alivecasino.io/sport/boosted-odds" target="_self" rel="">
                                                                                                                 <span class="btn-text">Learn more</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -697,11 +697,11 @@ include_once('includes/header.php');
                                                                     </li>
                                                                     <li class="gallery-image slider-item" style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
                                                                         1
-                                                                        <a href="https://www.vbet.com/sport/freebet-50">
+                                                                        <a href="https://www.alivecasino.io/sport/freebet-50">
                                                                             <div class="image slider slide-background lazy initial" data-bg="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-home-eng-15886875204587.jpg')" data-webp="0" style="background-position: 50% 50%; background-image: url(&quot;https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-home-eng-15886875204587.jpg&quot;);" data-was-processed="true">
                                                                             </div>
                                                                         </a>
-                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-home-eng-15886875204587.jpg')" data-target="0" data-link="https://www.vbet.com/sport/freebet-50" class="figcaption not-clickable">
+                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-home-eng-15886875204587.jpg')" data-target="0" data-link="https://www.alivecasino.io/sport/freebet-50" class="figcaption not-clickable">
                                                                         </div>
                                                                         <div class="uc-row-wrapper ">
                                                                             <div class="uc-row  row-on-module  high-z-index  first                           
@@ -715,7 +715,7 @@ include_once('includes/header.php');
                                         first   last                         " style=" padding-right:80px;padding-left:80px;;  ">
                                                                                                     <div class="  green_shadow  module ModuleButton " datamodule-id="101030">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1583764276057" href="https://www.vbet.com/sport/freebet-50" target="_self" rel="">
+                                                                                                            <a class="btn buttons1583764276057" href="https://www.alivecasino.io/sport/freebet-50" target="_self" rel="">
                                                                                                                 <span class="btn-text">Learn more</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -735,11 +735,11 @@ include_once('includes/header.php');
                                                                     </li>
                                                                     <li class="gallery-image slider-item" style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
                                                                         1
-                                                                        <a href="https://www.vbet.com/sport/new-virtual-sport-reality">
+                                                                        <a href="https://www.alivecasino.io/sport/new-virtual-sport-reality">
                                                                             <div class="image slider slide-background lazy initial" data-bg="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-home-15865046657033.jpg')" data-webp="0" style="background-position: 50% 50%; background-image: url(&quot;https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-home-15865046657033.jpg&quot;);" data-was-processed="true">
                                                                             </div>
                                                                         </a>
-                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-home-15865046657033.jpg')" data-target="0" data-link="https://www.vbet.com/sport/new-virtual-sport-reality" class="figcaption not-clickable">
+                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-home-15865046657033.jpg')" data-target="0" data-link="https://www.alivecasino.io/sport/new-virtual-sport-reality" class="figcaption not-clickable">
                                                                         </div>
                                                                         <div class="uc-row-wrapper ">
                                                                             <div class="uc-row  row-on-module  high-z-index  first                           
@@ -753,7 +753,7 @@ include_once('includes/header.php');
                                         first   last                         " style=" padding-right:80px;padding-left:80px;;  ">
                                                                                                     <div class="  green_shadow  module ModuleButton " datamodule-id="95342">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1583764276057" href="https://www.vbet.com/sport/new-virtual-sport-reality" target="_self" rel="">
+                                                                                                            <a class="btn buttons1583764276057" href="https://www.alivecasino.io/sport/new-virtual-sport-reality" target="_self" rel="">
                                                                                                                 <span class="btn-text">Learn more</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -828,11 +828,11 @@ include_once('includes/header.php');
                                                                     </li>
                                                                     <li class="gallery-image slider-item" style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
                                                                         1
-                                                                        <a href="https://www.vbet.com/feature/jacksport">
+                                                                        <a href="https://www.alivecasino.io/feature/jacksport">
                                                                             <div class="image slider slide-background lazy initial" data-bg="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-sport-jackpot.jpg')" data-webp="0" style="background-position: 50% 50%; background-image: url(&quot;https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-sport-jackpot.jpg&quot;);" data-was-processed="true">
                                                                             </div>
                                                                         </a>
-                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-sport-jackpot.jpg')" data-target="0" data-link="https://www.vbet.com/feature/jacksport" class="figcaption not-clickable">
+                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40697-sport-jackpot.jpg')" data-target="0" data-link="https://www.alivecasino.io/feature/jacksport" class="figcaption not-clickable">
                                                                         </div>
                                                                         <div class="uc-row-wrapper ">
                                                                             <div class="uc-row  row-on-module  high-z-index  first                           
@@ -930,7 +930,7 @@ include_once('includes/header.php');
                                         last                         " style=" padding-right:80px;padding-left:80px;;  ">
                                                                                                     <div class="  dark-button-hover green_shadow  module ModuleButton " datamodule-id="41395">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1583764276057" href="https://www.vbet.com/feature/jacksport" target="_self" rel="">
+                                                                                                            <a class="btn buttons1583764276057" href="https://www.alivecasino.io/feature/jacksport" target="_self" rel="">
                                                                                                                 <span class="btn-text">Learn more</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -1017,11 +1017,11 @@ include_once('includes/header.php');
                                                                 <ul class="slider-container ">
                                                                     <li class="gallery-image slider-item active-slide" style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
                                                                         1
-                                                                        <a href="https://www.vbet.com/live-casino-promotions/5-cashback-2">
+                                                                        <a href="https://www.alivecasino.io/live-casino-promotions/5-cashback-2">
                                                                             <div class="image slider slide-background lazy initial" data-bg="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40715-820x748.png')" data-webp="0" style="background-position: 50% 50%; background-image: url(&quot;https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40715-820x748.png&quot;);" data-was-processed="true">
                                                                             </div>
                                                                         </a>
-                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40715-820x748.png')" data-target="0" data-link="https://www.vbet.com/live-casino-promotions/5-cashback-2" class="figcaption not-clickable">
+                                                                        <div style="                                    " data-src="url('https://static.betconstruct.me/fs/userFiles/vbetcom-updated/images/40715-820x748.png')" data-target="0" data-link="https://www.alivecasino.io/live-casino-promotions/5-cashback-2" class="figcaption not-clickable">
                                                                         </div>
                                                                     </li>
                                                                 </ul>
@@ -1591,7 +1591,7 @@ include_once('includes/header.php');
                                         last                         " style=" padding-right:80px;padding-left:30px;;  ">
                                                                                                     <div class="  module ModuleButton " datamodule-id="41375">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1558521212874" href="https://www.vbet.com/poker/play" target="_self" rel="">
+                                                                                                            <a class="btn buttons1558521212874" href="https://www.alivecasino.io/poker/play" target="_self" rel="">
                                                                                                                 <span class="btn-text">Play</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -1624,7 +1624,7 @@ include_once('includes/header.php');
                                         last                         " style=" padding-right:80px;padding-left:40px;;  ">
                                                                                                     <div class="  module ModuleButton " datamodule-id="41373">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1558521212874" href="https://www.vbet.com/games/hilo" target="_self" rel="">
+                                                                                                            <a class="btn buttons1558521212874" href="https://www.alivecasino.io/games/hilo" target="_self" rel="">
                                                                                                                 <span class="btn-text">Play</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -1676,7 +1676,7 @@ include_once('includes/header.php');
                                         last                         " style=" padding-right:80px;padding-left:30px;;  ">
                                                                                                     <div class="  module ModuleButton " datamodule-id="100043">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1558521212874" href="https://www.vbet.com/games/hilo" target="_self" rel="">
+                                                                                                            <a class="btn buttons1558521212874" href="https://www.alivecasino.io/games/hilo" target="_self" rel="">
                                                                                                                 <span class="btn-text">Play</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -1791,7 +1791,7 @@ include_once('includes/header.php');
                                         last                         " style=" padding-right:80px;padding-left:40px;;  ">
                                                                                                     <div class="  module ModuleButton " datamodule-id="100052">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1558521212874" href="https://www.vbet.com/games/blast" target="_self" rel="">
+                                                                                                            <a class="btn buttons1558521212874" href="https://www.alivecasino.io/games/blast" target="_self" rel="">
                                                                                                                 <span class="btn-text">Play</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -1842,7 +1842,7 @@ include_once('includes/header.php');
                                         last                         " style=" padding-right:0px;padding-left:30px;;  ">
                                                                                                     <div class="  module ModuleButton " datamodule-id="41413">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1558521212874" href="https://www.vbet.com/games/blast" target="_self" rel="">
+                                                                                                            <a class="btn buttons1558521212874" href="https://www.alivecasino.io/games/blast" target="_self" rel="">
                                                                                                                 <span class="btn-text">Play</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -1874,7 +1874,7 @@ include_once('includes/header.php');
                                         last                         " style=" padding-right:80px;padding-left:40px;;  ">
                                                                                                     <div class="  module ModuleButton " datamodule-id="41411">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1558521212874" href="https://www.vbet.com/games/keno" target="_self" rel="">
+                                                                                                            <a class="btn buttons1558521212874" href="https://www.alivecasino.io/games/keno" target="_self" rel="">
                                                                                                                 <span class="btn-text">Play</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -1925,7 +1925,7 @@ include_once('includes/header.php');
                                         last                         " style=" padding-right:0px;padding-left:30px;;  ">
                                                                                                     <div class="  module ModuleButton " datamodule-id="41416">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1558521212874" href="https://www.vbet.com/games/keno" target="_self" rel="">
+                                                                                                            <a class="btn buttons1558521212874" href="https://www.alivecasino.io/games/keno" target="_self" rel="">
                                                                                                                 <span class="btn-text">PLAY</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -1957,7 +1957,7 @@ include_once('includes/header.php');
                                         last                         " style=" padding-right:80px;padding-left:40px;;  ">
                                                                                                     <div class="  module ModuleButton " datamodule-id="41414">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1558521212874" href="https://www.vbet.com/games/backgammon" target="_self" rel="">
+                                                                                                            <a class="btn buttons1558521212874" href="https://www.alivecasino.io/games/backgammon" target="_self" rel="">
                                                                                                                 <span class="btn-text">PLAY</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -2008,7 +2008,7 @@ include_once('includes/header.php');
                                         last                         " style=" padding-right:0px;padding-left:30px;;  ">
                                                                                                     <div class="  module ModuleButton " datamodule-id="41418">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1558521212874" href="https://www.vbet.com/games/backgammon" target="_self" rel="">
+                                                                                                            <a class="btn buttons1558521212874" href="https://www.alivecasino.io/games/backgammon" target="_self" rel="">
                                                                                                                 <span class="btn-text">PLAY</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -2040,7 +2040,7 @@ include_once('includes/header.php');
                                         last                         " style=" padding-right:80px;padding-left:40px;;  ">
                                                                                                     <div class="  module ModuleButton " datamodule-id="41417">
                                                                                                         <div class="button">
-                                                                                                            <a class="btn buttons1558521212874" href="https://www.vbet.com/poker/play" target="_self" rel="">
+                                                                                                            <a class="btn buttons1558521212874" href="https://www.alivecasino.io/poker/play" target="_self" rel="">
                                                                                                                 <span class="btn-text">PLAY</span>
                                                                                                             </a>
                                                                                                         </div>
@@ -2146,7 +2146,7 @@ include_once('includes/header.php');
                                         first   last                         " style=" padding-right:40px;padding-left:0px;;  ">
                                                     <div class="  more-button  module ModuleButton " datamodule-id="40448">
                                                         <div class="button">
-                                                            <a class="btn buttons1557076248723" href="https://www.vbet.com/casino" target="_self" rel="">
+                                                            <a class="btn buttons1557076248723" href="https://www.alivecasino.io/casino" target="_self" rel="">
                                                                 <span class="btn-text">More</span>
                                                             </a>
                                                         </div>
@@ -3192,7 +3192,7 @@ include_once('includes/header.php');
                                         first   last                         " style=" padding-right:40px;padding-left:0px;;  ">
                                                     <div class="  more-button  module ModuleButton " datamodule-id="40458">
                                                         <div class="button">
-                                                            <a class="btn buttons1557076248723" href="https://www.vbet.com/live-casino" target="_self" rel="">
+                                                            <a class="btn buttons1557076248723" href="https://www.alivecasino.io/live-casino" target="_self" rel="">
                                                                 <span class="btn-text">More</span>
                                                             </a>
                                                         </div>
@@ -4560,7 +4560,7 @@ include_once('includes/header.php');
                                                 <div class="module-container   only-mobile   align-right ModuleImage
                                         first   last                         " style=" padding-right:0px;padding-left:80px;;  ">
                                                     <div class="  promotionsbadge  module ModuleImage " datamodule-id="43720" style="display:block;max-width:180px;">
-                                                        <a class="image-module-link" href="https://www.vbet.com/promotions" target="_self" rel="">
+                                                        <a class="image-module-link" href="https://www.alivecasino.io/promotions" target="_self" rel="">
                                                             <div class="animated animated-43720 " data-loading-animation="" data-animated-id="43720">
                                                                 <div class=" ">
                                                                     <div class="layer"></div>
@@ -4623,7 +4623,7 @@ include_once('includes/header.php');
                                                 <div class="module-container   only-mobile   align-right ModuleImage
                                         first   last                         " style=" padding-right:0px;padding-left:80px;;  ">
                                                     <div class="  tournamentsbadge  module ModuleImage " datamodule-id="46988" style="display:block;max-width:180px;">
-                                                        <a class="image-module-link" href="https://www.vbet.com/tournaments" target="_self" rel="">
+                                                        <a class="image-module-link" href="https://www.alivecasino.io/tournaments" target="_self" rel="">
                                                             <div class="animated animated-46988 " data-loading-animation="" data-animated-id="46988">
                                                                 <div class=" ">
                                                                     <div class="layer"></div>
