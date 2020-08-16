@@ -365,7 +365,7 @@ include_once('includes/header.php');
                     </div>
                 </div>
 
-                <div class="header-and-main-rows  " style="background: rgb(23, 10, 52); margin-bottom: -389.906px;">
+                <div class="header-and-main-rows  " style="background: rgb(23, 10, 52);">
                     <div class="main-rows">
                         <div class="uc-row-wrapper ">
                             <div class="uc-row  new-width    first" data-id="9112" style="   margin-bottom:2.0639834881321vh;   background:; ">

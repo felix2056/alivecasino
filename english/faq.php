@@ -16,9 +16,7 @@ include_once('includes/header.php');
                                 <div class="off-canvas-inner-container native-scroll-box y-scroll">
                                     <div class="header-row-wrapper">
                                         <div class="uc-row-wrapper ">
-                                            <div class="uc-row  mainslider  last                           header-row  
-                                        
-                                                                        " data-id="1" style="   background:rgba(169, 40, 114, 0); ">
+                                            <div class="uc-row  mainslider  last header-row" data-id="1" style="   background:rgba(169, 40, 114, 0); ">
                                                 <div class="row-container ">
                                                     <div class="row headerRow " style="">
                                                         <div class="column col-xs-12 " datacolumn-id="1" style="  padding:0vh 0vh;      background: rgb(29, 24, 78); ">
